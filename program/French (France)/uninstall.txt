@@ -10,4 +10,4 @@ IDS_MAINCTRL_PATHTEXT   "Désinstaller depuis:"
 IDS_MAINCTRL_REMOVE_SETTINGS "Suppression enregistrée &options"
 IDS_FINISHCTRL_TEXT     "Unchecky a été désinstallé de votre ordinateur.\n\nCliquez sur Fin afin de fermer l'assistant de désinstallation."
 IDS_MAIN_ERROR_UNCHECKY_RUNNING 
-                        "Please close all instances of Unchecky before proceeding"
+                        "Veuillez fermer Unchecky avant de continuer."
