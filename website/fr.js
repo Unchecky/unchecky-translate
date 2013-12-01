@@ -85,8 +85,8 @@
 	
 	'I want to translate Unchecky.':
 		'Je veux traduire Unchecky :',
-	'Grab the translation files of Unchecky <a href="files/unchecky_translate.zip">here</a>. The language files of this website can be found <a href="assets/js/langpack/">here</a>.':
-		'Téléchargez les fichiers de traduction d\'Unchecky <a href="files/unchecky_translate.zip">ici</a>. Les fichiers langue du site Internet peut être téléchargé <a href="assets/js/langpack/">ici</a>.',
+	'The translation files of the Unchecky program and website can be found on the <a href="https://github.com/RaMMicHaeL/unchecky-translate">unchecky-translate</a> GitHub repository.':
+		'', // 'Téléchargez les fichiers de traduction d\'Unchecky <a href="files/unchecky_translate.zip">ici</a>. Les fichiers langue du site Internet peut être téléchargé <a href="assets/js/langpack/">ici</a>.',
 	
 	// Contact
 	
