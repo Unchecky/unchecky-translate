@@ -20,7 +20,7 @@ jquery_lang_js.prototype.lang.fr = {
 	// Footer
 	
 	'Copyright © 2013 <a href="http://rammichael.com/">RaMMicHaeL</a>.':
-		'', // TODO: add translator name and maybe email/website 
+		'Copyright © 2013 <a href="http://rammichael.com/">RaMMicHaeL</a>. Traduction française : <a href="mailto:unchecky_tr_fr@outlook.fr">Pierre</a>',
 	
 	// Home
 	
@@ -91,7 +91,7 @@ jquery_lang_js.prototype.lang.fr = {
 	'I want to translate Unchecky.':
 		'Je veux traduire Unchecky :',
 	'The translation files of the Unchecky program and website can be found on the <a href="https://github.com/RaMMicHaeL/unchecky-translate">unchecky-translate</a> GitHub repository.':
-		'', // 'Téléchargez les fichiers de traduction d\'Unchecky <a href="files/unchecky_translate.zip">ici</a>. Les fichiers langue du site Internet peut être téléchargé <a href="assets/js/langpack/">ici</a>.',
+		'Les fichiers de traduction d\'Unchecky et du site Internet peuvent être téléchargés sur le répertoire GitHub : <a href="https://github.com/RaMMicHaeL/unchecky-translate">unchecky-translate</a>',
 	
 	// Contact
 	
