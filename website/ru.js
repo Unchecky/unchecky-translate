@@ -1,0 +1,117 @@
+﻿jquery_lang_js.prototype.lang.ru = {
+	
+	// Header
+	
+	'Home':
+		'Главная',
+	'Press':
+		'Пресса',
+	'FAQ':
+		'ЧАВО',
+	'Blog':
+		'Блог',
+	'Donate':
+		'Пожертвование',
+	'Contact':
+		'Обратная связь',
+	'Language':
+		'Язык',
+	
+	// Home
+	
+	'Tired of unchecking unrelated offers while installing software?':
+		'',
+	'Have you ever felt, while installing software, that the installer tries to push additional unwanted programs at all cost? Ever missed a checkbox, and spent hours afterwards removing adware? Ever opened your browser after an installation, only to find out that you have a new homepage, a new search engine, or even a new browser?<br>Unchecky aims to keep potentially unwanted programs out of your computer.':
+		'',
+	'Download':
+		'Скачать',
+	
+	'Introducing Unchecky!':
+		'Встречайте Unchecky!',
+	'Keeps your checkboxes clear.':
+		'Долой потенциально нежелательные программы.',
+	
+	'Unchecks':
+		'',
+	'Unchecky automatically unchecks unrelated offers, both saving you mouse clicks and making it less likely to miss a checkbox of an unwanted offer.':
+		'',
+	
+	'Warns':
+		'',
+	'Installers often try to sneak additional programs as a natural part of the installation. Unchecky warns you when you try to accept a potentially unwanted offer, which makes it less likely to be accepted accidentally.':
+		'',
+	
+	'Updates automatically':
+		'',
+	'Install and forget. Unchecky automatically updates whenever a new version is available, so you don\'t have to worry about running the latest version.':
+		'',
+	
+	// Press
+	
+	'People are talking about Unchecky':
+		'',
+	'Unchecky was also featured on the following international websites:':
+		'',
+	'on':
+		'',
+	
+	'People are showing Unchecky in action':
+		'',
+	
+	'Portuguese':
+		'',
+	'Rissian':
+		'',
+	'Spanish':
+		'',
+	'Italian':
+		'',
+	'French':
+		'',
+	'French':
+		'',
+	
+	// FAQ
+	
+	'What are the system requirements for Unchecky?':
+		'',
+	'Unchecky supports Windows XP and above.':
+		'',
+	
+	'What is the best way to report a bug or suggest a feature?':
+		'',
+	'Post your feedback on the <a href="http://unchecky.userecho.com/">UserEcho page</a>.':
+		'',
+	
+	'I want to translate Unchecky.':
+		'',
+	'Grab the translation files of Unchecky <a href="files/unchecky_translate.zip">here</a>. The language files of this website can be found <a href="assets/js/langpack/">here</a>.':
+		'',
+	
+	// Contact
+	
+	'Please don\'t use this contact form to report bugs or suggest features. Post your feedback on the <a href="http://unchecky.userecho.com/">UserEcho page</a> instead.':
+		'',
+	
+	'First Name':
+		'',
+	'Last Name':
+		'',
+	'Email Address':
+		'',
+	'Subject':
+		'',
+	'Message':
+		'',
+	'Send':
+		'',
+	
+	// 404
+	
+	'Not found':
+		'',
+	
+	'Sorry but the page you are looking for cannot be found.':
+		'',
+	
+}
