@@ -1,0 +1,18 @@
+﻿IDS_LANGUAGE            "Українська"
+IDS_MAIN_WNDTITLE       "Unchecky"
+IDS_MAIN_TITLE          "Unchecky"
+IDS_MAIN_SUBTITLE       "Keeps your checkboxes clear"
+IDS_MAIN_STOP           "&Призупинити"
+IDS_MAIN_START          "&Поновити"
+IDS_MAIN_ABOUT          "&Про програму"
+IDS_MAINCTRL_TEXT       "Вас вітає Unchecky - програма, призначена для того, щоб не допустити встановлення небажаного програмного забезпечення на ваш комп'ютер."
+IDS_MAINCTRL_TEXT_SVC_RUNNING "Службу Unchecky запущено."
+IDS_MAINCTRL_TEXT_SVC_STOPPED 
+                        "Службу Unchecky призупинено. Служба поновить роботу після перезапуску системи."
+IDS_MAINCTRL_TEXT_QUERYERROR 
+                        "Сталася помилка при запиті стану служби Unchecky."
+IDS_MAINCTRL_LANG       "&Мова:"
+IDS_ABOUT_WNDTITLE      "Про програму"
+IDS_ABOUT_BETA          "бета"
+IDS_ABOUT_TEXT          "Автор: <a href=""http://rammichael.com/"">RaMMicHaeL</a>\n\nПереклад: Олександр Кравцов\n<a href=""mailto:sawka6630@gmail.com"">sawka6630@gmail.com</a>\n\n<a href=""http://unchecky.com/"">Сайт</a>\n<a href=""http://unchecky.userecho.com/"">Помилки та побажання</a>\n<a href=""http://rammichael.com/donate"">Відсипати автору грошенят</a>"
+IDS_ERROR_LINK          "Не вдалося відкрити посилання.\n\nДля того, щоб переходити за інтернет-посиланнями, необхідно мати веб-браузер (наприклад, Mozilla Firefox). Для того, щоб використовувати поштові посилання, необхідно мати поштовий клієнт (например, Mozilla Thunderbird)."

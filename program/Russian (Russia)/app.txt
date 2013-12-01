@@ -1,0 +1,18 @@
+﻿IDS_LANGUAGE            "Русский"
+IDS_MAIN_WNDTITLE       "Unchecky"
+IDS_MAIN_TITLE          "Unchecky"
+IDS_MAIN_SUBTITLE       "Keeps your checkboxes clear"
+IDS_MAIN_STOP           "&Приостановить"
+IDS_MAIN_START          "&Возобновить"
+IDS_MAIN_ABOUT          "&О программе"
+IDS_MAINCTRL_TEXT       "Вас приветствует Unchecky - программа, нацеленная на то, чтобы не допустить установку нежелательного программного обеспечения на вашем компьютере."
+IDS_MAINCTRL_TEXT_SVC_RUNNING "Служба Unchecky запущена."
+IDS_MAINCTRL_TEXT_SVC_STOPPED 
+                        "Служба Unchecky приостановлена. Служба возобновит работу после перезапуска системы."
+IDS_MAINCTRL_TEXT_QUERYERROR 
+                        "Произошла ошибка при запросе состояния службы Unchecky."
+IDS_MAINCTRL_LANG       "&Язык:"
+IDS_ABOUT_WNDTITLE      "О программе"
+IDS_ABOUT_BETA          "бета"
+IDS_ABOUT_TEXT          "Автор: <a href=""http://rammichael.com/"">RaMMicHaeL</a>\n\nПеревод: Вася Пупкин\n<a href=""mailto:vasya_pupkin@gmail.com"">vasya_pupkin@gmail.com</a>\n\n<a href=""http://unchecky.com/"">Сайт</a>\n<a href=""http://unchecky.userecho.com/"">Ошибки и пожелания</a>\n<a href=""http://rammichael.com/donate"">Поблагодарить автора материально</a>"
+IDS_ERROR_LINK          "Не удалось открыть ссылку.\n\nДля того, чтобы использовать интернет-ссылки, необходимо иметь веб-браузер (например Internet Explorer). Для того, чтобы использовать почтовые ссылки, необходимо иметь почтовый клиент (например Outlook)."

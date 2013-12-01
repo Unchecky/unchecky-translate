@@ -1,0 +1,19 @@
+﻿IDS_LANGUAGE            "Français"
+IDS_MAIN_WNDTITLE       "Unchecky"
+IDS_MAIN_TITLE          "Unchecky"
+IDS_MAIN_SUBTITLE       "Gardez vos cases à cocher vides"
+IDS_MAIN_STOP           "&Suspendre le service"
+IDS_MAIN_START          "&Reprendre le service"
+IDS_MAIN_ABOUT          "&À propos"
+IDS_MAINCTRL_TEXT       "Bienvenue à Unchecky, le programme qui vous aide à éviter les programmes potentiellement indésirables de votre ordinateur."
+IDS_MAINCTRL_TEXT_SVC_RUNNING 
+                        "Le service Unchecky est en cours d'exécution."
+IDS_MAINCTRL_TEXT_SVC_STOPPED 
+                        "Le service Unchecky est suspendu. Le service reprendra dès que l'ordinateur redémarrera."
+IDS_MAINCTRL_TEXT_QUERYERROR 
+                        "Une rerreur est apparue lors de la vérification du service Unchecky."
+IDS_MAINCTRL_LANG       "&Langue:"
+IDS_ABOUT_WNDTITLE      "À propos"
+IDS_ABOUT_BETA          "beta"
+IDS_ABOUT_TEXT          "Par <a href=""http://rammichael.com/"">RaMMicHaeL</a>\n\nTraduis par Pierre\n<a href=""mailto:unchecky_tr_fr@outlook.fr"">unchecky_tr_fr@outlook.fr</a>\n\n<a href=""http://unchecky.com/"">Site Internet</a>\n<a href=""http://unchecky.userecho.com/"">Bug/nouveautés tracker</a>\n<a href=""http://rammichael.com/donate"">Faire un don.</a>"
+IDS_ERROR_LINK          "Impossible d'ouvrir le lien.\n\nAfin d'ouvrir le lien Web, vous devez avoir un navigateur Internet (e.g. Internet Explorer, Mozilla Firefox, Google Chrome ...). Afin d'ouvrir les liens mails, vous devez avoir un client mail (e.g. Windows Live Mail, Outlook,  Mozilla Thunderbird...)."

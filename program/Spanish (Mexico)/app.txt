@@ -1,0 +1,18 @@
+﻿IDS_LANGUAGE            "Español"
+IDS_MAIN_WNDTITLE       "Unchecky"
+IDS_MAIN_TITLE          "Unchecky"
+IDS_MAIN_SUBTITLE       "Mantenga las casillas limpias"
+IDS_MAIN_STOP           "&Suspender servicio"
+IDS_MAIN_START          "&Reanudar servicio"
+IDS_MAIN_ABOUT          "&Acerca de"
+IDS_MAINCTRL_TEXT       "Bienvenido a Unchecky, el programa que tiene como objetivo mantener los programas potencialmente no deseados fuera de su equipo."
+IDS_MAINCTRL_TEXT_SVC_RUNNING "El servicio Unchecky se esta ejecutando."
+IDS_MAINCTRL_TEXT_SVC_STOPPED 
+                        "El servicio Unchecky esta suspendido. El servicio se reanudara al reiniciar el equipo."
+IDS_MAINCTRL_TEXT_QUERYERROR 
+                        "Se produjo un error al consultar el estado del servicio de Unchecky."
+IDS_MAINCTRL_LANG       "&Idioma:"
+IDS_ABOUT_WNDTITLE      "Acerca de"
+IDS_ABOUT_BETA          "beta"
+IDS_ABOUT_TEXT          "Autor <a href=""http://rammichael.com/"">RaMMicHaeL</a>\n\nTraductor: TranslatorMx\n<a href=""mailto:translatormx@live.com.mx"">translatormx@live.com.mx</a>\n\n<a href=""http://unchecky.com/"">Pagina web</a>\n<a href=""http://unchecky.userecho.com/"">Errores/Nuevas funciones</a>\n<a href=""http://rammichael.com/donate"">Donar</a>"
+IDS_ERROR_LINK          "No se puede abrir el enlace.\n\nPara usar enlaces de internet es necesario poseer un navegador de internet (Ej. Internet Explorer). Para usar enlaces de correo electronico es necesario poseer un cliente de correo electronico (Ej. Windows Live Mail u Outlook)."

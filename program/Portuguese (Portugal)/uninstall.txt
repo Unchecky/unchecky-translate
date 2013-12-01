@@ -1,0 +1,13 @@
+﻿IDS_LANGUAGE            "Português Europeu"
+IDS_MAIN_WNDTITLE       "Desinstalação do Unchecky"
+IDS_MAIN_TITLE          "Unchecky"
+IDS_MAIN_SUBTITLE       "Mantêm as caixas de verificação limpas"
+IDS_MAIN_INSTALL        "&Desinstalar"
+IDS_MAIN_INSTALLING     "&A desinstalar..."
+IDS_MAIN_FINISH         "&Terminar"
+IDS_MAINCTRL_TEXT       "O Unchecky será desinstalado da pasta seguinte. Clique em Desinstalar para começar a desinstalação."
+IDS_MAINCTRL_PATHTEXT   "A desinstalar de:"
+IDS_MAINCTRL_REMOVE_SETTINGS "Eliminar configurações &guardadas"
+IDS_FINISHCTRL_TEXT     "O Unchecky foi desinstalado do seu computador.\n\nClique Terminar para fechar a configuração."
+IDS_MAIN_ERROR_UNCHECKY_RUNNING 
+                        "Please close all instances of Unchecky before proceeding"

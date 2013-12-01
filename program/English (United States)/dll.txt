@@ -1,0 +1,7 @@
+﻿IDS_CONFIRMATION_TEXT   "You are about to install a potentially unwanted program. Are you sure you want to proceed?"
+IDS_CONFIRMATION_YES    "&Yes (not recommended)"
+IDS_CONFIRMATION_NO     "&No"
+IDS_CONFIRMATION_OK     "OK (not recommended)"
+IDS_CONFIRMATION_CANCEL "Cancel"
+IDS_CONFIRMATION_MBOX_WARNING 
+                        "WARNING from Unchecky: you are being asked to install a potentially unwanted program. Please read the text below carefully."

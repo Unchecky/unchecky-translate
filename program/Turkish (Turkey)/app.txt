@@ -1,0 +1,18 @@
+﻿IDS_LANGUAGE            "Türkçe"
+IDS_MAIN_WNDTITLE       "Unchecky"
+IDS_MAIN_TITLE          "Unchecky"
+IDS_MAIN_SUBTITLE       "Onay kutularınızı temiz tutar"
+IDS_MAIN_STOP           "&Hizmeti durdur"
+IDS_MAIN_START          "&Hizmeti sürdür"
+IDS_MAIN_ABOUT          "&Hakkında"
+IDS_MAINCTRL_TEXT       "Unchecky'ye hoş geldiniz, program istenmeyen programları bilgisayarınızdan uzak tutmayı amaçlamaktadır."
+IDS_MAINCTRL_TEXT_SVC_RUNNING "Unchecky hizmeti çalışır durumda."
+IDS_MAINCTRL_TEXT_SVC_STOPPED 
+                        "Unchecky hizmeti durduruldu. Hizmet bilgisayar yeniden başlatıldığında sürdürülecektir."
+IDS_MAINCTRL_TEXT_QUERYERROR 
+                        "Unchecky hizmet durumu sorgulanırken hata oluştu."
+IDS_MAINCTRL_LANG       "&Dil:"
+IDS_ABOUT_WNDTITLE      "Hakkında"
+IDS_ABOUT_BETA          "beta"
+IDS_ABOUT_TEXT          "Yapımcı: <a href=""http://rammichael.com/"">RaMMicHaeL</a>\n\nÇeviri: Fatih Fırıncı\n<a href=""mailto:fatihfirinci@gmail.com"">fatihfirinci@gmail.com</a>\n\n<a href=""http://unchecky.com/"">Web sayfası</a>\n<a href=""http://unchecky.userecho.com/"">Hata/özellik takibi</a>\n<a href=""http://rammichael.com/donate"">Bağış yap</a>"
+IDS_ERROR_LINK          "Bağlantı açılamıyor.\n\nWeb bağlantılarını kullanmak için bir web tarayıcısı (örn: Internet Explorer) olması gerekir. Posta bağlantılarını kullanmak için bir e-posta istemcisi (örn: Windows Live Mail veya Outlook) olması gerekir."

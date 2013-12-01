@@ -1,0 +1,18 @@
+﻿IDS_LANGUAGE            "English"
+IDS_MAIN_WNDTITLE       "Unchecky"
+IDS_MAIN_TITLE          "Unchecky"
+IDS_MAIN_SUBTITLE       "Keeps your checkboxes clear"
+IDS_MAIN_STOP           "&Suspend service"
+IDS_MAIN_START          "&Resume service"
+IDS_MAIN_ABOUT          "&About"
+IDS_MAINCTRL_TEXT       "Welcome to Unchecky, the program that aims to keep potentially unwanted programs out of your computer."
+IDS_MAINCTRL_TEXT_SVC_RUNNING "The Unchecky service is up and running."
+IDS_MAINCTRL_TEXT_SVC_STOPPED 
+                        "The Unchecky service is suspended. The service will be resumed upon computer restart."
+IDS_MAINCTRL_TEXT_QUERYERROR 
+                        "Error occurred while querying the Unchecky service status."
+IDS_MAINCTRL_LANG       "&Language:"
+IDS_ABOUT_WNDTITLE      "About"
+IDS_ABOUT_BETA          "beta"
+IDS_ABOUT_TEXT          "By <a href=""http://rammichael.com/"">RaMMicHaeL</a>\n\nTranslated by John Smith\n<a href=""mailto:john.smith@gmail.com"">john.smith@gmail.com</a>\n\n<a href=""http://unchecky.com/"">Website</a>\n<a href=""http://unchecky.userecho.com/"">Bug/feature tracker</a>\n<a href=""http://rammichael.com/donate"">Donate</a>"
+IDS_ERROR_LINK          "Could not open link.\n\nIn order to use web links, you need to have a web browser (e.g. Internet Explorer). In order to use mail links, you need to have an email client (e.g. Windows Live Mail or Outlook)."

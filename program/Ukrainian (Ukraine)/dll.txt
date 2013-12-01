@@ -1,0 +1,7 @@
+﻿IDS_CONFIRMATION_TEXT   "Ви збираєтесь встановити потенційно небажану програму. Дійсно продовжити?"
+IDS_CONFIRMATION_YES    "&Так (не рекомендовано)"
+IDS_CONFIRMATION_NO     "&Ні"
+IDS_CONFIRMATION_OK     "&ОК (не рекомендовано)"
+IDS_CONFIRMATION_CANCEL "Скасувати"
+IDS_CONFIRMATION_MBOX_WARNING 
+                        "УВАГА, Unchecky попереджує: вам пропонують встановити потенційно небажану програму. Уважно прочитайте наступний текст."

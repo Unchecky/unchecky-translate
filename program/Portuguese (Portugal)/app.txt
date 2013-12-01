@@ -1,0 +1,19 @@
+﻿IDS_LANGUAGE            "Português Europeu"
+IDS_MAIN_WNDTITLE       "Unchecky"
+IDS_MAIN_TITLE          "Unchecky"
+IDS_MAIN_SUBTITLE       "Mantêm as caixas de verificação desmarcadas"
+IDS_MAIN_STOP           "&Suspender o serviço"
+IDS_MAIN_START          "&Retomar serviço"
+IDS_MAIN_ABOUT          "&Acerca de"
+IDS_MAINCTRL_TEXT       "Bem-vindo ao Unchecky, o programa que tem como objectivo manter programas potencialmente indesejados do seu computador."
+IDS_MAINCTRL_TEXT_SVC_RUNNING 
+                        "O serviço Unchecky está pronto e a funcionar."
+IDS_MAINCTRL_TEXT_SVC_STOPPED 
+                        "O serviço Unchecky foi suspenso. O serviço será recomeçado após reiniciar o seu computador."
+IDS_MAINCTRL_TEXT_QUERYERROR 
+                        "Ocorreu um erro ao verificar o estado de serviço do Unchecky."
+IDS_MAINCTRL_LANG       "&Língua:"
+IDS_ABOUT_WNDTITLE      "Acerca de"
+IDS_ABOUT_BETA          "beta"
+IDS_ABOUT_TEXT          "Por <a href=""http://rammichael.com/"">RaMMicHaeL</a>\n\nTraduzido por Pedro Pacheco\n<a href=""mailto:northwolf95@gmail.com"">northwolf95@gmail.com</a>\n\n<a href=""http://unchecky.com/"">Site</a>\n<a href=""http://unchecky.userecho.com/"">Erros/Novas funcionalidades</a>\n<a href=""http://rammichael.com/donate"">Doar</a>"
+IDS_ERROR_LINK          "Não foi possível abrir o link.\n\nPara abrir links, precisa de um navegador de internet (ex. Internet Explorer). Para utilizar links de email, precisa de ter um cliente de email (ex. Windows Live Mail ou Microsoft Outlook)."
