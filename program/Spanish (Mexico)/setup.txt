@@ -1,4 +1,4 @@
-﻿IDS_LANGUAGE            "Español"
+IDS_LANGUAGE            "Español"
 IDS_MAIN_WNDTITLE       "Configurar Unchecky"
 IDS_MAIN_TITLE          "Unchecky"
 IDS_MAIN_SUBTITLE       "Mantenga las casillas limpias"

@@ -1,4 +1,4 @@
-﻿IDS_LANGUAGE            "Русский"
+IDS_LANGUAGE            "Русский"
 IDS_MAIN_WNDTITLE       "Установка Unchecky"
 IDS_MAIN_TITLE          "Unchecky"
 IDS_MAIN_SUBTITLE       "Keeps your checkboxes clear"

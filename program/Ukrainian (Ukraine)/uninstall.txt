@@ -1,4 +1,4 @@
-﻿IDS_LANGUAGE            "Українська"
+IDS_LANGUAGE            "Українська"
 IDS_MAIN_WNDTITLE       "Видалення Unchecky"
 IDS_MAIN_TITLE          "Unchecky"
 IDS_MAIN_SUBTITLE       "Keeps your checkboxes clear"

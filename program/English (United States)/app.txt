@@ -1,4 +1,4 @@
-﻿IDS_LANGUAGE            "English"
+IDS_LANGUAGE            "English"
 IDS_MAIN_WNDTITLE       "Unchecky"
 IDS_MAIN_TITLE          "Unchecky"
 IDS_MAIN_SUBTITLE       "Keeps your checkboxes clear"
