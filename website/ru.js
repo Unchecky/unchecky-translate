@@ -1,4 +1,4 @@
-﻿jquery_lang_js.prototype.lang.ru = {
+jquery_lang_js.prototype.lang.ru = {
 	
 	// Header
 	
