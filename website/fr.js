@@ -17,6 +17,11 @@
 	'Language':
 		'Langue',
 	
+	// Footer
+	
+	'Copyright © 2013 <a href="http://rammichael.com/">RaMMicHaeL</a>.':
+		'', // TODO: add translator name and maybe email/website 
+	
 	// Home
 	
 	'Tired of unchecking unrelated offers while installing software?':

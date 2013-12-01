@@ -17,6 +17,11 @@
 	'Language':
 		'Язык',
 	
+	// Footer
+	
+	'Copyright © 2013 <a href="http://rammichael.com/">RaMMicHaeL</a>.':
+		'',
+	
 	// Home
 	
 	'Tired of unchecking unrelated offers while installing software?':
