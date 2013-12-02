@@ -10,4 +10,4 @@ IDS_MAINCTRL_PATHTEXT   "Kaldırılacak yer:"
 IDS_MAINCTRL_REMOVE_SETTINGS "Kaydedilmiş ayarları da &kaldır"
 IDS_FINISHCTRL_TEXT     "Unchecky bilgisayarınızdan kaldırıldı.\n\nKurulumu kapatmak için Bitir düğmesine tıklayın."
 IDS_MAIN_ERROR_UNCHECKY_RUNNING 
-                        "Please close all instances of Unchecky before proceeding"
+                        "Lütfen devam etmeden önce Unchecky'nin tüm örneklerini kapatın"
