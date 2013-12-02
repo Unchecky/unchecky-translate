@@ -1,7 +1,7 @@
-IDS_CONFIRMATION_TEXT   "Vous êtes sur le point d'installer un programme potentiellement indésirable. Êtes-vous certain de vouloir l'installer ?"
-IDS_CONFIRMATION_YES    "&Oui (non recommandé)"
+IDS_CONFIRMATION_TEXT   "Vous êtes sur le point d'installer un programme potentiellement indésirable. Etes-vous sûr de vouloir continuer?"
+IDS_CONFIRMATION_YES    "Oui (non recommandé)"
 IDS_CONFIRMATION_NO     "&Non"
 IDS_CONFIRMATION_OK     "OK (non recommandé)"
 IDS_CONFIRMATION_CANCEL "Annuler"
 IDS_CONFIRMATION_MBOX_WARNING 
-                        "ALERTE d'Unchecky: vous êtes sur le point d'installer un programme potentiellement indésirable. Veuillez lire le texte suivant avec attention."
+						"AVERTISSEMENT d'Unchecky. Vous allez installer un programme potentiellement indésirable. Veuillez lire le texte ci-dessous soigneusement."
