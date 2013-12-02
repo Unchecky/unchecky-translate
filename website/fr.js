@@ -5,7 +5,7 @@ jquery_lang_js.prototype.lang.fr = {
 	'Home':
 		'Accueil',
 	'Press':
-		'Presse',
+		'Cliquer',
 	'FAQ':
 		'FAQ',
 	'Blog':
@@ -20,57 +20,57 @@ jquery_lang_js.prototype.lang.fr = {
 	// Footer
 	
 	'Copyright © 2013 <a href="http://rammichael.com/">RaMMicHaeL</a>.':
-		'Copyright © 2013 <a href="http://rammichael.com/">RaMMicHaeL</a>. Traduction française : <a href="mailto:unchecky_tr_fr@outlook.fr">Pierre</a>',
+		'Copyright © 2013 <a href="http://rammichael.com/">RaMMicHaeL</a>. Traduction française : <a href="mailto:colok-traductions@hotmail.fr">Colok</a>',
 	
 	// Home
 	
 	'Tired of unchecking unrelated offers while installing software?':
-		'Fatigués de devoir décocher les offres inésirables lors de l\'installation d\'un programme ?',
+		'Fatigués de devoir décocher les offres inésirables durant l\'installation d\'un programme?',
 	'Have you ever felt, while installing software, that the installer tries to push additional unwanted programs at all cost? Ever missed a checkbox, and spent hours afterwards removing adware? Ever opened your browser after an installation, only to find out that you have a new homepage, a new search engine, or even a new browser?<br>Unchecky aims to keep potentially unwanted programs out of your computer.':
-		'N\'avez-vous jamais eu l\'impression, lors de l\'installation d\'un programme que l\'assistant d\'installation essayait de vous mettre des programmes supplémentaires potentiellement non désirables à tous prix ? N\'avez-vous jamais ouvert votre navigateur Internet après une installation et remarqué que vous avez une nouvelle page d\'accueil ou un nouveau moteur de recherche ?<br>Unchecky vous aide à éviter les programmes potentiellement non désirables de votre ordinateur !',
+		'N\'avez-vous jamais eu l\'impression, lors de l\'installation d\'un logiciel, que l\'installateur essaie d\'installer des programmes indésirables supplémentaires à tout prix? Vous est-il déjà arrivé d\'oublier de décocher une case et passer des heures à essayer d\'enlever des adwares? En ouvrant votre navigateur après l\'installation, vous découvrez que vous avez une nouvelle page d\'accueil, un nouveau moteur de recherche, ou encore un nouveau navigateur? <br> Unchecky veille à maintenir les programmes potentiellement indésirables loin de votre ordinateur',
 	'Download':
 		'Télécharger',
 	
 	'Introducing Unchecky!':
-		'Découvrir Unchecky!',
+		'Présentation d\'Unchecky!',
 	'Keeps your checkboxes clear.':
 		'Gardez vos cases à cocher vides.',
 	
 	'Unchecks':
-		'Décochement',
+		'Décoché',
 	'Unchecky automatically unchecks unrelated offers, both saving you mouse clicks and making it less likely to miss a checkbox of an unwanted offer.':
-		'Unchecky décochera automatiquement les offres n\'ayant aucun rapport, vous évitant ainsi de cliquer et de rater des cases à cocher d\'offres indésirables.',
+		'Unchecky décochera automatiquement toutes les offres n\'ayant aucun rapport, et vous évite ainsi de cliquer et d\'oublier des cases à cocher d\'offres indésirables.',
 	
 	'Warns':
 		'Avertissements',
 	'Installers often try to sneak additional programs as a natural part of the installation. Unchecky warns you when you try to accept a potentially unwanted offer, which makes it less likely to be accepted accidentally.':
-		'Les assistants d\'installations essayent souvent de glisser des programmes supplémentaires comme si ils étaient des parties naturelles de l\'installation. Unchecky vous avertit dès que vous essayer d\'accepter une offre potentiellement indésirable, ce qui réduit les chances de les accepter accidentellement.',
+		'Les installations essayent souvent de glisser des programmes supplémentaires comme s\'ils faisaient parties existantes de l\'installation. Unchecky vous avertit dès que vous essayer d\'accepter une offre potentiellement indésirable, ce qui réduit les chances de les accepter accidentellement.',
 	
 	'Updates automatically':
 		'Mises à jour automatiques',
 	'Install and forget. Unchecky automatically updates whenever a new version is available, so you don\'t have to worry about running the latest version.':
-		'Installez et oubliez. Unchecky se met à jour automatiquement dès qu\'une nouvelle version est disponible, donc pas la peine de vous demander si vous possédez la dernière version.',
+		'Installez puisoubliez. Unchecky. Il se mettra à jour automatiquement dès qu\'une nouvelle version sera disponible, donc pas la peine de vous demander si vous possédez la dernière version.',
 	
 	// Press
 	
 	'People are talking about Unchecky':
 		'Les gens parlent d\'Unchecky',
 	'Unchecky was also featured on the following international websites:':
-		'Unchecky est aussi sélectionné par les sites Internet internationaux suivant :',
+		'Unchecky est aussi recommendé par les sites Internet internationaux suivants:',
 	'on':
 		'sur',
 	
 	'People are showing Unchecky in action':
-		'Les gens parlent d\'Unchecky en action :',
+		'Les gens parlent d\'Unchecky en action:',
 	
 	'Portuguese':
 		'Portugais',
 	'Russian':
 		'Russe',
 	'Spanish':
-		'Espagnole',
+		'Espagnol',
 	'Italian':
-		'Italie',
+		'Italien',
 	'French':
 		'Français',
 	'French':
@@ -84,7 +84,7 @@ jquery_lang_js.prototype.lang.fr = {
 		'Unchecky supprote Windows XP et les versions supérieures.',
 	
 	'What is the best way to report a bug or suggest a feature?':
-		'Quel est le meilleur moyen de signaler un bug ou de proposer une fonctionnalité ?',
+		'Quel est le meilleur moyen de signaler un bug ou de proposer une fonctionnalité?',
 	'Post your feedback on the <a href="http://unchecky.userecho.com/">UserEcho page</a>.':
 		'Postez votre avis sur la <a href="http://unchecky.userecho.com/">page UserEcho</a>',
 	
@@ -96,14 +96,14 @@ jquery_lang_js.prototype.lang.fr = {
 	// Contact
 	
 	'Please don\'t use this contact form to report bugs or suggest features. Post your feedback on the <a href="http://unchecky.userecho.com/">UserEcho page</a> instead.':
-		'Veuillez ne pas utilisé ce formulaire de contact pour signaler un buf ou proposer une fonctionnalité. Postez plutôt votre avis sur la <a href="http://unchecky.userecho.com/">page UserEcho</a>.',
+		'Veuillez ne pas utilisé ce formulaire de contact pour signaler un bug ou proposer une fonctionnalité. Postez plutôt votre avis sur la <a href="http://unchecky.userecho.com/">page UserEcho</a>.',
 	
 	'First Name':
 		'Prénom',
 	'Last Name':
 		'Nom',
 	'Email Address':
-		'Adresse mail',
+		'Adresse email',
 	'Subject':
 		'Sujet',
 	'Message':
