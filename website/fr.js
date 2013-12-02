@@ -27,12 +27,12 @@ jquery_lang_js.prototype.lang.fr = {
 	'Tired of unchecking unrelated offers while installing software?':
 		'Fatigués de devoir décocher les offres inésirables lors de l\'installation d\'un programme ?',
 	'Have you ever felt, while installing software, that the installer tries to push additional unwanted programs at all cost? Ever missed a checkbox, and spent hours afterwards removing adware? Ever opened your browser after an installation, only to find out that you have a new homepage, a new search engine, or even a new browser?<br>Unchecky aims to keep potentially unwanted programs out of your computer.':
-		'N\'avez-vous jamais eu l\'impression, lors de l\'installation d\'un programme que l\'assistant d\'installation essayait de vous mettre des programmes supplémentaires potentiellement non désirables à tous prix ? N\'avez-vous jamais ouvert votre navigateur Internet après une installation et remarqué que vous avez une nouvelle page d\'accueil ou un nouveau moteur de recherche ?<br>Unchecky vous aide à éviter les programmes potentiellement non désirables de votre ordinateur !',
+		'N\'avez-vous jamais eu l\'impression, lors de l\'installation d\'un programme que l\'assistant d\'installation essayait de vous mettre des programmes supplémentaires potentiellement indésirables à tous prix ? N\'avez-vous jamais ouvert votre navigateur Internet après une installation et remarqué que vous avez une nouvelle page d\'accueil ou un nouveau moteur de recherche ?<br>Unchecky  veille à éviter les programmes potentiellement indésirables loin de votre ordinateur !',
 	'Download':
 		'Télécharger',
 	
 	'Introducing Unchecky!':
-		'Découvrir Unchecky!',
+		'Présentation d\'Unchecky!',
 	'Keeps your checkboxes clear.':
 		'Gardez vos cases à cocher vides.',
 	
@@ -44,7 +44,7 @@ jquery_lang_js.prototype.lang.fr = {
 	'Warns':
 		'Avertissements',
 	'Installers often try to sneak additional programs as a natural part of the installation. Unchecky warns you when you try to accept a potentially unwanted offer, which makes it less likely to be accepted accidentally.':
-		'Les assistants d\'installations essayent souvent de glisser des programmes supplémentaires comme si ils étaient des parties naturelles de l\'installation. Unchecky vous avertit dès que vous essayer d\'accepter une offre potentiellement indésirable, ce qui réduit les chances de les accepter accidentellement.',
+		'Les assistants d\'installations essayent souvent de glisser des programmes supplémentaires comme s\'ils étaient des parties naturelles de l\'installation. Unchecky vous avertit dès que vous essayer d\'accepter une offre potentiellement indésirable, ce qui réduit les chances de les accepter accidentellement.',
 	
 	'Updates automatically':
 		'Mises à jour automatiques',
@@ -68,9 +68,9 @@ jquery_lang_js.prototype.lang.fr = {
 	'Russian':
 		'Russe',
 	'Spanish':
-		'Espagnole',
+		'Espagnol',
 	'Italian':
-		'Italie',
+		'Italien',
 	'French':
 		'Français',
 	
@@ -94,14 +94,14 @@ jquery_lang_js.prototype.lang.fr = {
 	// Contact
 	
 	'Please don\'t use this contact form to report bugs or suggest features. Post your feedback on the <a href="http://unchecky.userecho.com/">UserEcho page</a> instead.':
-		'Veuillez ne pas utilisé ce formulaire de contact pour signaler un buf ou proposer une fonctionnalité. Postez plutôt votre avis sur la <a href="http://unchecky.userecho.com/">page UserEcho</a>.',
+		'Veuillez ne pas utilisé ce formulaire de contact pour signaler un bug ou proposer une fonctionnalité. Postez plutôt votre avis sur la <a href="http://unchecky.userecho.com/">page UserEcho</a>.',
 	
 	'First Name':
 		'Prénom',
 	'Last Name':
 		'Nom',
 	'Email Address':
-		'Adresse mail',
+		'Adresse email',
 	'Subject':
 		'Sujet',
 	'Message':
