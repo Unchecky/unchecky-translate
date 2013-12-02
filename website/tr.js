@@ -20,7 +20,7 @@ jquery_lang_js.prototype.lang.tr = {
 	// Footer
 	
 	'Copyright © 2013 <a href="http://rammichael.com/">RaMMicHaeL</a>.':
-		'Telif hakkı © 2013 <a href="http://rammichael.com/">RaMMicHaeL</a>.',
+		'Telif hakkı © 2013 <a href="http://rammichael.com/">RaMMicHaeL</a>. Türkçe çeviri : <a href="mailto:fatihfirinci@gmail.com">Fatih Fırıncı</a>.',
 	
 	// Home
 	
@@ -48,8 +48,8 @@ jquery_lang_js.prototype.lang.tr = {
 	
 	'Updates automatically':
 		'Otomatik güncelleştirilir',
-	'Yükleyin ve unutun. Yeni bir sürüm mevcut olduğunda Unchecky güncellemeleri otomatik olarak yükler, böylece en son sürümü çalıştırıp çalıştırmadığınızdan endişelenmenize gerek kalmaz.':
-		'',
+	'Install and forget. Unchecky automatically updates whenever a new version is available, so you don\'t have to worry about running the latest version.':
+		'Yükleyin ve unutun. Yeni bir sürüm mevcut olduğunda Unchecky güncellemeleri otomatik olarak yükler, böylece en son sürümü çalıştırıp çalıştırmadığınızdan endişelenmenize gerek kalmaz.',
 	
 	// Press
 	
@@ -58,7 +58,7 @@ jquery_lang_js.prototype.lang.tr = {
 	'Unchecky was also featured on the following international websites:':
 		'Unchecky ayrıca aşağıdaki uluslararası web sitelerinde yer aldı',
 	'on':
-		'',
+		'-',
 	
 	'People are showing Unchecky in action':
 		'İnsanların Unchecky tanıtımları',
