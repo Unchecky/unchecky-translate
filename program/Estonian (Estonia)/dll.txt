@@ -1,0 +1,7 @@
+IDS_CONFIRMATION_TEXT   "Oled installimas potentsiaalselt soovimatut programmi. Oled kindel, et soovid jätkata?"
+IDS_CONFIRMATION_YES    "&Jah (pole soovituslik)"
+IDS_CONFIRMATION_NO     "&Ei"
+IDS_CONFIRMATION_OK     "OK (pole soovituslik)"
+IDS_CONFIRMATION_CANCEL "Katkesta"
+IDS_CONFIRMATION_MBOX_WARNING 
+                    "HOIATUS Unchecky'lt: sinult palutakse luba potentsiaalselt soovimatu tarkvara installimiseks. Palun loe järgnevat teksti hoolikalt."
