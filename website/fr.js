@@ -73,8 +73,6 @@ jquery_lang_js.prototype.lang.fr = {
 		'Italie',
 	'French':
 		'Français',
-	'French':
-		'Français',
 	
 	// FAQ
 	
