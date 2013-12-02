@@ -14,8 +14,8 @@ IDS_EXTRACTRL_FOLDER_GROUP "Hedef &Klasör"
 IDS_EXTRACTRL_FOLDER_BROWSE "G&özat..."
 IDS_EXTRACTRL_BROWSE_TEXT 
                         "Unchecky uygulamasının kurulacağı dizini seçin:"
-IDS_FINISHCTRL_TEXT     "Unchecky bilgisayarınıza yüklendi.\n\nKurulumu kapatmak için Bitir'e tıklayın."
+IDS_FINISHCTRL_TEXT     "Unchecky bilgisayarınıza yüklendi.\n\nKurulumu kapatmak için Bitir düğmesine tıklayın."
 IDS_MAIN_ERROR_UNCHECKY_RUNNING 
-                        "Please close all instances of Unchecky before proceeding"
-IDS_MAIN_UPDATE         "&Update"
-IDS_MAIN_UPDATING       "&Updating..."
+                        "Lütfen devam etmeden önce Unchecky'nin tüm örneklerini kapatın"
+IDS_MAIN_UPDATE         "&Güncelle"
+IDS_MAIN_UPDATING       "&Güncelleniyor..."
