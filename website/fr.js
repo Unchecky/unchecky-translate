@@ -65,7 +65,7 @@ jquery_lang_js.prototype.lang.fr = {
 	
 	'Portuguese':
 		'Portugais',
-	'Rissian':
+	'Russian':
 		'Russe',
 	'Spanish':
 		'Espagnole',
