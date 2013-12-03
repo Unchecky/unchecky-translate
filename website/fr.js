@@ -81,6 +81,11 @@ jquery_lang_js.prototype.lang.fr = {
 	'Unchecky supports Windows XP and above.':
 		'Unchecky supprote Windows XP et les versions supérieures.',
 	
+	'My antivirus flags Unchecky as malicious.':
+		'',
+	'It\'s a false positive. Please report about it to your antivirus company. Note that Unchecky was tested thoroughly by Softpedia and <a href="http://www.softpedia.com/progClean/Unchecky-Clean-244234.html">was found 100% clean</a>.':
+		'',
+	
 	'What is the best way to report a bug or suggest a feature?':
 		'Quel est le meilleur moyen de signaler un bug ou de proposer une fonctionnalité ?',
 	'Post your feedback on the <a href="http://unchecky.userecho.com/">UserEcho page</a>.':
