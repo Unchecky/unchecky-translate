@@ -5,7 +5,7 @@ IDS_MAIN_SUBTITLE       "Hoiab sinu märkekastid puhtana"
 IDS_MAIN_STOP           "&Peata teenus"
 IDS_MAIN_START          "&Käivita teenus"
 IDS_MAIN_ABOUT          "&Teave"
-IDS_MAINCTRL_TEXT       "Tervitus! Unchecky on programm, mis üritab potentsiaalselt soovimatut tarkvara arvutist eemale hoida."
+IDS_MAINCTRL_TEXT       "Tervitus! Unchecky on programm, mis üritab potentsiaalselt soovimatut tarkvara arvutist eemal hoida."
 IDS_MAINCTRL_TEXT_SVC_RUNNING "Unchecky teenus on sees ja töötab."
 IDS_MAINCTRL_TEXT_SVC_STOPPED 
                     "Unchecky teenus on peatatud. Teenus käivitatakse pärast süsteemi taaskäivitamist."
