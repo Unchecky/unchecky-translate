@@ -14,5 +14,5 @@ IDS_MAINCTRL_TEXT_QUERYERROR
 IDS_MAINCTRL_LANG       "&Keel:"
 IDS_ABOUT_WNDTITLE      "Teave"
 IDS_ABOUT_BETA          "beta"
-IDS_ABOUT_TEXT          "Autor <a href=""http://rammichael.com/"">RaMMicHaeL</a>\n\nTõlkija John Smith\n<a href=""mailto:john.smith@gmail.com"">john.smith@gmail.com</a>\n\n<a href=""http://unchecky.com/"">Veebileht</a>\n<a href=""http://unchecky.userecho.com/"">Vigade/soovituste leht</a>\n<a href=""http://rammichael.com/donate"">Anneta</a>"
+IDS_ABOUT_TEXT          "Autor <a href=""http://rammichael.com/"">RaMMicHaeL</a>\n\nTõlkija Lauri Säde\n<a href=""mailto:john.smith@gmail.com"">lauri.sade@ekaitse.ee</a>\n\n<a href=""http://unchecky.com/"">Veebileht</a>\n<a href=""http://unchecky.userecho.com/"">Vigade/soovituste leht</a>\n<a href=""http://rammichael.com/donate"">Anneta</a>"
 IDS_ERROR_LINK          "Lingi avamine nurjus.\n\nLinkide avamiseks peab arvutisse olema paigaldatud brauser (nt Internet Explorer). E-kirja linkide kasutamiseks peab arvutisse olema paigaldatud e-posti klient( nt Windows Live Mail või Outlook)."
