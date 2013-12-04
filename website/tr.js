@@ -27,7 +27,7 @@ jquery_lang_js.prototype.lang.tr = {
 	'Tired of unchecking unrelated offers while installing software?':
 		'Yazılım yüklerken alakasız tekliflerin işaretini kaldırmaktan bıktınız mı?',
 	'Have you ever felt, while installing software, that the installer tries to push additional unwanted programs at all cost? Ever missed a checkbox, and spent hours afterwards removing adware? Ever opened your browser after an installation, only to find out that you have a new homepage, a new search engine, or even a new browser?<br>Unchecky aims to keep potentially unwanted programs out of your computer.':
-		'Hiç yazılım yüklerken, yükleyicinin her ne pahasına olursa olsun istenmeyen programları yüklemeye çalıştığını hissettiniz mi? Peki, bir onay kutusunu kaçırıp, sonrasında saatlerce reklam yazılımları kaldırmaya çalıştınız mı? Yazılımı yükledikten sonra, yeni bir ana sayfa, yeni bir arama motoru, hatta yeni bir tarayıcınız olduğunu gördünüz mü?<br>Unchecky, bu istenmeyen programları bilgisayarınızdan uzak tutmayı amaçlamaktadır.',
+		'Yazılım yüklerken, yükleyicinin her ne pahasına olursa olsun istenmeyen programları yüklemeye çalıştığını hissettiniz mi? Bir onay kutusunu kaçırıp, sonrasında saatlerce reklam yazılımları kaldırmaya çalıştınız mı? Yazılımı yükledikten sonra, yeni bir ana sayfa, yeni bir arama motoru, hatta yeni bir tarayıcınız olduğunu gördünüz mü?<br>Unchecky, bu istenmeyen programları bilgisayarınızdan uzak tutmayı amaçlamaktadır.',
 	'Download':
 		'İNDİR',
 	
@@ -39,7 +39,7 @@ jquery_lang_js.prototype.lang.tr = {
 	'Unchecks':
 		'İşaretleri kaldırır',
 	'Unchecky automatically unchecks unrelated offers, both saving you mouse clicks and making it less likely to miss a checkbox of an unwanted offer.':
-		'Unchecky otomatik olarak alakasız tekliflerin işaretini kaldırır , hem daha az fare tıklaması yapmanızı hem de istenmeyen bir uygulamanın onay kutusunu kaçırmamanızı sağlar.',
+		'Unchecky otomatik olarak alakasız tekliflerin işaretini kaldırır, hem daha az fare tıklaması yapmanızı hem de istenmeyen bir uygulamanın onay kutusunu kaçırmamanızı sağlar.',
 	
 	'Warns':
 		'Uyarır',
