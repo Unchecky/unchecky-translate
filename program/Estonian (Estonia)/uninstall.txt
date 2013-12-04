@@ -8,6 +8,6 @@ IDS_MAIN_FINISH         "&Valmis"
 IDS_MAINCTRL_TEXT       "Unchecky eemaldatakse järgmisest kaustast. Eemaldamise käivitamiseks kliki Eemalda."
 IDS_MAINCTRL_PATHTEXT   "Eemaldan kaustast:"
 IDS_MAINCTRL_REMOVE_SETTINGS "Eemalda salvestatud &seaded"
-IDS_FINISHCTRL_TEXT     "Unchecky on sinu arvutist eemaldatud.\n\nKliki Valmis, et eemaldajast väljuda."
+IDS_FINISHCTRL_TEXT     "Unchecky on sinu arvutist eemaldatud.\n\nKliki Valmis, et see aken sulgeda."
 IDS_MAIN_ERROR_UNCHECKY_RUNNING 
                     "Enne jätkamist sulge Unchecky"
