@@ -82,9 +82,9 @@ jquery_lang_js.prototype.lang.tr = {
 		'Unchecky Windows XP ve yukarısını desteklemektedir.',
 	
 	'My antivirus flags Unchecky as malicious.':
-		'',
+		'Antivirüs programım Uncheck\'yi kötü niyetli yazılım olarak algılıyor.',
 	'It\'s a false positive. Please report about it to your antivirus company. Note that Unchecky was tested thoroughly by Softpedia and <a href="http://www.softpedia.com/progClean/Unchecky-Clean-244234.html">was found 100% clean</a>.':
-		'',
+		'Bu yanlış bir algılamadır. Antivirüs firmanıza lütfen rapor edin. Unchecky Softpedia tarafından iyice test edildi ve <a href="http://www.softpedia.com/progClean/Unchecky-Clean-244234.html">100% temiz bulundu</a>.',
 	
 	'What is the best way to report a bug or suggest a feature?':
 		'Bir hatayı bildirmek veya bir özellik önermek için en iyi yol nedir?',
