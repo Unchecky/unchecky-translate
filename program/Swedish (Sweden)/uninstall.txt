@@ -1,0 +1,13 @@
+IDS_LANGUAGE            "Svenska"
+IDS_MAIN_WNDTITLE       "Unchecky Avinstallation"
+IDS_MAIN_TITLE          "Unchecky"
+IDS_MAIN_SUBTITLE       "Tömmer din kryssrutor"
+IDS_MAIN_INSTALL        "&Avinstallera"
+IDS_MAIN_INSTALLING     "&Avinstallerar..."
+IDS_MAIN_FINISH         "&Slutför"
+IDS_MAINCTRL_TEXT       "Unchecky kommer avinstalleras från följande mapp. Klicka på Avinstallera för att starta avinstalleringen."
+IDS_MAINCTRL_PATHTEXT   "Avinstallera från:"
+IDS_MAINCTRL_REMOVE_SETTINGS "Ta bort sparade &inställningar"
+IDS_FINISHCTRL_TEXT     "Unchecky avinstallerades från din dator.\n\nKlicka på Slutför för att slutföra avinstallationen."
+IDS_MAIN_ERROR_UNCHECKY_RUNNING 
+                        "Stäng alla öppna instanser av Unchecky innan du fortsätter"

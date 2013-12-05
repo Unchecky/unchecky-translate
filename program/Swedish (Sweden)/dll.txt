@@ -1,0 +1,7 @@
+IDS_CONFIRMATION_TEXT   "Du håller på att installera ett potentiellt oönskat program. Är du säker på att du vill fortsätta?"
+IDS_CONFIRMATION_YES    "&Ja (rekommenderas ej)"
+IDS_CONFIRMATION_NO     "&Nej"
+IDS_CONFIRMATION_OK     "OK (rekommenderas ej)"
+IDS_CONFIRMATION_CANCEL "Avbryt"
+IDS_CONFIRMATION_MBOX_WARNING 
+                        "VARNING från Unchecky: du ombeds att installera ett potentiellt oönskat program. Läs texten nedan noggrant."
