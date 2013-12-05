@@ -1,0 +1,18 @@
+IDS_LANGUAGE            "Italiano"
+IDS_MAIN_WNDTITLE       "Unchecky"
+IDS_MAIN_TITLE          "Unchecky"
+IDS_MAIN_SUBTITLE       "Mantiene le checkbox pulite"
+IDS_MAIN_STOP           "&Ferma il servizio"
+IDS_MAIN_START          "&Avvia il servizio"
+IDS_MAIN_ABOUT          "&Informazioni su"
+IDS_MAINCTRL_TEXT       "Benvenuto su Unchecky, il programma che cerca di mantenere il tuo computer lontano dai programmi potenzialmente non voluti."
+IDS_MAINCTRL_TEXT_SVC_RUNNING "Il servizio Unchecky è in esecuzione."
+IDS_MAINCTRL_TEXT_SVC_STOPPED 
+                        "Unchecky è fermo. Il servizio tornerà in esecuzione al prossimo riavvio del computer."
+IDS_MAINCTRL_TEXT_QUERYERROR 
+                        "Si è verificato un errore durante l'accesso al servizio Unchecky per determinarne lo stato."
+IDS_MAINCTRL_LANG       "&Lingua:"
+IDS_ABOUT_WNDTITLE      "Informazioni su"
+IDS_ABOUT_BETA          "beta"
+IDS_ABOUT_TEXT          "Creato da <a href=""http://rammichael.com/"">RaMMicHaeL</a>\n\nTradotto da Gianni Angelozzi\n<a href=""mailto:gianni4592@gmail.com"">gianni4592@gmail.com</a>\n\n<a href=""http://unchecky.com/"">Website</a>\n<a href=""http://unchecky.userecho.com/"">Segnalazione errori</a>\n<a href=""http://rammichael.com/donate"">Dona</a>"
+IDS_ERROR_LINK          "Impossibile aprire il collegamento.\n\nPer poter aprire un indirizzo web, è necessario disporre di un browser web (es. Internet Explorer). Per aprire un indirizzo email, è necessario un client di posta elettronica (es. Windows Live Mail o Outlook)."
