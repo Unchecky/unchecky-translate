@@ -2,7 +2,7 @@ IDS_LANGUAGE            "Svenska"
 IDS_MAIN_WNDTITLE       "Unchecky"
 IDS_MAIN_TITLE          "Unchecky"
 IDS_MAIN_SUBTITLE       "Tömmer din kryssrutor"
-IDS_MAIN_STOP           "&Avbryt tjänsten
+IDS_MAIN_STOP           "&Avbryt tjänsten"
 IDS_MAIN_START          "&Återuppta tjänsten"
 IDS_MAIN_ABOUT          "&Om"
 IDS_MAINCTRL_TEXT       "Välkommen till Unchecky, programmet som har som försöker hålla din dator fri från oönskade program."
