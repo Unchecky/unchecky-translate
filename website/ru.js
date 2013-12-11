@@ -65,6 +65,8 @@ jquery_lang_js.prototype.lang.ru = {
 	
 	'Portuguese':
 		'',
+	'Polish':
+		'',
 	'Russian':
 		'',
 	'Spanish':

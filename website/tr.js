@@ -65,6 +65,8 @@ jquery_lang_js.prototype.lang.tr = {
 	
 	'Portuguese':
 		'Portekizce',
+	'Polish':
+		'',
 	'Russian':
 		'Rusça',
 	'Spanish':

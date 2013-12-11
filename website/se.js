@@ -65,6 +65,8 @@ jquery_lang_js.prototype.lang.se = {
 	
 	'Portuguese':
 		'portugisiska',
+	'Polish':
+		'',
 	'Russian':
 		'ryska',
 	'Spanish':
