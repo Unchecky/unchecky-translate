@@ -59,8 +59,12 @@ jquery_lang_js.prototype.lang.ru = {
 		'',
 	'on':
 		'',
+	'Awards':
+		'',
 	
 	'People are showing Unchecky in action':
+		'',
+	'Demonstrating Unchecky':
 		'',
 	
 	'Portuguese':

@@ -59,9 +59,13 @@ jquery_lang_js.prototype.lang.tr = {
 		'Unchecky ayrıca aşağıdaki uluslararası web sitelerinde yer aldı',
 	'on':
 		'-',
+	'Awards':
+		'',
 	
 	'People are showing Unchecky in action':
 		'İnsanların Unchecky tanıtımları',
+	'Demonstrating Unchecky':
+		'',
 	
 	'Portuguese':
 		'Portekizce',

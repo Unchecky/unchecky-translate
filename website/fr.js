@@ -59,9 +59,13 @@ jquery_lang_js.prototype.lang.fr = {
 		'Unchecky est aussi sélectionné par les sites Internet internationaux suivants :',
 	'on':
 		'sur',
+	'Awards':
+		'',
 	
 	'People are showing Unchecky in action':
 		'Les gens parlent d\'Unchecky en action :',
+	'Demonstrating Unchecky':
+		'',
 	
 	'Portuguese':
 		'Portugais',

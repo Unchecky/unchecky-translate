@@ -59,9 +59,13 @@ jquery_lang_js.prototype.lang.se = {
 		'Unchecky var också med på följande internationella webbplatser:',
 	'on':
 		'från',
+	'Awards':
+		'',
 	
 	'People are showing Unchecky in action':
 		'Folk visar Unchecky i praktiken:',
+	'Demonstrating Unchecky':
+		'',
 	
 	'Portuguese':
 		'portugisiska',
