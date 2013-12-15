@@ -1,0 +1,18 @@
+IDS_LANGUAGE            "Dansk"
+IDS_MAIN_WNDTITLE       "Unchecky"
+IDS_MAIN_TITLE          "Unchecky"
+IDS_MAIN_SUBTITLE       "Tømmer dine checkbokse"
+IDS_MAIN_STOP           "&Afbryd tjenesten"
+IDS_MAIN_START          "&Genoptag tjenesten"
+IDS_MAIN_ABOUT          "&Om"
+IDS_MAINCTRL_TEXT       "Velkommen til Unchecky, programmet som forsøger at holde din computer fri for uønskede programmer."
+IDS_MAINCTRL_TEXT_SVC_RUNNING "Tjensten kører."
+IDS_MAINCTRL_TEXT_SVC_STOPPED 
+                        "Tjenesten er afbrudt. Tjenesten genoptages efter genstart af computeren."
+IDS_MAINCTRL_TEXT_QUERYERROR 
+                        "Der opstod en fejl da tjenesten blev kontrolleret."
+IDS_MAINCTRL_LANG       "&Sprog:"
+IDS_ABOUT_WNDTITLE      "Om"
+IDS_ABOUT_BETA          "beta"
+IDS_ABOUT_TEXT          "Av <a href=""http://rammichael.com/"">RaMMicHaeL</a>\n\nOversat af Finn Johansen\n<a href=""mailto:t.fbjswf@yahoo.com?Subject=Unchecky"">fbjswf@yahoo.com</a>\n\n<a href=""http://unchecky.com/"">Hemsida</a>\n<a href=""http://unchecky.userecho.com/"">Bugg-/funktionstracker</a>\n<a href=""http://rammichael.com/donate"">Doner</a>"
+IDS_ERROR_LINK          "Link kunne ikke åbnes.\n\nFor at kunne åbne weblinks skal du have en browser (f.eks. Internet Explorer, Mozilla Firefox eller Google Chrome). For at kunne anvende e-mail links skal du have en e-mail klient (f.eks. Windows Live Mail, Outlook eller Mozilla Thunderbird)."

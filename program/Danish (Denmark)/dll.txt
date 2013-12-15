@@ -1,0 +1,7 @@
+IDS_CONFIRMATION_TEXT   "Du er ved at installere et potentielt uønsket program. Er du sikker på, at du vil fortsætte?"
+IDS_CONFIRMATION_YES    "&Ja (anbefales ikke)"
+IDS_CONFIRMATION_NO     "&Nej"
+IDS_CONFIRMATION_OK     "OK (anbefales ikke)"
+IDS_CONFIRMATION_CANCEL "Afbryd"
+IDS_CONFIRMATION_MBOX_WARNING 
+                        "ADVARSEL fra Unchecky: du bliver bedt om at installere et potentielt uønsket program. Læs teksten nøje."

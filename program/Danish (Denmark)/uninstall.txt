@@ -1,0 +1,13 @@
+IDS_LANGUAGE            "Dansk"
+IDS_MAIN_WNDTITLE       "Unchecky Afinstallation"
+IDS_MAIN_TITLE          "Unchecky"
+IDS_MAIN_SUBTITLE       "Tømmer dine checkbokse"
+IDS_MAIN_INSTALL        "&Afinstaller"
+IDS_MAIN_INSTALLING     "&Afinstallerer..."
+IDS_MAIN_FINISH         "&Afslut"
+IDS_MAINCTRL_TEXT       "Unchecky vil blive afinstalleret fra følgende mappe. Klik på Afinstaller for at starte afinstallering."
+IDS_MAINCTRL_PATHTEXT   "Afinstaller fra:"
+IDS_MAINCTRL_REMOVE_SETTINGS "Fjern gemte indstillinger"
+IDS_FINISHCTRL_TEXT     "Unchecky afinstalleres fra din computer.\n\nKlik på Afslut for at afslutte afinstallationen."
+IDS_MAIN_ERROR_UNCHECKY_RUNNING 
+                        "Luk alle åbne vinduer med Unchecky inden du fortsætter"

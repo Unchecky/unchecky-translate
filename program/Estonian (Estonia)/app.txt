@@ -8,9 +8,9 @@ IDS_MAIN_ABOUT          "&Teave"
 IDS_MAINCTRL_TEXT       "Tervitus! Unchecky on programm, mis üritab potentsiaalselt soovimatut tarkvara arvutist eemal hoida."
 IDS_MAINCTRL_TEXT_SVC_RUNNING "Unchecky teenus on sees ja töötab."
 IDS_MAINCTRL_TEXT_SVC_STOPPED 
-                    "Unchecky teenus on peatatud. Teenus käivitatakse pärast süsteemi taaskäivitamist."
+                        "Unchecky teenus on peatatud. Teenus käivitatakse pärast süsteemi taaskäivitamist."
 IDS_MAINCTRL_TEXT_QUERYERROR 
-                    "Unchecky teenuse staatuse päringul ilmnes viga."
+                        "Unchecky teenuse staatuse päringul ilmnes viga."
 IDS_MAINCTRL_LANG       "&Keel:"
 IDS_ABOUT_WNDTITLE      "Teave"
 IDS_ABOUT_BETA          "beta"
