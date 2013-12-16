@@ -8,12 +8,18 @@ jquery_lang_js.prototype.lang.tr = {
 		'Basın',
 	'FAQ':
 		'SSS',
+	'Changelog':
+		'',
+	'Contact':
+		'İletişim',
+	'Links':
+		'',
+	'Bug/feature tracker':
+		'',
 	'Blog':
 		'Blog',
 	'Donate':
 		'Bağış yap',
-	'Contact':
-		'İletişim',
 	'Language':
 		'Dil',
 	

@@ -8,12 +8,18 @@ jquery_lang_js.prototype.lang.ru = {
 		'Пресса',
 	'FAQ':
 		'ЧАВО',
+	'Changelog':
+		'',
+	'Contact':
+		'Обратная связь',
+	'Links':
+		'',
+	'Bug/feature tracker':
+		'',
 	'Blog':
 		'Блог',
 	'Donate':
 		'Пожертвование',
-	'Contact':
-		'Обратная связь',
 	'Language':
 		'Язык',
 	

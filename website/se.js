@@ -8,12 +8,18 @@ jquery_lang_js.prototype.lang.se = {
 		'Press',
 	'FAQ':
 		'FAQ',
+	'Changelog':
+		'',
+	'Contact':
+		'Kontakt',
+	'Links':
+		'',
+	'Bug/feature tracker':
+		'',
 	'Blog':
 		'Blogg',
 	'Donate':
 		'Donera',
-	'Contact':
-		'Kontakt',
 	'Language':
 		'Språk',
 	

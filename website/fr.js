@@ -8,12 +8,18 @@ jquery_lang_js.prototype.lang.fr = {
 		'Presse',
 	'FAQ':
 		'FAQ',
+	'Changelog':
+		'',
+	'Contact':
+		'Contact',
+	'Links':
+		'',
+	'Bug/feature tracker':
+		'',
 	'Blog':
 		'Blog',
 	'Donate':
 		'Faire un don',
-	'Contact':
-		'Contact',
 	'Language':
 		'Langue',
 	
