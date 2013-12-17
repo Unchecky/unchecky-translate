@@ -57,6 +57,11 @@ jquery_lang_js.prototype.lang.se = {
 	'Install and forget. Unchecky automatically updates whenever a new version is available, so you don\'t have to worry about running the latest version.':
 		'Installera och förglöm. Unchecky uppdateras automatiskt när en ny version är tillgänglig, så du slipper oroa dig för om du kör den senaste versionen.',
 	
+	'Watch Unchecky in action':
+		'',
+	'<a href="http://unchecky.com/press#quotes">See what people are saying about Unchecky</a> or <a href="http://unchecky.com/press#videos">watch more videos</a>.':
+		'',
+	
 	// Press
 	
 	'People are talking about Unchecky':
