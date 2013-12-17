@@ -101,7 +101,7 @@ jquery_lang_js.prototype.lang.dk = {
 	'What is the best way to report a bug or suggest a feature?':
 		'Hvordan rapporterer jeg nemmest fejl eller foreslår nye funktioner?',
 	'Post your feedback on the <a href="http://unchecky.userecho.com/">UserEcho page</a>.':
-		'Send din feedback på vores side via dette link<a href="http://unchecky.userecho.com/">UserEcho</a>',
+		'Send din feedback på vores side via dette link <a href="http://unchecky.userecho.com/">UserEcho</a>',
 	
 	'I want to translate Unchecky.':
 		'Jeg vil oversætte Unchecky!',
