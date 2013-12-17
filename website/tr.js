@@ -9,13 +9,13 @@ jquery_lang_js.prototype.lang.tr = {
 	'FAQ':
 		'SSS',
 	'Changelog':
-		'',
+		'Değişiklikler',
 	'Contact':
 		'İletişim',
 	'Links':
-		'',
+		'Bağlantılar',
 	'Bug/feature tracker':
-		'',
+		'Hata/özellik takibi',
 	'Blog':
 		'Blog',
 	'Donate':
@@ -66,12 +66,12 @@ jquery_lang_js.prototype.lang.tr = {
 	'on':
 		'-',
 	'Awards':
-		'',
+		'Ödüller',
 	
 	'People are showing Unchecky in action':
-		'İnsanların Unchecky tanıtımları',
+		'İnsanların Unchecky\'yi eylem içinde gösterimi',
 	'Demonstrating Unchecky':
-		'',
+		'Unchecky gösterimi',
 	
 	'Portuguese':
 		'Portekizce',
@@ -127,13 +127,13 @@ jquery_lang_js.prototype.lang.tr = {
 		'Gönder',
 		
 	'Please fill in all fields.':
-		'',
+		'Lütfen tüm alanları doldurun.',
 	'Please enter a valid email address.':
-		'',
+		'Lütfen geçerli bir e-posta adresi girin.',
 	'Could not complete your request.':
-		'',
+		'İsteğiniz tamamlanamadı.',
 	'The message has been sent successfully.':
-		'',
+		'Mesaj başarıyla gönderildi.',
 	
 	// 404
 	
