@@ -125,6 +125,15 @@ jquery_lang_js.prototype.lang.tr = {
 		'Mesaj',
 	'Send':
 		'Gönder',
+		
+	'Please fill in all fields.':
+		'',
+	'Please enter a valid email address.':
+		'',
+	'Could not complete your request.':
+		'',
+	'The message has been sent successfully.':
+		'',
 	
 	// 404
 	
