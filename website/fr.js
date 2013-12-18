@@ -33,7 +33,7 @@ jquery_lang_js.prototype.lang.fr = {
 	'Tired of unchecking unrelated offers while installing software?':
 		'Fatigués de devoir décocher les offres indésirables lors de l\'installation d\'un programme ?',
 	'Have you ever felt, while installing software, that the installer tries to push additional unwanted programs at all cost? Ever missed a checkbox, and spent hours afterwards removing adware? Ever opened your browser after an installation, only to find out that you have a new homepage, a new search engine, or even a new browser?<br>Unchecky aims to keep potentially unwanted programs out of your computer.':
-		'N\'avez-vous jamais eu l\'impression, lors de l\'installation d\'un programme que l\'assistant d\'installation essayait de vous mettre des programmes supplémentaires potentiellement indésirables à tout prix ? N\'avez-vous jamais ouvert votre navigateur Internet après une installation et remarqué que vous avez une nouvelle page d\'accueil ou un nouveau moteur de recherche ?<br>Unchecky  veille à éviter les programmes potentiellement indésirables loin de votre ordinateur !',
+		'N\'avez-vous jamais eu l\'impression, lors de l\'installation d\'un programme que l\'assistant d\'installation essayait de vous mettre des programmes supplémentaires potentiellement indésirables à tout prix ? N\'avez-vous jamais ouvert votre navigateur Internet après une installation et remarqué que vous avez une nouvelle page d\'accueil ou un nouveau moteur de recherche ?<br>Unchecky veille à éviter les programmes potentiellement indésirables loin de votre ordinateur !',
 	'Download':
 		'Télécharger',
 	
