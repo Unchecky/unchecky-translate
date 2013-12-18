@@ -58,9 +58,9 @@ jquery_lang_js.prototype.lang.tr = {
 		'Yükleyin ve unutun. Yeni bir sürüm mevcut olduğunda Unchecky güncellemeleri otomatik olarak yükler, böylece en son sürümü çalıştırıp çalıştırmadığınızdan endişelenmenize gerek kalmaz.',
 	
 	'Watch Unchecky in action':
-		'',
+		'Unchecky\'yi eylem içinde izleyin',
 	'<a href="http://unchecky.com/press#quotes">See what people are saying about Unchecky</a> or <a href="http://unchecky.com/press#videos">watch more videos</a>.':
-		'',
+		'<a href="http://unchecky.com/press#quotes">İnsanların Unchecky hakkında neler söylediğine bakın</a> veya <a href="http://unchecky.com/press#videos">daha fazla video izleyin</a>.',
 	
 	// Press
 	
@@ -81,7 +81,7 @@ jquery_lang_js.prototype.lang.tr = {
 	'Portuguese':
 		'Portekizce',
 	'Polish':
-		'',
+		'Polonyaca',
 	'Russian':
 		'Rusça',
 	'Spanish':
