@@ -58,9 +58,9 @@ jquery_lang_js.prototype.lang.ru = {
 		'Установил и забыл. Unchecky автоматически обновляется каждый раз, когда доступна новая версия, так что вам не придется беспокоиться об использовании актуальной версии.',
 	
 	'Watch Unchecky in action':
-		'Посмотри Unchecky в действии',
+		'Посмотрите Unchecky в действии',
 	'<a href="http://unchecky.com/press#quotes">See what people are saying about Unchecky</a> or <a href="http://unchecky.com/press#videos">watch more videos</a>.':
-		'<a href="http://unchecky.com/press#quotes">Посмотри что говорят об Unchecky люди</a> или <a href="http://unchecky.com/press#videos">взгляни на видео</a>.',
+		'<a href="http://unchecky.com/press#quotes">Посмотрите что говорят об Unchecky люди</a> или <a href="http://unchecky.com/press#videos">взгляните на дополнительные видео</a>.',
 	
 	// Press
 	
