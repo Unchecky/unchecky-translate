@@ -1,0 +1,7 @@
+IDS_CONFIRMATION_TEXT   "Você está prestes a instalar um programa potencialmente indesejado. Deseja prosseguir?"
+IDS_CONFIRMATION_YES    "&Sim (não recomendado)"
+IDS_CONFIRMATION_NO     "&Não"
+IDS_CONFIRMATION_OK     "OK (não recomendado)"
+IDS_CONFIRMATION_CANCEL "Cancelar"
+IDS_CONFIRMATION_MBOX_WARNING 
+                        "AVISO do Unchecky: você está sendo solicitado a instalar um programa potencialmente indesejado. Por favor, leia o texto abaixo com cuidado."
