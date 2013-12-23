@@ -90,6 +90,8 @@ jquery_lang_js.prototype.lang.tr = {
 		'İtalyanca',
 	'French':
 		'Fransızca',
+	'German':
+		'',
 	
 	// FAQ
 	

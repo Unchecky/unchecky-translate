@@ -90,6 +90,8 @@ jquery_lang_js.prototype.lang.ru = {
 		'Итальянский',
 	'French':
 		'Французский',
+	'German':
+		'',
 	
 	// FAQ
 	

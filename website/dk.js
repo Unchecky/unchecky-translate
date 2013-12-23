@@ -90,6 +90,8 @@ jquery_lang_js.prototype.lang.dk = {
 		'italiensk',
 	'French':
 		'fransk',
+	'German':
+		'',
 	
 	// FAQ
 	
