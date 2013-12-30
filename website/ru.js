@@ -91,7 +91,7 @@ jquery_lang_js.prototype.lang.ru = {
 	'French':
 		'Французский',
 	'German':
-		'',
+		'Немецкий',
 	
 	// FAQ
 	
