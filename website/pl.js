@@ -31,9 +31,9 @@ jquery_lang_js.prototype.lang.pl = {
 	// Home
 	
 	'Tired of unchecking unrelated offers while installing software?':
-		'Czy masz już dość dodatkowego oprogramowania pojawiącego się w czasie instalacji?',
+		'Masz dość dodatkowego oprogramowania pojawiącego się w czasie instalacji?',
 	'Have you ever felt, while installing software, that the installer tries to push additional unwanted programs at all cost? Ever missed a checkbox, and spent hours afterwards removing adware? Ever opened your browser after an installation, only to find out that you have a new homepage, a new search engine, or even a new browser?<br>Unchecky aims to keep potentially unwanted programs out of your computer.':
-		'Czy kiedykolwiek poczułeś, w czasie instalacji oprogramowania, że instalator usiłuje wcisnąć dodatkowe oprogramowanie za wszelką cenę? Kiedykolwiek nie zauważyłeś zaznaczonego okienka, a potem godzinami musiałeś odinstalowywać oprogramowanie reklamowe? Czy kiedykolwiek uruchomiłeś swoją ulubioną przeglądarkę, znajdując w niej nową stronę startową, nową wyszukiwarkę, albo uruchomiła się zupełnie inna przeglądarka?<br>Celem Unchecky jest trzymanie takich programów z dala od Twojego komputera.',
+		'Czy kiedykolwiek poczułeś w czasie instalacji oprogramowania, że instalator usiłuje wcisnąć dodatkowe oprogramowanie za wszelką cenę? Czy kiedykolwiek nie zauważyłeś zaznaczonego okienka, a potem godzinami musiałeś odinstalowywać oprogramowanie reklamowe? Czy kiedykolwiek uruchomiłeś swoją ulubioną przeglądarkę, znajdując w niej nową stronę startową, nową wyszukiwarkę albo uruchomiła się zupełnie inna przeglądarka?<br>Celem Unchecky jest trzymanie takich programów z dala od Twojego komputera.',
 	'Download':
 		'Pobierz tutaj',
 	
