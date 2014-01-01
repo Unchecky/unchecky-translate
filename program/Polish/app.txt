@@ -1,0 +1,18 @@
+IDS_LANGUAGE            "Polski"
+IDS_MAIN_WNDTITLE       "Unchecky"
+IDS_MAIN_TITLE          "Unchecky"
+IDS_MAIN_SUBTITLE       "Śmieci nie zaznaczamy"
+IDS_MAIN_STOP           "W&strzymaj usługę"
+IDS_MAIN_START          "U$ruchom usługę"
+IDS_MAIN_ABOUT          "&Informacje"
+IDS_MAINCTRL_TEXT       "Witamy w Unchecky - aplikacji, której zadaniem jest powstrzymanie śmieciowych dodatków przed dostawaniem się do Twojego komputera przy instalacji programów."
+IDS_MAINCTRL_TEXT_SVC_RUNNING "Usługa dozoru aktywna."
+IDS_MAINCTRL_TEXT_SVC_STOPPED 
+                        "Usługa dozoru czasowo wstrzymana, zastartuje po ponownym uruchomieniu komputera."
+IDS_MAINCTRL_TEXT_QUERYERROR 
+                        "Podczas sprawdzania stanu usługi dozoru Unchecky wystąpił nieokreślony błąd."
+IDS_MAINCTRL_LANG       "&Język:"
+IDS_ABOUT_WNDTITLE      "Informacje"
+IDS_ABOUT_BETA          "beta"
+IDS_ABOUT_TEXT          "Autor: <a href=""http://rammichael.com/"">RaMMicHaeL</a>\n\nTłumaczenie na polski: <a href=""mailto:Lukasz032@lslscripting.net"">Lukasz032</a>\n\n<a href=""http://unchecky.com/"">Strona internetowa</a>\n<a href=""http://unchecky.userecho.com/"">Zgłoś błąd/propozycję</a>\n<a href=""http://rammichael.com/donate"">Dotacja</a>"
+IDS_ERROR_LINK          "Nie mogę otworzyć linku!\n\nW celu poprawnego korzystania z linków do stron musisz posiadać przeglądarkę (nawet Internet Explorer).\nW celu użycia linków pocztowych, musisz mieć zainstalowanego klienta poczty elektronicznej (MS Office Outlook lub choćby Poczta systemu Windows)."
