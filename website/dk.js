@@ -25,8 +25,8 @@ jquery_lang_js.prototype.lang.dk = {
 	
 	// Footer
 	
-	'Copyright © 2013 <a href="http://rammichael.com/">RaMMicHaeL</a>.':
-		'Copyright © 2013 <a href="http://rammichael.com/">RaMMicHaeL</a>. Dansk oversættelse: <a href="mailto:fbjohansen@gmail.com?Subject=Unchecky">Finn Johansen</a>',
+	'Copyright © 2014 <a href="http://rammichael.com/">RaMMicHaeL</a>.':
+		'Copyright © 2014 <a href="http://rammichael.com/">RaMMicHaeL</a>. Dansk oversættelse: <a href="mailto:fbjohansen@gmail.com?Subject=Unchecky">Finn Johansen</a>',
 	
 	// Home
 	

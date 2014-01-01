@@ -25,8 +25,8 @@ jquery_lang_js.prototype.lang.pl = {
 	
 	// Footer
 	
-	'Copyright © 2013 <a href="http://rammichael.com/">RaMMicHaeL</a>.':
-		'Copyright © 2013 <a href="http://rammichael.com/">RaMMicHaeL</a>. Polskie tłumaczenie: <a href="mailto:pkolasa@outlook.com?Subject=Tłumaczenie Unchecky">Piotr Kolasa</a>',
+	'Copyright © 2014 <a href="http://rammichael.com/">RaMMicHaeL</a>.':
+		'Copyright © 2014 <a href="http://rammichael.com/">RaMMicHaeL</a>. Polskie tłumaczenie: <a href="mailto:pkolasa@outlook.com?Subject=Tłumaczenie Unchecky">Piotr Kolasa</a>',
 	
 	// Home
 	

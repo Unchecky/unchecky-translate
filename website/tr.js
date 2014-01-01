@@ -25,8 +25,8 @@ jquery_lang_js.prototype.lang.tr = {
 	
 	// Footer
 	
-	'Copyright © 2013 <a href="http://rammichael.com/">RaMMicHaeL</a>.':
-		'Telif hakkı © 2013 <a href="http://rammichael.com/">RaMMicHaeL</a>. Türkçe çeviri : <a href="mailto:fatihfirinci@gmail.com">Fatih Fırıncı</a>.',
+	'Copyright © 2014 <a href="http://rammichael.com/">RaMMicHaeL</a>.':
+		'Telif hakkı © 2014 <a href="http://rammichael.com/">RaMMicHaeL</a>. Türkçe çeviri : <a href="mailto:fatihfirinci@gmail.com">Fatih Fırıncı</a>.',
 	
 	// Home
 	
