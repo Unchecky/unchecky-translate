@@ -59,8 +59,8 @@ jquery_lang_js.prototype.lang.ru = {
 	
 	'Watch Unchecky in action':
 		'Посмотрите Unchecky в действии',
-	'<a href="http://unchecky.com/press#quotes">See what people are saying about Unchecky</a> or <a href="http://unchecky.com/press#videos">watch more videos</a>.':
-		'<a href="http://unchecky.com/press#quotes">Посмотрите что говорят об Unchecky люди</a> или <a href="http://unchecky.com/press#videos">взгляните на дополнительные видео</a>.',
+	'<a href="press#quotes">See what people are saying about Unchecky</a> or <a href="press#videos">watch more videos</a>.':
+		'<a href="press#quotes">Посмотрите что говорят об Unchecky люди</a> или <a href="press#videos">взгляните на дополнительные видео</a>.',
 	
 	// Press
 	
