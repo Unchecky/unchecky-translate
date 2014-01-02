@@ -17,5 +17,5 @@ IDS_EXTRACTRL_BROWSE_TEXT
 IDS_FINISHCTRL_TEXT     "Unchecky został pomyślnie zainstalowany.\n\nKliknij Zakończ, aby zamknąć to okno."
 IDS_MAIN_ERROR_UNCHECKY_RUNNING 
                         "Zamknij wszelkie uruchomione kopie programu Unchecky, zanim będziemy mogli kontynuować."
-IDS_MAIN_UPDATE         "Rozpocznij &aktualizację"
+IDS_MAIN_UPDATE         "&Aktualizuj"
 IDS_MAIN_UPDATING       "&Aktualizowanie..."
