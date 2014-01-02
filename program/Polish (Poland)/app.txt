@@ -17,7 +17,7 @@ IDS_MAINCTRL_STATS_NONE_NEWGUY
                         "Wygląda na to, że dopiero od niedawna używasz Unchecky. Na razie więc nie ma danych do pokazania."
 IDS_MAINCTRL_STATS_NONE "Jak dotąd, nie odznaczono żadnych ofert. Gratulujemy! Wygląda na to, że unikasz oprogramowania zawierającego niechciane oferty."
 IDS_MAINCTRL_STATS      "Od dnia %s, odznaczono %u ofert%s."
-IDS_MAINCTRL_STATS_WARNING " oraz wyświetlono %u ostrzeżeń."
+IDS_MAINCTRL_STATS_WARNING " oraz wyświetlono %u ostrzeżeń"
 IDS_MAINCTRL_STOP       "&Zatrzymaj usługę"
 IDS_MAINCTRL_START      "&Wznów usługę"
 IDS_CONFIG_LANG         "&Język:"
