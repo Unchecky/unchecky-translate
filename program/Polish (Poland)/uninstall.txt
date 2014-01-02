@@ -1,0 +1,13 @@
+IDS_LANGUAGE            "Polski"
+IDS_MAIN_WNDTITLE       "Dezinstalacja Unchecky"
+IDS_MAIN_TITLE          "Unchecky"
+IDS_MAIN_SUBTITLE       "Śmieci nie zaznaczamy"
+IDS_MAIN_INSTALL        "&Odinstaluj"
+IDS_MAIN_INSTALLING     "&Odinstalowywuję..."
+IDS_MAIN_FINISH         "&Koniec"
+IDS_MAINCTRL_TEXT       "Następująca dystrybucja Unchecky zostanie odinstalowana. Kliknij Odinstaluj, żeby kontynuować."
+IDS_MAINCTRL_PATHTEXT   "Dezinstalacja z:"
+IDS_MAINCTRL_REMOVE_SETTINGS "U%suń ustawienia"
+IDS_FINISHCTRL_TEXT     "Unchecky został odinstalowany poprawnie i nie chroni dłużej komputera.\n\nKliknij Koniec, aby opuścić instalator."
+IDS_MAIN_ERROR_UNCHECKY_RUNNING 
+                        "Unchecky działa. Nie odinstaluję aplikacji, dopóki jej nie zamkniesz."
