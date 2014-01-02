@@ -1,4 +1,4 @@
-jquery_lang_js.prototype.lang.fr = {
+jquery_lang_js.prototype.lang.nl = {
 	
 	// Header
 	
@@ -26,7 +26,7 @@ jquery_lang_js.prototype.lang.fr = {
 	// Footer
 	
 	'Copyright © 2014 <a href="http://rammichael.com/">RaMMicHaeL</a>.':
-		'Copyright © 2014 <a href="http://rammichael.com/">RaMMicHaeL</a>. Nederlandse vertaling: <a href="mailto:contact#studio384.be?Subject=Unchecky">Studio 384</a>.',
+		'Copyright © 2014 <a href="http://rammichael.com/">RaMMicHaeL</a>. Nederlandse vertaling: <a href="mailto:contact@studio384.be?Subject=Unchecky">Studio 384</a>.',
 	
 	// Home
 	
