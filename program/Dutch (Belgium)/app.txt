@@ -15,8 +15,8 @@ IDS_MAINCTRL_TEXT_QUERYERROR
 IDS_MAINCTRL_STATS_NONE_NEWGUY 
                         "Het lijkt erop dat Unchecky pas is geïnstalleerd. Er is nog geen data."
 IDS_MAINCTRL_STATS_NONE "Geen selectievakjes zijn tot nu toe gedeselecteerd. Blijkbaar blijft u goed uit de buurt van software met ongewenste programma's!"
-IDS_MAINCTRL_STATS      "Sinds %s zijn er %u selectievakjes gedeselecteerd%s"
-IDS_MAINCTRL_STATS_WARNING " en %u waarschuwingen getoond."
+IDS_MAINCTRL_STATS      "Sinds %s zijn er %u selectievakjes gedeselecteerd%s."
+IDS_MAINCTRL_STATS_WARNING " en %u waarschuwingen getoond"
 IDS_MAINCTRL_STOP       "&Onderbreek service"
 IDS_MAINCTRL_START      "&Hervat service"
 IDS_CONFIG_LANG         "&Taal:"
