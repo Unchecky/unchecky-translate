@@ -1,0 +1,7 @@
+IDS_CONFIRMATION_TEXT   "Próbujesz zainstalować (prawdopodobnie przez przypadek) zupełnie nieprzydatny program lub komponent, który może zainfekować lub znacząco spowolnić Twój komputer. Czy na pewno o to Ci chodzi?"
+IDS_CONFIRMATION_YES    "Dam się s&kusić"
+IDS_CONFIRMATION_NO     "&Nie, chcę być bezpieczny!"
+IDS_CONFIRMATION_OK     "OK (ostrzegaliśmy!)"
+IDS_CONFIRMATION_CANCEL "Wróć"
+IDS_CONFIRMATION_MBOX_WARNING 
+                        "Ostrzeżenie Unchecky: będą Cię tutaj prosić o zainstalowanie ""przy okazji"" kolejnego zupełnie nieprzydatnego paska do przeglądarki, może wyszukiwarki, a nawet wirusa. Czytaj dokładnie i anuluj wszystkie podejrzane opcje!"
