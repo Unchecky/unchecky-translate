@@ -13,15 +13,15 @@ IDS_MAINCTRL_TEXT_SVC_STOPPED
 IDS_MAINCTRL_TEXT_QUERYERROR 
                         "Unchecky teenuse staatuse päringul ilmnes viga."
 IDS_MAINCTRL_STATS_NONE_NEWGUY 
-                        "Paistab, et Unchecky on arvutisse hiljuti paigaldatud. Puuduvad andmed, mida näidata."
-IDS_MAINCTRL_STATS_NONE "Märkekaste pole veel puhastatud. Tundub, et sa hoidud tarkvarast, mis sisaldab potentsiaalselt soovimatut tarkvara. Tubli töö!!"
-IDS_MAINCTRL_STATS      "Alates %s, %u märkekasti on puhastatud%s."
-IDS_MAINCTRL_STATS_WARNING " ja %u hoiatust on kuvatud"
+                        "Paistab, et Unchecky on arvutisse hiljuti paigaldatud. Seepärast puudub statistika, mida kuvada."
+IDS_MAINCTRL_STATS_NONE "Märkekaste pole veel puhastatud. Tundub, et sa hoidud tarkvarast, mis omakorda sisaldab potentsiaalselt soovimatut tarkvara. Tubli töö!!"
+IDS_MAINCTRL_STATS      "Alates %s on puhastatud %u märkekasti%s."
+IDS_MAINCTRL_STATS_WARNING " ja kuvatud %u hoiatust"
 IDS_MAINCTRL_STOP       "&Peata teenus"
 IDS_MAINCTRL_START      "&Käivita teenus"
 IDS_CONFIG_LANG         "&Keel:"
 IDS_CONFIG_EMPTY_MESSAGE 
-                        "Seadete leht tundub hetkel natuke tühi. Rohkem valikuid on planeeritud tulevikuks."
+                        "Seadete leht tundub hetkel natuke tühi. Me teame seda. Rohkem valikuid on planeeritud tulevikuks."
 IDS_CONFIG_ADVANCED     "Tä&psemad seaded"
 IDS_ABOUT_BETA          "beta"
 IDS_ABOUT_AUTHOR        "Autor <a href=""http://rammichael.com/"">RaMMicHaeL</a> • Tõlkis <a href=""mailto:lauri.sade@ekaitse.ee"">Lauri Säde</a>"
@@ -30,5 +30,5 @@ IDS_ERROR_LINK          "Lingi avamine nurjus.\n\nLinkide avamiseks peab arvutis
 IDS_ADVOPT_TITLE        "Täpsemad seaded"
 IDS_ADVOPT_NO_UPDATES   "Lülita automaatne &uuendamine välja"
 IDS_ADVOPT_NO_HOSTS     "Ära kasuta &hosts faili reegleid"
-IDS_ADVOPT_WARNING_TEXT "Ära puutu ülalolevaid seadeid, kui sa ei tea, mida teed! Need seaded muudavad Unchecky ebaefektiivseks. Muuda neid ainult tungival vajadusel."
+IDS_ADVOPT_WARNING_TEXT "Ära muuda ülalolevaid seadeid, kui sa ei tea, mida teed! Need seaded muudavad Unchecky ebaefektiivseks. Muuda neid ainult tungival vajadusel."
 IDS_ADVOPT_RESTART_TEXT "Muudatuste rakendamiseks peab Unchecky teenuse taaskäivitama."
