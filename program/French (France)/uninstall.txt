@@ -1,5 +1,5 @@
 IDS_LANGUAGE            "Français"
-IDS_MAIN_WNDTITLE       "Désinstallation d'Unchecky"
+IDS_MAIN_WNDTITLE       "Désinstallation d'Unchecky v%s"
 IDS_MAIN_TITLE          "Unchecky"
 IDS_MAIN_SUBTITLE       "Gardez vos cases à cocher vides"
 IDS_MAIN_INSTALL        "&Désinstallation"

@@ -1,5 +1,5 @@
 IDS_LANGUAGE            "Português Brasileiro"
-IDS_MAIN_WNDTITLE       "Desinstalação do Unchecky"
+IDS_MAIN_WNDTITLE       "Desinstalação do Unchecky v%s"
 IDS_MAIN_TITLE          "Unchecky"
 IDS_MAIN_SUBTITLE       "Mantém as caixas de seleção desmarcadas"
 IDS_MAIN_INSTALL        "&Desinstalar"

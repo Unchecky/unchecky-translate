@@ -1,5 +1,5 @@
 IDS_LANGUAGE            "English"
-IDS_MAIN_WNDTITLE       "Unchecky Uninstall"
+IDS_MAIN_WNDTITLE       "Unchecky v%s Uninstall"
 IDS_MAIN_TITLE          "Unchecky"
 IDS_MAIN_SUBTITLE       "Keeps your checkboxes clear"
 IDS_MAIN_INSTALL        "&Uninstall"

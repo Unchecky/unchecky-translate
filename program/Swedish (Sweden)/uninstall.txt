@@ -1,5 +1,5 @@
 IDS_LANGUAGE            "Svenska"
-IDS_MAIN_WNDTITLE       "Unchecky Avinstallation"
+IDS_MAIN_WNDTITLE       "Unchecky v%s Avinstallation"
 IDS_MAIN_TITLE          "Unchecky"
 IDS_MAIN_SUBTITLE       "Tömmer din kryssrutor"
 IDS_MAIN_INSTALL        "&Avinstallera"

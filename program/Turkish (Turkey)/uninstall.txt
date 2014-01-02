@@ -1,5 +1,5 @@
 IDS_LANGUAGE            "Türkçe"
-IDS_MAIN_WNDTITLE       "Unchecky Programını Kaldır"
+IDS_MAIN_WNDTITLE       "Unchecky v%s Programını Kaldır"
 IDS_MAIN_TITLE          "Unchecky"
 IDS_MAIN_SUBTITLE       "Onay kutularınızı temiz tutar"
 IDS_MAIN_INSTALL        "&Kaldır"
