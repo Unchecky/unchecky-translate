@@ -14,7 +14,7 @@ IDS_MAINCTRL_TEXT_QUERYERROR
                         "Unchecky teenuse staatuse päringul ilmnes viga."
 IDS_MAINCTRL_STATS_NONE_NEWGUY 
                         "Paistab, et Unchecky on arvutisse hiljuti paigaldatud. Seepärast puudub statistika, mida kuvada."
-IDS_MAINCTRL_STATS_NONE "Märkekaste pole veel puhastatud. Tundub, et sa hoidud tarkvarast, mis omakorda sisaldab potentsiaalselt soovimatut tarkvara. Tubli töö!!"
+IDS_MAINCTRL_STATS_NONE "Märkekaste pole veel puhastatud. Tundub, et sa hoidud tarkvarast, mis omakorda sisaldab potentsiaalselt soovimatut tarkvara. Tubli töö!"
 IDS_MAINCTRL_STATS      "Alates %s on puhastatud %u märkekasti%s."
 IDS_MAINCTRL_STATS_WARNING " ja kuvatud %u hoiatust"
 IDS_MAINCTRL_STOP       "&Peata teenus"
