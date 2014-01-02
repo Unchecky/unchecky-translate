@@ -1,0 +1,18 @@
+IDS_LANGUAGE            "Polski"
+IDS_MAIN_WNDTITLE       "Unchecky"
+IDS_MAIN_TITLE          "Unchecky"
+IDS_MAIN_SUBTITLE       "Odznacz niepotrzebne opcje"
+IDS_MAIN_STOP           "&Zatrzymaj usługę"
+IDS_MAIN_START          "&Wznów usługę"
+IDS_MAIN_ABOUT          "O progr&amie"
+IDS_MAINCTRL_TEXT       "Witaj w programie Unchecky, jedynym obrońcy przed potencjalnie niechcianymi programami (PUP), takimi jak paski narzędziowe, które instalują się razem z innymi programami."
+IDS_MAINCTRL_TEXT_SVC_RUNNING "Usługa programu Unchecky działa i zapewnia ochronę."
+IDS_MAINCTRL_TEXT_SVC_STOPPED 
+                        "Usługa programu Unchecky jest zatrzymana. Jej działanie zostanie wznowione po ponownym uruchomieniu komputera."
+IDS_MAINCTRL_TEXT_QUERYERROR 
+                        "Wystąpił błąd podczas sprawdzania statusu usługi programu Unchecky."
+IDS_MAINCTRL_LANG       "&Język:"
+IDS_ABOUT_WNDTITLE      "O programie"
+IDS_ABOUT_BETA          "beta"
+IDS_ABOUT_TEXT          "Autor: <a href=""http://rammichael.com/"">RaMMicHaeL</a>\n\nTranslated by Piotr Kolasa\n<a href=""mailto:pkolasa@outlook.com"">pkolasa@outlook.com</a>\n\n<a href=""http://unchecky.com/"">WWW:</a>\n<a href=""http://unchecky.userecho.com/"">Zgłaszanie błędów:</a>\n<a href=""http://rammichael.com/donate"">Dotacja</a>"
+IDS_ERROR_LINK          "Nie można otworzyć odnośnika.\n\nAby otworzyć odnośnik, musisz mieć zainstalowaną przeglądarkę internetową (taką jak Internet Explorer). Aby wysłać e-mail, musisz mieć klienta poczty (takiego jak Poczta systemu Windows albo Outlook)."
