@@ -30,5 +30,5 @@ IDS_ERROR_LINK          "Link kunne ikke åbnes.\n\nFor at kunne åbne weblinks 
 IDS_ADVOPT_TITLE        "Advanced Settings"
 IDS_ADVOPT_NO_UPDATES   "Disable automatic &updates"
 IDS_ADVOPT_NO_HOSTS     "Don't use &hosts file rules"
-IDS_ADVOPT_WARNING_TEXT "Do not touch the settings above if you don't know what you're doing! These settings will make Unchecky uneffective. Only use these settings if you really have to, and if you know what they mean."
+IDS_ADVOPT_WARNING_TEXT "Do not touch the settings above if you don't know what you're doing! These settings will make Unchecky uneffective. Only change these settings if you really have to, and if you know what they mean."
 IDS_ADVOPT_RESTART_TEXT "The Unchecky service has to be restarted for the settings to take effect."
