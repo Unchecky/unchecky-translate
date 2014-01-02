@@ -1,0 +1,13 @@
+IDS_LANGUAGE            "Polski"
+IDS_MAIN_WNDTITLE       "Deinstalator programu Unchecky"
+IDS_MAIN_TITLE          "Unchecky"
+IDS_MAIN_SUBTITLE       "Odznacz niepotrzebne opcje"
+IDS_MAIN_INSTALL        "&Odinstaluj"
+IDS_MAIN_INSTALLING     "&Odinstalowywanie..."
+IDS_MAIN_FINISH         "&Zakończ"
+IDS_MAINCTRL_TEXT       "Unchecky zostanie odinstalowany z następującego folderu. Kliknij Odinstaluj, aby rozpocząć proces."
+IDS_MAINCTRL_PATHTEXT   "Usuwanie Unchecky z:"
+IDS_MAINCTRL_REMOVE_SETTINGS "Usuń zapisane &ustawienia"
+IDS_FINISHCTRL_TEXT     "Unchecky został odinstalowany z Twojego komputera.\n\nKliknij Zakończ, aby zamknąć to okno."
+IDS_MAIN_ERROR_UNCHECKY_RUNNING 
+                        "Zamknij wszelkie uruchomione kopie programu Unchecky, zanim będziemy mogli kontynuować."
