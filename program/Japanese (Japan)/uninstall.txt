@@ -1,0 +1,13 @@
+﻿IDS_LANGUAGE            "日本語"
+IDS_MAIN_WNDTITLE       "Unchecky v%s アンインストール"
+IDS_MAIN_TITLE          "Unchecky"
+IDS_MAIN_SUBTITLE       "チェックボックスを除去します"
+IDS_MAIN_INSTALL        "アンインストール(&U)"
+IDS_MAIN_INSTALLING     "アンインストール中(&U)..."
+IDS_MAIN_FINISH         "終了(&F)"
+IDS_MAINCTRL_TEXT       "Uncheckyは次のフォルダからアンインストールされます。[アンインストール]をクリックするとアンインストール作業を開始します。"
+IDS_MAINCTRL_PATHTEXT   "アンインストール中："
+IDS_MAINCTRL_REMOVE_SETTINGS "保存された設定を削除する(&S)"
+IDS_FINISHCTRL_TEXT     "Uncheckyがコンピューターから削除されました。\n\n[終了]をクリックするとセットアップ画面を閉じます。"
+IDS_MAIN_ERROR_UNCHECKY_RUNNING 
+                        "続行する前にUncheckyのすべてのインスタンスを閉じてください"
