@@ -15,7 +15,7 @@ IDS_MAINCTRL_TEXT_QUERYERROR
 IDS_MAINCTRL_STATS_NONE_NEWGUY 
                         "Sembra che Unchecky sia stato installato da poco. Non ci sono ancora dati da mostrare."
 IDS_MAINCTRL_STATS_NONE "Nessuna checkbox è stata disattivata finora. Sembra che tu stia lontano dai pacchetti software che contengono programmi potenzialmente non voluti, ottimo lavoro!"
-IDS_MAINCTRL_STATS      "Dal %s, %u checkbox sono state disattivate%s"
+IDS_MAINCTRL_STATS      "Dal %s, %u checkbox sono state disattivate%s."
 IDS_MAINCTRL_STATS_WARNING " e ho visualizzato %u messaggi di avviso."
 IDS_MAINCTRL_STOP       "&Ferma il servizio"
 IDS_MAINCTRL_START      "&Avvia il servizio"
