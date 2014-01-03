@@ -1,0 +1,13 @@
+IDS_LANGUAGE            "语言"
+IDS_MAIN_WNDTITLE       "Unchecky v%s卸载"
+IDS_MAIN_TITLE          "Unchecky"
+IDS_MAIN_SUBTITLE       "保持你的复选框空白"
+IDS_MAIN_INSTALL        "&卸载"
+IDS_MAIN_INSTALLING     "&正在卸载……"
+IDS_MAIN_FINISH         "&完成"
+IDS_MAINCTRL_TEXT       "Unchecky将从以下文件夹中卸载。点击“卸载”开始卸载。"
+IDS_MAINCTRL_PATHTEXT   "卸载从："
+IDS_MAINCTRL_REMOVE_SETTINGS "移除保存的&设置"
+IDS_FINISHCTRL_TEXT     "Unchecky已从你的电脑中卸载。\n\n点击“完成”关闭安装。"
+IDS_MAIN_ERROR_UNCHECKY_RUNNING 
+                        "请在继续前关闭所有Unchecky实例"

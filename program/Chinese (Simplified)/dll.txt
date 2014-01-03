@@ -1,0 +1,7 @@
+IDS_CONFIRMATION_TEXT   "你将要安装一款潜在的不需要的程序。你确定要继续吗？"
+IDS_CONFIRMATION_YES    "&是（不推荐）"
+IDS_CONFIRMATION_NO     "&否"
+IDS_CONFIRMATION_OK     "确定（不推荐）"
+IDS_CONFIRMATION_CANCEL "取消"
+IDS_CONFIRMATION_MBOX_WARNING 
+                        "Unchecky的警告：将正在被要求安装一款潜在的不需要的程序。请仔细阅读下面的文字。"
