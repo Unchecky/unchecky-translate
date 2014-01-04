@@ -60,7 +60,7 @@ jquery_lang_js.prototype.lang.ru = {
 	'Watch Unchecky in action':
 		'Посмотрите Unchecky в действии',
 	'<a href="press#quotes">See what people are saying about Unchecky</a> or <a href="press#videos">watch more videos</a>.':
-		'<a href="press#quotes">Посмотрите что говорят об Unchecky люди</a> или <a href="press#videos">взгляните на дополнительные видео</a>.',
+		'<a href="press#quotes">Посмотрите, что говорят об Unchecky люди</a>, или <a href="press#videos">взгляните на дополнительные видео</a>.',
 	
 	// Press
 	
@@ -134,9 +134,9 @@ jquery_lang_js.prototype.lang.ru = {
 		'Отправить',
 		
 	'Please fill in all fields.':
-		'Пожалуйста заполните все поля.',
+		'Пожалуйста, заполните все поля.',
 	'Please enter a valid email address.':
-		'Пожалуйста введите действующий адрес электронной почты.',
+		'Пожалуйста, введите действующий адрес электронной почты.',
 	'Could not complete your request.':
 		'Не удалось выполнить ваш запрос.',
 	'The message has been sent successfully.':
