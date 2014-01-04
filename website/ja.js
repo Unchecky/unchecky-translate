@@ -5,11 +5,11 @@
 	'Home':
 		'ホーム',
 	'Press':
-		'プレス',
+		'報道',
 	'FAQ':
 		'よくある質問',
 	'Changelog':
-		'',
+		'更新履歴',
 	'Contact':
 		'コンタクト',
 	'Links':
@@ -33,7 +33,7 @@
 	'Tired of unchecking unrelated offers while installing software?':
 		'ソフトウェアのインストール中、関連性のないオファーのチェックを外すのはうんざりですか？',
 	'Have you ever felt, while installing software, that the installer tries to push additional unwanted programs at all cost? Ever missed a checkbox, and spent hours afterwards removing adware? Ever opened your browser after an installation, only to find out that you have a new homepage, a new search engine, or even a new browser?<br>Unchecky aims to keep potentially unwanted programs out of your computer.':
-		'ソフトウェアのインストール中に不要なプログラムのチェックを外してインストールすることを煩わしく感じたことはありませんか？ またチェックを外し忘れ、その後にアドウェアを削除する時間を要したことはありませんか？さらにプログラムをインストール後、ブラウザを開いた際にホーム設定当が改ざんされたということはありませんか？<br>Uncheckyはお使いのコンピューターに、不要なプログラムを導入させないことを目指しています。',
+		'ソフトウェアのインストール中に不要なプログラムのチェックを外してインストールすることを煩わしく感じたことはありませんか？ またチェックを外し忘れ、その後にアドウェアを削除する時間を要したことはありませんか？さらにプログラムをインストール後、ブラウザを開いた際にホーム設定等が改ざんされたということはありませんか？<br>Uncheckyはお使いのコンピューターに、不要なプログラムを導入させないことを目指しています。',
 	'Download':
 		'ダウンロード',
 	
@@ -55,7 +55,7 @@
 	'Updates automatically':
 		'自動更新',
 	'Install and forget. Unchecky automatically updates whenever a new version is available, so you don\'t have to worry about running the latest version.':
-		'インストールして忘れてしまった。しかしUncheckyは新しいバージョンが公開された際に自動的に更新されるため、いつでも最新の状態を保つことが出来るので心配はいりません。',
+		'新しいバージョンのインストールを忘れてしまった。しかしUncheckyは新しいバージョンが公開された際に自動的に更新されるため、いつでも最新の状態を保つことが出来るので心配はいりません。',
 	
 	'Watch Unchecky in action':
 		'アクションでUncheckyを見る',
@@ -79,19 +79,19 @@
 		'Uncheckyの実証',
 	
 	'Portuguese':
-		'',
+		'ポルトガル語',
 	'Polish':
-		'',
+		'ポーランド語',
 	'Russian':
-		'',
+		'ロシア語',
 	'Spanish':
-		'',
+		'スペイン語',
 	'Italian':
-		'',
+		'イタリア語',
 	'French':
-		'',
+		'フランス語',
 	'German':
-		'',
+		'ドイツ語',
 	
 	// FAQ
 	

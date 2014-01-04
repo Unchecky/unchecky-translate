@@ -26,7 +26,7 @@ jquery_lang_js.prototype.lang.zh_cn = {
 	// Footer
 	
 	'Copyright © 2014 <a href="http://rammichael.com/">RaMMicHaeL</a>.':
-		'版权所有 © 2014 <a href="http://rammichael.com/">RaMMicHaeL</a>。',
+		'版权所有 © 2014 <a href="http://rammichael.com/">RaMMicHaeL</a>。 由 <a href="mailto:jgzll@sina.com">Zhe Zhang翻译</a>。',
 	
 	// Home
 	
