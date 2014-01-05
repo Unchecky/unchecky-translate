@@ -5,9 +5,12 @@ IDS_MAIN_SUBTITLE       "Mantenga las casillas limpias"
 IDS_MAIN_INSTALL        "&Desinstalar"
 IDS_MAIN_INSTALLING     "&Desinstalando..."
 IDS_MAIN_FINISH         "&Terminar"
+IDS_MAIN_ERROR_UNCHECKY_RUNNING 
+                        "Please close all instances of Unchecky before proceeding"
 IDS_MAINCTRL_TEXT       "Unchecky sera desinstalado de la siguiente carpeta. Presione Desinstalar para iniciar la desinstalacion."
 IDS_MAINCTRL_PATHTEXT   "Desinstalando desde:"
 IDS_MAINCTRL_REMOVE_SETTINGS "Eliminar configuraciones &guardadas"
-IDS_FINISHCTRL_TEXT     "Unchecky ha sido desinstalado de su equipo.\n\nPresione Terminar para cerrar la configuracion."
-IDS_MAIN_ERROR_UNCHECKY_RUNNING 
-                        "Please close all instances of Unchecky before proceeding"
+IDS_FINISHCTRL_TEXT1    "Unchecky ha sido desinstalado de su equipo."
+IDS_FINISHCTRL_ERROR_NOTE 
+                        "Some elements could not be removed. These can be removed manually."
+IDS_FINISHCTRL_TEXT2    "Presione Terminar para cerrar la configuracion."

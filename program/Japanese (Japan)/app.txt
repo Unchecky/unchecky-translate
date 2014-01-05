@@ -1,4 +1,4 @@
-﻿IDS_LANGUAGE            "日本語"
+IDS_LANGUAGE            "日本語"
 IDS_OK                  "OK"
 IDS_CANCEL              "キャンセル"
 IDS_APPLY               "適用(&A)"

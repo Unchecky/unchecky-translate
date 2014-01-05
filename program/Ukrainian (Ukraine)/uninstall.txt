@@ -5,9 +5,12 @@ IDS_MAIN_SUBTITLE       "Keeps your checkboxes clear"
 IDS_MAIN_INSTALL        "Ви&далення"
 IDS_MAIN_INSTALLING     "Ви&далення..."
 IDS_MAIN_FINISH         "&Виконано"
+IDS_MAIN_ERROR_UNCHECKY_RUNNING 
+                        "Please close all instances of Unchecky before proceeding"
 IDS_MAINCTRL_TEXT       "Програму Unchecky буде видалено з вашого ПК. Натисніть 'Видалити', щоб виконати цю дію."
 IDS_MAINCTRL_PATHTEXT   "Видалення з:"
 IDS_MAINCTRL_REMOVE_SETTINGS "Видалити збережені &налаштування"
-IDS_FINISHCTRL_TEXT     "Програму Unchecky видалено з вашого комп'ютеру.\n\nНатисніть «Виконано» для виходу з програми видалення."
-IDS_MAIN_ERROR_UNCHECKY_RUNNING 
-                        "Please close all instances of Unchecky before proceeding"
+IDS_FINISHCTRL_TEXT1    "Програму Unchecky видалено з вашого комп'ютеру."
+IDS_FINISHCTRL_ERROR_NOTE 
+                        "Some elements could not be removed. These can be removed manually."
+IDS_FINISHCTRL_TEXT2    "Натисніть «Виконано» для виходу з програми видалення."

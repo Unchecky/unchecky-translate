@@ -5,9 +5,12 @@ IDS_MAIN_SUBTITLE       "Keeps your checkboxes clear"
 IDS_MAIN_INSTALL        "&Uninstall"
 IDS_MAIN_INSTALLING     "&Uninstalling..."
 IDS_MAIN_FINISH         "&Finish"
+IDS_MAIN_ERROR_UNCHECKY_RUNNING 
+                        "Please close all instances of Unchecky before proceeding"
 IDS_MAINCTRL_TEXT       "Unchecky will be uninstalled from the following folder. Click Uninstall to start the uninstallation."
 IDS_MAINCTRL_PATHTEXT   "Uninstalling from:"
 IDS_MAINCTRL_REMOVE_SETTINGS "Remove saved &settings"
-IDS_FINISHCTRL_TEXT     "Unchecky has been uninstalled from your computer.\n\nClick Finish to close Setup."
-IDS_MAIN_ERROR_UNCHECKY_RUNNING 
-                        "Please close all instances of Unchecky before proceeding"
+IDS_FINISHCTRL_TEXT1    "Unchecky has been uninstalled from your computer."
+IDS_FINISHCTRL_ERROR_NOTE 
+                        "Some elements could not be removed. These can be removed manually."
+IDS_FINISHCTRL_TEXT2    "Click Finish to close Setup."

@@ -5,9 +5,12 @@ IDS_MAIN_SUBTITLE       "Gardez vos cases à cocher vides"
 IDS_MAIN_INSTALL        "&Désinstallation"
 IDS_MAIN_INSTALLING     "&Désinstallation..."
 IDS_MAIN_FINISH         "&Fin"
+IDS_MAIN_ERROR_UNCHECKY_RUNNING 
+                        "Veuillez fermer Unchecky avant de continuer."
 IDS_MAINCTRL_TEXT       "Unchecky installé dans le dossier suivant, sera désinstallé. Cliquez sur ""Désinstaller"" afin de lancer la désinstallation."
 IDS_MAINCTRL_PATHTEXT   "Désinstaller depuis:"
 IDS_MAINCTRL_REMOVE_SETTINGS "Suppression enregistrée &options"
-IDS_FINISHCTRL_TEXT     "Unchecky a été désinstallé de votre ordinateur.\n\nCliquez sur Fin afin de fermer l'assistant de désinstallation."
-IDS_MAIN_ERROR_UNCHECKY_RUNNING 
-                        "Veuillez fermer Unchecky avant de continuer."
+IDS_FINISHCTRL_TEXT1    "Unchecky a été désinstallé de votre ordinateur."
+IDS_FINISHCTRL_ERROR_NOTE 
+                        "Some elements could not be removed. These can be removed manually."
+IDS_FINISHCTRL_TEXT2    "Cliquez sur Fin afin de fermer l'assistant de désinstallation."

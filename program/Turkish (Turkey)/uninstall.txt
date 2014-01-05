@@ -5,9 +5,12 @@ IDS_MAIN_SUBTITLE       "Onay kutularınızı temiz tutar"
 IDS_MAIN_INSTALL        "&Kaldır"
 IDS_MAIN_INSTALLING     "&Kaldırılıyor..."
 IDS_MAIN_FINISH         "&Bitir"
+IDS_MAIN_ERROR_UNCHECKY_RUNNING 
+                        "Lütfen devam etmeden önce Unchecky'nin tüm örneklerini kapatın"
 IDS_MAINCTRL_TEXT       "Unchecky aşağıdaki dizinden kaldırılacak. Kaldırmayı başlatmak için Kaldır düğmesine tıklayın."
 IDS_MAINCTRL_PATHTEXT   "Kaldırılacak yer:"
 IDS_MAINCTRL_REMOVE_SETTINGS "Kaydedilmiş ayarları da &kaldır"
-IDS_FINISHCTRL_TEXT     "Unchecky bilgisayarınızdan kaldırıldı.\n\nKurulumu kapatmak için Bitir düğmesine tıklayın."
-IDS_MAIN_ERROR_UNCHECKY_RUNNING 
-                        "Lütfen devam etmeden önce Unchecky'nin tüm örneklerini kapatın"
+IDS_FINISHCTRL_TEXT1    "Unchecky bilgisayarınızdan kaldırıldı."
+IDS_FINISHCTRL_ERROR_NOTE 
+                        "Some elements could not be removed. These can be removed manually."
+IDS_FINISHCTRL_TEXT2    "Kurulumu kapatmak için Bitir düğmesine tıklayın."

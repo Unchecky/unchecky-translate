@@ -5,9 +5,12 @@ IDS_MAIN_SUBTITLE       "Keeps your checkboxes clear"
 IDS_MAIN_INSTALL        "Уд&алить"
 IDS_MAIN_INSTALLING     "Уд&аление..."
 IDS_MAIN_FINISH         "&Готово"
+IDS_MAIN_ERROR_UNCHECKY_RUNNING 
+                        "Пожалуйста, закройте все экземпляры программы Unchecky прежде чем продолжить"
 IDS_MAINCTRL_TEXT       "Программа Unchecky будет удалена из вашего ПК. Нажмите кнопку 'Удалить', чтобы удалить программу."
 IDS_MAINCTRL_PATHTEXT   "Удаление из:"
 IDS_MAINCTRL_REMOVE_SETTINGS "Удалить сохраненные &настройки"
-IDS_FINISHCTRL_TEXT     "Программа Unchecky удалена из вашего компьютера.\n\nНажмите кнопку «Готово» для выхода из программы удаления."
-IDS_MAIN_ERROR_UNCHECKY_RUNNING 
-                        "Пожалуйста, закройте все экземпляры программы Unchecky прежде чем продолжить"
+IDS_FINISHCTRL_TEXT1    "Программа Unchecky удалена из вашего компьютера."
+IDS_FINISHCTRL_ERROR_NOTE 
+                        "Часть элементов не удалось удалить. Вы можете удалить их самостоятельно."
+IDS_FINISHCTRL_TEXT2    "Нажмите кнопку «Готово» для выхода из программы удаления."

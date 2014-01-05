@@ -5,9 +5,12 @@ IDS_MAIN_SUBTITLE       "Odznacz niepotrzebne opcje"
 IDS_MAIN_INSTALL        "&Odinstaluj"
 IDS_MAIN_INSTALLING     "&Odinstalowywanie..."
 IDS_MAIN_FINISH         "&Zakończ"
+IDS_MAIN_ERROR_UNCHECKY_RUNNING 
+                        "Zamknij wszelkie uruchomione kopie programu Unchecky, zanim będziemy mogli kontynuować."
 IDS_MAINCTRL_TEXT       "Unchecky zostanie odinstalowany z następującego folderu. Kliknij Odinstaluj, aby rozpocząć proces."
 IDS_MAINCTRL_PATHTEXT   "Usuwanie Unchecky z:"
 IDS_MAINCTRL_REMOVE_SETTINGS "Usuń zapisane &ustawienia"
-IDS_FINISHCTRL_TEXT     "Unchecky został odinstalowany z Twojego komputera.\n\nKliknij Zakończ, aby zamknąć to okno."
-IDS_MAIN_ERROR_UNCHECKY_RUNNING 
-                        "Zamknij wszelkie uruchomione kopie programu Unchecky, zanim będziemy mogli kontynuować."
+IDS_FINISHCTRL_TEXT1    "Unchecky został odinstalowany z Twojego komputera."
+IDS_FINISHCTRL_ERROR_NOTE 
+                        "Some elements could not be removed. These can be removed manually."
+IDS_FINISHCTRL_TEXT2    "Kliknij Zakończ, aby zamknąć to okno."
