@@ -48,7 +48,7 @@
 		'Uncheckyは自動的に関連性のないオファーのチェックを外すため、あなたがマウスをクリックする手間を省き、さらにチェックを外し忘れるというリスクを軽減することが出来ます。',
 	
 	'Warns':
-		'警告する',
+		'警告の表示',
 	'Installers often try to sneak additional programs as a natural part of the installation. Unchecky warns you when you try to accept a potentially unwanted offer, which makes it less likely to be accepted accidentally.':
 		'インストーラーは多くの場合、自然な形で追加プログラムのインストールを行います。Uncheckyはあなたが不要なオファーを許可しようとした際に警告を表示し、誤って不要なオファーを受け入れてしまうリスクを軽減させます。',
 	
@@ -58,7 +58,7 @@
 		'新しいバージョンのインストールを忘れてしまった。しかしUncheckyは新しいバージョンが公開された際に自動的に更新されるため、いつでも最新の状態を保つことが出来るので心配はいりません。',
 	
 	'Watch Unchecky in action':
-		'アクションでUncheckyを見る',
+		'動画でUncheckyを見る',
 	'<a href="press#quotes">See what people are saying about Unchecky</a> or <a href="press#videos">watch more videos</a>.':
 		'<a href="press#引用">Uncheckyについてのコメントを見る</a> あるいは <a href="press#ビデオ">詳細なビデオを見る</a>.',
 	
@@ -98,7 +98,7 @@
 	'What are the system requirements for Unchecky?':
 		'Uncheckyのシステム要件は何ですか？',
 	'Unchecky supports Windows XP and above.':
-		'UncheckyはWindows XPおよび上記のバージョンをサポートしています。',
+		'UncheckyはWindows XP及び以後のバージョンをサポートしています。',
 	
 	'My antivirus flags Unchecky as malicious.':
 		'セキュリティソフトにより、Uncheckyがマルウェアとして検出されます。',
