@@ -1,0 +1,7 @@
+IDS_CONFIRMATION_TEXT   "Du bist in Begriff potentiell ungewollte Software zu installieren. Willst du wirklich fortfahren?"
+IDS_CONFIRMATION_YES    "Ja (nicht empfohlen)"
+IDS_CONFIRMATION_NO     "&Nein"
+IDS_CONFIRMATION_OK     "OK (nicht empfohlen)"
+IDS_CONFIRMATION_CANCEL "Abbrechen"
+IDS_CONFIRMATION_MBOX_WARNING 
+                        "WARNUNG von Unchecky: du wirst gefragt ob du eine potentiell ungewollte Software installieren willst. Bitte lies dir den Text unten sorgfältig durch!"

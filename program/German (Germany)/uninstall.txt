@@ -1,0 +1,16 @@
+IDS_LANGUAGE            "German"
+IDS_MAIN_WNDTITLE       "Unchecky v%s Deinstallation"
+IDS_MAIN_TITLE          "Unchecky"
+IDS_MAIN_SUBTITLE       "Hält deine Häkchen zurück"
+IDS_MAIN_INSTALL        "Deinstallieren"
+IDS_MAIN_INSTALLING     "Deinstalliere..."
+IDS_MAIN_FINISH         "&Fertigstellen"
+IDS_MAIN_ERROR_UNCHECKY_RUNNING 
+                        "Bitte schließen alle Instanzen von Unchecky bevor du fortfährst."
+IDS_MAINCTRL_TEXT       "Unchecky wird aus dem folgenden Ordner deinstalliert. Klicke Deinstallieren um die Deinstallation zu starten."
+IDS_MAINCTRL_PATHTEXT   "Deinstallieren von:"
+IDS_MAINCTRL_REMOVE_SETTINGS "Gespeicherte Ein&stellungen entfernen"
+IDS_FINISHCTRL_TEXT1    "Unchecky wurde von deinem Computer deinstalliert."
+IDS_FINISHCTRL_ERROR_NOTE 
+                        "Einige Elemente konnten nicht entfernt werden. Diese können manuell entfernt werden."
+IDS_FINISHCTRL_TEXT2    "Klicke Fertigstellen um die Deinstallation zu beenden."
