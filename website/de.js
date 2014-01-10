@@ -1,4 +1,4 @@
-jquery_lang_js.prototype.lang.de = {
+﻿jquery_lang_js.prototype.lang.de = {
 	
 	// Header
 	
@@ -55,12 +55,12 @@ jquery_lang_js.prototype.lang.de = {
 	'Updates automatically':
 		'Updatet automatisch',
 	'Install and forget. Unchecky automatically updates whenever a new version is available, so you don\'t have to worry about running the latest version.':
-		'Installieren und vergesen. Unchecky updatet automatisch wenn eine neue Version zur Verfügung steht. Du musst dich nicht um die neueste Version kümmern.',
+		'Installieren und vergessen. Unchecky updatet automatisch wenn eine neue Version zur Verfügung steht. Du musst dich nicht um die neueste Version kümmern.',
 	
 	'Watch Unchecky in action':
 		'Schaue dir Unchecky in Aktion an',
 	'<a href="press#quotes">See what people are saying about Unchecky</a> or <a href="press#videos">watch more videos</a>.':
-		'<a href="press#quotes">Was andere Leute über Unchecky sagen</a> of <a href="press#videos">Schaue weitere Videos</a>.',
+		'<a href="press#quotes">Was andere Leute über Unchecky sagen</a> oder <a href="press#videos">Schaue weitere Videos</a>.',
 	
 	// Press
 	
