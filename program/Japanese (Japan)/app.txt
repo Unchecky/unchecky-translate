@@ -1,4 +1,4 @@
-IDS_LANGUAGE            "日本語"
+IDS_LANGUAGE            "日本語"
 IDS_OK                  "OK"
 IDS_CANCEL              "キャンセル"
 IDS_APPLY               "適用(&A)"
@@ -10,8 +10,7 @@ IDS_MAINCTRL_TEXT       "お使いのコンピューターに不要なプログ�
 IDS_MAINCTRL_TEXT_SVC_RUNNING "Unchecky サービスは実行中です。"
 IDS_MAINCTRL_TEXT_SVC_STOPPED 
                         "Unchecky サービスは停止しています。 サービスを再開するにはコンピューターを再起動してください。"
-IDS_MAINCTRL_TEXT_QUERYERROR 
-                        "Unchecky サービスの状態を照会中にエラーが発生しました。"
+IDS_MAINCTRL_TEXT_QUERYERROR "Unchecky サービスの状態を照会中にエラーが発生しました。"
 IDS_MAINCTRL_STATS_NONE_NEWGUY 
                         "Uncheckyはインストールされたばかりのようです。まだ表示するデータがありません。"
 IDS_MAINCTRL_STATS_NONE "これまでのところ未チェックのチェックボックスはありません。不審なプログラムにバンドルされたソフトウェアを拒否しています!"

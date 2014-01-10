@@ -1,4 +1,6 @@
-IDS_CONFIRMATION_TEXT   "Stai per installare un programma potenzialmente non voluto. Sei sicuro di voler continuare?"
+IDS_CONFIRMATION_TEXT   "Stai per installare un programma potenzialmente non voluto. Sei sicuro di voler continuare?"
+IDS_CONFIRMATION_PROCEED "&Si (sconsigliato)"
+IDS_CONFIRMATION_DECLINE "&No"
 IDS_CONFIRMATION_YES    "&Si (sconsigliato)"
 IDS_CONFIRMATION_NO     "&No"
 IDS_CONFIRMATION_OK     "OK (sconsigliato)"

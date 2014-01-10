@@ -1,4 +1,4 @@
-IDS_LANGUAGE            "Português Brasileiro"
+IDS_LANGUAGE            "Português Brasileiro"
 IDS_MAIN_WNDTITLE       "Instalação do Unchecky v%s"
 IDS_MAIN_TITLE          "Unchecky"
 IDS_MAIN_SUBTITLE       "Mantém as caixas de seleção desmarcadas"
@@ -14,6 +14,7 @@ IDS_EXTRACTRL_FOLDER_GROUP "De&stino"
 IDS_EXTRACTRL_FOLDER_BROWSE "&Pesquisar..."
 IDS_EXTRACTRL_BROWSE_TEXT 
                         "Selecione a pasta onde será instalado o Unchecky:"
+IDS_FINISHCTRL_TITLE    "O serviço Unchecky está pronto e funcionando"
 IDS_FINISHCTRL_TEXT     "O Unchecky foi instalado com sucesso em seu computador.\n\nClique em Encerrar para fechar a Instalação."
 IDS_MAIN_ERROR_UNCHECKY_RUNNING 
                         "Favor encerrar todas as cópias do Unchecky antes de prosseguir"

@@ -1,4 +1,6 @@
-IDS_CONFIRMATION_TEXT   "İstenmeyebilecek türden bir program yüklemek üzeresiniz. Devam etmek istediğinizden emin misiniz?"
+IDS_CONFIRMATION_TEXT   "İstenmeyebilecek türden bir program yüklemek üzeresiniz. Devam etmek istediğinizden emin misiniz?"
+IDS_CONFIRMATION_PROCEED "&Evet (önerilmez)"
+IDS_CONFIRMATION_DECLINE "&Hayır"
 IDS_CONFIRMATION_YES    "&Evet (önerilmez)"
 IDS_CONFIRMATION_NO     "&Hayır"
 IDS_CONFIRMATION_OK     "Tamam (önerilmez)"

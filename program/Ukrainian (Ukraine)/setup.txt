@@ -1,4 +1,4 @@
-IDS_LANGUAGE            "Українська"
+IDS_LANGUAGE            "Українська"
 IDS_MAIN_WNDTITLE       "Встановлення Unchecky v%s"
 IDS_MAIN_TITLE          "Unchecky"
 IDS_MAIN_SUBTITLE       "Keeps your checkboxes clear"
@@ -13,6 +13,7 @@ IDS_EXTRACTRL_TEXT      "Unchecky буде встановлено у вказа�
 IDS_EXTRACTRL_FOLDER_GROUP "&Папка для встановлення"
 IDS_EXTRACTRL_FOLDER_BROWSE "О&гляд..."
 IDS_EXTRACTRL_BROWSE_TEXT "Вкажіть папку для встановлення Unchecky:"
+IDS_FINISHCTRL_TITLE    "Службу Unchecky запущено"
 IDS_FINISHCTRL_TEXT     "Установку Unchecky виконано.\n\nНатисніть «Виконано» для виходу з програми встановлення."
 IDS_MAIN_ERROR_UNCHECKY_RUNNING 
                         "Please close all instances of Unchecky before proceeding"

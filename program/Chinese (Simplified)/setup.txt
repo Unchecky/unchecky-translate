@@ -1,4 +1,4 @@
-IDS_LANGUAGE            "简体中文"
+IDS_LANGUAGE            "简体中文"
 IDS_MAIN_WNDTITLE       "Unchecky v%s安装"
 IDS_MAIN_TITLE          "Unchecky"
 IDS_MAIN_SUBTITLE       "保持你的复选框空白"
@@ -13,8 +13,8 @@ IDS_EXTRACTRL_TEXT      "Unchecky将安装在以下文件夹。要安装在不�
 IDS_EXTRACTRL_FOLDER_GROUP "目标&文件夹"
 IDS_EXTRACTRL_FOLDER_BROWSE "&浏览..."
 IDS_EXTRACTRL_BROWSE_TEXT "选择安装Unchecky的文件夹："
+IDS_FINISHCTRL_TITLE    "Unchecky服务正在运行"
 IDS_FINISHCTRL_TEXT     "Unchecky已在你的电脑上安装。\n\n点击“完成”关闭安装。"
-IDS_MAIN_ERROR_UNCHECKY_RUNNING 
-                        "请在继续前关闭所有Unchecky实例"
+IDS_MAIN_ERROR_UNCHECKY_RUNNING "请在继续前关闭所有Unchecky实例"
 IDS_MAIN_UPDATE         "&更新"
 IDS_MAIN_UPDATING       "&正在更新……"

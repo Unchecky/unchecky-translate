@@ -1,4 +1,4 @@
-IDS_LANGUAGE            "Türkçe"
+IDS_LANGUAGE            "Türkçe"
 IDS_MAIN_WNDTITLE       "Unchecky v%s Kurulumu"
 IDS_MAIN_TITLE          "Unchecky"
 IDS_MAIN_SUBTITLE       "Onay kutularınızı temiz tutar"
@@ -14,6 +14,7 @@ IDS_EXTRACTRL_FOLDER_GROUP "Hedef &Klasör"
 IDS_EXTRACTRL_FOLDER_BROWSE "G&özat..."
 IDS_EXTRACTRL_BROWSE_TEXT 
                         "Unchecky uygulamasının kurulacağı dizini seçin:"
+IDS_FINISHCTRL_TITLE    "Unchecky hizmeti çalışır durumda"
 IDS_FINISHCTRL_TEXT     "Unchecky bilgisayarınıza yüklendi.\n\nKurulumu kapatmak için Bitir düğmesine tıklayın."
 IDS_MAIN_ERROR_UNCHECKY_RUNNING 
                         "Lütfen devam etmeden önce Unchecky'nin tüm örneklerini kapatın"

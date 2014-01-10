@@ -1,4 +1,6 @@
-IDS_CONFIRMATION_TEXT   "Vous êtes sur le point d'installer un programme potentiellement indésirable. Êtes-vous certain de vouloir l'installer ?"
+IDS_CONFIRMATION_TEXT   "Vous êtes sur le point d'installer un programme potentiellement indésirable. Êtes-vous certain de vouloir l'installer ?"
+IDS_CONFIRMATION_PROCEED "&Oui (non recommandé)"
+IDS_CONFIRMATION_DECLINE "&Non"
 IDS_CONFIRMATION_YES    "&Oui (non recommandé)"
 IDS_CONFIRMATION_NO     "&Non"
 IDS_CONFIRMATION_OK     "OK (non recommandé)"

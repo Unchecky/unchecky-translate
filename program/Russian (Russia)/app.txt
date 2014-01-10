@@ -1,4 +1,4 @@
-IDS_LANGUAGE            "Русский"
+IDS_LANGUAGE            "Русский"
 IDS_OK                  "ОК"
 IDS_CANCEL              "Отмена"
 IDS_APPLY               "При&менить"

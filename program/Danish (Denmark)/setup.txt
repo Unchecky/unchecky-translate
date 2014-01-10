@@ -1,4 +1,4 @@
-IDS_LANGUAGE            "Dansk"
+IDS_LANGUAGE            "Dansk"
 IDS_MAIN_WNDTITLE       "Unchecky v%s Installation"
 IDS_MAIN_TITLE          "Unchecky"
 IDS_MAIN_SUBTITLE       "Tømmer dine checkbokse"
@@ -14,6 +14,7 @@ IDS_EXTRACTRL_FOLDER_GROUP "&Installationsmappe"
 IDS_EXTRACTRL_FOLDER_BROWSE "&Browse..."
 IDS_EXTRACTRL_BROWSE_TEXT 
                         "Vælg den mappe, hvor Unchecky skal installeres:"
+IDS_FINISHCTRL_TITLE    "Tjensten kører"
 IDS_FINISHCTRL_TEXT     "Unchecky er installeret på din computer.\n\nKlik på Slut for at afslutte installationen."
 IDS_MAIN_ERROR_UNCHECKY_RUNNING 
                         "Luk alle åbne Unchecky vinduer inden du fortsætter"

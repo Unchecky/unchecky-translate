@@ -1,4 +1,4 @@
-IDS_LANGUAGE            "Français"
+IDS_LANGUAGE            "Français"
 IDS_MAIN_WNDTITLE       "Installation d'Unchecky v%s"
 IDS_MAIN_TITLE          "Unchecky"
 IDS_MAIN_SUBTITLE       "Gardez vos cases à cocher vides"
@@ -13,6 +13,7 @@ IDS_EXTRACTRL_TEXT      "Unchecky sera installé dans le dossier suivant. Afin d
 IDS_EXTRACTRL_FOLDER_GROUP "Dossier de &destination"
 IDS_EXTRACTRL_FOLDER_BROWSE "Choisir..."
 IDS_EXTRACTRL_BROWSE_TEXT "Unchecky sera installé dans le dossier :"
+IDS_FINISHCTRL_TITLE    "Le service Unchecky est en cours d'exécution"
 IDS_FINISHCTRL_TEXT     "Unchecky a été installé avec succès.\n\nCliquez sur ""Fin"" afin de fermer l'assistant d'installation."
 IDS_MAIN_ERROR_UNCHECKY_RUNNING 
                         "Veuillez fermer Unchecky avant de continuer."

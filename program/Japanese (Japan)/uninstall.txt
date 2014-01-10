@@ -1,4 +1,4 @@
-IDS_LANGUAGE            "日本語"
+IDS_LANGUAGE            "日本語"
 IDS_MAIN_WNDTITLE       "Unchecky v%s アンインストール"
 IDS_MAIN_TITLE          "Unchecky"
 IDS_MAIN_SUBTITLE       "チェックボックスを除去します"

@@ -1,4 +1,4 @@
-IDS_LANGUAGE            "Nederlands"
+IDS_LANGUAGE            "Nederlands"
 IDS_MAIN_WNDTITLE       "Verwijder Unchecky v%s"
 IDS_MAIN_TITLE          "Unchecky"
 IDS_MAIN_SUBTITLE       "Houd uw selectievakjes schoon"
