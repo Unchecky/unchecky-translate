@@ -1,4 +1,4 @@
-IDS_LANGUAGE            "Polski"
+IDS_LANGUAGE            "Polski"
 IDS_MAIN_WNDTITLE       "Deinstalator programu Unchecky v%s"
 IDS_MAIN_TITLE          "Unchecky"
 IDS_MAIN_SUBTITLE       "Odznacz niepotrzebne opcje"

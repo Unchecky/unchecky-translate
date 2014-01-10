@@ -1,4 +1,4 @@
-IDS_CONFIRMATION_TEXT   "Du bist in Begriff potentiell ungewollte Software zu installieren. Willst du wirklich fortfahren?"
+IDS_CONFIRMATION_TEXT   "Du bist in Begriff potentiell ungewollte Software zu installieren. Willst du wirklich fortfahren?"
 IDS_CONFIRMATION_YES    "Ja (nicht empfohlen)"
 IDS_CONFIRMATION_NO     "&Nein"
 IDS_CONFIRMATION_OK     "OK (nicht empfohlen)"

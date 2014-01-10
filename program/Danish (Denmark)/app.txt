@@ -1,4 +1,4 @@
-IDS_LANGUAGE            "Dansk"
+IDS_LANGUAGE            "Dansk"
 IDS_OK                  "OK"
 IDS_CANCEL              "Cancel"
 IDS_APPLY               "&Apply"

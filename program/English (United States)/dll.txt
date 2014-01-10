@@ -1,4 +1,4 @@
-IDS_CONFIRMATION_TEXT   "You are about to install a potentially unwanted program. Are you sure you want to proceed?"
+IDS_CONFIRMATION_TEXT   "You are about to install a potentially unwanted program. Are you sure you want to proceed?"
 IDS_CONFIRMATION_YES    "&Yes (not recommended)"
 IDS_CONFIRMATION_NO     "&No"
 IDS_CONFIRMATION_OK     "OK (not recommended)"

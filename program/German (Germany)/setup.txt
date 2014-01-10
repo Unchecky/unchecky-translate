@@ -1,4 +1,4 @@
-IDS_LANGUAGE            "Deutsch"
+IDS_LANGUAGE            "Deutsch"
 IDS_MAIN_WNDTITLE       "Unchecky v%s Setup"
 IDS_MAIN_TITLE          "Unchecky"
 IDS_MAIN_SUBTITLE       "Hält deine Häkchen zurück"

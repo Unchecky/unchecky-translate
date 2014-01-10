@@ -1,4 +1,4 @@
-IDS_LANGUAGE            "Türkçe"
+IDS_LANGUAGE            "Türkçe"
 IDS_OK                  "Tamam"
 IDS_CANCEL              "İptal"
 IDS_APPLY               "&Uygula"

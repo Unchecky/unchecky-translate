@@ -1,4 +1,4 @@
-IDS_CONFIRMATION_TEXT   "Oled paigaldamas potentsiaalselt soovimatut tarkvara. Oled kindel, et soovid seda teha?"
+IDS_CONFIRMATION_TEXT   "Oled paigaldamas potentsiaalselt soovimatut tarkvara. Oled kindel, et soovid seda teha?"
 IDS_CONFIRMATION_YES    "&Jah (pole soovituslik)"
 IDS_CONFIRMATION_NO     "&Ei"
 IDS_CONFIRMATION_OK     "OK (pole soovituslik)"
