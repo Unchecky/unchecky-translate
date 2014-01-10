@@ -4,4 +4,4 @@ IDS_CONFIRMATION_NO     "&Nein"
 IDS_CONFIRMATION_OK     "OK (nicht empfohlen)"
 IDS_CONFIRMATION_CANCEL "Abbrechen"
 IDS_CONFIRMATION_MBOX_WARNING 
-                        "WARNUNG von Unchecky: du wirst gefragt ob du eine potentiell ungewollte Software installieren willst. Bitte lies dir den Text unten sorgf‰ltig durch!"
+                        "WARNUNG von Unchecky: du wirst gefragt ob du eine potentiell ungewollte Software installieren willst. Bitte lies dir den Text unten sorgf√§ltig durch!"

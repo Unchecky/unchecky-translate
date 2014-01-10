@@ -1,4 +1,4 @@
-IDS_LANGUAGE            "German"
+IDS_LANGUAGE            "Deutsch"
 IDS_OK                  "OK"
 IDS_CANCEL              "Abbrechen"
 IDS_APPLY               "Übernehmen"
@@ -15,8 +15,8 @@ IDS_MAINCTRL_TEXT_QUERYERROR
 IDS_MAINCTRL_STATS_NONE_NEWGUY 
                         "Es sieht so aus als ob Unchecky gerade erst installiert wurde. Momentan gibt es keine Daten die angezeigt werden könnten."
 IDS_MAINCTRL_STATS_NONE "Es wurden bisher keine Häkchen entfernt. Anscheinend bleibst du von Programmen mit pontentiell ungewollter Software fern, gute Arbeit!"
-IDS_MAINCTRL_STATS      "Seit %s wurden %u Häkchen entfernt."
-IDS_MAINCTRL_STATS_WARNING " und %u Warnungen wurden angezeigt."
+IDS_MAINCTRL_STATS      "Seit %s wurden %u Häkchen entfernt%s."
+IDS_MAINCTRL_STATS_WARNING " und %u Warnungen wurden angezeigt"
 IDS_MAINCTRL_STOP       "Dien&st anhalten."
 IDS_MAINCTRL_START      "Dienst for&rtsetzen."
 IDS_CONFIG_LANG         "Sprache:"
