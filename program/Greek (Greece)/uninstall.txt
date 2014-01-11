@@ -1,0 +1,16 @@
+IDS_LANGUAGE            "Ελληνικά"
+IDS_MAIN_WNDTITLE       "Κατάργηση του Unchecky v%s"
+IDS_MAIN_TITLE          "Unchecky"
+IDS_MAIN_SUBTITLE       "Διατηρεί τα πλαίσια επιλογών σας καθαρά."
+IDS_MAIN_INSTALL        "&Κατάργηση"
+IDS_MAIN_INSTALLING     "Κατάργηση..."
+IDS_MAIN_FINISH         "&Τέλος"
+IDS_MAIN_ERROR_UNCHECKY_RUNNING 
+                        "Παρακαλώ κλείστε όλες τις συνεδρίες του Unchecky πριν προχωρήσετε"
+IDS_MAINCTRL_TEXT       "Το Unchecky θα καταργηθεί από τον ακόλουθο φάκελο. Κάντε κλικ στο κουμπί Κατάργηση για να ξεκινήσει η απεγκατάσταση."
+IDS_MAINCTRL_PATHTEXT   "Κατάργηση από:"
+IDS_MAINCTRL_REMOVE_SETTINGS "Κατάργηση αποθηκευμένων &ρυθμίσεων"
+IDS_FINISHCTRL_TEXT1    "Το Unchecky έχει καταργηθεί από τον υπολογιστή σας."
+IDS_FINISHCTRL_ERROR_NOTE 
+                        "Μερικά στοιχεία δεν ήταν δυνατό να καταργηθούν. Αυτά μπορούν να διαγραφούν χειροκίνητα."
+IDS_FINISHCTRL_TEXT2    "Κάντε κλικ στο κουμπί Τέλος για να κλείσετε το πρόγραμμα απεγκατάστασης."
