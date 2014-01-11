@@ -1,4 +1,4 @@
-IDS_LANGUAGE            "Français"
+IDS_LANGUAGE            "Français"
 IDS_OK                  "Ok"
 IDS_CANCEL              "Annuler"
 IDS_APPLY               "&Appliquer"

@@ -1,4 +1,4 @@
-IDS_LANGUAGE            "Italiano"
+IDS_LANGUAGE            "Italiano"
 IDS_MAIN_WNDTITLE       "Installazione di Unchecky v%s"
 IDS_MAIN_TITLE          "Unchecky"
 IDS_MAIN_SUBTITLE       "Mantiene le checkbox pulite"

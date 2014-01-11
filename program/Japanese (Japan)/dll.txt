@@ -1,4 +1,4 @@
-IDS_CONFIRMATION_TEXT   "不要と思われるプログラムをインストールしようとしています。 本当に続行してもよろしいですか？"
+IDS_CONFIRMATION_TEXT   "不要と思われるプログラムをインストールしようとしています。 本当に続行してもよろしいですか？"
 IDS_CONFIRMATION_PROCEED "はい(&Y) (非推奨)"
 IDS_CONFIRMATION_DECLINE "いいえ(&N)"
 IDS_CONFIRMATION_YES    "はい(&Y) (非推奨)"

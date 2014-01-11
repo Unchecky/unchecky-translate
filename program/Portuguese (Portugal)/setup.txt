@@ -1,4 +1,4 @@
-IDS_LANGUAGE            "Português Europeu"
+IDS_LANGUAGE            "Português Europeu"
 IDS_MAIN_WNDTITLE       "Configuração do Unchecky v%s"
 IDS_MAIN_TITLE          "Unchecky"
 IDS_MAIN_SUBTITLE       "Mantêm as caixas de verificação desmarcadas"
