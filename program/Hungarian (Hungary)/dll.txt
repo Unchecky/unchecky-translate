@@ -1,0 +1,10 @@
+IDS_CONFIRMATION_TEXT   "Egy vélhetően nemkívánatos program telepítésére tett kisérlet lett észlelve. Biztos benne, hogy folytatja?"
+IDS_CONFIRMATION_PROCEED "&Folytat"
+IDS_CONFIRMATION_DECLINE 
+                        "&Utasítsa vissza a nem kívánatos ajánlatokat (ajánlott)"
+IDS_CONFIRMATION_YES    "&Igen"
+IDS_CONFIRMATION_NO     "&Nem (ajánlott)"
+IDS_CONFIRMATION_OK     "OK"
+IDS_CONFIRMATION_CANCEL "Mégse (ajánlott)"
+IDS_CONFIRMATION_MBOX_WARNING 
+                        "Unchecky figyelmeztetés: Ön egy potenciálisan nemkívánatos program telepítésére kapott felkérést... Kérjük olvassa el figyelmesen az alábbi szöveget."
