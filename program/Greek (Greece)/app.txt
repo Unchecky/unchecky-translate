@@ -7,7 +7,8 @@ IDS_HEADER_MAIN         "&Αρχική"
 IDS_HEADER_CONFIG       "&Ρυθμίσεις"
 IDS_HEADER_ABOUT        "&Περί"
 IDS_MAINCTRL_TEXT       "Καλώς ήλθατε στο Unchecky. Το πρόγραμμα αυτό αποσκοπεί στο να διατηρήσει δυνητικά ανεπιθύμητα προγράμματα έξω από τον υπολογιστή σας."
-IDS_MAINCTRL_TEXT_SVC_RUNNING "Η υπηρεσία Unchecky είναι έτοιμη και λειτουργεί."
+IDS_MAINCTRL_TEXT_SVC_RUNNING 
+                        "Η υπηρεσία Unchecky είναι έτοιμη και λειτουργεί."
 IDS_MAINCTRL_TEXT_SVC_STOPPED 
                         "Η υπηρεσία Unchecky έχει ανασταλεί. Η υπηρεσία θα συνεχιστεί κατά την επανεκκίνηση του υπολογιστή."
 IDS_MAINCTRL_TEXT_QUERYERROR 

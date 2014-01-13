@@ -1,7 +1,6 @@
 IDS_CONFIRMATION_TEXT   "Πρόκειται να εγκαταστήσετε ένα πιθανόν ανεπιθύμητο πρόγραμμα. Είστε βέβαιος ότι θέλετε να συνεχίσετε;"
 IDS_CONFIRMATION_PROCEED "&Ναι (δεν συνιστάται)"
-IDS_CONFIRMATION_DECLINE 
-                        "Ό&χι"
+IDS_CONFIRMATION_DECLINE "Ό&χι"
 IDS_CONFIRMATION_YES    "&Ναι (δεν συνιστάται)"
 IDS_CONFIRMATION_NO     "Ό&χι"
 IDS_CONFIRMATION_OK     "Εντάξει (δεν συνιστάται)"
