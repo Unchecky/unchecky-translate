@@ -12,5 +12,5 @@ IDS_MAINCTRL_PATHTEXT   "Désinstaller depuis:"
 IDS_MAINCTRL_REMOVE_SETTINGS "Suppression enregistrée &options"
 IDS_FINISHCTRL_TEXT1    "Unchecky a été désinstallé de votre ordinateur."
 IDS_FINISHCTRL_ERROR_NOTE 
-                        "Some elements could not be removed. These can be removed manually."
+                        "Certains éléments n'ont pas pu être supprimés. Vous pouvez les supprimer manuellement."
 IDS_FINISHCTRL_TEXT2    "Cliquez sur Fin afin de fermer l'assistant de désinstallation."
