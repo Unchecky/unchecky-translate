@@ -12,5 +12,5 @@ IDS_MAINCTRL_PATHTEXT   "Kaldırılacak yer:"
 IDS_MAINCTRL_REMOVE_SETTINGS "Kaydedilmiş ayarları da &kaldır"
 IDS_FINISHCTRL_TEXT1    "Unchecky bilgisayarınızdan kaldırıldı."
 IDS_FINISHCTRL_ERROR_NOTE 
-                        "Some elements could not be removed. These can be removed manually."
+                        "Bazı öğeler kaldırılamadı. Bunlar elle kaldırılabilir."
 IDS_FINISHCTRL_TEXT2    "Kurulumu kapatmak için Bitir düğmesine tıklayın."
