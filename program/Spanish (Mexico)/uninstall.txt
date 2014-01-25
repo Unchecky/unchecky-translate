@@ -8,7 +8,7 @@ IDS_MAIN_FINISH         "&Terminar"
 IDS_MAIN_ERROR_UNCHECKY_RUNNING 
                         "Por favor cierre todas las instancias de Unchecky antes de continuar"
 IDS_MAINCTRL_TEXT       "Unchecky sera desinstalado de la siguiente carpeta. Presione Desinstalar para iniciar la desinstalacion."
-IDS_MAINCTRL_PATHTEXT   "Desinstalando desde:"
+IDS_MAINCTRL_PATHTEXT   "Desinstalado el:"
 IDS_MAINCTRL_REMOVE_SETTINGS "Eliminar configuraciones &guardadas"
 IDS_FINISHCTRL_TEXT1    "Unchecky ha sido desinstalado de su equipo."
 IDS_FINISHCTRL_ERROR_NOTE 
