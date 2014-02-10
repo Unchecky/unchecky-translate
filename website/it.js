@@ -1,4 +1,4 @@
-jquery_lang_js.prototype.lang.fr = {
+jquery_lang_js.prototype.lang.it = {
 	
 	// Header
 	
