@@ -12,5 +12,5 @@ IDS_MAINCTRL_PATHTEXT   "Avinstallera från:"
 IDS_MAINCTRL_REMOVE_SETTINGS "Ta bort sparade &inställningar"
 IDS_FINISHCTRL_TEXT1    "Unchecky avinstallerades från din dator."
 IDS_FINISHCTRL_ERROR_NOTE 
-                        "Some elements could not be removed. These can be removed manually."
+                        "Några element kunde inte tas bort. Dessa kan tas bort manuellt."
 IDS_FINISHCTRL_TEXT2    "Klicka på Slutför för att slutföra avinstallationen."
