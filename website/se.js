@@ -9,13 +9,13 @@ jquery_lang_js.prototype.lang.se = {
 	'FAQ':
 		'FAQ',
 	'Changelog':
-		'',
+		'Ändringslogg',
 	'Contact':
 		'Kontakt',
 	'Links':
-		'',
+		'Länkar',
 	'Bug/feature tracker':
-		'',
+		'Bugg-/funktionstracker',
 	'Blog':
 		'Blogg',
 	'Donate':
@@ -53,14 +53,14 @@ jquery_lang_js.prototype.lang.se = {
 		'Många gånger maskeras extra program som en del av installationen. Unchecky varnar dig när du försöker acceptera ett potentiellt oönskat erbjudande, vilket gör det mindre sannolikt att accepteras av misstag.',
 	
 	'Updates automatically':
-		'Automatiska uppdateringar',
+		'Uppdaterar automatiskt',
 	'Install and forget. Unchecky automatically updates whenever a new version is available, so you don\'t have to worry about running the latest version.':
-		'Installera och förglöm. Unchecky uppdateras automatiskt när en ny version är tillgänglig, så du slipper oroa dig för om du kör den senaste versionen.',
+		'Installera och glöm bort. Unchecky uppdateras automatiskt när en ny version är tillgänglig, så du slipper oroa dig för om du kör den senaste versionen.',
 	
 	'Watch Unchecky in action':
-		'',
+		'Se Unchecky i praktiken',
 	'<a href="press#quotes">See what people are saying about Unchecky</a> or <a href="press#videos">watch more videos</a>.':
-		'',
+		'<a href="press#quotes">Se vad folk säger om Unchecky</a> eller <a href="press#videos">se fler videor</a>.',
 	
 	// Press
 	
@@ -71,17 +71,17 @@ jquery_lang_js.prototype.lang.se = {
 	'on':
 		'från',
 	'Awards':
-		'',
+		'Utmärkelser',
 	
 	'People are showing Unchecky in action':
-		'Folk visar Unchecky i praktiken:',
+		'Folk visar Unchecky i praktiken',
 	'Demonstrating Unchecky':
-		'',
+		'Demonstration av Unchecky',
 	
 	'Portuguese':
 		'portugisiska',
 	'Polish':
-		'',
+		'polska',
 	'Russian':
 		'ryska',
 	'Spanish':
@@ -91,7 +91,7 @@ jquery_lang_js.prototype.lang.se = {
 	'French':
 		'franska',
 	'German':
-		'',
+		'tyska',
 	
 	// FAQ
 	
@@ -108,10 +108,10 @@ jquery_lang_js.prototype.lang.se = {
 	'What is the best way to report a bug or suggest a feature?':
 		'Hur rapporterar jag enklast buggar och föreslår funktioner?',
 	'Post your feedback on the <a href="http://unchecky.userecho.com/">UserEcho page</a>.':
-		'Skicka in din feedback på vår sida på <a href="http://unchecky.userecho.com/">UserEcho</a>',
+		'Skicka in din feedback genom vår sida på <a href="http://unchecky.userecho.com/">UserEcho</a>',
 	
 	'I want to translate Unchecky.':
-		'Jag vill översätta Unchecky!',
+		'Jag vill översätta Unchecky.',
 	'The translation files of the Unchecky program and website can be found on the <a href="https://github.com/RaMMicHaeL/unchecky-translate">unchecky-translate</a> GitHub repository.':
 		'Översättningsfilerna för Uncheckys mjukvara och webbsida kan hittas på Github: <a href="https://github.com/RaMMicHaeL/unchecky-translate">unchecky-translate</a>',
 	
@@ -125,7 +125,7 @@ jquery_lang_js.prototype.lang.se = {
 	'Last Name':
 		'Efternamn',
 	'Email Address':
-		'E-port',
+		'E-post',
 	'Subject':
 		'Ämne',
 	'Message':
@@ -134,13 +134,13 @@ jquery_lang_js.prototype.lang.se = {
 		'Skicka',
 		
 	'Please fill in all fields.':
-		'',
+		'Fyll i samtliga fält.',
 	'Please enter a valid email address.':
-		'',
+		'Fyll i en giltig e-postadress.',
 	'Could not complete your request.':
-		'',
+		'Din begäran kunde inte slutföras.',
 	'The message has been sent successfully.':
-		'',
+		'Ditt meddelande skickades.',
 	
 	// 404
 	
