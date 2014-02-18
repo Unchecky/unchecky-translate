@@ -1,9 +1,10 @@
 IDS_CONFIRMATION_TEXT   "Πρόκειται να εγκαταστήσετε ένα πιθανόν ανεπιθύμητο πρόγραμμα. Είστε βέβαιος ότι θέλετε να συνεχίσετε;"
-IDS_CONFIRMATION_PROCEED "&Ναι (δεν συνιστάται)"
-IDS_CONFIRMATION_DECLINE "Ό&χι"
-IDS_CONFIRMATION_YES    "&Ναι (δεν συνιστάται)"
-IDS_CONFIRMATION_NO     "Ό&χι"
-IDS_CONFIRMATION_OK     "Εντάξει (δεν συνιστάται)"
-IDS_CONFIRMATION_CANCEL "Άκυρο"
+IDS_CONFIRMATION_PROCEED "&Συνέχεια"
+IDS_CONFIRMATION_DECLINE 
+                        "&Απόρριψη πιθανόν ανεπιθύμητης προσφοράς (συνιστάται)"
+IDS_CONFIRMATION_YES    "&Ναι"
+IDS_CONFIRMATION_NO     "Ό&χι (συνιστάται)"
+IDS_CONFIRMATION_OK     "Εντάξει"
+IDS_CONFIRMATION_CANCEL "Άκυρο (συνιστάται)"
 IDS_CONFIRMATION_MBOX_WARNING 
                         "ΠΡΟΕΙΔΟΠΟΙΗΣΗ από το Unchecky: Καλείστε να εγκαταστήσετε ένα πιθανόν ανεπιθύμητο πρόγραμμα. Παρακαλώ διαβάστε προσεκτικά το παρακάτω κείμενο."
