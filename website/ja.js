@@ -123,7 +123,7 @@
 	'First Name':
 		'名',
 	'Last Name':
-		'氏',
+		'姓',
 	'Email Address':
 		'メールアドレス',
 	'Subject':
