@@ -7,7 +7,8 @@ IDS_HEADER_MAIN         "&Koti"
 IDS_HEADER_CONFIG       "As&etukset"
 IDS_HEADER_ABOUT        "&Tietoja"
 IDS_MAINCTRL_TEXT       "Tervetuloa Uncheckyyn, ohjelmaan joka pitää ei-halutut ohjelmat poissa tietokoneeltasi."
-IDS_MAINCTRL_TEXT_SVC_RUNNING "Unchecky-palvelu on nyt päällä ja toiminnassa."
+IDS_MAINCTRL_TEXT_SVC_RUNNING 
+                        "Unchecky-palvelu on nyt päällä ja toiminnassa."
 IDS_MAINCTRL_TEXT_SVC_STOPPED 
                         "Unchecky-palvelu on nyt pois päältä. Unchecky-palvelu käynnistetään uudelleen tietokoneen käynnistyksen yhteydessä."
 IDS_MAINCTRL_TEXT_QUERYERROR 

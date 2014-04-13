@@ -7,7 +7,8 @@ IDS_HEADER_MAIN         "&Kezdőlap"
 IDS_HEADER_CONFIG       "Be&állítások"
 IDS_HEADER_ABOUT        "&Névjegy"
 IDS_MAINCTRL_TEXT       "Üdvözöljük - Az Unchecky alkalmazás célja, hogy folyamatosan blokkolja a nemkívánatos programok települését számítógépére."
-IDS_MAINCTRL_TEXT_SVC_RUNNING "The Unchecky szolgáltatás bejelölve és aktíválva."
+IDS_MAINCTRL_TEXT_SVC_RUNNING 
+                        "The Unchecky szolgáltatás bejelölve és aktíválva."
 IDS_MAINCTRL_TEXT_SVC_STOPPED 
                         "Az Unchecky jelenleg NEM AKTÍV. A szolgáltatás aktíválható manuálisan, vagy a számítógép újraindításakor."
 IDS_MAINCTRL_TEXT_QUERYERROR 

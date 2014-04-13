@@ -1,7 +1,6 @@
 IDS_CONFIRMATION_TEXT   "Yrität asentaa ohjelmaa jota et välttämättä halua asentaa. Haluatko varmasti jatkaa?"
 IDS_CONFIRMATION_PROCEED "&Jatka (EI-suositeltu)"
-IDS_CONFIRMATION_DECLINE 
-                        "&Älä jatka (suositeltu)"
+IDS_CONFIRMATION_DECLINE "&Älä jatka (suositeltu)"
 IDS_CONFIRMATION_YES    "&Kyllä"
 IDS_CONFIRMATION_NO     "&Ei (suositeltu)"
 IDS_CONFIRMATION_OK     "OK"

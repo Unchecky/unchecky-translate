@@ -1,0 +1,16 @@
+IDS_LANGUAGE            "Norsk"
+IDS_MAIN_WNDTITLE       "Unchecky v%s Avinstallering"
+IDS_MAIN_TITLE          "Unchecky"
+IDS_MAIN_SUBTITLE       "Holder sjekkbokser rene"
+IDS_MAIN_INSTALL        "&Avinstaller"
+IDS_MAIN_INSTALLING     "&Avinstallerer..."
+IDS_MAIN_FINISH         "&Ferdig"
+IDS_MAIN_ERROR_UNCHECKY_RUNNING 
+                        "Vennligst lukk alle Unchecky økter før du fortsetter"
+IDS_MAINCTRL_TEXT       "Unchecky will be uninstalled from the following folder. Click Uninstall to start the uninstallation."
+IDS_MAINCTRL_PATHTEXT   "Uninstalling from:"
+IDS_MAINCTRL_REMOVE_SETTINGS "Remove saved &settings"
+IDS_FINISHCTRL_TEXT1    "Unchecky har blitt avinstallert fra din datamaskin."
+IDS_FINISHCTRL_ERROR_NOTE 
+                        "Noen elementer kunne ikke fjernes. Disse kan fjernes manuelt."
+IDS_FINISHCTRL_TEXT2    "Klikk Fullfør for å lukke avinstallereren."
