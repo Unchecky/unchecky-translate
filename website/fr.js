@@ -9,13 +9,13 @@ jquery_lang_js.prototype.lang.fr = {
 	'FAQ':
 		'FAQ',
 	'Changelog':
-		'',
+		'Historique des modifications',
 	'Contact':
 		'Contact',
 	'Links':
 		'',
 	'Bug/feature tracker':
-		'',
+		'Bogue/Suivi de caractéristiques',
 	'Blog':
 		'Blog',
 	'Donate':
@@ -58,9 +58,9 @@ jquery_lang_js.prototype.lang.fr = {
 		'Installez et oubliez. Unchecky se met à jour automatiquement dès qu\'une nouvelle version est disponible, donc pas la peine de vous demander si vous possédez la dernière version.',
 	
 	'Watch Unchecky in action':
-		'',
+		'Observez Unchecky en action',
 	'<a href="press#quotes">See what people are saying about Unchecky</a> or <a href="press#videos">watch more videos</a>.':
-		'',
+		'<a href="press#quotes">Voir ce que les gens pensent d\'Unchecky</a> ou <a href="press#videos">Regardez plus de vidéos</a>.',
 	
 	// Press
 	
@@ -71,17 +71,17 @@ jquery_lang_js.prototype.lang.fr = {
 	'on':
 		'sur',
 	'Awards':
-		'',
+		'Récompenses',
 	
 	'People are showing Unchecky in action':
 		'Les gens parlent d\'Unchecky en action :',
 	'Demonstrating Unchecky':
-		'',
+		'Démonstration d\'Unchecky',
 	
 	'Portuguese':
 		'Portugais',
 	'Polish':
-		'',
+		'Polonais',
 	'Russian':
 		'Russe',
 	'Spanish':
@@ -91,7 +91,7 @@ jquery_lang_js.prototype.lang.fr = {
 	'French':
 		'Français',
 	'German':
-		'',
+		'Allemand',
 	
 	// FAQ
 	
@@ -134,13 +134,13 @@ jquery_lang_js.prototype.lang.fr = {
 		'Envoyer',
 		
 	'Please fill in all fields.':
-		'',
+		'Remplissez, S\'il vous plaît tous les champs.',
 	'Please enter a valid email address.':
-		'',
+		'Saisissez S\'il vous plaît une adresse électronique valable.',
 	'Could not complete your request.':
-		'',
+		'Nous ne pouvons pas finaliser votre requête',
 	'The message has been sent successfully.':
-		'',
+		'Le message a été envoyé avec succès.',
 	
 	// 404
 	
