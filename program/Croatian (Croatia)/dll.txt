@@ -7,4 +7,4 @@ IDS_CONFIRMATION_NO     "Ne (preporuka)"
 IDS_CONFIRMATION_OK     "OK"
 IDS_CONFIRMATION_CANCEL "Prekid (preporuka)"
 IDS_CONFIRMATION_MBOX_WARNING 
-                        "UPOZORENJE iz Uncheckyja: upitani ste želite li instalirati potencionalno neželjeni program. Molimo proèitajte tekst ispod vrlo pažljivo."
+                        "UPOZORENJE iz Uncheckyja: upitani ste želite li instalirati potencionalno neželjeni program. Molimo pročitajte tekst ispod vrlo pažljivo."
