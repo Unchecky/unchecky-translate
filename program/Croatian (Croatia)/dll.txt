@@ -1,0 +1,10 @@
+IDS_CONFIRMATION_TEXT   "Krenuli ste instalirati potencionalno neželjen program. Jeste li sigurni da želite nastaviti?"
+IDS_CONFIRMATION_PROCEED "Nastavi"
+IDS_CONFIRMATION_DECLINE 
+                        "Odustani od instalacije ponude (preporuka)"
+IDS_CONFIRMATION_YES    "Da"
+IDS_CONFIRMATION_NO     "Ne (preporuka)"
+IDS_CONFIRMATION_OK     "OK"
+IDS_CONFIRMATION_CANCEL "Prekid (preporuka)"
+IDS_CONFIRMATION_MBOX_WARNING 
+                        "UPOZORENJE iz Uncheckyja: upitani ste želite li instalirati potencionalno neželjeni program. Molimo proèitajte tekst ispod vrlo pažljivo."
