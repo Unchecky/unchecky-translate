@@ -15,7 +15,7 @@ jquery_lang_js.prototype.lang.fr = {
 	'Links':
 		'',
 	'Bug/feature tracker':
-		'Bogue/Suivi de caractéristiques',
+		'Suivi de bugs/caractéristiques',
 	'Blog':
 		'Blog',
 	'Donate':
@@ -60,7 +60,7 @@ jquery_lang_js.prototype.lang.fr = {
 	'Watch Unchecky in action':
 		'Observez Unchecky en action',
 	'<a href="press#quotes">See what people are saying about Unchecky</a> or <a href="press#videos">watch more videos</a>.':
-		'<a href="press#quotes">Voir ce que les gens pensent d\'Unchecky</a> ou <a href="press#videos">Regardez plus de vidéos</a>.',
+		'<a href="press#quotes">Voyez ce que les gens pensent d\'Unchecky</a> ou <a href="press#videos">Regardez plus de vidéos</a>.',
 	
 	// Press
 	
@@ -74,7 +74,7 @@ jquery_lang_js.prototype.lang.fr = {
 		'Récompenses',
 	
 	'People are showing Unchecky in action':
-		'Les gens parlent d\'Unchecky en action :',
+		'Les gens montrent Unchecky en action',
 	'Demonstrating Unchecky':
 		'Démonstration d\'Unchecky',
 	
@@ -134,9 +134,9 @@ jquery_lang_js.prototype.lang.fr = {
 		'Envoyer',
 		
 	'Please fill in all fields.':
-		'Remplissez, S\'il vous plaît tous les champs.',
+		'Veuillez remplir tous les champs.',
 	'Please enter a valid email address.':
-		'Saisissez S\'il vous plaît une adresse électronique valable.',
+		'Veuillez entrer une adresse électronique valide.',
 	'Could not complete your request.':
 		'Nous ne pouvons pas finaliser votre requête',
 	'The message has been sent successfully.':
