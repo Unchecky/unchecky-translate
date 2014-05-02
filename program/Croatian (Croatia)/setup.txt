@@ -1,7 +1,7 @@
 IDS_LANGUAGE            "Hrvatski"
 IDS_MAIN_WNDTITLE       "Unchecky v%s Instalacija"
 IDS_MAIN_TITLE          "Unchecky"
-IDS_MAIN_SUBTITLE       "Štiti vaše računalo od raznih potencionalno neželjenih programa"
+IDS_MAIN_SUBTITLE       "Štiti vaše računalo od raznih potencijalno neželjenih programa"
 IDS_MAIN_MORE_OPTIONS   "Više opcija"
 IDS_MAIN_LESS_OPTIONS   "Manje opcija"
 IDS_MAIN_INSTALL        "Instaliraj"
