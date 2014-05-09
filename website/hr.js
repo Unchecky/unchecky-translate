@@ -33,7 +33,7 @@ jquery_lang_js.prototype.lang.hr = {
 	'Tired of unchecking unrelated offers while installing software?':
 		'Umorni od odznačavanja ponuda iz instalacijskih paketa programa?',
 	'Have you ever felt, while installing software, that the installer tries to push additional unwanted programs at all cost? Ever missed a checkbox, and spent hours afterwards removing adware? Ever opened your browser after an installation, only to find out that you have a new homepage, a new search engine, or even a new browser?<br>Unchecky aims to keep potentially unwanted programs out of your computer.':
-		'Jeste li se ikada osjećali, prilikom instalacije programa, da Vas instalacijski paket tjera da instalirate neki neželjen program? Jeste li ikada promašili odznačiti jednu ponudu i onda potrošili sate i sate na brisanje adwarea? Jeste li ikada nakon instalacije otvorili internetski preglednik, samo da vidite je li Vam program promijenio početnu stranicu, zadanu tražilicu ili čak preglednik?<br>Unchecky štiti Vaše računalo od potencionalno neželjenih programa.',
+		'Jeste li se ikada osjećali, prilikom instalacije programa, da Vas instalacijski paket tjera da instalirate neki neželjeni program? Jeste li ikada promašili odznačiti jednu ponudu i onda potrošili sate i sate na brisanje adwarea? Jeste li ikada nakon instalacije otvorili internetski preglednik, samo da vidite je li Vam program promijenio početnu stranicu, zadanu tražilicu ili čak sam preglednik?<br>Unchecky štiti Vaše računalo od potencionalno neželjenih programa.',
 	'Download':
 		'Preuzimanje',
 
@@ -50,7 +50,7 @@ jquery_lang_js.prototype.lang.hr = {
 	'Warns':
 		'Upozorava',
 	'Installers often try to sneak additional programs as a natural part of the installation. Unchecky warns you when you try to accept a potentially unwanted offer, which makes it less likely to be accepted accidentally.':
-		'Instalacijski paketi često znaju progurati razne programe u običnoj instalaciji. Unchecky Vas upozorava kada pokušate prihvatiti instalaciju nepoželjnih progama, što radi manje šanse da ćete nešto slučajno propustiti.',
+		'Instalacijski paketi često znaju progurati razne programe u običnoj instalaciji. Unchecky Vas upozorava kada pokušate prihvatiti instalaciju nepoželjnih programa, što radi manje šanse da ćete nešto slučajno propustiti.',
 
 	'Updates automatically':
 		'Ažurira se automatski',
@@ -65,9 +65,9 @@ jquery_lang_js.prototype.lang.hr = {
 	// Press
 
 	'People are talking about Unchecky':
-		'Ljudi govore o Uncheckyju',
+		'Što ljudi govore o Uncheckyju',
 	'Unchecky was also featured on the following international websites:':
-		'O Uncheckyju se pričalo i na slijedećim web-stranicama:',
+		'O Uncheckyju se pričalo i na sljedećim web-stranicama:',
 	'on':
 		'na',
 	'Awards':
