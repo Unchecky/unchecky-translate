@@ -1,0 +1,9 @@
+IDS_CONFIRMATION_TEXT   "U gaat een mogelijk ongewenst programma installeren. Weet u zeker dat u door wilt gaan?"
+IDS_CONFIRMATION_PROCEED "&Ja"
+IDS_CONFIRMATION_DECLINE "&Nee (Aanbevolen)"
+IDS_CONFIRMATION_YES    "&Ja"
+IDS_CONFIRMATION_NO     "&Nee (Aanbevolen)"
+IDS_CONFIRMATION_OK     "OK"
+IDS_CONFIRMATION_CANCEL "Annuleren"
+IDS_CONFIRMATION_MBOX_WARNING 
+                        "WAARSCHUWING van Unchecky: er wordt u gevraagd om een mogelijk ongewenst programma te installeren. Lees onderstaande tekst zorgvuldig."
