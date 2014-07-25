@@ -1,4 +1,4 @@
-﻿IDS_LANGUAGE            "Nederlands"
+IDS_LANGUAGE            "Nederlands"
 IDS_OK                  "OK"
 IDS_CANCEL              "Annuleren"
 IDS_APPLY               "&Toepassen"
