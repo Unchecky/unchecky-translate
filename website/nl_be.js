@@ -1,4 +1,4 @@
-jquery_lang_js.prototype.lang.nl = {
+jquery_lang_js.prototype.lang.nl_be = {
 	
 	// Header
 	
