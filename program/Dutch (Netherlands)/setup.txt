@@ -15,7 +15,7 @@ IDS_EXTRACTRL_FOLDER_BROWSE "Zoeken..."
 IDS_EXTRACTRL_BROWSE_TEXT 
                         "Selecteer een map op Unchecky in te installeren:"
 IDS_FINISHCTRL_TITLE    "De Unchecky service is actief"
-IDS_FINISHCTRL_TEXT     "De installatie van Unchecky is gelukt. Unchecky zal op de achtergrond installatieprogramma's in de gaten houden. U kunt Unchecky openen om te kijken hoeveel vakjes Unchecky uitgevinkt heeft. \n\nKlik op Voltooien om het installatieprogramma te sluiten."
+IDS_FINISHCTRL_TEXT     "De installatie van Unchecky is gelukt. Unchecky zal op de achtergrond installatieprogramma's in de gaten houden. U kunt Unchecky openen om te kijken hoeveel vakjes Unchecky uitgevinkt heeft.\n\nKlik op Voltooien om het installatieprogramma te sluiten."
 IDS_MAIN_ERROR_UNCHECKY_RUNNING 
                         "Sluit alle vensters van Unchecky voordat u doorgaat"
 IDS_MAIN_UPDATE         "&Update"
