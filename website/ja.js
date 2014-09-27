@@ -115,6 +115,11 @@
 	'The translation files of the Unchecky program and website can be found on the <a href="https://github.com/RaMMicHaeL/unchecky-translate">unchecky-translate</a> GitHub repository.':
 		'Uncheckyのプログラムとウェブサイトの翻訳ファイルはGitHubのリポジトリに掲載されています：<a href="https://github.com/RaMMicHaeL/unchecky-translate">unchecky-translate</a>',
 	
+	'Is it possible to install Unchecky silently?':
+		'',
+	'Yes, run the installer with the <code>-install</code> command line switch. For a list of supported command line switches, run <code>unchecky_setup.exe -?</code>.':
+		'',
+	
 	// Contact
 	
 	'Please don\'t use this contact form to report bugs or suggest features. Post your feedback on the <a href="http://unchecky.userecho.com/">UserEcho page</a> instead.':

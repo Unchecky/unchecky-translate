@@ -115,6 +115,11 @@ jquery_lang_js.prototype.lang.ru = {
 	'The translation files of the Unchecky program and website can be found on the <a href="https://github.com/RaMMicHaeL/unchecky-translate">unchecky-translate</a> GitHub repository.':
 		'Языковые файлы программы Unchecky и веб-сайта можно найти на <a href="https://github.com/RaMMicHaeL/unchecky-translate">странице переводов</a> хранилища GitHub.',
 	
+	'Is it possible to install Unchecky silently?':
+		'Можно установить Unchecky в «тихом» режиме?',
+	'Yes, run the installer with the <code>-install</code> command line switch. For a list of supported command line switches, run <code>unchecky_setup.exe -?</code>.':
+		'Да, запустите установку со следующим параметром командной строки: <code>-install</code>. Для полного списка параметров командной строки, запустите <code>unchecky_setup.exe -?</code>.',
+	
 	// Contact
 	
 	'Please don\'t use this contact form to report bugs or suggest features. Post your feedback on the <a href="http://unchecky.userecho.com/">UserEcho page</a> instead.':
