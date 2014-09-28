@@ -33,7 +33,7 @@ jquery_lang_js.prototype.lang.nl = {
 	'Tired of unchecking unrelated offers while installing software?':
 		'Ben je het moe om ongewenste software uit te vinken tijdens installaties?',
 	'Have you ever felt, while installing software, that the installer tries to push additional unwanted programs at all cost? Ever missed a checkbox, and spent hours afterwards removing adware? Ever opened your browser after an installation, only to find out that you have a new homepage, a new search engine, or even a new browser?<br>Unchecky aims to keep potentially unwanted programs out of your computer.':
-		'Heb je ooit gezien dat er extra software bij installaties wordt meegelevert welke kost wat kost geïnstalleerd willen worden? Ooit een selectievak gemist, om vervolgens uren \'plezie\' te hebben met het verwijderen van adware? Ooit je browser gestart na een installatie, om te ontdekken dat je startpagina is veranderd, je gebruik maakt van een nieuwe zoekmachine of zelfs een nieuwe browser?<br>Unchecky wilt je beschermen tegen mogelijk ongewenste software op uw computer.',
+		'Heb je ook wel eens gemerkt, tijdens het installeren van software, dat het installatieprogramma je, kost-wat-kost, ongewenste programma\'s in de maag wil splitsen? Wel eens een selectievak gemist, en daarna uren besteed aan het verwijderen van adware? Wel eens je browser gestart na een installatie, en gemerkt dat je een nieuwe homepage hebt, of een nieuwe zoekmachine, of zelfs een andere browser?<br>Unchecky zorgt ervoor dat mogelijk ongewenste programma\'s van je computer geweerd worden.',
 	'Download':
 		'Download',
 	
