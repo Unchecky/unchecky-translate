@@ -5,7 +5,7 @@ IDS_APPLY               "&Приложи"
 IDS_MAIN_WNDTITLE       "Unchecky"
 IDS_HEADER_MAIN         "&Начало"
 IDS_HEADER_CONFIG       "&Настройки"
-IDS_HEADER_ABOUT        "&Относно
+IDS_HEADER_ABOUT        "&Относно"
 IDS_MAINCTRL_TEXT       "Добре дошли в Unchecky — програмата, която има за цел да държи потенциално нежелани програми вън от Вашия компютър."
 IDS_MAINCTRL_TEXT_SVC_RUNNING "Услугата на Unchecky е стартирана и работи."
 IDS_MAINCTRL_TEXT_SVC_STOPPED 
