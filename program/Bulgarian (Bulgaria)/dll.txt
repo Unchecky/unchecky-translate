@@ -1,0 +1,10 @@
+IDS_CONFIRMATION_TEXT   "На път сте да инсталирате потенциално нежелана програма. Сигурни ли сте, че искате да продължите?"
+IDS_CONFIRMATION_PROCEED "&Продължи"
+IDS_CONFIRMATION_DECLINE 
+                        "&Откажи потенциално нежелното предложение (препоръчва се)"
+IDS_CONFIRMATION_YES    "&Да"
+IDS_CONFIRMATION_NO     "&Не (препоръчва се)"
+IDS_CONFIRMATION_OK     "OK"
+IDS_CONFIRMATION_CANCEL "Отмени (препоръчва се)"
+IDS_CONFIRMATION_MBOX_WARNING 
+                        "ПРЕДУПРЕЖДЕНИЕ от Unchecky: предлага Ви се инсталация на потенциално нежелана програма. Моля, прочетете внимателно текста по-долу."
