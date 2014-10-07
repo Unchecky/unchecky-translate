@@ -28,6 +28,13 @@ jquery_lang_js.prototype.lang.se = {
 	'Copyright © 2014 <a href="http://rammichael.com/">RaMMicHaeL</a>.':
 		'Copyright © 2014 <a href="http://rammichael.com/">RaMMicHaeL</a>. Svensk översättning: <a href="mailto:t.dotar@gmail.com?Subject=Unchecky">Torsten Augustsson</a>',
 	
+	// Legal
+	
+	'End-User License Agreement':
+		'',
+	'Privacy Policy':
+		'',
+	
 	// Home
 	
 	'Tired of unchecking unrelated offers while installing software?':

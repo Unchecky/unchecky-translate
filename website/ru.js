@@ -28,6 +28,13 @@ jquery_lang_js.prototype.lang.ru = {
 	'Copyright © 2014 <a href="http://rammichael.com/">RaMMicHaeL</a>.':
 		'Copyright © 2014 <a href="http://rammichael.com/">RaMMicHaeL</a>. Перевод: Усманов Алешер.',
 	
+	// Legal
+	
+	'End-User License Agreement':
+		'Пользовательское соглашение',
+	'Privacy Policy':
+		'Политика конфиденциальности',
+	
 	// Home
 	
 	'Tired of unchecking unrelated offers while installing software?':

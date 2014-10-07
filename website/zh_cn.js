@@ -28,6 +28,13 @@ jquery_lang_js.prototype.lang.zh_cn = {
 	'Copyright © 2014 <a href="http://rammichael.com/">RaMMicHaeL</a>.':
 		'版权所有 © 2014 <a href="http://rammichael.com/">RaMMicHaeL</a>。 由 <a href="mailto:jgzll@sina.com">Zhe Zhang翻译</a>。',
 	
+	// Legal
+	
+	'End-User License Agreement':
+		'',
+	'Privacy Policy':
+		'',
+	
 	// Home
 	
 	'Tired of unchecking unrelated offers while installing software?':

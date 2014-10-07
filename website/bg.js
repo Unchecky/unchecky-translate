@@ -28,6 +28,13 @@ jquery_lang_js.prototype.lang.bg = {
 	'Copyright © 2014 <a href="http://rammichael.com/">RaMMicHaeL</a>.':
 		'Всички права запазени © 2014 <a href="http://rammichael.com/">RaMMicHaeL</a>. Български превод: Night_Raven.',
 	
+	// Legal
+	
+	'End-User License Agreement':
+		'',
+	'Privacy Policy':
+		'',
+	
 	// Home
 	
 	'Tired of unchecking unrelated offers while installing software?':

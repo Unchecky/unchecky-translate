@@ -28,6 +28,13 @@ jquery_lang_js.prototype.lang.pl = {
 	'Copyright © 2014 <a href="http://rammichael.com/">RaMMicHaeL</a>.':
 		'Copyright © 2014 <a href="http://rammichael.com/">RaMMicHaeL</a>. Polskie tłumaczenie: <a href="mailto:pkolasa@outlook.com?Subject=Tłumaczenie Unchecky">Piotr Kolasa</a>',
 	
+	// Legal
+	
+	'End-User License Agreement':
+		'',
+	'Privacy Policy':
+		'',
+	
 	// Home
 	
 	'Tired of unchecking unrelated offers while installing software?':

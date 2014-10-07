@@ -28,6 +28,13 @@
 	'Copyright © 2014 <a href="http://rammichael.com/">RaMMicHaeL</a>.':
 		'Copyright © 2014 <a href="http://rammichael.com/">RaMMicHaeL</a>. 日本語訳： <a href="mailto:milksizegene@gmail.com">milksizegene</a>',
 	
+	// Legal
+	
+	'End-User License Agreement':
+		'',
+	'Privacy Policy':
+		'',
+	
 	// Home
 	
 	'Tired of unchecking unrelated offers while installing software?':

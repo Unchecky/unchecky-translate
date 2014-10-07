@@ -28,6 +28,13 @@ jquery_lang_js.prototype.lang.pt_br = {
 	'Copyright © 2014 <a href="http://rammichael.com/">RaMMicHaeL</a>.':
 		'Copyright © 2014 <a href="http://rammichael.com/">RaMMicHaeL</a>. Tradução português Brasil : <a href="mailto:anderson_darknite@hotmail.com">Anderson</a>',
 	
+	// Legal
+	
+	'End-User License Agreement':
+		'',
+	'Privacy Policy':
+		'',
+	
 	// Home
 	
 	'Tired of unchecking unrelated offers while installing software?':

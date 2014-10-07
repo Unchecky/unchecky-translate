@@ -28,6 +28,13 @@ jquery_lang_js.prototype.lang.nl = {
 	'Copyright © 2014 <a href="http://rammichael.com/">RaMMicHaeL</a>.':
 		'Copyright © 2014 <a href="http://rammichael.com/">RaMMicHaeL</a>. Nederlandse vertaling: <a href="mailto:contact@studio384.be?Subject=Unchecky">Studio 384</a>.',
 	
+	// Legal
+	
+	'End-User License Agreement':
+		'',
+	'Privacy Policy':
+		'',
+	
 	// Home
 	
 	'Tired of unchecking unrelated offers while installing software?':

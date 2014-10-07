@@ -28,6 +28,13 @@ jquery_lang_js.prototype.lang.tr = {
 	'Copyright © 2014 <a href="http://rammichael.com/">RaMMicHaeL</a>.':
 		'Telif hakkı © 2014 <a href="http://rammichael.com/">RaMMicHaeL</a>. Türkçe çeviri : <a href="mailto:fatihfirinci@gmail.com">Fatih Fırıncı</a>.',
 	
+	// Legal
+	
+	'End-User License Agreement':
+		'',
+	'Privacy Policy':
+		'',
+	
 	// Home
 	
 	'Tired of unchecking unrelated offers while installing software?':
