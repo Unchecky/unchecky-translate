@@ -31,9 +31,9 @@ jquery_lang_js.prototype.lang.pl = {
 	// Legal
 	
 	'End-User License Agreement':
-		'',
+		'Umowa licencyjna',
 	'Privacy Policy':
-		'',
+		'Polityka prywatności',
 	
 	// Home
 	
@@ -123,9 +123,9 @@ jquery_lang_js.prototype.lang.pl = {
 		'Pliki do przetłumaczenia programu Unchecky oraz jego strony internetowej znajdują się na repozytorium GitHub: <a href="https://github.com/RaMMicHaeL/unchecky-translate">unchecky-translate</a>',
 	
 	'Is it possible to install Unchecky silently?':
-		'',
+		'Czy można uruchomić instalator Unchecky w trybie cichym?',
 	'Yes, run the installer with the <code>-install</code> command line switch. For a list of supported command line switches, run <code>unchecky_setup.exe -?</code>.':
-		'',
+		'Tak, wystarczy uruchomić instalator z parametrem <code>-install</code>. Pełną listę wspieranych przełączników uzyskasz uruchamiając instalator Unchecky z parametrem <code>-?</code>, np. <code>unchecky_setup.exe -?</code>.',
 	
 	// Contact
 	
@@ -146,7 +146,7 @@ jquery_lang_js.prototype.lang.pl = {
 		'Wyślij',
 		
 	'Please fill in all fields.':
-		'Proszę wypełnic wszystkie pola formularza.',
+		'Proszę wypełnić wszystkie pola formularza.',
 	'Please enter a valid email address.':
 		'Proszę podać prawidłowy adres e-mail.',
 	'Could not complete your request.':
@@ -160,6 +160,6 @@ jquery_lang_js.prototype.lang.pl = {
 		'Nie znaleziono strony.',
 	
 	'Sorry but the page you are looking for cannot be found.':
-		'Przykro nam, ale strona, którą chciałeś odwiedzić nie mogła zostać odnaleziona.',
+		'Przykro nam, ale strona, którą chciałeś odwiedzić nie została odnaleziona.',
 	
 }
