@@ -61,4 +61,4 @@ IDS_SHARE_EMAIL_MAIN    "Witaj!\n\nChciałbym polecić Ci świetny program, na k
 IDS_SHARE_EMAIL_EXAMPLE "Na przykład, gdy instalowałem %1: %2.\n"
 IDS_SHARE_EMAIL_PREVENTED "Unchecky automatycznie zablokował %u oferty niechcianych programów"
 IDS_SHARE_EMAIL_AND     " oraz "
-IDS_SHARE_EMAIL_WARNED  "ostrzegł mnie przed zaakceptowanie %u niechcianych ofert."
+IDS_SHARE_EMAIL_WARNED  "ostrzegł mnie przed zaakceptowanie %u niechcianych ofert"
