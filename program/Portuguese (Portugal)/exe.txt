@@ -1,0 +1,4 @@
+IDS_OFFER_REJECTED      "A potentially unwanted program offer was rejected!"
+IDS_SOME_OFFERS_REJECTED 
+                        "%d potentially unwanted program offers were rejected!"
+IDS_OFFER_REJECTED_MORE "Click here for more details..."

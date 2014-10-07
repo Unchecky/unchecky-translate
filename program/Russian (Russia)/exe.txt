@@ -1,0 +1,4 @@
+IDS_OFFER_REJECTED      "Предложение об установке потенциально нежелательной программы было отклонено!"
+IDS_SOME_OFFERS_REJECTED 
+                        "%d предложений об установке потенциально нежелательных программ были отклонены!"
+IDS_OFFER_REJECTED_MORE "Click here for more details..."
