@@ -49,7 +49,7 @@ IDS_LOG_SHARE_FACEBOOK  "Share on Facebook"
 IDS_LOG_SHARE_TWITTER   "Share on Twitter"
 IDS_LOG_SHARE_EMAIL     "Share by Email"
 IDS_SHARE_TWITTER_GENERIC 
-                        "@unchecky_soft helps to prevent potentially unwanted programs from being installed on your computer. Highly recommended! #anti_pup"
+                        "@unchecky_com helps to prevent potentially unwanted programs from being installed on your computer. Highly recommended! #anti_pup"
 IDS_SHARE_TWITTER_MAIN  "While installing %1, @unchecky_com %2. Highly recommended! #anti_pup"
 IDS_SHARE_TWITTER_PREVENTED "prevented %u potentially unwanted programs"
 IDS_SHARE_TWITTER_AND   " and "

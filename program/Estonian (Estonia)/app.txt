@@ -48,7 +48,7 @@ IDS_LOG_SHARE_FACEBOOK  "Jaga Facebookis"
 IDS_LOG_SHARE_TWITTER   "Jaga Twitteris"
 IDS_LOG_SHARE_EMAIL     "Jaga e-postiga"
 IDS_SHARE_TWITTER_GENERIC 
-                        "@unchecky_soft aitab ära hoida potentsiaalselt soovimatute programmide sattumise sinu arvutisse. Soovitan julgelt! #anti_pup"
+                        "@unchecky_com aitab ära hoida potentsiaalselt soovimatute programmide sattumise sinu arvutisse. Soovitan julgelt! #anti_pup"
 IDS_SHARE_TWITTER_MAIN  "Kui olin paigaldamas %1, siis @unchecky_com %2. Soovitan julgelt! #anti_pup"
 IDS_SHARE_TWITTER_PREVENTED 
                         "hoidis ära %u potentsiaalse programmi paigalduse"

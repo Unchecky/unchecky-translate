@@ -49,7 +49,7 @@ IDS_LOG_SHARE_FACEBOOK  "Wyślij do usługi Facebook"
 IDS_LOG_SHARE_TWITTER   "Wyślij do usługi Twitter"
 IDS_LOG_SHARE_EMAIL     "Wyślij poprzez e-mail"
 IDS_SHARE_TWITTER_GENERIC 
-                        "@unchecky_soft pomaga chronić komputer przed instalacją potencjalnie niechcianych programów. Warto! #anti_pup"
+                        "@unchecky_com pomaga chronić komputer przed instalacją potencjalnie niechcianych programów. Warto! #anti_pup"
 IDS_SHARE_TWITTER_MAIN  "Gdy instalowałem %1, @unchecky_com %2. Sprawdź go! #anti_pup"
 IDS_SHARE_TWITTER_PREVENTED 
                         "uchronił mniej przed %u potencjalnie niechcianym programem"
