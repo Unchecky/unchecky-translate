@@ -1,4 +1,5 @@
 IDS_LANGUAGE            "Polski"
+IDS_IS_RTL              "0"
 IDS_MAIN_WNDTITLE       "Instalator programu Unchecky v%s"
 IDS_MAIN_TITLE          "Unchecky"
 IDS_MAIN_SUBTITLE       "Odznacz niepotrzebne opcje"

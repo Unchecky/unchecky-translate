@@ -1,4 +1,5 @@
 IDS_LANGUAGE            "Türkçe"
+IDS_IS_RTL              "0"
 IDS_MAIN_WNDTITLE       "Unchecky v%s Kurulumu"
 IDS_MAIN_TITLE          "Unchecky"
 IDS_MAIN_SUBTITLE       "Onay kutularınızı temiz tutar"

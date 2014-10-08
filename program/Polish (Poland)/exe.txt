@@ -1,4 +1,4 @@
-IDS_OFFER_REJECTED      "Odrzucono ofertę instalacji potencjalnie niechcianego programu!"
+IDS_OFFER_REJECTED      "Odrzucono ofertę instalacji potencjalnie niechcianego programu!"
 IDS_SOME_OFFERS_REJECTED 
                         "Odrzucono następującą ilość potencjalnie niechcianych ofert: %d!"
 IDS_OFFER_REJECTED_MORE "Kliknij tutaj, aby uzyskać więcej szczegółów..."

@@ -1,0 +1,10 @@
+IDS_CONFIRMATION_TEXT   "אתה עומד להתקין תוכנה שפוטנציאלית אינך צריך, האם אתה בטוח שברצונך להמשיך?"
+IDS_CONFIRMATION_PROCEED "&המשך"
+IDS_CONFIRMATION_DECLINE 
+                        "&סרב להצעות של תוכנות לא רצויות (מומלץ)"
+IDS_CONFIRMATION_YES    "&כן"
+IDS_CONFIRMATION_NO     "&לא (מומלץ)"
+IDS_CONFIRMATION_OK     "אישור"
+IDS_CONFIRMATION_CANCEL "ביטול (מומלץ)"
+IDS_CONFIRMATION_MBOX_WARNING 
+                        "אזהרה מ-Unchecky: אתה עומד להתקין תוכנה שפוטנציאלית אינה רצויה. אנא קרא את ההוראות למטה בזהירות."

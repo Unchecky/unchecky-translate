@@ -1,0 +1,17 @@
+IDS_LANGUAGE            "עברית"
+IDS_IS_RTL              "1"
+IDS_MAIN_WNDTITLE       "הסרת התקנה Unchecky v%s"
+IDS_MAIN_TITLE          "Unchecky"
+IDS_MAIN_SUBTITLE       "שומר על תיבות הסימון שלך נקיות"
+IDS_MAIN_INSTALL        "&הסר התקנה"
+IDS_MAIN_INSTALLING     "&מסיר התקנה..."
+IDS_MAIN_FINISH         "&סיום"
+IDS_MAIN_ERROR_UNCHECKY_RUNNING 
+                        "אנא סגור את כל החלוניות של Unchecky לפני שאתה ממשיך"
+IDS_MAINCTRL_TEXT       "Unchecky תוסר מתיקייה זאת. לחץ ""הסר התקנה"" על מנת להמשיך בתהליך."
+IDS_MAINCTRL_PATHTEXT   "מסיר מ:"
+IDS_MAINCTRL_REMOVE_SETTINGS "Remove saved &settings"
+IDS_FINISHCTRL_TEXT1    "Unchecky הוסרה ממחשבך."
+IDS_FINISHCTRL_ERROR_NOTE 
+                        "חלק מהרכיבים לא הוסרו, תוכל להסירם בצורה ידנית."
+IDS_FINISHCTRL_TEXT2    "לחץ ""סיום"" על מנת לסיים."

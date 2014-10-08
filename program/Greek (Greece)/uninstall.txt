@@ -1,4 +1,5 @@
 IDS_LANGUAGE            "Ελληνικά"
+IDS_IS_RTL              "0"
 IDS_MAIN_WNDTITLE       "Κατάργηση του Unchecky v%s"
 IDS_MAIN_TITLE          "Unchecky"
 IDS_MAIN_SUBTITLE       "Διατηρεί τα πλαίσια επιλογών σας καθαρά."

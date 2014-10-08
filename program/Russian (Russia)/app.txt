@@ -1,4 +1,5 @@
 IDS_LANGUAGE            "Русский"
+IDS_IS_RTL              "0"
 IDS_OK                  "ОК"
 IDS_CANCEL              "Отмена"
 IDS_APPLY               "При&менить"

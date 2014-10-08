@@ -1,4 +1,5 @@
 IDS_LANGUAGE            "Dansk"
+IDS_IS_RTL              "0"
 IDS_MAIN_WNDTITLE       "Unchecky v%s Afinstallation"
 IDS_MAIN_TITLE          "Unchecky"
 IDS_MAIN_SUBTITLE       "Tømmer dine checkbokse"

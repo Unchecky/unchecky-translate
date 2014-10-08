@@ -1,4 +1,5 @@
 IDS_LANGUAGE            "语言"
+IDS_IS_RTL              "0"
 IDS_MAIN_WNDTITLE       "Unchecky v%s卸载"
 IDS_MAIN_TITLE          "Unchecky"
 IDS_MAIN_SUBTITLE       "保持你的复选框空白"

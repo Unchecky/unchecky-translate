@@ -1,4 +1,5 @@
 IDS_LANGUAGE            "Magyar"
+IDS_IS_RTL              "0"
 IDS_OK                  "OK"
 IDS_CANCEL              "Mégse"
 IDS_APPLY               "&Alkalmaz"

@@ -1,4 +1,5 @@
 IDS_LANGUAGE            "Eesti"
+IDS_IS_RTL              "0"
 IDS_MAIN_WNDTITLE       "Unchecky v%s eemaldamine"
 IDS_MAIN_TITLE          "Unchecky"
 IDS_MAIN_SUBTITLE       "Hoiab sinu märkekastid puhtana"

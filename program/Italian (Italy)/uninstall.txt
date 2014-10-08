@@ -1,4 +1,5 @@
 IDS_LANGUAGE            "Italiano"
+IDS_IS_RTL              "0"
 IDS_MAIN_WNDTITLE       "Disinstallazione di Unchecky v%s"
 IDS_MAIN_TITLE          "Unchecky"
 IDS_MAIN_SUBTITLE       "Mantiene le checkbox pulite"

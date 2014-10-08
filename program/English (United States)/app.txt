@@ -1,4 +1,5 @@
 IDS_LANGUAGE            "English"
+IDS_IS_RTL              "0"
 IDS_OK                  "OK"
 IDS_CANCEL              "Cancel"
 IDS_APPLY               "&Apply"

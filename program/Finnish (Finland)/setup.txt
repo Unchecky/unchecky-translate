@@ -1,4 +1,5 @@
 IDS_LANGUAGE            "Suomi"
+IDS_IS_RTL              "0"
 IDS_MAIN_WNDTITLE       "Uncheckyn v%s asennus"
 IDS_MAIN_TITLE          "Unchecky"
 IDS_MAIN_SUBTITLE       "Pitää laatikkosi tyhjinä"

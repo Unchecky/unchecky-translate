@@ -1,4 +1,5 @@
 IDS_LANGUAGE            "简体中文"
+IDS_IS_RTL              "0"
 IDS_OK                  "确定"
 IDS_CANCEL              "取消"
 IDS_APPLY               "&应用"

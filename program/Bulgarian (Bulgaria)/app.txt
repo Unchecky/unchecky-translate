@@ -1,4 +1,5 @@
 IDS_LANGUAGE            "Български"
+IDS_IS_RTL              "0"
 IDS_OK                  "OK"
 IDS_CANCEL              "Отмени"
 IDS_APPLY               "&Приложи"
