@@ -1,4 +1,4 @@
 IDS_OFFER_REJECTED      "Potentsiaalselt soovimatu tarkvara pakkumisest keelduti!"
 IDS_SOME_OFFERS_REJECTED 
-                        "%d 'st potentsiaalselt soovimatu programmi pakkumisest keelduti!"
+                        "%d'st potentsiaalselt soovimatu programmi pakkumisest keelduti!"
 IDS_OFFER_REJECTED_MORE "Rohkema teave saamiseks kliki siia..."
