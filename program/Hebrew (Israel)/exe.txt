@@ -1,4 +1,4 @@
-IDS_OFFER_REJECTED      "A potentially unwanted program offer was rejected!"
+IDS_OFFER_REJECTED      "תוכנה שעשויה להיות לא רצויה נדחתה!"
 IDS_SOME_OFFERS_REJECTED 
-                        "%d potentially unwanted program offers were rejected!"
-IDS_OFFER_REJECTED_MORE "Click here for more details..."
+                        "%d הצעות של תוכנות לא רצויות נדחו!"
+IDS_OFFER_REJECTED_MORE "לחץ כאן לקבלת פרטים נוספים..."

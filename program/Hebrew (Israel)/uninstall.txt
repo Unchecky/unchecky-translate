@@ -10,7 +10,7 @@ IDS_MAIN_ERROR_UNCHECKY_RUNNING
                         "אנא סגור את כל החלוניות של Unchecky לפני שאתה ממשיך"
 IDS_MAINCTRL_TEXT       "Unchecky תוסר מתיקייה זאת. לחץ ""הסר התקנה"" על מנת להמשיך בתהליך."
 IDS_MAINCTRL_PATHTEXT   "מסיר מ:"
-IDS_MAINCTRL_REMOVE_SETTINGS "Remove saved &settings"
+IDS_MAINCTRL_REMOVE_SETTINGS "הסר הגדרות &שמורות"
 IDS_FINISHCTRL_TEXT1    "Unchecky הוסרה ממחשבך."
 IDS_FINISHCTRL_ERROR_NOTE 
                         "חלק מהרכיבים לא הוסרו, תוכל להסירם בצורה ידנית."
