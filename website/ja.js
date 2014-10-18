@@ -15,7 +15,7 @@
 	'Links':
 		'リンク',
 	'Bug/feature tracker':
-		'バグ/フィーチャー・トラッカー',
+		'不具合/機能改善に関する報告',
 	'Blog':
 		'ブログ',
 	'Donate':
@@ -30,9 +30,9 @@
 	
 	// Legal
 	
-	'End-User License Agreement':
+	'エンドユーザー向け使用許諾契約':
 		'',
-	'Privacy Policy':
+	'プライバシーポリシー':
 		'',
 	
 	// Home
@@ -122,9 +122,9 @@
 	'The translation files of the Unchecky program and website can be found on the <a href="https://github.com/RaMMicHaeL/unchecky-translate">unchecky-translate</a> GitHub repository.':
 		'Uncheckyのプログラムとウェブサイトの翻訳ファイルはGitHubのリポジトリに掲載されています：<a href="https://github.com/RaMMicHaeL/unchecky-translate">unchecky-translate</a>',
 	
-	'Is it possible to install Unchecky silently?':
+	'Uncheckyをサイレントインストールすることは可能ですか？':
 		'',
-	'Yes, run the installer with the <code>-install</code> command line switch. For a list of supported command line switches, run <code>unchecky_setup.exe -?</code>.':
+	'はい、<code>-install</code> のコマンドラインスイッチを使用してインストーラーを実行します。サポートされているコマンドラインスイッチのリストに関しては <code>unchecky_setup.exe -?</code>を実行してください。':
 		'',
 	
 	// Contact
@@ -146,7 +146,7 @@
 		'送信',
 	
 	'Please fill in all fields.':
-		'すべての欄に記入してください。',
+		'全て欄を記入してください。',
 	'Please enter a valid email address.':
 		'有効なメールアドレスを入力してください。',
 	'Could not complete your request.':
