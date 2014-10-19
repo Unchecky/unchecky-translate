@@ -109,8 +109,8 @@ jquery_lang_js.prototype.lang.ru = {
 	
 	'My antivirus flags Unchecky as malicious.':
 		'Мой антивирус считает Unchecky вредоносным.',
-	'It\'s a false positive. Please report about it to your antivirus company. Note that Unchecky was tested thoroughly by Softpedia and <a href="http://www.softpedia.com/progClean/Unchecky-Clean-244234.html">was found 100% clean</a>.':
-		'Это ложное срабатывание. Пожалуйста, сообщите об этом вашей антивирусной компании. Обратите внимание, что Unchecky была тщательно проверена компанией Softpedia и <a href="http://www.softpedia.com/progClean/Unchecky-Clean-244234.html">была признана на 100% безвредной</a>.',
+	'It\'s a false positive. Please report about it to your antivirus company. Note that Unchecky was tested thoroughly by Softpedia and <a href="http://www.softpedia.com/get/System/OS-Enhancements/Unchecky.shtml#clean">was found 100% clean</a>.':
+		'Это ложное срабатывание. Пожалуйста, сообщите об этом вашей антивирусной компании. Обратите внимание, что Unchecky была тщательно проверена компанией Softpedia и <a href="http://www.softpedia.com/get/System/OS-Enhancements/Unchecky.shtml#clean">была признана на 100% безвредной</a>.',
 	
 	'What is the best way to report a bug or suggest a feature?':
 		'Как сообщить об ошибке или внести предложение по программе?',

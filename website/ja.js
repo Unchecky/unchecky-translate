@@ -109,8 +109,8 @@
 	
 	'My antivirus flags Unchecky as malicious.':
 		'セキュリティソフトにより、Uncheckyがマルウェアとして検出されます。',
-	'It\'s a false positive. Please report about it to your antivirus company. Note that Unchecky was tested thoroughly by Softpedia and <a href="http://www.softpedia.com/progClean/Unchecky-Clean-244234.html">was found 100% clean</a>.':
-		'それは誤検出です。セキュリティベンダーに誤検出に関する報告を行ってください。UncheckyはSoftpediaにより徹底的にテストされ、その結果が示されています。<a href="http://www.softpedia.com/progClean/Unchecky-Clean-244234.html">100% 安全</a>',
+	'It\'s a false positive. Please report about it to your antivirus company. Note that Unchecky was tested thoroughly by Softpedia and <a href="http://www.softpedia.com/get/System/OS-Enhancements/Unchecky.shtml#clean">was found 100% clean</a>.':
+		'それは誤検出です。セキュリティベンダーに誤検出に関する報告を行ってください。UncheckyはSoftpediaにより徹底的にテストされ、その結果が示されています。<a href="http://www.softpedia.com/get/System/OS-Enhancements/Unchecky.shtml#clean">100% 安全</a>',
 	
 	'What is the best way to report a bug or suggest a feature?':
 		'バグの報告や機能を提案するための最良の方法は何ですか？',

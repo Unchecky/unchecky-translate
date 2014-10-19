@@ -109,8 +109,8 @@ jquery_lang_js.prototype.lang.zh_cn = {
 	
 	'My antivirus flags Unchecky as malicious.':
 		'我的反病毒软件标志Unchecky为恶意。',
-	'It\'s a false positive. Please report about it to your antivirus company. Note that Unchecky was tested thoroughly by Softpedia and <a href="http://www.softpedia.com/progClean/Unchecky-Clean-244234.html">was found 100% clean</a>.':
-		'它是误报。请向你的反病毒软件公司报告。请注意，Unchecky已被<a href="http://www.softpedia.com/progClean/Unchecky-Clean-244234.html">完全测试，是100%无害的</a>。',
+	'It\'s a false positive. Please report about it to your antivirus company. Note that Unchecky was tested thoroughly by Softpedia and <a href="http://www.softpedia.com/get/System/OS-Enhancements/Unchecky.shtml#clean">was found 100% clean</a>.':
+		'它是误报。请向你的反病毒软件公司报告。请注意，Unchecky已被<a href="http://www.softpedia.com/get/System/OS-Enhancements/Unchecky.shtml#clean">完全测试，是100%无害的</a>。',
 	
 	'What is the best way to report a bug or suggest a feature?':
 		'报告错或提出特性建议的最好的方法是什么？',

@@ -109,8 +109,8 @@ jquery_lang_js.prototype.lang.de = {
 	
 	'My antivirus flags Unchecky as malicious.':
 		'Mein Virenschutz meldet Unchecky als gefährlich.',
-	'It\'s a false positive. Please report about it to your antivirus company. Note that Unchecky was tested thoroughly by Softpedia and <a href="http://www.softpedia.com/progClean/Unchecky-Clean-244234.html">was found 100% clean</a>.':
-		'Manche Virenscanner erkennen Unchecky zu Unrecht als Virus. Bitte melde diesen Fehler dem Hersteller deines Antivirenprogramms. Unchecky wurde umfangreich von Softpedia getestet und <a href="http://www.softpedia.com/progClean/Unchecky-Clean-244234.html">ist absolut virenfrei</a>.',
+	'It\'s a false positive. Please report about it to your antivirus company. Note that Unchecky was tested thoroughly by Softpedia and <a href="http://www.softpedia.com/get/System/OS-Enhancements/Unchecky.shtml#clean">was found 100% clean</a>.':
+		'Manche Virenscanner erkennen Unchecky zu Unrecht als Virus. Bitte melde diesen Fehler dem Hersteller deines Antivirenprogramms. Unchecky wurde umfangreich von Softpedia getestet und <a href="http://www.softpedia.com/get/System/OS-Enhancements/Unchecky.shtml#clean">ist absolut virenfrei</a>.',
 	
 	'What is the best way to report a bug or suggest a feature?':
 		'Wie kann ich am besten einen Fehler melden oder Verbesserungen vorschlagen?',

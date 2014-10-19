@@ -109,8 +109,8 @@ jquery_lang_js.prototype.lang.se = {
 	
 	'My antivirus flags Unchecky as malicious.':
 		'Mitt antivirusprogram flaggar Unchecky som skadligt',
-	'It\'s a false positive. Please report about it to your antivirus company. Note that Unchecky was tested thoroughly by Softpedia and <a href="http://www.softpedia.com/progClean/Unchecky-Clean-244234.html">was found 100% clean</a>.':
-		'Det är en falsk positiv. Var vänlig rapportera om det till ditt antivirusföretag. Notera att Unchekcy genomgående testats av Softpedia och <a href="http://www.softpedia.com/progClean/Unchecky-Clean-244234.html">konstaterades vara 100% rent</a>',
+	'It\'s a false positive. Please report about it to your antivirus company. Note that Unchecky was tested thoroughly by Softpedia and <a href="http://www.softpedia.com/get/System/OS-Enhancements/Unchecky.shtml#clean">was found 100% clean</a>.':
+		'Det är en falsk positiv. Var vänlig rapportera om det till ditt antivirusföretag. Notera att Unchekcy genomgående testats av Softpedia och <a href="http://www.softpedia.com/get/System/OS-Enhancements/Unchecky.shtml#clean">konstaterades vara 100% rent</a>',
 	
 	'What is the best way to report a bug or suggest a feature?':
 		'Hur rapporterar jag enklast buggar och föreslår funktioner?',
