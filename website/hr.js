@@ -31,9 +31,9 @@ jquery_lang_js.prototype.lang.hr = {
 	// Legal
 	
 	'End-User License Agreement':
-		'',
+		'Korisnički ugovor',
 	'Privacy Policy':
-		'',
+		'Politika privatnosti',
 	
 	// Home
 	
@@ -123,9 +123,9 @@ jquery_lang_js.prototype.lang.hr = {
 		'Datoteke za prevođenje nalaze se na GitHub-u <a href="https://github.com/RaMMicHaeL/unchecky-translate">unchecky-translate</a>',
 	
 	'Is it possible to install Unchecky silently?':
-		'',
+		'Je li moguće potiho instalirati Unchecky?',
 	'Yes, run the installer with the <code>-install</code> command line switch. For a list of supported command line switches, run <code>unchecky_setup.exe -?</code>.':
-		'',
+		'Da, pokrenite instaler sa <code>-install</code> komandom. Za cijelu listu podržanih komandi, pokrenite <code>unchecky_setup.exe -?</code>.',
 	
 	// Contact
 	
