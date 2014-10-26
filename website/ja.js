@@ -26,7 +26,7 @@
 	// Footer
 	
 	'Copyright © 2014 <a href="http://rammichael.com/">RaMMicHaeL</a>.':
-		'Copyright © 2014 <a href="http://rammichael.com/">RaMMicHaeL</a>. 日本語訳： <a href="mailto:milksizegene@gmail.com">milksizegene</a>',
+		'Copyright © 2014 <a href="http://rammichael.com/">RaMMicHaeL</a>. 日本語訳： <a href="mailto:milksizegene@japan-secure.com">milksizegene</a>',
 	
 	// Legal
 	
