@@ -10,7 +10,7 @@ IDS_MAIN_INSTALLING     "&Installiere..."
 IDS_MAIN_FINISH         "&Fertigstellen"
 IDS_MAINCTRL_TEXT       "Willkommen beim Unchecky Setup.\n\nUnchecky ist ein Programm welches potentiell ungewollte Software von deinem Computer fernhält.\n\nKlicke Installieren um die Installation zu starten."
 IDS_MAINCTRL_LANG       "Sprache:"
-IDS_EXTRACTRL_TEXT      "Unchecky will be installed in the following folder. To install in a different folder, click Browse and select another folder. Click Install to start the installation."
+IDS_EXTRACTRL_TEXT      "Unchecky wird in dem folgenden Ordner installiert werden. Um Unchecky in einem anderen Ordner zu installieren, klicke Durchsuchen und wähle einen Ordner aus. Klicke Installieren um die Installation zu starten."
 IDS_EXTRACTRL_FOLDER_GROUP "Zielordner"
 IDS_EXTRACTRL_FOLDER_BROWSE "Du&rchsuchen..."
 IDS_EXTRACTRL_BROWSE_TEXT 
