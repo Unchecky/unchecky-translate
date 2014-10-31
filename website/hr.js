@@ -120,7 +120,7 @@ jquery_lang_js.prototype.lang.hr = {
 	'I want to translate Unchecky.':
 		'Ja želim prevesti Unchecky na svoj jezik.',
 	'The translation files of the Unchecky program and website can be found on the <a href="https://github.com/RaMMicHaeL/unchecky-translate">unchecky-translate</a> GitHub repository.':
-		'Datoteke za prevođenje nalaze se na GitHub-u <a href="https://github.com/RaMMicHaeL/unchecky-translate">unchecky-translate</a>',
+		'Datoteke za prevođenje nalaze se na GitHub-u <a href="https://github.com/RaMMicHaeL/unchecky-translate">unchecky-translate</a>.',
 	
 	'Is it possible to install Unchecky silently?':
 		'Je li moguće potiho instalirati Unchecky?',
