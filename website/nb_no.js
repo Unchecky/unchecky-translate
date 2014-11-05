@@ -18,8 +18,6 @@ jquery_lang_js.prototype.lang.nb_no = {
 		'Bug/funksjons-sporer',
 	'Blog':
 		'Blogg',
-	'Donate':
-		'Doner',
 	'Language':
 		'Språk',
 	

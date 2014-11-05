@@ -18,8 +18,6 @@ jquery_lang_js.prototype.lang.de = {
 		'Bug-/Feature-Tracker',
 	'Blog':
 		'Blog',
-	'Donate':
-		'Spenden',
 	'Language':
 		'Sprache',
 	

@@ -18,8 +18,6 @@ jquery_lang_js.prototype.lang.se = {
 		'Bugg-/funktionstracker',
 	'Blog':
 		'Blogg',
-	'Donate':
-		'Donera',
 	'Language':
 		'Språk',
 	

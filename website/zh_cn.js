@@ -18,8 +18,6 @@ jquery_lang_js.prototype.lang.zh_cn = {
 		'错误/特性跟踪器',
 	'Blog':
 		'博客',
-	'Donate':
-		'捐助',
 	'Language':
 		'语言',
 	

@@ -18,8 +18,6 @@ jquery_lang_js.prototype.lang.ru = {
 		'Ошибки и пожелания',
 	'Blog':
 		'Блог',
-	'Donate':
-		'Пожертвование',
 	'Language':
 		'Язык',
 	

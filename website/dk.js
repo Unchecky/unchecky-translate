@@ -18,8 +18,6 @@ jquery_lang_js.prototype.lang.dk = {
 		'',
 	'Blog':
 		'Blog',
-	'Donate':
-		'Doner',
 	'Language':
 		'Sprog',
 	

@@ -18,8 +18,6 @@ jquery_lang_js.prototype.lang.bg = {
 		'Тракер на бъгове/функции',
 	'Blog':
 		'Блог',
-	'Donate':
-		'Дарение',
 	'Language':
 		'Език',
 	

@@ -18,8 +18,6 @@ jquery_lang_js.prototype.lang.tr = {
 		'Hata/özellik takibi',
 	'Blog':
 		'Blog',
-	'Donate':
-		'Bağış yap',
 	'Language':
 		'Dil',
 	

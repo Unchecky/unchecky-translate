@@ -18,8 +18,6 @@ jquery_lang_js.prototype.lang.pl = {
 		'Zgłoś błąd / pomysł',
 	'Blog':
 		'Blog',
-	'Donate':
-		'Dotacja',
 	'Language':
 		'Język',
 	

@@ -18,8 +18,6 @@ jquery_lang_js.prototype.lang.fr = {
 		'Suivi de bugs/caractéristiques',
 	'Blog':
 		'Blog',
-	'Donate':
-		'Faire un don',
 	'Language':
 		'Langue',
 	

@@ -18,8 +18,6 @@ jquery_lang_js.prototype.lang.nl = {
 		'Bug/feature tracker',
 	'Blog':
 		'Blog',
-	'Donate':
-		'Steun',
 	'Language':
 		'Taal',
 	

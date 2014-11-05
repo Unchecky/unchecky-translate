@@ -18,8 +18,6 @@ jquery_lang_js.prototype.lang.it = {
 		'Segnalazioni e richieste',
 	'Blog':
 		'Blog',
-	'Donate':
-		'Donazioni',
 	'Language':
 		'Lingua',
 	

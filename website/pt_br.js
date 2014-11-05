@@ -18,8 +18,6 @@ jquery_lang_js.prototype.lang.pt_br = {
 		'Erros/novas funções',
 	'Blog':
 		'Blog',
-	'Donate':
-		'Doações',
 	'Language':
 		'Idioma',
 	

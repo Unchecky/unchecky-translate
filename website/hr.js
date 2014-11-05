@@ -18,8 +18,6 @@ jquery_lang_js.prototype.lang.hr = {
 		'Bug/feature tracker',
 	'Blog':
 		'Blog',
-	'Donate':
-		'Donacije',
 	'Language':
 		'Jezik',
 	
