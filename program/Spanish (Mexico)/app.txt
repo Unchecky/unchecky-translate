@@ -18,7 +18,7 @@ IDS_MAINCTRL_STATS_NONE_NEWGUY
 IDS_MAINCTRL_STATS_NONE "No hay casillas sin control. Parece que los programas no deseados se han mantenido alejados, ¡buen trabajo!"
 IDS_MAINCTRL_STATS      "Desde %s, %u casillas han sido desactivada%s."
 IDS_MAINCTRL_STATS_WARNING " y %u advertencias han sido mostradas"
-IDS_MAINCTRL_LOG        "Activity &log"
+IDS_MAINCTRL_LOG        "Registro de &actividad"
 IDS_MAINCTRL_STOP       "&Suspender servicio"
 IDS_MAINCTRL_START      "&Reanudar servicio"
 IDS_CONFIG_LANG         "&Idioma:"
