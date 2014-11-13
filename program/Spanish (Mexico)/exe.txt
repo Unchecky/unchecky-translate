@@ -1,4 +1,4 @@
 IDS_OFFER_REJECTED      "La oferta de un programa potencialmente no deseado fue rechazada!"
 IDS_SOME_OFFERS_REJECTED 
-                        "%d La oferta de algunos programas potencialmente no deseados fueron rechazadas"
+                        "%d La oferta de algunos programas potencialmente no deseados fueron rechazadas!"
 IDS_OFFER_REJECTED_MORE "Click aqui para mas informacion..."
