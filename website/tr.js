@@ -29,9 +29,9 @@ jquery_lang_js.prototype.lang.tr = {
 	// Legal
 	
 	'End-User License Agreement':
-		'',
+		'Son Kullanıcı Lisans Sözleşmesi',
 	'Privacy Policy':
-		'',
+		'Gizlilik Politikası',
 	
 	// Home
 	
@@ -96,7 +96,7 @@ jquery_lang_js.prototype.lang.tr = {
 	'French':
 		'Fransızca',
 	'German':
-		'',
+		'Almanca',
 	
 	// FAQ
 	
@@ -121,9 +121,9 @@ jquery_lang_js.prototype.lang.tr = {
 		'Unchecky programının ve web sitesinin çeviri dosyaları <a href="https://github.com/RaMMicHaeL/unchecky-translate">unchecky-translate</a> GitHub repository üzerinde bulunabilir.',
 	
 	'Is it possible to install Unchecky silently?':
-		'',
+		'Unchecky\'yi sessizce yüklemek mümkün müdür?',
 	'Yes, run the installer with the <code>-install</code> command line switch. For a list of supported command line switches, run <code>unchecky_setup.exe -?</code>.':
-		'',
+		'Evet, <code>-install</code> komut satırı anahtarı ile yükleyiciyi çalıştırın. Desteklenen komut satırı anahtarlarının bir listesi için, şunu çalıştırın: <code>unchecky_setup.exe -?</code>.',
 	
 	// Contact
 	
