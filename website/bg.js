@@ -36,7 +36,7 @@ jquery_lang_js.prototype.lang.bg = {
 	// Home
 	
 	'Tired of unchecking unrelated offers while installing software?':
-		'Писнало ли Ви е да размаркирате нежелани предложения за при инсталиране на софтуер?',
+		'Писнало ли Ви е да размаркирате нежелани предложения при инсталиране на софтуер?',
 	'Have you ever felt, while installing software, that the installer tries to push additional unwanted programs at all cost? Ever missed a checkbox, and spent hours afterwards removing adware? Ever opened your browser after an installation, only to find out that you have a new homepage, a new search engine, or even a new browser?<br>Unchecky aims to keep potentially unwanted programs out of your computer.':
 		'Имали ли сте усещането, че докато инсталирате софтуер, инсталаторът се опитва всячески да Ви пробута допълнителни, нежелани програми? Пропускали ли сте квадратче с отметка и после да сте прекарали часове в премахване на рекламен софтуер? Отваряли ли сте браузъра след инсталация, за да установите, че имате нова начална страница, нова търсеща машина или дори напълно нов браузър?<br>Unchecky има за цел да държи всички тези нежелани програми вън от Вашия компютър.',
 	'Download':
@@ -113,17 +113,17 @@ jquery_lang_js.prototype.lang.bg = {
 	'What is the best way to report a bug or suggest a feature?':
 		'Какъв е най-добрият начин за докладване на проблем или за изискване на нова функция?',
 	'Post your feedback on the <a href="http://unchecky.userecho.com/">UserEcho page</a>.':
-		'Пишете ни на <a href="http://unchecky.userecho.com/">UserEcho-Seite</a>.',
+		'Пишете ни на <a href="http://unchecky.userecho.com/">UserEch страницата</a>.',
 	
 	'I want to translate Unchecky.':
 		'Искам да преведа Unchecky!',
 	'The translation files of the Unchecky program and website can be found on the <a href="https://github.com/RaMMicHaeL/unchecky-translate">unchecky-translate</a> GitHub repository.':
-		'Файловете за превод на самата програма и сайта на Unchecky могат да бъдат открити в <a href="https://github.com/RaMMicHaeL/unchecky-translate">unchecky-translate</a>-GitHub хранилището.',
+		'Файловете за превод на самата програма и сайта на Unchecky могат да бъдат открити в <a href="https://github.com/RaMMicHaeL/unchecky-translate">unchecky-translate</a> GitHub хранилището.',
 	
 	'Is it possible to install Unchecky silently?':
 		'Възможно ли е да инсталирам Unchecky в тих режим?',
 	'Yes, run the installer with the <code>-install</code> command line switch. For a list of supported command line switches, run <code>unchecky_setup.exe -?</code>.':
-		'Да, стартирайте инсталатора с <code>-install</code> параметър от командната лента. За пълен списък с поддържани параметри, стартирайте <code>unchecky_setup.exe -?</code>.',
+		'Да, стартирайте инсталатора с параметър <code>-install</code> от командната лента. За пълен списък с поддържани параметри, стартирайте <code>unchecky_setup.exe -?</code>.',
 	
 	// Contact
 	
