@@ -1,4 +1,4 @@
-IDS_OFFER_REJECTED      "Ponuda za instalaciju potencijalno neželjenog programa je odbijena!"
+IDS_OFFER_REJECTED      "Ponuda za instalaciju potencijalno neželjenog programa je odbijena!"
 IDS_SOME_OFFERS_REJECTED 
                         "%d potencijalno neželjenih programa je odbijeno!"
 IDS_OFFER_REJECTED_MORE "Kliknite ovdje za više informacija..."

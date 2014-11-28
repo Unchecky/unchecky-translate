@@ -29,7 +29,7 @@ IDS_CONFIG_EMPTY_MESSAGE
 IDS_CONFIG_ADVANCED     "Sp&eciális beállítások"
 IDS_ABOUT_BETA          "Beta"
 IDS_ABOUT_AUTHOR        "Szerző <a href=""http://rammichael.com/"">RaMMicHaeL</a> • Magyar fordítás <a href=""http://szoftverforditasok.hu/Forum.html"">LaMoLa</a>"
-IDS_ABOUT_LINKS         "<a href=""http://unchecky.com/"">Weboldal</a> • <a href=""http://unchecky.userecho.com/"">Hibajelentés/javaslat</a> • <a href=""http://rammichael.com/donate"">Támogatás</a>"
+IDS_ABOUT_LINKS         "<a href=""http://unchecky.com/"">Weboldal</a> • <a href=""http://unchecky.userecho.com/"">Hibajelentés/javaslat</a>"
 IDS_ABOUT_LINKS_LEGAL   "<a href=""http://unchecky.com/eula"">End-User License Agreement</a> • <a href=""http://unchecky.com/privacy_policy"">Privacy Policy</a>"
 IDS_ERROR_LINK          "Nem sikerült megnyitni a linket.\n\nSzüksége van egy web böngészőre (Pl. Internet Explorer, Firefox stb.). Levelezési kapcsolatokhoz pedig E-mail kliensre (Pl. Windows Live Mail vagy Outlook stb.)."
 IDS_ADVOPT_TITLE        "Speciális beállítások"

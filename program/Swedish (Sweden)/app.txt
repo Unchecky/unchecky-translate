@@ -28,7 +28,7 @@ IDS_CONFIG_EMPTY_MESSAGE
 IDS_CONFIG_ADVANCED     "Av&ancerade inställningar"
 IDS_ABOUT_BETA          "beta"
 IDS_ABOUT_AUTHOR        "Av <a href=""http://rammichael.com/"">RaMMicHaeL</a> • Översatt av <a href=""mailto:t.dotar@gmail.com"">Torsten Augustsson</a>"
-IDS_ABOUT_LINKS         "<a href=""http://unchecky.com/"">Hemsida</a> • <a href=""http://unchecky.userecho.com/"">Bugg-/funktionstracker</a> • <a href=""http://rammichael.com/donate"">Donera</a>"
+IDS_ABOUT_LINKS         "<a href=""http://unchecky.com/"">Hemsida</a> • <a href=""http://unchecky.userecho.com/"">Bugg-/funktionstracker</a>"
 IDS_ABOUT_LINKS_LEGAL   "<a href=""http://unchecky.com/eula"">End-User License Agreement</a> • <a href=""http://unchecky.com/privacy_policy"">Privacy Policy</a>"
 IDS_ERROR_LINK          "Länken kunde inte öppnas.\n\nFör att använda webblänkar måste du ha en webbläsare (t.ex. Internet Explorer, Mozilla Firefox eller Google Chrome). För att kunna använda e-postlänkar måste du ha en e-postklient (t.ex. Windows Live Mail, Outlook eller Mozilla Thunderbird)."
 IDS_ADVOPT_TITLE        "Avancerade inställningar"

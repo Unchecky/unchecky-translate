@@ -28,7 +28,7 @@ IDS_CONFIG_EMPTY_MESSAGE
 IDS_CONFIG_ADVANCED     "&Додаткові налаштування"
 IDS_ABOUT_BETA          "бета"
 IDS_ABOUT_AUTHOR        "Автор: <a href=""http://rammichael.com/"">RaMMicHaeL</a> • Переклад: <a href=""mailto:sawka6630@gmail.com"">Олександр Кравцов</a>"
-IDS_ABOUT_LINKS         "<a href=""http://unchecky.com/"">Сайт</a> • <a href=""http://unchecky.userecho.com/"">Помилки та побажання</a> • <a href=""http://rammichael.com/donate"">Відсипати автору грошенят</a>"
+IDS_ABOUT_LINKS         "<a href=""http://unchecky.com/"">Сайт</a> • <a href=""http://unchecky.userecho.com/"">Помилки та побажання</a>"
 IDS_ABOUT_LINKS_LEGAL   "<a href=""http://unchecky.com/eula"">End-User License Agreement</a> • <a href=""http://unchecky.com/privacy_policy"">Privacy Policy</a>"
 IDS_ERROR_LINK          "Не вдалося відкрити посилання.\n\nДля того, щоб переходити за інтернет-посиланнями, необхідно мати веб-браузер (наприклад, Mozilla Firefox). Для того, щоб використовувати поштові посилання, необхідно мати поштовий клієнт (например, Mozilla Thunderbird)."
 IDS_ADVOPT_TITLE        "Додаткові Налаштування"

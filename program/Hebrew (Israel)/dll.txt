@@ -1,7 +1,6 @@
 IDS_CONFIRMATION_TEXT   "אתה עומד להתקין תוכנה שפוטנציאלית אינך צריך, האם אתה בטוח שברצונך להמשיך?"
 IDS_CONFIRMATION_PROCEED "&המשך"
-IDS_CONFIRMATION_DECLINE 
-                        "&סרב להצעות של תוכנות לא רצויות (מומלץ)"
+IDS_CONFIRMATION_DECLINE "&סרב להצעות של תוכנות לא רצויות (מומלץ)"
 IDS_CONFIRMATION_YES    "&כן"
 IDS_CONFIRMATION_NO     "&לא (מומלץ)"
 IDS_CONFIRMATION_OK     "אישור"

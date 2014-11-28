@@ -28,7 +28,7 @@ IDS_CONFIG_EMPTY_MESSAGE
 IDS_CONFIG_ADVANCED     "Configuracion a&vanzada"
 IDS_ABOUT_BETA          "beta"
 IDS_ABOUT_AUTHOR        "Autor <a href=""http://rammichael.com/"">RaMMicHaeL</a> • Traductor: <a href=""mailto:translatormx@live.com.mx"">TranslatorMx</a>"
-IDS_ABOUT_LINKS         "<a href=""http://unchecky.com/"">Pagina web</a> • <a href=""http://unchecky.userecho.com/"">Errores/Nuevas funciones</a> • <a href=""http://rammichael.com/donate"">Donar</a>"
+IDS_ABOUT_LINKS         "<a href=""http://unchecky.com/"">Pagina web</a> • <a href=""http://unchecky.userecho.com/"">Errores/Nuevas funciones</a>"
 IDS_ABOUT_LINKS_LEGAL   "<a href=""http://unchecky.com/eula"">End-User Acuerdo de licencia</a> • <a href=""http://unchecky.com/privacy_policy"">Plitica de privacidad</a>"
 IDS_ERROR_LINK          "No se puede abrir el enlace.\n\nPara usar enlaces de internet es necesario poseer un navegador de internet (Ej. Internet Explorer). Para usar enlaces de correo electronico es necesario poseer un cliente de correo electronico (Ej. Windows Live Mail u Outlook)."
 IDS_ADVOPT_TITLE        "Configuracion avanzada"

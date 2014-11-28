@@ -28,7 +28,7 @@ IDS_CONFIG_EMPTY_MESSAGE
 IDS_CONFIG_ADVANCED     "&Расширенные настройки"
 IDS_ABOUT_BETA          "бета"
 IDS_ABOUT_AUTHOR        "Автор: <a href=""http://rammichael.com/"">RaMMicHaeL</a> • Перевод: <a href=""mailto:vasya_pupkin@gmail.com"">Вася Пупкин</a>"
-IDS_ABOUT_LINKS         "<a href=""http://unchecky.com/"">Сайт</a> • <a href=""http://unchecky.userecho.com/"">Ошибки и пожелания</a> • <a href=""http://rammichael.com/donate"">Поблагодарить автора материально</a>"
+IDS_ABOUT_LINKS         "<a href=""http://unchecky.com/"">Сайт</a> • <a href=""http://unchecky.userecho.com/"">Ошибки и пожелания</a>"
 IDS_ABOUT_LINKS_LEGAL   "<a href=""http://unchecky.com/eula"">Пользовательское соглашение</a> • <a href=""http://unchecky.com/privacy_policy"">Политика конфиденциальности</a>"
 IDS_ERROR_LINK          "Не удалось открыть ссылку.\n\nДля того, чтобы использовать интернет-ссылки, необходимо иметь веб-браузер (например Internet Explorer). Для того, чтобы использовать почтовые ссылки, необходимо иметь почтовый клиент (например Outlook)."
 IDS_ADVOPT_TITLE        "Расширенные Настройки"
