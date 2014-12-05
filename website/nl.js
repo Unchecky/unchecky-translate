@@ -31,7 +31,7 @@ jquery_lang_js.prototype.lang.nl = {
 	'End-User License Agreement':
 		'Gebruikersovereenkomst',
 	'Privacy Policy':
-		'',
+		'Privacybeleid',
 	
 	// Home
 	
