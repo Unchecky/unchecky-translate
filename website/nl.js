@@ -24,7 +24,7 @@ jquery_lang_js.prototype.lang.nl = {
 	// Footer
 	
 	'Copyright © 2014 <a href="http://rammichael.com/">RaMMicHaeL</a>.':
-		'Copyright © 2014 <a href="http://rammichael.com/">RaMMicHaeL</a>. Nederlandse vertaling: <a href="mailto:contact@studio384.be?Subject=Unchecky">Studio 384</a>.',
+		'Copyright © 2014 <a href="http://rammichael.com/">RaMMicHaeL</a>. Nederlandse vertaling: Studio 384, S. Paternotte.',
 	
 	// Legal
 	
@@ -38,14 +38,14 @@ jquery_lang_js.prototype.lang.nl = {
 	'Tired of unchecking unrelated offers while installing software?':
 		'Ben je het moe om ongewenste software uit te vinken tijdens installaties?',
 	'Have you ever felt, while installing software, that the installer tries to push additional unwanted programs at all cost? Ever missed a checkbox, and spent hours afterwards removing adware? Ever opened your browser after an installation, only to find out that you have a new homepage, a new search engine, or even a new browser?<br>Unchecky aims to keep potentially unwanted programs out of your computer.':
-		'Heb je, tijdens het installeren van software, ook wel eens gemerkt dat het installatieprogramma je, koste-wat-kost, ongewenste programma\'s in de maag wil splitsen? Heb je wel eens een selectievak gemist, en daarna uren besteed aan het verwijderen van adware? Heb je wel eens je browser gestart na een installatie en ontdenkt dat je een nieuwe homepage hebt, een nieuwe zoekmachine of zelfs een andere browser?<br>Unchecky zorgt ervoor dat mogelijk ongewenste programma\'s van je computer geweerd worden.',
+		'Heb je tijdens het installeren van software ook wel eens gemerkt dat het installatieprogramma je, koste-wat-kost, ongewenste programma\'s in de maag wil splitsen? Heb je wel eens een selectievak gemist, en daarna uren besteed aan het verwijderen van adware? Heb je wel eens je browser gestart na een installatie en ontdenkt dat je een nieuwe homepage hebt, een nieuwe zoekmachine of zelfs een andere browser?<br>Unchecky zorgt er voor dat mogelijk ongewenste programma\'s van je computer geweerd worden.',
 	'Download':
 		'Download',
 	
 	'Introducing Unchecky!':
 		'Ontdek Unchecky!',
 	'Keeps your checkboxes clear.':
-		'Houdt je selectievakjes schoon!',
+		'Het houdt je selectievakjes schoon!',
 	
 	'Unchecks':
 		'Uitvinken',
@@ -53,12 +53,12 @@ jquery_lang_js.prototype.lang.nl = {
 		'Unchecky schakelt de selectievakjes van ongerelateerde software automatisch uit, en bespaart zo muiskliks en voorkomt dat je er een mist.',
 	
 	'Warns':
-		'Geeft waarschuwingen',
+		'Waarschuwingen',
 	'Installers often try to sneak additional programs as a natural part of the installation. Unchecky warns you when you try to accept a potentially unwanted offer, which makes it less likely to be accepted accidentally.':
-		'Sommige installatieprogramms proberen soms extra software te installeren. Unchecky waarschuwt je als je zo\'n aanbieding van ongewenste software aanvaardt.',
+		'Sommige installatieprogramma\'s proberen extra software te installeren. Unchecky waarschuwt je als je zo\'n aanbieding van ongewenste software aanvaardt.',
 	
 	'Updates automatically':
-		'Doet automatische updates',
+		'Automatische updates',
 	'Install and forget. Unchecky automatically updates whenever a new version is available, so you don\'t have to worry about running the latest version.':
 		'Installeren en vergeten. Unchecky houdt zichzelf up-to-date, je hoeft je dus geen zorgen te maken over de laatste versie.',
 	
