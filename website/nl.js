@@ -24,7 +24,7 @@ jquery_lang_js.prototype.lang.nl = {
 	// Footer
 	
 	'Copyright © 2014 <a href="http://rammichael.com/">RaMMicHaeL</a>.':
-		'Copyright © 2014 <a href="http://rammichael.com/">RaMMicHaeL</a>. Nederlandse vertaling: Studio 384, S. Paternotte.',
+		'Copyright © 2014 <a href="http://rammichael.com/">RaMMicHaeL</a>. Nederlandse vertaling: <a href="mailto:contact@studio384.be">Studio 384</a>, S. Paternotte.',
 	
 	// Legal
 	
