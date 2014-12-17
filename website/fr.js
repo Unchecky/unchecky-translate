@@ -29,9 +29,9 @@ jquery_lang_js.prototype.lang.fr = {
 	// Legal
 	
 	'End-User License Agreement':
-		'',
+		'Contrat de licence d\'utilisateur final',
 	'Privacy Policy':
-		'',
+		'Politique de confidentialité',
 	
 	// Home
 	
