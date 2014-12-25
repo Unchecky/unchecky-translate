@@ -36,21 +36,21 @@ jquery_lang_js.prototype.lang.hr = {
 	// Home
 	
 	'Tired of unchecking unrelated offers while installing software?':
-		'Umorni od odznačavanja ponuda iz instalacijskih paketa programa?',
+		'Umorni od odbijanja ponuda iz instalacijskih paketa programa?',
 	'Have you ever felt, while installing software, that the installer tries to push additional unwanted programs at all cost? Ever missed a checkbox, and spent hours afterwards removing adware? Ever opened your browser after an installation, only to find out that you have a new homepage, a new search engine, or even a new browser?<br>Unchecky aims to keep potentially unwanted programs out of your computer.':
-		'Jeste li se ikada osjećali, prilikom instalacije programa, da Vas instalacijski paket tjera da instalirate neki neželjeni program? Jeste li ikada promašili odznačiti jednu ponudu i onda potrošili sate i sate na brisanje adwarea? Jeste li ikada nakon instalacije otvorili internetski preglednik, samo da vidite je li Vam program promijenio početnu stranicu, zadanu tražilicu ili čak sam preglednik?<br>Unchecky štiti Vaše računalo od potencionalno neželjenih programa.',
+		'Jeste li se ikada osjećali, prilikom instalacije programa, da Vas instalacijski paket tjera da instalirate neki neželjeni program? Jeste li ikada promašili odbiti jednu ponudu i onda potrošili sate i sate na brisanje adwarea? Jeste li ikada nakon instalacije otvorili internetski preglednik, samo da vidite je li Vam program promijenio početnu stranicu, zadanu tražilicu ili čak sam preglednik?<br>Unchecky štiti Vaše računalo od potencionalno neželjenih programa.',
 	'Download':
 		'Preuzimanje',
 	
 	'Introducing Unchecky!':
 		'Predstavljamo Vam Unchecky!',
 	'Keeps your checkboxes clear.':
-		'Odznačava ponude iz programa',
+		'Odbija ponude iz programa',
 	
 	'Unchecks':
-		'Odznačava',
+		'Odbija',
 	'Unchecky automatically unchecks unrelated offers, both saving you mouse clicks and making it less likely to miss a checkbox of an unwanted offer.':
-		'Unchecky automatski odznačava ponude iz instalacijskih paketa. Štedi Vaše klikove i štiti Vas da vam više nikada ne promakne niti jedna ponuda.',
+		'Unchecky automatski odbija ponude iz instalacijskih paketa. Štedi Vaše klikove i štiti Vas da vam više nikada ne promakne niti jedna ponuda.',
 	
 	'Warns':
 		'Upozorava',
@@ -155,7 +155,7 @@ jquery_lang_js.prototype.lang.hr = {
 	// 404
 	
 	'Not found':
-		'Nije prograđeno',
+		'Nije pronađeno',
 	
 	'Sorry but the page you are looking for cannot be found.':
 		'Isprike ali stranica koju tražite nije pronađena.',
