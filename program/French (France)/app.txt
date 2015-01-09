@@ -51,7 +51,8 @@ IDS_LOG_SHARE_EMAIL     "Partager par Mail"
 IDS_SHARE_TWITTER_GENERIC 
                         "@unchecky_com vous évite l'installation de programmes potentiellement indésirables sur votre ordinateur. Fortement recommandé ! #anti_pup"
 IDS_SHARE_TWITTER_MAIN  "Lors de l'installation de %1, @unchecky_com %2. Fortement recommandé ! #anti_pup"
-IDS_SHARE_TWITTER_PREVENTED "empêché %u programme(s) potentiellement indésirable(s)"
+IDS_SHARE_TWITTER_PREVENTED 
+                        "empêché %u programme(s) potentiellement indésirable(s)"
 IDS_SHARE_TWITTER_AND   " et "
 IDS_SHARE_TWITTER_WARNED "m'a prévenu concernant %u offres"
 IDS_LOG_EMAIL_GMAIL     "&Gmail"
@@ -60,6 +61,7 @@ IDS_LOG_EMAIL_CLIENT    "client &Email"
 IDS_SHARE_EMAIL_SUBJECT "Recommandation d'un programme: Unchecky"
 IDS_SHARE_EMAIL_MAIN    "Salut !\n\nJe veux te recommander un excellent programme sur lequel je suis tombé récemment.\nIl s'appelle Unchecky et il me permet d'éviter l'installation de programmes potentiellement indésirables sur mon ordinateur.\n%1Tu peux l'avoir ici:\nhttp://unchecky.com/?ref=email\n\nPrends soin de toi."
 IDS_SHARE_EMAIL_EXAMPLE "Par exemple, il %1 durant l'installation du programme suivant : %2.\n"
-IDS_SHARE_EMAIL_PREVENTED "empêcha %u programme(s) potentiellement indésirable(s)"
+IDS_SHARE_EMAIL_PREVENTED 
+                        "empêcha %u programme(s) potentiellement indésirable(s)"
 IDS_SHARE_EMAIL_AND     " et "
 IDS_SHARE_EMAIL_WARNED  "m'a prévenu concernant %u offres"

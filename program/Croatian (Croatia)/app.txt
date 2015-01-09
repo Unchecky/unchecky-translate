@@ -49,7 +49,8 @@ IDS_LOG_SHARE_EMAIL     "Podijeli preko Email"
 IDS_SHARE_TWITTER_GENERIC 
                         "@unchecky_com pomaže spriječiti instalaciju potencijalno neželjenih programa na vaše računalo. Preporuka! #anti_pup"
 IDS_SHARE_TWITTER_MAIN  "Prilikom instalacije %1, @unchecky_com %2. Preporuka! #anti_pup"
-IDS_SHARE_TWITTER_PREVENTED "spriječio %u potencijalno neželjen(ih) program(a)"
+IDS_SHARE_TWITTER_PREVENTED 
+                        "spriječio %u potencijalno neželjen(ih) program(a)"
 IDS_SHARE_TWITTER_AND   " i "
 IDS_SHARE_TWITTER_WARNED "upozorio me o %u ponudi(e)"
 IDS_LOG_EMAIL_GMAIL     "&Gmail"
@@ -58,6 +59,7 @@ IDS_LOG_EMAIL_CLIENT    "&Email klijent"
 IDS_SHARE_EMAIL_SUBJECT "Preporuka programa: Unchecky"
 IDS_SHARE_EMAIL_MAIN    "Pozdrav\n\nŽelim Vam preporučiti jedan jako dobar program.\nZove se Unchecky i pomaže spriječiti potencijalno neželjene programe da se instaliraju na vaše računalo.\n%1Možete ga preuzeti ovdje:\nhttp://unchecky.com/?ref=email"
 IDS_SHARE_EMAIL_EXAMPLE "Na primjer, on %1 prilikom instalacije programa: %2.\n"
-IDS_SHARE_EMAIL_PREVENTED "je spriječio %u potencijalno neželjenog(ih) program(a)."
+IDS_SHARE_EMAIL_PREVENTED 
+                        "je spriječio %u potencijalno neželjenog(ih) program(a)."
 IDS_SHARE_EMAIL_AND     " i "
 IDS_SHARE_EMAIL_WARNED  "upozorio me o %u ponudi(ama)."

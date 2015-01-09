@@ -51,7 +51,8 @@ IDS_LOG_SHARE_EMAIL     "Κοινοποίηση με Email"
 IDS_SHARE_TWITTER_GENERIC 
                         "Το @unchecky_com βοηθάει στην αποφυγή εγκατάστασης πιθανώς ανεπιθύμητων προγραμμάτων στον υπολογιστή σας. Συνιστάται ιδιαίτερα! #anti_pup"
 IDS_SHARE_TWITTER_MAIN  "Κατά την εγκατάσταση του %1, @unchecky_com %2. Συνιστάται ιδιαίτερα! #anti_pup"
-IDS_SHARE_TWITTER_PREVENTED "εμποδίστηκαν %u πιθανώς ανεπιθύμητα προγράμματα"
+IDS_SHARE_TWITTER_PREVENTED 
+                        "εμποδίστηκαν %u πιθανώς ανεπιθύμητα προγράμματα"
 IDS_SHARE_TWITTER_AND   " και "
 IDS_SHARE_TWITTER_WARNED "με προειδοποίησε σχετικά με %u προσφορές"
 IDS_LOG_EMAIL_GMAIL     "&Gmail"
@@ -60,6 +61,7 @@ IDS_LOG_EMAIL_CLIENT    "&Πρόγραμμα-πελάτη email"
 IDS_SHARE_EMAIL_SUBJECT "Πρόταση προγράμματος: Unchecky"
 IDS_SHARE_EMAIL_MAIN    "Γειά σας!\n\nΘα ήθελα να σας συστήσω ένα σπουδαίο πρόγραμμα που έμαθα πρόσφατα.\nΛέγεται Unchecky και βοηθάει στην αποφυγή εγκατάστασης πιθανώς ανεπιθύμητων προγραμμάτων στον υπολογιστή σας.\n%1Μπορείτε να το βρείτε εδώ:\nhttp://unchecky.com/?ref=email\n\nΦροντίστε το."
 IDS_SHARE_EMAIL_EXAMPLE "Για παράδειγμα, το %1 κατά την εγκατάσταση του ακόλουθου προγράμματος: %2.\n"
-IDS_SHARE_EMAIL_PREVENTED "εμποδίστηκαν %u πιθανώς ανεπιθύμητα προγράμματα"
+IDS_SHARE_EMAIL_PREVENTED 
+                        "εμποδίστηκαν %u πιθανώς ανεπιθύμητα προγράμματα"
 IDS_SHARE_EMAIL_AND     " και "
 IDS_SHARE_EMAIL_WARNED  "με προειδοποίησε σχετικά με %u προσφορές"
