@@ -1,4 +1,3 @@
 IDS_OFFER_REJECTED      "不審なプログラムのオファーが拒否されました！"
-IDS_SOME_OFFERS_REJECTED 
-                        "%d 不審なプログラムのオファーが拒否されました！"
+IDS_SOME_OFFERS_REJECTED "%d 不審なプログラムのオファーが拒否されました！"
 IDS_OFFER_REJECTED_MORE "詳細はこちらをクリックしてください..."

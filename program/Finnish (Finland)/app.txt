@@ -51,7 +51,8 @@ IDS_LOG_SHARE_EMAIL     "Jaa sähköpostissa"
 IDS_SHARE_TWITTER_GENERIC 
                         "@unchecky_com auttaa estämään mahdollisesti epätoivottujen ohjelmien asentumista tietokoneellesi.  Erittäin suositeltava! #anti_pup"
 IDS_SHARE_TWITTER_MAIN  "Asennettaessa %1, @unchecky_com %2. Erittäin suositeltava! #anti_pup"
-IDS_SHARE_TWITTER_PREVENTED "estetty %u mahdollisesti epätoivottuja ohjelmia"
+IDS_SHARE_TWITTER_PREVENTED 
+                        "estetty %u mahdollisesti epätoivottuja ohjelmia"
 IDS_SHARE_TWITTER_AND   " ja "
 IDS_SHARE_TWITTER_WARNED "varoitti minua %u tarjouksista"
 IDS_LOG_EMAIL_GMAIL     "&Gmail"

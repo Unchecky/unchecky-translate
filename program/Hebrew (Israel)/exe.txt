@@ -1,4 +1,3 @@
 IDS_OFFER_REJECTED      "תוכנה שעשויה להיות לא רצויה נדחתה!"
-IDS_SOME_OFFERS_REJECTED 
-                        "%d הצעות של תוכנות לא רצויות נדחו!"
+IDS_SOME_OFFERS_REJECTED "%d הצעות של תוכנות לא רצויות נדחו!"
 IDS_OFFER_REJECTED_MORE "לחץ כאן לקבלת פרטים נוספים..."

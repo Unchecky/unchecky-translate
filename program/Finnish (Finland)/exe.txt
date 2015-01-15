@@ -1,4 +1,4 @@
-IDS_OFFER_REJECTED      "Mahdollisesti epätoivottu ohjelmatarjous torjuttiin!"
+IDS_OFFER_REJECTED      "Mahdollisesti epätoivottu ohjelmatarjous torjuttiin!"
 IDS_SOME_OFFERS_REJECTED 
                         "%d mahdollisesti epätoivottuja ohjelmatarjouksia torjuttiin!"
 IDS_OFFER_REJECTED_MORE "Klikkaa tästä lisätietoja..."
