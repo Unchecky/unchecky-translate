@@ -23,8 +23,8 @@ jquery_lang_js.prototype.lang.ru = {
 	
 	// Footer
 	
-	'Copyright © 2014 <a href="http://rammichael.com/">RaMMicHaeL</a>.':
-		'Copyright © 2014 <a href="http://rammichael.com/">RaMMicHaeL</a>. Перевод: Усманов Алешер.',
+	'Copyright © 2015 <a href="http://rammichael.com/">RaMMicHaeL</a>.':
+		'Copyright © 2015 <a href="http://rammichael.com/">RaMMicHaeL</a>. Перевод: Усманов Алешер.',
 	
 	// Legal
 	

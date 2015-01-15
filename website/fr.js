@@ -23,8 +23,8 @@ jquery_lang_js.prototype.lang.fr = {
 	
 	// Footer
 	
-	'Copyright © 2014 <a href="http://rammichael.com/">RaMMicHaeL</a>.':
-		'Copyright © 2014 <a href="http://rammichael.com/">RaMMicHaeL</a>. Traduction française : <a href="mailto:unchecky_tr_fr@outlook.fr">Pierre</a>',
+	'Copyright © 2015 <a href="http://rammichael.com/">RaMMicHaeL</a>.':
+		'Copyright © 2015 <a href="http://rammichael.com/">RaMMicHaeL</a>. Traduction française : <a href="mailto:unchecky_tr_fr@outlook.fr">Pierre</a>',
 	
 	// Legal
 	

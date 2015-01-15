@@ -23,8 +23,8 @@ jquery_lang_js.prototype.lang.de = {
 	
 	// Footer
 	
-	'Copyright © 2014 <a href="http://rammichael.com/">RaMMicHaeL</a>.':
-		'Copyright © 2014 <a href="http://rammichael.com/">RaMMicHaeL</a>. Deutsche Übersetzung: <a href="mailto:lechuck@mailueberfall.de?Subject=Unchecky">LeChuck87</a>, Felix Kiunke.',
+	'Copyright © 2015 <a href="http://rammichael.com/">RaMMicHaeL</a>.':
+		'Copyright © 2015 <a href="http://rammichael.com/">RaMMicHaeL</a>. Deutsche Übersetzung: <a href="mailto:lechuck@mailueberfall.de?Subject=Unchecky">LeChuck87</a>, Felix Kiunke.',
 	
 	// Legal
 	

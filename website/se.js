@@ -23,8 +23,8 @@ jquery_lang_js.prototype.lang.se = {
 	
 	// Footer
 	
-	'Copyright © 2014 <a href="http://rammichael.com/">RaMMicHaeL</a>.':
-		'Copyright © 2014 <a href="http://rammichael.com/">RaMMicHaeL</a>. Svensk översättning: <a href="mailto:t.dotar@gmail.com?Subject=Unchecky">Torsten Augustsson</a>',
+	'Copyright © 2015 <a href="http://rammichael.com/">RaMMicHaeL</a>.':
+		'Copyright © 2015 <a href="http://rammichael.com/">RaMMicHaeL</a>. Svensk översättning: <a href="mailto:t.dotar@gmail.com?Subject=Unchecky">Torsten Augustsson</a>',
 	
 	// Legal
 	
