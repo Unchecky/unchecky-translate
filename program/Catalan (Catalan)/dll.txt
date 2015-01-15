@@ -1,0 +1,10 @@
+IDS_CONFIRMATION_TEXT   "Segur que voleu instal·lar una aplicació potencialment perillosa?"
+IDS_CONFIRMATION_PROCEED "&Continua"
+IDS_CONFIRMATION_DECLINE 
+                        "&Rebutja la instal·lació (recomanat)"
+IDS_CONFIRMATION_YES    "&Sí"
+IDS_CONFIRMATION_NO     "&No (recomanat)"
+IDS_CONFIRMATION_OK     "D'acord"
+IDS_CONFIRMATION_CANCEL "Cancel·la (recomanat)"
+IDS_CONFIRMATION_MBOX_WARNING 
+                        "Missatge d'alerta de l'Unchecky: Si us està demanant instal·lar una aplicació potencialment perillosa. Llegiu atentament el text."
