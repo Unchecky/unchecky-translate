@@ -50,7 +50,8 @@ IDS_LOG_SHARE_EMAIL     "Compartir por Email"
 IDS_SHARE_TWITTER_GENERIC 
                         "@unchecky_com ayuda a prevenir programas pontencialmente no deseados de ser instalados en su computadora. Muy recomendado! #anti_pup"
 IDS_SHARE_TWITTER_MAIN  "Mientras se instala %1, @unchecky_com %2. Muy recomendado! #anti_pup"
-IDS_SHARE_TWITTER_PREVENTED "programas %u potencialmente no deseados prevenidos"
+IDS_SHARE_TWITTER_PREVENTED 
+                        "programas %u potencialmente no deseados prevenidos"
 IDS_SHARE_TWITTER_AND   " y "
 IDS_SHARE_TWITTER_WARNED "avisarme sobre %u ofertas"
 IDS_LOG_EMAIL_GMAIL     "&Gmail"
@@ -59,6 +60,7 @@ IDS_LOG_EMAIL_CLIENT    "&Cliente Email"
 IDS_SHARE_EMAIL_SUBJECT "Un programa recomendado: Unchecky"
 IDS_SHARE_EMAIL_MAIN    "Hola!\n\nQuiero recomendarte un excelente programa que he descubierto hace poco.\nSe llama Unchecky y ayuda a prevenir programas pontencialmente no deseados de ser instalados en tu computadora.\n%1Lo puedes obtener aqui:\nhttp://unchecky.com/?ref=email\n\nSaludos!."
 IDS_SHARE_EMAIL_EXAMPLE "Por ejemplo, aqui %1 mientras se instala el siguiente programa: %2.\n"
-IDS_SHARE_EMAIL_PREVENTED "programas %u potencialmente no deseados prevenidos"
+IDS_SHARE_EMAIL_PREVENTED 
+                        "programas %u potencialmente no deseados prevenidos"
 IDS_SHARE_EMAIL_AND     " y "
 IDS_SHARE_EMAIL_WARNED  "avisarme de %u ofertas"
