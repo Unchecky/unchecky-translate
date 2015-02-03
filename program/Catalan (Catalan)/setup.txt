@@ -15,7 +15,7 @@ IDS_EXTRACTRL_FOLDER_GROUP "&Carpeta de destinació"
 IDS_EXTRACTRL_FOLDER_BROWSE "&Navega..."
 IDS_EXTRACTRL_BROWSE_TEXT "Trieu la carpeta on instal·lar-hi l'Unchecky:"
 IDS_FINISHCTRL_TITLE    "El servei de l'Unchecky s'està executant correctament."
-IDS_FINISHCTRL_TEXT     "S'ha instal·lat l'Unchecky correctament.\n\nEl servei s'executarà en rerefons, monitoritzant qualsevol instal·lació. Podeu iniciar la interfícia de l'Unchecky des de la icona de l'escriptori per esbrinar el nombre d'aplicacions potencialment perilloses que s'han blocat."
+IDS_FINISHCTRL_TEXT     "S'ha instal·lat l'Unchecky correctament.\n\nEl servei s'executarà en rerefons, monitoritzant qualsevol instal·lació. Podeu iniciar la interfície de l'Unchecky des de la icona de l'escriptori per esbrinar el nombre d'aplicacions potencialment perilloses que s'han blocat."
 IDS_MAIN_ERROR_UNCHECKY_RUNNING 
                         "Cal tancar l'Unchecky per procedir amb la instal·lació"
 IDS_MAIN_UPDATE         "Act&ualització"
