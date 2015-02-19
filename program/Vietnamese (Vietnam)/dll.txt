@@ -1,0 +1,10 @@
+IDS_CONFIRMATION_TEXT   "Bạn sắp cài đặt một chương trình không mong muốn. Bạn chắc muốn tiếp tục?"
+IDS_CONFIRMATION_PROCEED "&Tiến hành"
+IDS_CONFIRMATION_DECLINE 
+                        "&Từ chối đề nghị cài đặt không mong muốn (đề nghị)"
+IDS_CONFIRMATION_YES    "&Có"
+IDS_CONFIRMATION_NO     "&Không (đề nghị)"
+IDS_CONFIRMATION_OK     "OK"
+IDS_CONFIRMATION_CANCEL "Huỷ (đề nghị)"
+IDS_CONFIRMATION_MBOX_WARNING 
+                        "CẢNH BÁO từ Unchecky: bạn được yêu cầu cài đặt một chương trình không mong muốn. Vui lòng đọc kĩ văn bản dưới đây."
