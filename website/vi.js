@@ -65,7 +65,7 @@ jquery_lang_js.prototype.lang.vi = {
 	'Watch Unchecky in action':
 		'Xem cách Unchecky hoạt động',
 	'<a href="press#quotes">See what people are saying about Unchecky</a> or <a href="press#videos">watch more videos</a>.':
-		'<a href="press#quotes">Xem những gì người khác nói về Unchecky sagen</a> hoặc <a href="press#videos">xem thêm video</a>.',
+		'<a href="press#quotes">Xem những gì người khác nói về Unchecky</a> hoặc <a href="press#videos">xem thêm video</a>.',
 	
 	// Press
 	
