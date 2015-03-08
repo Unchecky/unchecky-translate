@@ -43,7 +43,7 @@
 		'ダウンロード',
 	
 	'Introducing Unchecky!':
-		'Uncheckyをご紹介！',
+		'Uncheckyのご紹介！',
 	'Keeps your checkboxes clear.':
 		'チェックボックスを除去します。',
 	
@@ -79,7 +79,7 @@
 		'アワード',
 	
 	'People are showing Unchecky in action':
-		'人々はアクションでUncheckyを見せている',
+		'動作中のUncheckyを表示します',
 	'Demonstrating Unchecky':
 		'Uncheckyの実証',
 	
@@ -144,7 +144,7 @@
 		'送信',
 	
 	'Please fill in all fields.':
-		'全て欄を記入してください。',
+		'全ての欄を記入してください。',
 	'Please enter a valid email address.':
 		'有効なメールアドレスを入力してください。',
 	'Could not complete your request.':
