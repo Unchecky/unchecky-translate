@@ -17,7 +17,7 @@ IDS_MAINCTRL_STATS_NONE_NEWGUY
 IDS_MAINCTRL_STATS_NONE "これまでのところ未チェックのチェックボックスはありません。不審なプログラムにバンドルされたソフトウェアを拒否しています!"
 IDS_MAINCTRL_STATS      "%s 以来、%u のチェックボックスはチェックを外されました。%s"
 IDS_MAINCTRL_STATS_WARNING "また %u 警告が表示されました。"
-IDS_MAINCTRL_LOG        "Activity &log"
+IDS_MAINCTRL_LOG        "活動ログ(&L)"
 IDS_MAINCTRL_STOP       "サービスの停止(&S)"
 IDS_MAINCTRL_START      "サービスの再開(&R)"
 IDS_CONFIG_LANG         "言語(&L)："
