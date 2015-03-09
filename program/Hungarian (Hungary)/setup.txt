@@ -12,10 +12,10 @@ IDS_MAINCTRL_TEXT       "Üdvözöljük a Unchecky telepítőben.\n\nUnchecky eg
 IDS_MAINCTRL_LANG       "&Nyelv :"
 IDS_EXTRACTRL_TEXT      "Unchecky a következő mappába települ. Ha más helyre kívánja telepíteni,akkor klikkeljen a Tallózásra és válassza az önnek megfelelő mappát. Kattintson a telepítésre az indításhoz."
 IDS_EXTRACTRL_FOLDER_GROUP "Rendeltetési &mappa"
-IDS_EXTRACTRL_FOLDER_BROWSE "T&allóz..."
-IDS_EXTRACTRL_BROWSE_TEXT "Válassza ki az Unchecky telepítési mappáját:"
+IDS_EXTRACTRL_FOLDER_BROWSE "T&allózás"
+IDS_EXTRACTRL_BROWSE_TEXT "Adja meg az Unchecky telepítési mappáját:"
 IDS_FINISHCTRL_TITLE    "A Unchecky szolgáltatás bejelölve és aktíválva!"
-IDS_FINISHCTRL_TEXT     "Gratulálunk! Unchecky sikeresen telepítve lett a számítógépre.\n\nAz Unchecky szolgáltatás folyamatosan fut a háttérben és ellenőrzi a telepítők műveleteit. Az Unchecky bármikor futtatható az asztali ikonról, hogy meggyőződhessen mennyi jelölőnégyzetből lett eltávolítva a pipa."
+IDS_FINISHCTRL_TEXT     "Gratulálunk! Unchecky sikeresen telepítve lett a számítógépre.\n\nAz Unchecky szolgáltatás folyamatosan fog futni a háttérben és ellenőrzi a telepítők műveleteit. Az Unchecky bármikor futtatható az asztali ikonról, hogy meggyőződhessen mennyi jelölőnégyzetből lett eltávolítva a pipa."
 IDS_MAIN_ERROR_UNCHECKY_RUNNING 
                         "Zárjon be minden futó Unchecky-t, mielőtt folytatná"
 IDS_MAIN_UPDATE         "&Frissítés"
