@@ -24,14 +24,14 @@ jquery_lang_js.prototype.lang.pt_br = {
 	// Footer
 	
 	'Copyright © 2015 <a href="http://rammichael.com/">RaMMicHaeL</a>.':
-		'Copyright © 2015 <a href="http://rammichael.com/">RaMMicHaeL</a>. Tradução português Brasil : <a href="mailto:anderson_darknite@hotmail.com">Anderson</a>',
+		'Copyright © 2015 <a href="http://rammichael.com/">RaMMicHaeL</a>. Tradução português Brasil : Maison da Silva e Anderson',
 	
 	// Legal
 	
 	'End-User License Agreement':
-		'',
+		'Contrato de Licença de Usuário Final',
 	'Privacy Policy':
-		'',
+		'Política De Privacidade',
 	
 	// Home
 	
@@ -96,7 +96,7 @@ jquery_lang_js.prototype.lang.pt_br = {
 	'French':
 		'Francês',
 	'German':
-		'',
+		'Alemão',
 	
 	// FAQ
 	
@@ -121,9 +121,9 @@ jquery_lang_js.prototype.lang.pt_br = {
 		'Os aquivos de tradução do Unchecky podem ser encontrados no repositório GitHub: <a href="https://github.com/RaMMicHaeL/unchecky-translate">unchecky-translate</a>',
 	
 	'Is it possible to install Unchecky silently?':
-		'',
+		'É possível instalar silenciosamente Unchecky?',
 	'Yes, run the installer with the <code>-install</code> command line switch. For a list of supported command line switches, run <code>unchecky_setup.exe -?</code>.':
-		'',
+		'Sim, execute o instalador com a linha de comando <code>-install</code> para efetuar o procedimento. Para uma lista de linha de comando suportado, execute <code>unchecky_setup.exe -?</code>.',
 	
 	// Contact
 	
@@ -144,13 +144,13 @@ jquery_lang_js.prototype.lang.pt_br = {
 		'Enviar',
 	
 	'Please fill in all fields.':
-		'',
+		'Por favor, preencha todos os campos',
 	'Please enter a valid email address.':
-		'',
+		'Por favor insira um endereço de email válido',
 	'Could not complete your request.':
-		'',
+		'Não foi possível concluir o seu pedido',
 	'The message has been sent successfully.':
-		'',
+		'A mensagem foi enviada com sucesso!',
 	
 	// 404
 	
