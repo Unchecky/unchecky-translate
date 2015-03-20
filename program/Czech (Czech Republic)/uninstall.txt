@@ -1,4 +1,4 @@
-IDS_LANGUAGE            "Česky"
+IDS_LANGUAGE            "Česky"
 IDS_IS_RTL              "0"
 IDS_MAIN_WNDTITLE       "Odinstalace programu Unchecky v%s"
 IDS_MAIN_TITLE          "Unchecky"
