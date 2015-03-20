@@ -1,0 +1,4 @@
+IDS_OFFER_REJECTED      "Nevyžádaná nabídka byla odmítnuta!"
+IDS_SOME_OFFERS_REJECTED 
+                        "%d nevyžádaných nabídek bylo odmítnuto!"
+IDS_OFFER_REJECTED_MORE "Pro více detailů klikněte sem..."
