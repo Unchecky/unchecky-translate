@@ -8,7 +8,8 @@ IDS_HEADER_MAIN         "&Chính"
 IDS_HEADER_CONFIG       "&Thiết lập"
 IDS_HEADER_ABOUT        "Thông t&in"
 IDS_MAINCTRL_TEXT       "Chào mừng bạn đến với Unchecky, ứng dụng giúp giữ những chương trình không mong muốn bên ngoài máy tính của bạn."
-IDS_MAINCTRL_TEXT_SVC_RUNNING "Dịch vụ của Unchecky đã được cài đặt và đang hoạt động."
+IDS_MAINCTRL_TEXT_SVC_RUNNING 
+                        "Dịch vụ của Unchecky đã được cài đặt và đang hoạt động."
 IDS_MAINCTRL_TEXT_SVC_STOPPED 
                         "Dịch vụ của Unchecky đã bị dừng. Dịch vụ sẽ được tiếp tục khi máy tính khởi động lại."
 IDS_MAINCTRL_TEXT_QUERYERROR 

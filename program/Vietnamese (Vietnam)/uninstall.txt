@@ -1,4 +1,4 @@
-IDS_LANGUAGE            "Tiếng Việt"
+IDS_LANGUAGE            "Tiếng Việt"
 IDS_IS_RTL              "0"
 IDS_MAIN_WNDTITLE       "Gỡ cài đặt Unchecky v%s"
 IDS_MAIN_TITLE          "Unchecky"

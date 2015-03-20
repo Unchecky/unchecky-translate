@@ -8,8 +8,7 @@ IDS_HEADER_MAIN         "&Kezdőlap"
 IDS_HEADER_CONFIG       "Be&állítások"
 IDS_HEADER_ABOUT        "&Névjegy"
 IDS_MAINCTRL_TEXT       "Üdvözöljük - Az Unchecky alkalmazás célja, hogy folyamatosan blokkolja a nemkívánatos programok települését számítógépére."
-IDS_MAINCTRL_TEXT_SVC_RUNNING 
-                        "Az Unchecky szolgáltatás AKTÍVÁLVA."
+IDS_MAINCTRL_TEXT_SVC_RUNNING "Az Unchecky szolgáltatás AKTÍVÁLVA."
 IDS_MAINCTRL_TEXT_SVC_STOPPED 
                         "Az Unchecky jelenleg INAKTÍV. A szolgáltatás aktíválható manuálisan, vagy a számítógép újraindításával."
 IDS_MAINCTRL_TEXT_QUERYERROR 
@@ -51,7 +50,8 @@ IDS_LOG_SHARE_EMAIL     "Megosztás Email-ben"
 IDS_SHARE_TWITTER_GENERIC 
                         "@unchecky_com segíti a potenciálisan nemkívánatos programok számítógépére való településének blokkolásában. Feltétlen javasolt! #anti_pup"
 IDS_SHARE_TWITTER_MAIN  "Amikor telepíti a %1-t, @unchecky_com %2. Feltétlen javasolt! #anti_pup"
-IDS_SHARE_TWITTER_PREVENTED "% u potenciálisan szükségtelen program telepítését akadályozta meg"
+IDS_SHARE_TWITTER_PREVENTED 
+                        "% u potenciálisan szükségtelen program telepítését akadályozta meg"
 IDS_SHARE_TWITTER_AND   " és "
 IDS_SHARE_TWITTER_WARNED "%u felkérésről figyelmeztetett"
 IDS_LOG_EMAIL_GMAIL     "&Gmail"
@@ -60,6 +60,7 @@ IDS_LOG_EMAIL_CLIENT    "&Email kliens"
 IDS_SHARE_EMAIL_SUBJECT "Program javaslat: Unchecky"
 IDS_SHARE_EMAIL_MAIN    "Üdv!\n\nEgy nagyszerű programot javasolnék kipróbálásra.\nUnchecky a neve és blokkolja a telepítések során adalékként jelentkező kéretlen töltelékeket.\n%1Innen tölthető le:\nhttp://unchecky.com/?ref=email\n\nTake care."
 IDS_SHARE_EMAIL_EXAMPLE "Például, a %1 miközben a következő programot telepíti: %2.\n"
-IDS_SHARE_EMAIL_PREVENTED "% u potenciálisan nemkívánatos programot blokkolt"
+IDS_SHARE_EMAIL_PREVENTED 
+                        "% u potenciálisan nemkívánatos programot blokkolt"
 IDS_SHARE_EMAIL_AND     " és "
 IDS_SHARE_EMAIL_WARNED  "%u kéretlen kínálkozásról figyelmeztetett"

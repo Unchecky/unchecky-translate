@@ -1,4 +1,4 @@
-IDS_OFFER_REJECTED      "Et muligt uønsket program tilbud blev afvist!"
+IDS_OFFER_REJECTED      "Et muligt uønsket program tilbud blev afvist!"
 IDS_SOME_OFFERS_REJECTED 
                         "%d muligt uønsket program tilbud blev afvist!"
 IDS_OFFER_REJECTED_MORE "Tryk her for mere information..."

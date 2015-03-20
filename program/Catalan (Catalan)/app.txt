@@ -8,7 +8,8 @@ IDS_HEADER_MAIN         "&Inici"
 IDS_HEADER_CONFIG       "&Configuració"
 IDS_HEADER_ABOUT        "&Quant a..."
 IDS_MAINCTRL_TEXT       "Us donem la benvinguda a l'Unchecky, una utilitat que té com a objectiu evitar la instal·lació d'aplicacions potencialment perilloses a l'ordinador."
-IDS_MAINCTRL_TEXT_SVC_RUNNING "El servei de l'Unchecky s'està executant correctament."
+IDS_MAINCTRL_TEXT_SVC_RUNNING 
+                        "El servei de l'Unchecky s'està executant correctament."
 IDS_MAINCTRL_TEXT_SVC_STOPPED 
                         "El servei de l'Unchecky no s'ha iniciat. S'executarà en reiniciar l'ordinador."
 IDS_MAINCTRL_TEXT_QUERYERROR 
@@ -50,7 +51,8 @@ IDS_LOG_SHARE_EMAIL     "Comparteix mitjançant el correu electrònic"
 IDS_SHARE_TWITTER_GENERIC 
                         "@unchecky_com ha evitat la instal·lació d'aplicacions potencialment perilloses i altres elements al meu ordinador; 100% recomanat! #anti_pup"
 IDS_SHARE_TWITTER_MAIN  "En instal·lar %1, @unchecky_com %2. 100% recomanat! #anti_pup"
-IDS_SHARE_TWITTER_PREVENTED "ha evitat %u aplicacions potencialment perilloses"
+IDS_SHARE_TWITTER_PREVENTED 
+                        "ha evitat %u aplicacions potencialment perilloses"
 IDS_SHARE_TWITTER_AND   " i "
 IDS_SHARE_TWITTER_WARNED "m'ha avisat de %u ofertes"
 IDS_LOG_EMAIL_GMAIL     "&Gmail"
@@ -59,6 +61,7 @@ IDS_LOG_EMAIL_CLIENT    "&Client de correu"
 IDS_SHARE_EMAIL_SUBJECT "Recomanació d'una aplicació: Unchecky"
 IDS_SHARE_EMAIL_MAIN    "Hola!\n\nEt recomano que facis un cop d'ull a «Unchecky»,una aplicació que m'ha sorprès gratament.\nGràcies a aquesta petita utilitat (±1MB), he evitat instal·lar aplicacions potencialment perilloses i altres elements no desitjats al meu ordinador.\n%1Trobaràs aquesta meravella al seu web:\nhttp://unchecky.com/?ref=email\n\nArreveure!"
 IDS_SHARE_EMAIL_EXAMPLE "Per exemple, %1 durant la instal·lació de %2.\n"
-IDS_SHARE_EMAIL_PREVENTED "ha evitat %u aplicacions potencialment perilloses"
+IDS_SHARE_EMAIL_PREVENTED 
+                        "ha evitat %u aplicacions potencialment perilloses"
 IDS_SHARE_EMAIL_AND     " i "
 IDS_SHARE_EMAIL_WARNED  "m'ha avisat de %u ofertes"
