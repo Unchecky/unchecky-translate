@@ -1,7 +1,6 @@
 IDS_CONFIRMATION_TEXT   "Segur que voleu instal·lar una aplicació potencialment perillosa?"
 IDS_CONFIRMATION_PROCEED "&Continua"
-IDS_CONFIRMATION_DECLINE 
-                        "&Rebutja la instal·lació (recomanat)"
+IDS_CONFIRMATION_DECLINE "&Rebutja la instal·lació (recomanat)"
 IDS_CONFIRMATION_YES    "&Sí"
 IDS_CONFIRMATION_NO     "&No (recomanat)"
 IDS_CONFIRMATION_OK     "D'acord"

@@ -1,0 +1,4 @@
+IDS_OFFER_REJECTED      "可能非必要的程式已被拒絕!"
+IDS_SOME_OFFERS_REJECTED 
+                        "%d 可能非必要的程式已被拒絕!"
+IDS_OFFER_REJECTED_MORE "點擊這裡以查看更多訊息..."
