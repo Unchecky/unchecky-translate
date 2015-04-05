@@ -24,7 +24,7 @@ jquery_lang_js.prototype.lang.zh_tw = {
 	// Footer
 	
 	'Copyright © 2015 <a href="http://rammichael.com/">RaMMicHaeL</a>.':
-		'版權所有 c 2015 <a href="http://rammichael.com/">RaMMicHaeL</a>。 由 <a href="https://www.facebook.com/ChiaHong.H">洪嘉鴻 翻譯</a>。',
+		'版權所有 © 2015 <a href="http://rammichael.com/">RaMMicHaeL</a>。 由 <a href="https://www.facebook.com/ChiaHong.H">洪嘉鴻 翻譯</a>。',
 	
 	// Legal
 	
@@ -108,7 +108,7 @@ jquery_lang_js.prototype.lang.zh_tw = {
 	'My antivirus flags Unchecky as malicious.':
 		'我的防毒軟體認定 Unchecky 為惡意軟體。',
 	'It\'s a false positive. Please report about it to your antivirus company. Note that Unchecky was tested thoroughly by Softpedia and <a href="http://www.softpedia.com/get/System/OS-Enhancements/Unchecky.shtml#clean">was found 100% clean</a>.':
-		'其為誤報。 請向您的防毒軟體公司報告。 請您注意，Unchecky 已由 <a href="http://www.softpedia.com/get/System/OS-Enhancements/Unchecky.shtml#clean">檢測完成，是 100% 安全的</a>。',
+		'其為誤報。 請向您的防毒軟體公司報告。 請您注意，Unchecky 已由 <a href="http://www.softpedia.com/get/System/OS-Enhancements/Unchecky.shtml#clean">Softpedia</a>檢測完成，是 100% 安全的。',
 	
 	'What is the best way to report a bug or suggest a feature?':
 		'報告錯誤或提出功能建議的最好的方法是什麼？',
