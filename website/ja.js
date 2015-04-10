@@ -107,13 +107,20 @@
 	
 	'My antivirus flags Unchecky as malicious.':
 		'セキュリティソフトにより、Uncheckyがマルウェアとして検出されます。',
-	'It\'s a false positive. Please report about it to your antivirus company. Note that Unchecky was tested thoroughly by Softpedia and <a href="http://www.softpedia.com/get/System/OS-Enhancements/Unchecky.shtml#clean">was found 100% clean</a>.':
-		'それは誤検出です。セキュリティベンダーに誤検出に関する報告を行ってください。UncheckyはSoftpediaにより徹底的にテストされ、その結果が示されています。<a href="http://www.softpedia.com/get/System/OS-Enhancements/Unchecky.shtml#clean">100% 安全</a>',
+	'It\'s a false positive. Please report about it to your antivirus company. Note that Unchecky was tested thoroughly by Softpedia and <a href="http://www.softpedia.com/get/System/OS-Enhancements/Unchecky.shtml">was found 100% clean</a>.':
+		'それは誤検出です。セキュリティベンダーに誤検出に関する報告を行ってください。UncheckyはSoftpediaにより徹底的にテストされ、その結果が示されています。<a href="http://www.softpedia.com/get/System/OS-Enhancements/Unchecky.shtml">100% 安全</a>',
 	
 	'What is the best way to report a bug or suggest a feature?':
 		'バグの報告や機能を提案するための最良の方法は何ですか？',
 	'Post your feedback on the <a href="http://unchecky.userecho.com/">UserEcho page</a>.':
 		'あなたのご意見を投稿してください。<a href="http://unchecky.userecho.com/">ユーザーフォーラム</a>',
+	
+	'How do I uninstall Unchecky':
+		'',
+	'Unchecky can be uninstalled from the Windows Control Panel, like any other program. See instructions for <a href="http://windows.microsoft.com/en-us/windows-8/uninstall-change-program">Windows 8</a>, <a href="http://windows.microsoft.com/en-us/windows/uninstall-change-program#uninstall-change-program=windows-7">Windows 7</a>, <a href="http://windows.microsoft.com/en-us/windows/uninstall-change-program#uninstall-change-program=windows-vista">Windows Vista</a>, or <a href="https://support.microsoft.com/en-us/kb/307895">Windows XP</a>.':
+		'',
+	'If the standard method fails, please try to use the <a href="files/unchecky_cleaner.exe">Unchecky Cleaner Tool</a>, which is designed to uninstall corrupted Unchecky installations.':
+		'',
 	
 	'I want to translate Unchecky.':
 		'Uncheckyを翻訳したい。',

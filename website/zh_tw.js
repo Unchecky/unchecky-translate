@@ -107,13 +107,20 @@ jquery_lang_js.prototype.lang.zh_tw = {
 	
 	'My antivirus flags Unchecky as malicious.':
 		'我的防毒軟體認定 Unchecky 為惡意軟體。',
-	'It\'s a false positive. Please report about it to your antivirus company. Note that Unchecky was tested thoroughly by Softpedia and <a href="http://www.softpedia.com/get/System/OS-Enhancements/Unchecky.shtml#clean">was found 100% clean</a>.':
-		'其為誤報。 請向您的防毒軟體公司報告。 請您注意，Unchecky 已由 <a href="http://www.softpedia.com/get/System/OS-Enhancements/Unchecky.shtml#clean">Softpedia</a>檢測完成，是 100% 安全的。',
+	'It\'s a false positive. Please report about it to your antivirus company. Note that Unchecky was tested thoroughly by Softpedia and <a href="http://www.softpedia.com/get/System/OS-Enhancements/Unchecky.shtml">was found 100% clean</a>.':
+		'其為誤報。 請向您的防毒軟體公司報告。 請您注意，Unchecky 已由 <a href="http://www.softpedia.com/get/System/OS-Enhancements/Unchecky.shtml">Softpedia</a>檢測完成，是 100% 安全的。',
 	
 	'What is the best way to report a bug or suggest a feature?':
 		'報告錯誤或提出功能建議的最好的方法是什麼？',
 	'Post your feedback on the <a href="http://unchecky.userecho.com/">UserEcho page</a>.':
 		'請發表您的回饋於 <a href="http://unchecky.userecho.com/">使用者回饋頁面</a>。',
+	
+	'How do I uninstall Unchecky':
+		'',
+	'Unchecky can be uninstalled from the Windows Control Panel, like any other program. See instructions for <a href="http://windows.microsoft.com/en-us/windows-8/uninstall-change-program">Windows 8</a>, <a href="http://windows.microsoft.com/en-us/windows/uninstall-change-program#uninstall-change-program=windows-7">Windows 7</a>, <a href="http://windows.microsoft.com/en-us/windows/uninstall-change-program#uninstall-change-program=windows-vista">Windows Vista</a>, or <a href="https://support.microsoft.com/en-us/kb/307895">Windows XP</a>.':
+		'',
+	'If the standard method fails, please try to use the <a href="files/unchecky_cleaner.exe">Unchecky Cleaner Tool</a>, which is designed to uninstall corrupted Unchecky installations.':
+		'',
 	
 	'I want to translate Unchecky.':
 		'我想要翻譯 Unchecky。',

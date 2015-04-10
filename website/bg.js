@@ -107,13 +107,20 @@ jquery_lang_js.prototype.lang.bg = {
 	
 	'My antivirus flags Unchecky as malicious.':
 		'Моята антивирусна засича Unchecky като заплаха.',
-	'It\'s a false positive. Please report about it to your antivirus company. Note that Unchecky was tested thoroughly by Softpedia and <a href="http://www.softpedia.com/get/System/OS-Enhancements/Unchecky.shtml#clean">was found 100% clean</a>.':
-		'Това е фалшива тревога. Моля, докладвайте това на компанията автор на Вашата антивирусна програма. Unchecky е тествана обстойно от Softpedia и <a href="http://www.softpedia.com/get/System/OS-Enhancements/Unchecky.shtml#clean">е 100% чиста</a>.',
+	'It\'s a false positive. Please report about it to your antivirus company. Note that Unchecky was tested thoroughly by Softpedia and <a href="http://www.softpedia.com/get/System/OS-Enhancements/Unchecky.shtml">was found 100% clean</a>.':
+		'Това е фалшива тревога. Моля, докладвайте това на компанията автор на Вашата антивирусна програма. Unchecky е тествана обстойно от Softpedia и <a href="http://www.softpedia.com/get/System/OS-Enhancements/Unchecky.shtml">е 100% чиста</a>.',
 	
 	'What is the best way to report a bug or suggest a feature?':
 		'Какъв е най-добрият начин за докладване на проблем или за изискване на нова функция?',
 	'Post your feedback on the <a href="http://unchecky.userecho.com/">UserEcho page</a>.':
 		'Пишете ни на <a href="http://unchecky.userecho.com/">UserEch страницата</a>.',
+	
+	'How do I uninstall Unchecky':
+		'',
+	'Unchecky can be uninstalled from the Windows Control Panel, like any other program. See instructions for <a href="http://windows.microsoft.com/en-us/windows-8/uninstall-change-program">Windows 8</a>, <a href="http://windows.microsoft.com/en-us/windows/uninstall-change-program#uninstall-change-program=windows-7">Windows 7</a>, <a href="http://windows.microsoft.com/en-us/windows/uninstall-change-program#uninstall-change-program=windows-vista">Windows Vista</a>, or <a href="https://support.microsoft.com/en-us/kb/307895">Windows XP</a>.':
+		'',
+	'If the standard method fails, please try to use the <a href="files/unchecky_cleaner.exe">Unchecky Cleaner Tool</a>, which is designed to uninstall corrupted Unchecky installations.':
+		'',
 	
 	'I want to translate Unchecky.':
 		'Искам да преведа Unchecky!',

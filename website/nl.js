@@ -107,13 +107,20 @@ jquery_lang_js.prototype.lang.nl = {
 	
 	'My antivirus flags Unchecky as malicious.':
 		'Mijn anti-virus meldt dat Unchecky onbetrouwbaar is.',
-	'It\'s a false positive. Please report about it to your antivirus company. Note that Unchecky was tested thoroughly by Softpedia and <a href="http://www.softpedia.com/get/System/OS-Enhancements/Unchecky.shtml#clean">was found 100% clean</a>.':
-		'Dat is een false-positive. Je kan deze fout raporteren bij maker van je anti-virusprogramma. Unchecky is getest door Softpedia en <a href="http://www.softpedia.com/get/System/OS-Enhancements/Unchecky.shtml#clean">is 100% schoon</a>.',
+	'It\'s a false positive. Please report about it to your antivirus company. Note that Unchecky was tested thoroughly by Softpedia and <a href="http://www.softpedia.com/get/System/OS-Enhancements/Unchecky.shtml">was found 100% clean</a>.':
+		'Dat is een false-positive. Je kan deze fout raporteren bij maker van je anti-virusprogramma. Unchecky is getest door Softpedia en <a href="http://www.softpedia.com/get/System/OS-Enhancements/Unchecky.shtml">is 100% schoon</a>.',
 	
 	'What is the best way to report a bug or suggest a feature?':
 		'Hoe kan ik het beste een fout raporteren of een functie aanvragen?',
 	'Post your feedback on the <a href="http://unchecky.userecho.com/">UserEcho page</a>.':
 		'Plaats je reactie op de <a href="http://unchecky.userecho.com/">UserEcho pagina</a>.',
+	
+	'How do I uninstall Unchecky':
+		'',
+	'Unchecky can be uninstalled from the Windows Control Panel, like any other program. See instructions for <a href="http://windows.microsoft.com/en-us/windows-8/uninstall-change-program">Windows 8</a>, <a href="http://windows.microsoft.com/en-us/windows/uninstall-change-program#uninstall-change-program=windows-7">Windows 7</a>, <a href="http://windows.microsoft.com/en-us/windows/uninstall-change-program#uninstall-change-program=windows-vista">Windows Vista</a>, or <a href="https://support.microsoft.com/en-us/kb/307895">Windows XP</a>.':
+		'',
+	'If the standard method fails, please try to use the <a href="files/unchecky_cleaner.exe">Unchecky Cleaner Tool</a>, which is designed to uninstall corrupted Unchecky installations.':
+		'',
 	
 	'I want to translate Unchecky.':
 		'Ik wil Unchecky vertalen.',
