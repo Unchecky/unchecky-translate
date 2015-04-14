@@ -116,11 +116,11 @@ jquery_lang_js.prototype.lang.fr = {
 		'Postez votre avis sur la <a href="http://unchecky.userecho.com/">page UserEcho</a>',
 	
 	'How do I uninstall Unchecky':
-		'',
+		'Comment désinstaller Unchecky ',
 	'Unchecky can be uninstalled from the Windows Control Panel, like any other program. See instructions for <a href="http://windows.microsoft.com/en-us/windows-8/uninstall-change-program">Windows 8</a>, <a href="http://windows.microsoft.com/en-us/windows/uninstall-change-program#uninstall-change-program=windows-7">Windows 7</a>, <a href="http://windows.microsoft.com/en-us/windows/uninstall-change-program#uninstall-change-program=windows-vista">Windows Vista</a>, or <a href="https://support.microsoft.com/en-us/kb/307895">Windows XP</a>.':
-		'',
+		'Unchecky peut être désinstallé depuis le Panneau de Configuration de Windows, comme n\'importe quel autre programme. Pour plus de détails, cliquez pour <a href="http://windows.microsoft.com/fr-fr/windows-8/uninstall-change-program">Windows 8</a>, <a href="http://windows.microsoft.com/fr-fr/windows/uninstall-change-program#uninstall-change-program=windows-7">Windows 7</a>, <a href="http://windows.microsoft.com/fr-fr/windows/uninstall-change-program#uninstall-change-program=windows-vista">Windows Vista</a>, ou <a href="https://support.microsoft.com/fr-fr/kb/307895">Windows XP</a>.',
 	'If the standard method fails, please try to use the <a href="files/unchecky_cleaner.exe">Unchecky Cleaner Tool</a>, which is designed to uninstall corrupted Unchecky installations.':
-		'',
+		'Si la méthode standard échoue, vous pouvez utiliser <a href="files/unchecky_cleaner.exe">Unchecky Cleaner Tool</a> qui permet de supprimer les installations corrompues d\'Unchecky',
 	
 	'I want to translate Unchecky.':
 		'Je veux traduire Unchecky :',
@@ -128,9 +128,9 @@ jquery_lang_js.prototype.lang.fr = {
 		'Les fichiers de traduction d\'Unchecky et du site Internet peuvent être téléchargés sur le répertoire GitHub : <a href="https://github.com/RaMMicHaeL/unchecky-translate">unchecky-translate</a>',
 	
 	'Is it possible to install Unchecky silently?':
-		'',
+		'Est-il possible d\'installer Unchecky silencieusement ?',
 	'Yes, run the installer with the <code>-install</code> command line switch. For a list of supported command line switches, run <code>unchecky_setup.exe -?</code>.':
-		'',
+		'Oui, lancez l\'installateur avec l\'argument <code>-install</code>. Pour la liste des arguments disponibles, lancez <code>unchecky_setup.exe -?</code>.',
 	
 	// Contact
 	
