@@ -28,7 +28,7 @@ IDS_CONFIG_EMPTY_MESSAGE
                         "Ta strona póki co jest pusta, ale intensywnie pracujemy nad wzbogaceniem jej o nowe możliwości dostosowania Unchecky do Twoich życzeń."
 IDS_CONFIG_ADVANCED     "Zaa&wansowane ustawienia"
 IDS_ABOUT_BETA          "beta"
-IDS_ABOUT_AUTHOR        "Autor: <a href=""http://rammichael.com/"">RaMMicHaeL</a> • Polskie tłumaczenie <a href=""mailto:pkolasa@outlook.com"">Piotr Kolasa</a>"
+IDS_ABOUT_AUTHOR        "© 2015 Reason Company Software Inc. • Polskie tłumaczenie <a href=""mailto:pkolasa@outlook.com"">Piotr Kolasa</a>"
 IDS_ABOUT_LINKS         "<a href=""http://unchecky.com/"">WWW</a> • <a href=""http://unchecky.userecho.com/"">Zgłaszanie błędów</a>"
 IDS_ABOUT_LINKS_LEGAL   "<a href=""http://unchecky.com/eula"">Umowa licencyjna (język angielski)</a> • <a href=""http://unchecky.com/privacy_policy"">Polityka prywatności (język angielski)</a>"
 IDS_ERROR_LINK          "Nie można otworzyć odnośnika.\n\nAby otworzyć odnośnik, musisz mieć zainstalowaną przeglądarkę internetową (taką jak Internet Explorer). Aby wysłać e-mail, musisz mieć klienta poczty (takiego jak Poczta systemu Windows, Outlook, czy Thunderbird)."

@@ -28,7 +28,7 @@ IDS_CONFIG_EMPTY_MESSAGE
                         "Les paramètres sont peu nombreux maintenant, je sais. Plus de personnalisations sont prévues dans le futur."
 IDS_CONFIG_ADVANCED     "Paramètres a&vancés"
 IDS_ABOUT_BETA          "beta"
-IDS_ABOUT_AUTHOR        "Par <a href=""http://rammichael.com/"">RaMMicHaeL</a> • Traduit par <a href=""mailto:unchecky_tr_fr@outlook.fr"">Pierre</a>"
+IDS_ABOUT_AUTHOR        "© 2015 Reason Company Software Inc. • Traduit par <a href=""mailto:unchecky_tr_fr@outlook.fr"">Pierre</a>"
 IDS_ABOUT_LINKS         "<a href=""http://unchecky.com/"">Site Internet</a> • <a href=""http://unchecky.userecho.com/"">Bug/nouveautés tracker</a>"
 IDS_ABOUT_LINKS_LEGAL   "<a href=""http://unchecky.com/eula"">End-User License Agreement</a> • <a href=""http://unchecky.com/privacy_policy"">Privacy Policy</a>"
 IDS_ERROR_LINK          "Impossible d'ouvrir le lien.\n\nAfin d'ouvrir le lien Web, vous devez avoir un navigateur Internet (ex. Internet Explorer, Mozilla Firefox, Google Chrome ...). Afin d'ouvrir les liens mails, vous devez avoir un client mail (ex. Windows Live Mail, Outlook, Mozilla Thunderbird...)."

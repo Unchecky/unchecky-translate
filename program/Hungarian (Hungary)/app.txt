@@ -27,7 +27,7 @@ IDS_CONFIG_EMPTY_MESSAGE
                         "A beállítások köre még bővűlni fog a későbbiekben."
 IDS_CONFIG_ADVANCED     "Sp&eciális beállítások"
 IDS_ABOUT_BETA          "Béta"
-IDS_ABOUT_AUTHOR        "Szerző <a href=""http://rammichael.com/"">RaMMicHaeL</a> • Magyar fordítás <a href=""http://datalinkek.com/"">LaMoLa</a>"
+IDS_ABOUT_AUTHOR        "© 2015 Reason Company Software Inc. • Magyar fordítás <a href=""http://datalinkek.com/"">LaMoLa</a>"
 IDS_ABOUT_LINKS         "<a href=""http://unchecky.com/"">Weboldal</a> • <a href=""http://unchecky.userecho.com/"">Hibajelentés/javaslat</a>"
 IDS_ABOUT_LINKS_LEGAL   "<a href=""http://unchecky.com/eula"">Végfelhasználói licenc-megállapodás</a> • <a href=""http://unchecky.com/privacy_policy"">Adatvédelemi irányelvek</a>"
 IDS_ERROR_LINK          "A Link nem nyitható meg.\n\nWebböngészőre van szükség (Pl. Internet Explorer, Firefox stb.). Levelezéshez pedig E-mail kliensre (Pl. Gmail vagy Outlook stb.)"

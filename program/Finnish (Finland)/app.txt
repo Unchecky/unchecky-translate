@@ -28,7 +28,7 @@ IDS_CONFIG_EMPTY_MESSAGE
                         "Tiedän, asetussivulla ei ole kauheasti mitään. Lisää asetuksia tulee tulevaisuudessa."
 IDS_CONFIG_ADVANCED     "Sä&ädöt"
 IDS_ABOUT_BETA          "beta"
-IDS_ABOUT_AUTHOR        "Tehnyt <a href=""http://rammichael.com/"">RaMMicHaeL</a> • Kääntänyt <a href=""mailto:trophyman12@gmail.com"">Jake Hukkanen ja Jussi Hyvärinen</a>"
+IDS_ABOUT_AUTHOR        "© 2015 Reason Company Software Inc. • Kääntänyt <a href=""mailto:trophyman12@gmail.com"">Jake Hukkanen ja Jussi Hyvärinen</a>"
 IDS_ABOUT_LINKS         "<a href=""http://unchecky.com/"">Verkkosivu</a> • <a href=""http://unchecky.userecho.com/"">Virhe/ominaisuusseuranta</a>"
 IDS_ABOUT_LINKS_LEGAL   "<a href=""http://unchecky.com/eula"">Loppukäyttäjän käyttöoikeussopimus</a> • <a href=""http://unchecky.com/privacy_policy"">Yksityisyyskäytäntö</a>"
 IDS_ERROR_LINK          "Linkkiä ei pystytty avaamaan.\n\nJos haluat käyttä nettilinkkejä, sinulla pitää olla nettiselain. Jos haluat käyttää mail-linkkejä, sinulla pitää olla sähköposti-asiakasohjelma (esim. Windows Live Mail tai Outlook)."

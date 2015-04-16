@@ -28,7 +28,7 @@ IDS_CONFIG_EMPTY_MESSAGE
                         "The settings page feels a little bit empty now, I know. More customization is planned in the future."
 IDS_CONFIG_ADVANCED     "&Definições Avançadas"
 IDS_ABOUT_BETA          "beta"
-IDS_ABOUT_AUTHOR        "Por <a href=""http://rammichael.com/"">RaMMicHaeL</a> • Traduzido por <a href=""mailto:northwolf95@gmail.com"">Pedro Pacheco</a>"
+IDS_ABOUT_AUTHOR        "© 2015 Reason Company Software Inc. • Traduzido por <a href=""mailto:northwolf95@gmail.com"">Pedro Pacheco</a>"
 IDS_ABOUT_LINKS         "<a href=""http://unchecky.com/"">Site</a> • <a href=""http://unchecky.userecho.com/"">Erros/Novas funcionalidades</a>"
 IDS_ABOUT_LINKS_LEGAL   "<a href=""http://unchecky.com/eula"">End-User License Agreement</a> • <a href=""http://unchecky.com/privacy_policy"">Privacy Policy</a>"
 IDS_ERROR_LINK          "Não foi possível abrir o link.\n\nPara abrir links, precisa de um navegador de internet (ex. Internet Explorer). Para utilizar links de email, precisa de ter um cliente de email (ex. Windows Live Mail ou Microsoft Outlook)."

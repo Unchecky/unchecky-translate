@@ -27,7 +27,7 @@ IDS_CONFIG_EMPTY_MESSAGE
                         "Siden med Indstillinger synes nok lidt tom lige nu, tænker jeg. Flere indstillinger planlægges i fremtiden."
 IDS_CONFIG_ADVANCED     "Avancerede indstillinger"
 IDS_ABOUT_BETA          "beta"
-IDS_ABOUT_AUTHOR        "Af <a href=""http://rammichael.com/"">RaMMicHaeL</a> • Oversat af <a href=""mailto:fbjswf@yahoo.com"">Finn Johansen</a>, <a href=""mailto:Raballer@hotmail.com"">Dum Dum</a>"
+IDS_ABOUT_AUTHOR        "© 2015 Reason Company Software Inc. • Oversat af <a href=""mailto:fbjswf@yahoo.com"">Finn Johansen</a>, <a href=""mailto:Raballer@hotmail.com"">Dum Dum</a>"
 IDS_ABOUT_LINKS         "<a href=""http://unchecky.com/"">Hjemmeside</a> • <a href=""http://unchecky.userecho.com/"">Bugg-/funktionstracker</a>"
 IDS_ABOUT_LINKS_LEGAL   "<a href=""http://unchecky.com/eula"">End-User License Agreement</a> • <a href=""http://unchecky.com/privacy_policy"">Privacy Policy</a>"
 IDS_ERROR_LINK          "Link kunne ikke åbnes.\n\nFor at kunne åbne weblinks skal du have en browser (f.eks. Internet Explorer, Mozilla Firefox eller Google Chrome). For at kunne anvende e-mail links skal du have en e-mail klient (f.eks. Windows Live Mail, Outlook eller Mozilla Thunderbird)."

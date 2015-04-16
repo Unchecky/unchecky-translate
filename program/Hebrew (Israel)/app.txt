@@ -26,7 +26,7 @@ IDS_CONFIG_EMPTY_MESSAGE
                         "דף ההגדרות נראה ריק כעת, אני יודע! הגדרות נוספות צפויות להתווסף בעתיד."
 IDS_CONFIG_ADVANCED     "&הגדרות מתקדמות"
 IDS_ABOUT_BETA          "בטא"
-IDS_ABOUT_AUTHOR        "ע""י <a href=""http://rammichael.com/"">RaMMicHaeL</a> • תורגם ע""י <a href=""http://mikycomputers.com"">miky computers</a>"
+IDS_ABOUT_AUTHOR        "© 2015 Reason Company Software Inc. • תורגם ע""י <a href=""http://mikycomputers.com"">miky computers</a>"
 IDS_ABOUT_LINKS         "<a href=""http://unchecky.com/"">לאתר</a> • <a href=""http://unchecky.userecho.com/"">מעקב אחר באגים\\בקשות</a>"
 IDS_ABOUT_LINKS_LEGAL   "<a href=""http://unchecky.com/eula"">הסכם שימוש לקוח-קצה</a> • <a href=""http://unchecky.com/privacy_policy"">מדיניות פרטיות</a>"
 IDS_ERROR_LINK          "לא יכול לפתוח קישור.\n\nעל מנת לעבוד עם קישורים עליך להתקין דפדפן אינטרנט (לדוג' Internet Explorer). על מנת להשתמש בקישורי מיילים עליך להשתמש בתוכנת לקוח מייל (לדוג' Windows Live Mail או Outlook)."

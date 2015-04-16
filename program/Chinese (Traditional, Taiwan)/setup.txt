@@ -1,4 +1,4 @@
-IDS_LANGUAGE            "繁體中文"
+IDS_LANGUAGE            "繁體中文"
 IDS_IS_RTL              "0"
 IDS_MAIN_WNDTITLE       "Unchecky v%s 安裝程式"
 IDS_MAIN_TITLE          "Unchecky"
