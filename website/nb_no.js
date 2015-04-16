@@ -23,8 +23,8 @@ jquery_lang_js.prototype.lang.nb_no = {
 	
 	// Footer
 	
-	'Copyright © 2015 <a href="http://rammichael.com/">RaMMicHaeL</a>.':
-		'Copyright © 2015 <a href="http://rammichael.com/">RaMMicHaeL</a>. Norsk oversettelse: <a href="mailto:alexander@feskenet.com?Subject=Unchecky">Alexander Johansen</a>',
+	'Copyright © 2015 Reason Company Software Inc.':
+		'Copyright © 2015 Reason Company Software Inc. Norsk oversettelse: <a href="mailto:alexander@feskenet.com?Subject=Unchecky">Alexander Johansen</a>',
 	
 	// Legal
 	

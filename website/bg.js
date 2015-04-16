@@ -23,8 +23,8 @@ jquery_lang_js.prototype.lang.bg = {
 	
 	// Footer
 	
-	'Copyright © 2015 <a href="http://rammichael.com/">RaMMicHaeL</a>.':
-		'Всички права запазени © 2015 <a href="http://rammichael.com/">RaMMicHaeL</a>. Български превод: Night_Raven.',
+	'Copyright © 2015 Reason Company Software Inc.':
+		'Всички права запазени © 2015 Reason Company Software Inc. Български превод: Night_Raven.',
 	
 	// Legal
 	

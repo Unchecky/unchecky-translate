@@ -23,8 +23,8 @@ jquery_lang_js.prototype.lang.zh_tw = {
 	
 	// Footer
 	
-	'Copyright © 2015 <a href="http://rammichael.com/">RaMMicHaeL</a>.':
-		'版權所有 © 2015 <a href="http://rammichael.com/">RaMMicHaeL</a>。 由 <a href="https://www.facebook.com/ChiaHong.H">洪嘉鴻 翻譯</a>。',
+	'Copyright © 2015 Reason Company Software Inc.':
+		'版權所有 © 2015 Reason Company Software Inc。 由 <a href="https://www.facebook.com/ChiaHong.H">洪嘉鴻 翻譯</a>。',
 	
 	// Legal
 	

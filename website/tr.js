@@ -23,8 +23,8 @@ jquery_lang_js.prototype.lang.tr = {
 	
 	// Footer
 	
-	'Copyright © 2015 <a href="http://rammichael.com/">RaMMicHaeL</a>.':
-		'Telif hakkı © 2015 <a href="http://rammichael.com/">RaMMicHaeL</a>. Türkçe çeviri : <a href="mailto:fatihfirinci@gmail.com">Fatih Fırıncı</a>.',
+	'Copyright © 2015 Reason Company Software Inc.':
+		'Telif hakkı © 2015 Reason Company Software Inc. Türkçe çeviri : <a href="mailto:fatihfirinci@gmail.com">Fatih Fırıncı</a>.',
 	
 	// Legal
 	

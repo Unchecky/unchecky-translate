@@ -23,8 +23,8 @@
 	
 	// Footer
 	
-	'Copyright © 2015 <a href="http://rammichael.com/">RaMMicHaeL</a>.':
-		'Copyright © 2015 <a href="http://rammichael.com/">RaMMicHaeL</a>. 日本語訳： <a href="mailto:milksizegene@japan-secure.com">milksizegene</a>',
+	'Copyright © 2015 Reason Company Software Inc.':
+		'Copyright © 2015 Reason Company Software Inc. 日本語訳： <a href="mailto:milksizegene@japan-secure.com">milksizegene</a>',
 	
 	// Legal
 	

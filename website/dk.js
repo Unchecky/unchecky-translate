@@ -23,8 +23,8 @@ jquery_lang_js.prototype.lang.dk = {
 	
 	// Footer
 	
-	'Copyright © 2015 <a href="http://rammichael.com/">RaMMicHaeL</a>.':
-		'Copyright © 2015 <a href="http://rammichael.com/">RaMMicHaeL</a>. Dansk oversættelse: <a href="mailto:fbjohansen@gmail.com?Subject=Unchecky">Finn Johansen</a>',
+	'Copyright © 2015 Reason Company Software Inc.':
+		'Copyright © 2015 Reason Company Software Inc. Dansk oversættelse: <a href="mailto:fbjohansen@gmail.com?Subject=Unchecky">Finn Johansen</a>',
 	
 	// Legal
 	

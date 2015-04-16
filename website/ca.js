@@ -23,8 +23,8 @@ jquery_lang_js.prototype.lang.ca = {
 	
 	// Footer
 	
-	'Copyright © 2015 <a href="http://rammichael.com/">RaMMicHaeL</a>.':
-		'© 2015 <a href="http://rammichael.com/">RaMMicHaeL</a>. Traducció a càrrec de: <a href="mailto:bennybeat+unchecky@gmail.com">BennyBeat [CATegoria]</a>',
+	'Copyright © 2015 Reason Company Software Inc.':
+		'© 2015 Reason Company Software Inc. Traducció a càrrec de: <a href="mailto:bennybeat+unchecky@gmail.com">BennyBeat [CATegoria]</a>',
 	
 	// Legal
 	
