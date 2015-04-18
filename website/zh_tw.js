@@ -60,7 +60,7 @@ jquery_lang_js.prototype.lang.zh_tw = {
 	'Updates automatically':
 		'自動更新',
 	'Install and forget. Unchecky automatically updates whenever a new version is available, so you don\'t have to worry about running the latest version.':
-		'忘記安裝新版本。每當有新版本發布時，Unchecky 會自動更新，所以您不必擔心執行的是否為最新程式。',
+		'忘記安裝新版本? 每當有新版本發布時，Unchecky 會自動更新，所以您不必擔心執行的是否為最新程式。',
 	
 	'Watch Unchecky in action':
 		'觀看 Unchecky 執行的動作',
@@ -79,7 +79,7 @@ jquery_lang_js.prototype.lang.zh_tw = {
 		'獎項',
 	
 	'People are showing Unchecky in action':
-		'大家在展示 Unchecky 的動作',
+		'大家正在展示 Unchecky 的動作',
 	'Demonstrating Unchecky':
 		'展示 Unchecky',
 	
@@ -108,24 +108,24 @@ jquery_lang_js.prototype.lang.zh_tw = {
 	'My antivirus flags Unchecky as malicious.':
 		'我的防毒軟體認定 Unchecky 為惡意軟體。',
 	'It\'s a false positive. Please report about it to your antivirus company. Note that Unchecky was tested thoroughly by Softpedia and <a href="http://www.softpedia.com/get/System/OS-Enhancements/Unchecky.shtml">was found 100% clean</a>.':
-		'其為誤報。 請向您的防毒軟體公司報告。 請您注意，Unchecky 已由 <a href="http://www.softpedia.com/get/System/OS-Enhancements/Unchecky.shtml">Softpedia</a>檢測完成，是 100% 安全的。',
+		'其為誤報。 請向您的防毒軟體公司報告。 請您注意，Unchecky 已由 <a href="http://www.softpedia.com/get/System/OS-Enhancements/Unchecky.shtml">Softpedia</a> 檢測完成，是 100% 安全的。',
 	
 	'What is the best way to report a bug or suggest a feature?':
 		'報告錯誤或提出功能建議的最好的方法是什麼？',
 	'Post your feedback on the <a href="http://unchecky.userecho.com/">UserEcho page</a>.':
-		'請發表您的回饋於 <a href="http://unchecky.userecho.com/">使用者回饋頁面</a>。',
+		'請發表您的回饋於<a href="http://unchecky.userecho.com/">使用者回饋頁面</a>。',
 	
-	'How do I uninstall Unchecky':
-		'',
+	'How do I uninstall Unchecky?':
+		'我應如何解除安裝 Unchecky',
 	'Unchecky can be uninstalled from the Windows Control Panel, like any other program. See instructions for <a href="http://windows.microsoft.com/en-us/windows-8/uninstall-change-program">Windows 8</a>, <a href="http://windows.microsoft.com/en-us/windows/uninstall-change-program#uninstall-change-program=windows-7">Windows 7</a>, <a href="http://windows.microsoft.com/en-us/windows/uninstall-change-program#uninstall-change-program=windows-vista">Windows Vista</a>, or <a href="https://support.microsoft.com/en-us/kb/307895">Windows XP</a>.':
-		'',
+		'Unchecky 可以像其他程式一樣由 Windows 控制台中解除安裝。 請參閱 <a href="http://windows.microsoft.com/en-us/windows-8/uninstall-change-program">Windows 8</a>、<a href="http://windows.microsoft.com/en-us/windows/uninstall-change-program#uninstall-change-program=windows-7">Windows 7</a>、<a href="http://windows.microsoft.com/en-us/windows/uninstall-change-program#uninstall-change-program=windows-vista">Windows Vista</a>或 <a href="https://support.microsoft.com/en-us/kb/307895">Windows XP</a> 的說明。',
 	'If the standard method fails, please try to use the <a href="files/unchecky_cleaner.exe">Unchecky Cleaner Tool</a>, which is designed to uninstall corrupted Unchecky installations.':
-		'',
+		'如果正常的移除方法失敗，請嘗試使用 <a href="files/unchecky_cleaner.exe">Unchecky Cleaner Tool</a>，其用於解除安裝 Unchecky。',
 	
 	'I want to translate Unchecky.':
 		'我想要翻譯 Unchecky。',
 	'The translation files of the Unchecky program and website can be found on the <a href="https://github.com/RaMMicHaeL/unchecky-translate">unchecky-translate</a> GitHub repository.':
-		'Unchecky 程式和網站的翻譯檔案可於 <a href="https://github.com/RaMMicHaeL/unchecky-translate">unchecky-翻譯</a>GitHub 資料庫中找到。',
+		'Unchecky 程式和網站的翻譯檔案可於 <a href="https://github.com/RaMMicHaeL/unchecky-translate">unchecky-translate</a> GitHub 資料庫中找到。',
 	
 	'Is it possible to install Unchecky silently?':
 		'是否可能以背景安裝 Unchecky?',
@@ -135,7 +135,7 @@ jquery_lang_js.prototype.lang.zh_tw = {
 	// Contact
 	
 	'Please don\'t use this contact form to report bugs or suggest features. Post your feedback on the <a href="http://unchecky.userecho.com/">UserEcho page</a> instead.':
-		'請不要使用此聯繫表格來報告錯誤或提出功能建議。 請於 <a href="http://unchecky.userecho.com/">使用者回饋頁面</a>發表您的回饋。',
+		'請不要使用此聯繫表格來報告錯誤或提出功能建議。 請於<a href="http://unchecky.userecho.com/">使用者回饋頁面</a>發表您的回饋。',
 	
 	'First Name':
 		'名字',
