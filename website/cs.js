@@ -29,7 +29,7 @@ jquery_lang_js.prototype.lang.cs = {
 	// Legal
 	
 	'End-User License Agreement':
-		'Licenční ujednání',
+		'Licenční ujednání pro koncového uživatele',
 	'Privacy Policy':
 		'Ochrana osobních údajů',
 	
@@ -38,27 +38,27 @@ jquery_lang_js.prototype.lang.cs = {
 	'Tired of unchecking unrelated offers while installing software?':
 		'Jste unaveni z odznačování nabídek během instalace programu?',
 	'Have you ever felt, while installing software, that the installer tries to push additional unwanted programs at all cost? Ever missed a checkbox, and spent hours afterwards removing adware? Ever opened your browser after an installation, only to find out that you have a new homepage, a new search engine, or even a new browser?<br>Unchecky aims to keep potentially unwanted programs out of your computer.':
-		'Zažili jste již, že zatímco instalujete program, instalátor se Vám snaží neustále nutit nějakou nabídku? Nebo jste zapomněli odznačit nabídku a poté jste strávili hodiny odstraňováním nevyžádané aplikace? A nebo se Vám otevřel po instalaci programu internetový prohlížeč a v něm nastavena nová domovská stránka, či ještě hůře nový internetový prohlížeč?<br>Unchecky pomáha držet potenciálně nechtěné aplikace od vašeho počítače.',
+		'Zažili jste již, že zatímco instalujete program, instalátor se Vám snaží neustále nutit nějakou nabídku?<br>Nebo jste zapomněli odznačit nabídku a poté jste strávili hodiny odstraňováním nevyžádané aplikace?<br>A nebo se Vám otevřel po instalaci programu internetový prohlížeč a v něm nastavena nová domovská stránka, či ještě hůře nový internetový prohlížeč?<br>Unchecky pomáha držet potenciálně nechtěné aplikace od vašeho počítače.',
 	'Download':
 		'Stáhnout',
 	
 	'Introducing Unchecky!':
 		'Přivítejte Unchecky!',
 	'Keeps your checkboxes clear.':
-		'Již žádné zaznačené nabídky.',
+		'Již žádné nechtěné nabídky.',
 	
 	'Unchecks':
-		'Odznačení',
+		'Odznačí',
 	'Unchecky automatically unchecks unrelated offers, both saving you mouse clicks and making it less likely to miss a checkbox of an unwanted offer.':
 		'Unchecky automaticky odznačí nežádoucí nabídku, ušetří mnoho kliknutí myší a zamezí tak i možnosti, že se při odznačování nabídky překliknete.',
 	
 	'Warns':
-		'Warnt dich',
+		'Ochrání',
 	'Installers often try to sneak additional programs as a natural part of the installation. Unchecky warns you when you try to accept a potentially unwanted offer, which makes it less likely to be accepted accidentally.':
 		'Instalátory se často pokouší nainstalovat nepotřebné aplikace tvářící se jako součást instalace. Unchecky Vás upozorní na to, že se pokoušíte schválit instalaci potenciálně nechtěné aplikace, kterou by jste normálně ani nezaznamenali.',
 	
 	'Updates automatically':
-		'Automatická aktualizace',
+		'Pracuje sám',
 	'Install and forget. Unchecky automatically updates whenever a new version is available, so you don\'t have to worry about running the latest version.':
 		'Nainstalovat a zapomenout. Unchecky se aktualizuje automaticky a vy se tak již nemusíte starat o to, zda používáte poslední verzi.',
 	
