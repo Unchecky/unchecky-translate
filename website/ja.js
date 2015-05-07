@@ -11,7 +11,7 @@
 	'Changelog':
 		'更新履歴',
 	'Contact':
-		'コンタクト',
+		'お問い合わせ',
 	'Links':
 		'リンク',
 	'Bug/feature tracker':
@@ -70,7 +70,7 @@
 	// Press
 	
 	'People are talking about Unchecky':
-		'Uncheckyについての話題',
+		'Uncheckyに関する話題',
 	'Unchecky was also featured on the following international websites:':
 		'Uncheckyは以下のウェブサイト上で紹介されました：',
 	'on':
@@ -116,11 +116,11 @@
 		'あなたのご意見を投稿してください。<a href="http://unchecky.userecho.com/">ユーザーフォーラム</a>',
 	
 	'How do I uninstall Unchecky?':
-		'',
+		'Uncheckyはどのようにアンインストールしますか？',
 	'Unchecky can be uninstalled from the Windows Control Panel, like any other program. See instructions for <a href="http://windows.microsoft.com/en-us/windows-8/uninstall-change-program">Windows 8</a>, <a href="http://windows.microsoft.com/en-us/windows/uninstall-change-program#uninstall-change-program=windows-7">Windows 7</a>, <a href="http://windows.microsoft.com/en-us/windows/uninstall-change-program#uninstall-change-program=windows-vista">Windows Vista</a>, or <a href="https://support.microsoft.com/en-us/kb/307895">Windows XP</a>.':
-		'',
+		'その他のプログラムと同様に、Windows コントロールパネルからアンインストールすることができます。各Windowsにおける操作手順は以下をご覧ください：<a href="http://windows.microsoft.com/en-us/windows-8/uninstall-change-program">Windows 8</a>、<a href="http://windows.microsoft.com/en-us/windows/uninstall-change-program#uninstall-change-program=windows-7">Windows 7</a>、<a href="http://windows.microsoft.com/en-us/windows/uninstall-change-program#uninstall-change-program=windows-vista">Windows Vista</a>、あるいは<a href="https://support.microsoft.com/en-us/kb/307895">Windows XP</a>.':',
 	'If the standard method fails, please try to use the <a href="files/unchecky_cleaner.exe">Unchecky Cleaner Tool</a>, which is designed to uninstall corrupted Unchecky installations.':
-		'',
+		'万一、上記のアンインストール方法で削除が出来ない場合、 <a href="files/unchecky_cleaner.exe">Unchecky Cleaner Tool</a> を使用して下さい。',
 	
 	'I want to translate Unchecky.':
 		'Uncheckyを翻訳したい。',
