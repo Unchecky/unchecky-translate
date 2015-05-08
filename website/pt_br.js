@@ -60,7 +60,7 @@ jquery_lang_js.prototype.lang.pt_br = {
 	'Updates automatically':
 		'Atualiza automaticamnte',
 	'Install and forget. Unchecky automatically updates whenever a new version is available, so you don\'t have to worry about running the latest version.':
-		'Instale e esqueça. O Unchecky atualiza automaticante sempre que uma nova versão está disponível, você estará sempre rodando com a ultima versão!',
+		'Instale e esqueça. O Unchecky atualiza automaticamente sempre que uma nova versão está disponível, você estará sempre rodando com a ultima versão!',
 	
 	'Watch Unchecky in action':
 		'Veja o Unchecky em ação',
@@ -116,11 +116,11 @@ jquery_lang_js.prototype.lang.pt_br = {
 		'Por favor poste sugestões/reclamações na <a href="http://unchecky.userecho.com/">página UserEcho</a>.',
 	
 	'How do I uninstall Unchecky?':
-		'',
+		'Como posso desinstalar Unchecky?',
 	'Unchecky can be uninstalled from the Windows Control Panel, like any other program. See instructions for <a href="http://windows.microsoft.com/en-us/windows-8/uninstall-change-program">Windows 8</a>, <a href="http://windows.microsoft.com/en-us/windows/uninstall-change-program#uninstall-change-program=windows-7">Windows 7</a>, <a href="http://windows.microsoft.com/en-us/windows/uninstall-change-program#uninstall-change-program=windows-vista">Windows Vista</a>, or <a href="https://support.microsoft.com/en-us/kb/307895">Windows XP</a>.':
-		'',
+		'Unchecky pode ser desinstalado a partir do Painel de Controle do Windows, como qualquer outro programa. Consulte as instruções para <a href="http://windows.microsoft.com/en-us/windows-8/uninstall-change-program">Windows 8</a>, <a href="http://windows.microsoft.com/en-us/windows/uninstall-change-program#uninstall-change-program=windows-7">Windows 7</a>, <a href="http://windows.microsoft.com/en-us/windows/uninstall-change-program#uninstall-change-program=windows-vista">Windows Vista</a>, or <a href="https://support.microsoft.com/en-us/kb/307895">Windows XP</a>.',
 	'If the standard method fails, please try to use the <a href="files/unchecky_cleaner.exe">Unchecky Cleaner Tool</a>, which is designed to uninstall corrupted Unchecky installations.':
-		'',
+		'Se o método padrão falhar, por favor, tente usar o <a href="files/unchecky_cleaner.exe">Ferramenta de Limpeza do Unchecky</a>, que é projetado para desinstalar instalações Unchecky corrompidas.',
 	
 	'I want to translate Unchecky.':
 		'Quero traduzir o Unchecky.',
