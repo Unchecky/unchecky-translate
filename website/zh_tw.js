@@ -38,7 +38,7 @@ jquery_lang_js.prototype.lang.zh_tw = {
 	'Tired of unchecking unrelated offers while installing software?':
 		'您已厭倦在安裝軟體時一直要取消勾選無關的程式了嗎?',
 	'Have you ever felt, while installing software, that the installer tries to push additional unwanted programs at all cost? Ever missed a checkbox, and spent hours afterwards removing adware? Ever opened your browser after an installation, only to find out that you have a new homepage, a new search engine, or even a new browser?<br>Unchecky aims to keep potentially unwanted programs out of your computer.':
-		'您有沒有覺得，在安裝軟體時，安裝程式試圖推送更多的非必要程式而不惜一切代價？ 曾經錯過了一個核取方塊，之後即要花費數小時移除廣告軟體？ 曾經在安裝程式後開啟瀏覽器，卻發現您有了新的首頁、新的搜尋引擎，甚至是新的瀏覽器？<br>Unchecky 為一款讓可能非必要的程式不侵害您電腦的軟體。',
+		'您有沒有覺得，在安裝軟體時，安裝程式試圖推送更多的非必要程式而不惜一切代價？ 曾經錯過了一個核取方塊，之後即要花費數小時移除廣告軟體？ 曾經在安裝程式後開啟瀏覽器，卻發現您有了新的首頁、新的搜尋引擎，甚至是新的瀏覽器？<br>Unchecky 為一款讓非必要的程式不侵害您電腦的軟體。',
 	'Download':
 		'下載',
 	
@@ -116,16 +116,16 @@ jquery_lang_js.prototype.lang.zh_tw = {
 		'請發表您的回饋於<a href="http://unchecky.userecho.com/">使用者回饋頁面</a>。',
 	
 	'How do I uninstall Unchecky?':
-		'我應如何解除安裝 Unchecky',
+		'我應如何解除安裝 Unchecky?',
 	'Unchecky can be uninstalled from the Windows Control Panel, like any other program. See instructions for <a href="http://windows.microsoft.com/en-us/windows-8/uninstall-change-program">Windows 8</a>, <a href="http://windows.microsoft.com/en-us/windows/uninstall-change-program#uninstall-change-program=windows-7">Windows 7</a>, <a href="http://windows.microsoft.com/en-us/windows/uninstall-change-program#uninstall-change-program=windows-vista">Windows Vista</a>, or <a href="https://support.microsoft.com/en-us/kb/307895">Windows XP</a>.':
-		'Unchecky 可以像其他程式一樣由 Windows 控制台中解除安裝。 請參閱 <a href="http://windows.microsoft.com/en-us/windows-8/uninstall-change-program">Windows 8</a>、<a href="http://windows.microsoft.com/en-us/windows/uninstall-change-program#uninstall-change-program=windows-7">Windows 7</a>、<a href="http://windows.microsoft.com/en-us/windows/uninstall-change-program#uninstall-change-program=windows-vista">Windows Vista</a>或 <a href="https://support.microsoft.com/en-us/kb/307895">Windows XP</a> 的說明。',
+		'Unchecky 可以像其他程式一樣由 Windows 控制台中解除安裝。 請參閱 <a href="http://windows.microsoft.com/en-us/windows-8/uninstall-change-program">Windows 8</a>、<a href="http://windows.microsoft.com/en-us/windows/uninstall-change-program#uninstall-change-program=windows-7">Windows 7</a>、<a href="http://windows.microsoft.com/en-us/windows/uninstall-change-program#uninstall-change-program=windows-vista">Windows Vista</a> 或 <a href="https://support.microsoft.com/en-us/kb/307895">Windows XP</a> 的說明。',
 	'If the standard method fails, please try to use the <a href="files/unchecky_cleaner.exe">Unchecky Cleaner Tool</a>, which is designed to uninstall corrupted Unchecky installations.':
 		'如果正常的移除方法失敗，請嘗試使用 <a href="files/unchecky_cleaner.exe">Unchecky Cleaner Tool</a>，其用於解除安裝 Unchecky。',
 	
 	'I want to translate Unchecky.':
 		'我想要翻譯 Unchecky。',
 	'The translation files of the Unchecky program and website can be found on the <a href="https://github.com/RaMMicHaeL/unchecky-translate">unchecky-translate</a> GitHub repository.':
-		'Unchecky 程式和網站的翻譯檔案可於 <a href="https://github.com/RaMMicHaeL/unchecky-translate">unchecky-translate</a> GitHub 資料庫中找到。',
+		'Unchecky 程式和網站的翻譯檔案可於 GitHub 資料庫中的 <a href="https://github.com/RaMMicHaeL/unchecky-translate">unchecky-translate</a> 找到。',
 	
 	'Is it possible to install Unchecky silently?':
 		'是否可能以背景安裝 Unchecky?',

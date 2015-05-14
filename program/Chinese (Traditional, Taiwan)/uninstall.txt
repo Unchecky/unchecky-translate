@@ -13,5 +13,5 @@ IDS_MAINCTRL_PATHTEXT   "解除安裝由:"
 IDS_MAINCTRL_REMOVE_SETTINGS "移除儲存的設定(&S)"
 IDS_FINISHCTRL_TEXT1    "Unchecky 已從您的電腦解除安裝。"
 IDS_FINISHCTRL_ERROR_NOTE 
-                        "無法移除部分元件。 請您可以手動移除。"
+                        "無法移除部分元件。 您可以手動移除。"
 IDS_FINISHCTRL_TEXT2    "點擊「完成」以關閉。"
