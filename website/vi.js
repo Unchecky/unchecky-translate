@@ -116,11 +116,11 @@ jquery_lang_js.prototype.lang.vi = {
 		'Viết phản hồi của bạn tại <a href="http://unchecky.userecho.com/">trang UserEcho</a>.',
 	
 	'How do I uninstall Unchecky?':
-		'',
+		'Làm sao để gỡ bỏ Unchecky?',
 	'Unchecky can be uninstalled from the Windows Control Panel, like any other program. See instructions for <a href="http://windows.microsoft.com/en-us/windows-8/uninstall-change-program">Windows 8</a>, <a href="http://windows.microsoft.com/en-us/windows/uninstall-change-program#uninstall-change-program=windows-7">Windows 7</a>, <a href="http://windows.microsoft.com/en-us/windows/uninstall-change-program#uninstall-change-program=windows-vista">Windows Vista</a>, or <a href="https://support.microsoft.com/en-us/kb/307895">Windows XP</a>.':
-		'',
+		'Bạn có thể gỡ cài đặt Unchecky từ Control Panel, tương tự như những chương trình khác. Xem hướng dẫn cho <a href="http://windows.microsoft.com/en-us/windows-8/uninstall-change-program">Windows 8</a>, <a href="http://windows.microsoft.com/en-us/windows/uninstall-change-program#uninstall-change-program=windows-7">Windows 7</a>, <a href="http://windows.microsoft.com/en-us/windows/uninstall-change-program#uninstall-change-program=windows-vista">Windows Vista</a>, hoặc <a href="https://support.microsoft.com/en-us/kb/307895">Windows XP</a>.',
 	'If the standard method fails, please try to use the <a href="files/unchecky_cleaner.exe">Unchecky Cleaner Tool</a>, which is designed to uninstall corrupted Unchecky installations.':
-		'',
+		'Nếu cách gỡ bỏ bình thường không thành công, hãy thử <a href="files/unchecky_cleaner.exe">Công cụ dọn dẹp Unchecky</a>, nó được thiết kế để gỡ bỏ tác vụ cài đặt Unchecky bị hỏng.',
 	
 	'I want to translate Unchecky.':
 		'Tôi muốn dịch Unchecky!',
