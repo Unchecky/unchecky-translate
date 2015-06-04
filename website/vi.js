@@ -55,7 +55,7 @@ jquery_lang_js.prototype.lang.vi = {
 	'Warns':
 		'Cảnh báo',
 	'Installers often try to sneak additional programs as a natural part of the installation. Unchecky warns you when you try to accept a potentially unwanted offer, which makes it less likely to be accepted accidentally.':
-		'Những trình cài đặt cốc gắng cài thêm chương trình bổ sung như một phần của quá trình cài đặt. Unchecky cảnh báo bạn khi bạn cố chấp nhận một đề nghị không mong muốn, giúp giảm khả năng chấp nhận nhầm.',
+		'Những trình cài đặt cố gắng cài thêm chương trình bổ sung như một phần của quá trình cài đặt. Unchecky cảnh báo bạn khi bạn cố chấp nhận một đề nghị không mong muốn, giúp giảm khả năng chấp nhận nhầm.',
 	
 	'Updates automatically':
 		'Tự động cập nhật',
