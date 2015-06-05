@@ -23,7 +23,7 @@ IDS_MAINCTRL_LOG        "Activity &log"
 IDS_MAINCTRL_STOP       "&Suspender serviço"
 IDS_MAINCTRL_START      "&Retomar serviço"
 IDS_CONFIG_LANG         "&Idioma:"
-IDS_CONFIG_NO_TRAY_ICON "Don't display the notification area &icon"
+IDS_CONFIG_NO_TRAY_ICON "Não exibir o &ícone da área de notificação"
 IDS_CONFIG_EMPTY_MESSAGE 
                         "A página de configurações parece um pouco vazia agora, eu sei. Mais modificações estão planejadas no futuro."
 IDS_CONFIG_ADVANCED     "Configurações avançadas"
