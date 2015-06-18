@@ -74,7 +74,7 @@ jquery_lang_js.prototype.lang.lt = {
 	'Unchecky was also featured on the following international websites:':
 		'Programa Unchecky buvo pristatyta šiuose tarptautiniuose tinklalapiuose:',
 	'on':
-		'',
+		'į',
 	'Awards':
 		'Apdovanojimai:',
 	
