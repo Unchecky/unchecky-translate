@@ -9,7 +9,7 @@ jquery_lang_js.prototype.lang.lt = {
 	'FAQ':
 		'D.U.K.',
 	'Changelog':
-		'Paketimų sąrašas',
+		'Pakeitimų sąrašas',
 	'Contact':
 		'Kontaktai',
 	'Links':
@@ -38,7 +38,7 @@ jquery_lang_js.prototype.lang.lt = {
 	'Tired of unchecking unrelated offers while installing software?':
 		'Atsibodo atžymėti varneles nuo nepageidaujamų pasiūlymų diegiant programas?',
 	'Have you ever felt, while installing software, that the installer tries to push additional unwanted programs at all cost? Ever missed a checkbox, and spent hours afterwards removing adware? Ever opened your browser after an installation, only to find out that you have a new homepage, a new search engine, or even a new browser?<br>Unchecky aims to keep potentially unwanted programs out of your computer.':
-		'Ar kada nors jautėte, kad diegiant programą, kartu yra bandoma įdiegti papildomų nepageidaujamų programų bet kokia kaina? Kada nors praleidote varnelę, paskui valandų valandas mėgindami pašalinti nepageidaujamas programas? Kada nors po įdiegimo atvėrėte savo interneto naršyklę tik kad sužinotumėte, kad turite naują namų puslapį, naują paieškos varilį ar netgi naują naršyklę?<br>Unchecky padeda išvengti potencialiai nepageidaujamų programų Jūsų kompiuteryje.',
+		'Ar kada nors jautėte, kad diegiant programą, kartu yra bandoma įdiegti papildomų nepageidaujamų programų bet kokia kaina? Kada nors praleidote varnelę, paskui valandų valandas mėgindami pašalinti nepageidaujamas programas? Kada nors po įdiegimo atvėrėte savo interneto naršyklę tik kad sužinotumėte, kad turite naują namų puslapį, naują paieškos variklį ar netgi naują naršyklę?<br>Unchecky padeda išvengti potencialiai nepageidaujamų programų Jūsų kompiuteryje.',
 	'Download':
 		'Siųstis',
 	
@@ -74,7 +74,7 @@ jquery_lang_js.prototype.lang.lt = {
 	'Unchecky was also featured on the following international websites:':
 		'Programa Unchecky buvo pristatyta šiuose tarptautiniuose tinklalapiuose:',
 	'on':
-		'į',
+		'-',
 	'Awards':
 		'Apdovanojimai:',
 	
@@ -118,7 +118,7 @@ jquery_lang_js.prototype.lang.lt = {
 	'How do I uninstall Unchecky?':
 		'Kaip pašalinti Unchecky?',
 	'Unchecky can be uninstalled from the Windows Control Panel, like any other program. See instructions for <a href="http://windows.microsoft.com/en-us/windows-8/uninstall-change-program">Windows 8</a>, <a href="http://windows.microsoft.com/en-us/windows/uninstall-change-program#uninstall-change-program=windows-7">Windows 7</a>, <a href="http://windows.microsoft.com/en-us/windows/uninstall-change-program#uninstall-change-program=windows-vista">Windows Vista</a>, or <a href="https://support.microsoft.com/en-us/kb/307895">Windows XP</a>.':
-		'Unchecky gali būti pašalinti per Windows Control Panel kaip ir bet kuri kita programa. Žiūrėkite instrukcijas <a href="http://windows.microsoft.com/en-us/windows-8/uninstall-change-program">Windows 8</a>, <a href="http://windows.microsoft.com/en-us/windows/uninstall-change-program#uninstall-change-program=windows-7">Windows 7</a>, <a href="http://windows.microsoft.com/en-us/windows/uninstall-change-program#uninstall-change-program=windows-vista">Windows Vista</a>, arba <a href="https://support.microsoft.com/en-us/kb/307895">Windows XP</a>.',
+		'Unchecky gali būti pašalinta per Windows Control Panel kaip ir bet kuri kita programa. Žiūrėkite instrukcijas <a href="http://windows.microsoft.com/en-us/windows-8/uninstall-change-program">Windows 8</a>, <a href="http://windows.microsoft.com/en-us/windows/uninstall-change-program#uninstall-change-program=windows-7">Windows 7</a>, <a href="http://windows.microsoft.com/en-us/windows/uninstall-change-program#uninstall-change-program=windows-vista">Windows Vista</a>, arba <a href="https://support.microsoft.com/en-us/kb/307895">Windows XP</a>.',
 	'If the standard method fails, please try to use the <a href="files/unchecky_cleaner.exe">Unchecky Cleaner Tool</a>, which is designed to uninstall corrupted Unchecky installations.':
 		'Jeigu standartiniu būdu nepavyksta, pamėginkite naudoti <a href="files/unchecky_cleaner.exe">Unchecky pašalinimo įrankį</a>, kuris yra skirtas pašalinti sugadintą Unchecky diegimą.',
 	
