@@ -1,10 +1,8 @@
 IDS_CONFIRMATION_TEXT   "您將要安裝一個潛藏的非必要程式。 您確定要繼續嗎？"
 IDS_CONFIRMATION_PROCEED "繼續(&P)"
-IDS_CONFIRMATION_DECLINE 
-                        "拒絕潛藏的非必要程式(&D) (建議)"
+IDS_CONFIRMATION_DECLINE "拒絕潛藏的非必要程式(&D) (建議)"
 IDS_CONFIRMATION_YES    "是(&Y)"
 IDS_CONFIRMATION_NO     "否(&N) (建議)"
 IDS_CONFIRMATION_OK     "確定"
 IDS_CONFIRMATION_CANCEL "取消 (建議)"
-IDS_CONFIRMATION_MBOX_WARNING 
-                        "Unchecky 警告: 您被要求安裝一個非必要的程式。 請仔細閱讀以下文字。"
+IDS_CONFIRMATION_MBOX_WARNING "Unchecky 警告: 您被要求安裝一個非必要的程式。 請仔細閱讀以下文字。"

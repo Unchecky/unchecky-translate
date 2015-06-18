@@ -16,7 +16,6 @@ IDS_EXTRACTRL_FOLDER_BROWSE "瀏覽(&R)..."
 IDS_EXTRACTRL_BROWSE_TEXT "選擇要安裝 Unchecky 的資料夾於:"
 IDS_FINISHCTRL_TITLE    "Unchecky 服務已啟動並正在執行!"
 IDS_FINISHCTRL_TEXT     "恭喜您! Unchecky 已成功安裝於您的電腦。\n\nUnchecky 服務將持續於背景中執行，監控您的安裝。 您可以在任何時間由桌面的 Unchecky 圖示啟動 Unchecky 以查看多少核取方塊已被取消選擇。"
-IDS_MAIN_ERROR_UNCHECKY_RUNNING 
-                        "請在執行前關閉所有 Unchecky 處理程序"
+IDS_MAIN_ERROR_UNCHECKY_RUNNING "請在執行前關閉所有 Unchecky 處理程序"
 IDS_MAIN_UPDATE         "更新(&U)"
 IDS_MAIN_UPDATING       "正在更新..."
