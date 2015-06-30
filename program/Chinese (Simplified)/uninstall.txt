@@ -12,5 +12,5 @@ IDS_MAINCTRL_PATHTEXT   "卸载从："
 IDS_MAINCTRL_REMOVE_SETTINGS "移除保存的&设置"
 IDS_FINISHCTRL_TEXT1    "Unchecky已从你的电脑中卸载。"
 IDS_FINISHCTRL_ERROR_NOTE 
-                        "Some elements could not be removed. These can be removed manually."
+                        "一些组件无法被移除。它们可被手动移除。"
 IDS_FINISHCTRL_TEXT2    "点击“完成”关闭安装。"

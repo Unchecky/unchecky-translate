@@ -1,6 +1,6 @@
 IDS_LANGUAGE            "简体中文"
 IDS_IS_RTL              "0"
-IDS_MAIN_WNDTITLE       "Unchecky v%s安装"
+IDS_MAIN_WNDTITLE       "Unchecky 版本%s安装"
 IDS_MAIN_TITLE          "Unchecky"
 IDS_MAIN_SUBTITLE       "保持你的复选框空白"
 IDS_MAIN_MORE_OPTIONS   "更多&选项"
