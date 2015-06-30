@@ -103,7 +103,7 @@ jquery_lang_js.prototype.lang.pt_br = {
 	'What are the system requirements for Unchecky?':
 		'Quais são os requisitos para usar o Unchecky?',
 	'Unchecky supports Windows XP and above.':
-		'O Unchecky supporta o Windows XP e versões superiores.',
+		'O Unchecky suporta o Windows XP e versões superiores.',
 	
 	'My antivirus flags Unchecky as malicious.':
 		'Meu antivírus está acusando o Unchecky.',
@@ -142,7 +142,7 @@ jquery_lang_js.prototype.lang.pt_br = {
 	'Last Name':
 		'Sobrenome',
 	'Email Address':
-		'Endereço email',
+		'Endereço de email',
 	'Subject':
 		'Assunto',
 	'Message':
