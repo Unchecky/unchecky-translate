@@ -113,8 +113,7 @@ jquery_lang_js.prototype.lang.nl = {
 	'What is the best way to report a bug or suggest a feature?':
 		'מה הדרך הטובה ביותר לדווח על תקלות או לבקש הרחבות לאנצ׳קי?',
 	'Post your feedback on the <a href="http://unchecky.userecho.com/">UserEcho page</a>.':
-		'הכנסו לדף הa href="http://unchecky.userecho.com/">
-><UserEcho</a.',
+		'לשליחת זיהון חוזר הכנסו לדף ה<a href="http://unchecky.userecho.com/">UserEcho</a>',
 	
 	'How do I uninstall Unchecky?':
 		'כיצד להסיר את אנצ׳קי?',
