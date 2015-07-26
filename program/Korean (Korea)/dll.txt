@@ -1,0 +1,10 @@
+IDS_CONFIRMATION_TEXT   "당신이 원치 않는 프로그램을 설치하려 합니다. 계속 하시겠습니까?"
+IDS_CONFIRMATION_PROCEED "설치(&P)"
+IDS_CONFIRMATION_DECLINE 
+                        "원치 않는 프로그램 거부(&D) (추천)"
+IDS_CONFIRMATION_YES    "예(&Y)"
+IDS_CONFIRMATION_NO     "아니오(&N) (추천)"
+IDS_CONFIRMATION_OK     "확인"
+IDS_CONFIRMATION_CANCEL "취소 (추천)"
+IDS_CONFIRMATION_MBOX_WARNING 
+                        "Unchecky에서 주의드립니다: 당신은 원치 않는 프로그램 설치를 시도하려고 합니다. 아래 문구를 자세히 보시기 바랍니다."
