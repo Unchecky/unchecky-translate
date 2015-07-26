@@ -149,7 +149,7 @@ jquery_lang_js.prototype.lang.ru = {
 		'Сообщение',
 	'Send':
 		'Отправить',
-		
+	
 	'Please fill in all fields.':
 		'Пожалуйста, заполните все поля.',
 	'Please enter a valid email address.':

@@ -1,4 +1,4 @@
-﻿jquery_lang_js.prototype.lang.ko_kr = {
+jquery_lang_js.prototype.lang.ko_kr = {
 	
 	// Header
 	
