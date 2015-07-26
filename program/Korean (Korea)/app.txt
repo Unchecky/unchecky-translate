@@ -58,7 +58,7 @@ IDS_LOG_EMAIL_YAHOO     "&Yahoo"
 IDS_LOG_EMAIL_CLIENT    "이메일(&E)"
 IDS_SHARE_EMAIL_SUBJECT "Unchecky 프로그램을 추천합니다!"
 IDS_SHARE_EMAIL_MAIN    "안녕하세요!\n\n제가 최근 설치한 이 프로그램을 추천하고자 합니다.\nUnchecky 라고 하는 프로그램인데, 이 프로그램은 설치하는 동안 원치 않는 프로그램의 설치를 막아주는 고마운 프로그램입니다.\n%1 다음 링크를 통해 받아보세요! \nhttp://unchecky.com/?ref=email\n\n감사합니다."
-IDS_SHARE_EMAIL_EXAMPLE "예를 들면, it %1 프로그램이 %2 프로그램을\n"ㄴ
+IDS_SHARE_EMAIL_EXAMPLE "예를 들면, it %1 프로그램이 %2 프로그램을\n"
 IDS_SHARE_EMAIL_PREVENTED "%u 개의 원치 않는 프로그램을 막아줍니다."
 IDS_SHARE_EMAIL_AND     " 그리고 "
 IDS_SHARE_EMAIL_WARNED  "저에게 %u 번 주의를 주었습니다"

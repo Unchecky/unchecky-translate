@@ -1,4 +1,4 @@
-IDS_LANGUAGE            "한국어"
+IDS_LANGUAGE            "한국어"
 IDS_IS_RTL              "0"
 IDS_MAIN_WNDTITLE       "Unchecky v%s 설치"
 IDS_MAIN_TITLE          "Unchecky"

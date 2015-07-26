@@ -1,4 +1,4 @@
-IDS_CONFIRMATION_TEXT   "당신이 원치 않는 프로그램을 설치하려 합니다. 계속 하시겠습니까?"
+IDS_CONFIRMATION_TEXT   "당신이 원치 않는 프로그램을 설치하려 합니다. 계속 하시겠습니까?"
 IDS_CONFIRMATION_PROCEED "설치(&P)"
 IDS_CONFIRMATION_DECLINE 
                         "원치 않는 프로그램 거부(&D) (추천)"
