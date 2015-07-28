@@ -24,7 +24,7 @@ jquery_lang_js.prototype.lang.vi = {
 	// Footer
 	
 	'Copyright © 2015 Reason Company Software Inc.':
-		'Bản quyền © 2015 Reason Company Software Inc. Bản dịch tiếng Việt: <a href="mailto:thanhtai2009@outlook.com?Subject=Unchecky">thanhtai2009@tekcafe.vn</a>, Nguyễn Thanh Tài.',
+		'Bản quyền © 2015 Reason Company Software Inc. Bản dịch tiếng Việt: <a href="mailto:thanhtai2009@outlook.com?Subject=Unchecky">thanhtai2009@tekcafe.vn</a>.',
 	
 	// Legal
 	
@@ -36,7 +36,7 @@ jquery_lang_js.prototype.lang.vi = {
 	// Home
 	
 	'Tired of unchecking unrelated offers while installing software?':
-		'Mệt mỏi vì những đề nghị không liên qua khi cài đặt phần mềm?',
+		'Mệt mỏi vì những đề nghị không liên quan khi cài đặt phần mềm?',
 	'Have you ever felt, while installing software, that the installer tries to push additional unwanted programs at all cost? Ever missed a checkbox, and spent hours afterwards removing adware? Ever opened your browser after an installation, only to find out that you have a new homepage, a new search engine, or even a new browser?<br>Unchecky aims to keep potentially unwanted programs out of your computer.':
 		'Bạn đã bao giờ cảm thấy khi cài đặt phần mềm, nó cố gắng bằng mọi cách cài thêm những chương trình khác? Mỗi khi bỏ quên một mục chọn và phải bỏ ra hàng giờ sau đó để gỡ cài đặt phần mềm quảng cáo? Khi mở trình duyệt sau khi cài đặt, chỉ phát hiện ra một trang chủ mới, một công cụ tìm kiếm mới hoặc ngay cả một trình duyệt mới?<br>Unchecky được thiết kế nhằm giúp bạn tránh khỏi những chương trình không mong muốn xâm nhập máy tính.',
 	'Download':
