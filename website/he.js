@@ -1,13 +1,13 @@
-jquery_lang_js.prototype.lang.nl = {
+jquery_lang_js.prototype.lang.he = {
 	
 	// Header
 	
 	'Home':
 		'בית',
 	'Press':
-		'לחץ',
+		'עיתונות',
 	'FAQ':
-		'FAQ',
+		'שאלות נפוצות',
 	'Changelog':
 		'רשימת שינויים',
 	'Contact':
@@ -24,7 +24,7 @@ jquery_lang_js.prototype.lang.nl = {
 	// Footer
 	
 	'Copyright © 2015 Reason Company Software Inc.':
-		'Copyright © 2015 Reason Company Software Inc. Nederlandse vertaling: <a href="mailto:contact@studio384.be">Studio 384</a>, S. Paternotte.',
+		'Copyright © 2015 Reason Company Software Inc. תורגם על ידי יניב קסלר',
 	
 	// Legal
 	
@@ -65,7 +65,7 @@ jquery_lang_js.prototype.lang.nl = {
 	'Watch Unchecky in action':
 		'צפו באנצ׳קי בפעולה',
 	'<a href="press#quotes">See what people are saying about Unchecky</a> or <a href="press#videos">watch more videos</a>.':
-		'<a href="press#quotes">מה המשתמשים אומרים על אנצ׳קי?</a> of <a href="press#videos">צפו בקטעי וידאו נוספים</a>.',
+		'<a href="press#quotes">מה המשתמשים אומרים על אנצ׳קי?</a> וגם <a href="press#videos">צפו בקטעי וידאו נוספים</a>.',
 	
 	// Press
 	
@@ -74,7 +74,7 @@ jquery_lang_js.prototype.lang.nl = {
 	'Unchecky was also featured on the following international websites:':
 		':אנצ׳קי גם מוזכר בכתבות ברחבי האינטרנט',
 	'on':
-		'כגון',
+	'דרך',
 	'Awards':
 		'פרסים:',
 	
@@ -118,10 +118,9 @@ jquery_lang_js.prototype.lang.nl = {
 	'How do I uninstall Unchecky?':
 		'כיצד להסיר את אנצ׳קי?',
 	'Unchecky can be uninstalled from the Windows Control Panel, like any other program. See instructions for <a href="http://windows.microsoft.com/en-us/windows-8/uninstall-change-program">Windows 8</a>, <a href="http://windows.microsoft.com/en-us/windows/uninstall-change-program#uninstall-change-program=windows-7">Windows 7</a>, <a href="http://windows.microsoft.com/en-us/windows/uninstall-change-program#uninstall-change-program=windows-vista">Windows Vista</a>, or <a href="https://support.microsoft.com/en-us/kb/307895">Windows XP</a>.':
-		'',
-	'במידה וישנה בעיה, יש לנסות את <a href="files/unchecky_cleaner.exe">כלי הניקוי של אנצ׳קי</a>שמתוכנן להסרה של התקנות תקולות של אנצ׳קי.':
-		'',
-	
+		'בדומה לכל תוכנה אחרת גם אנצ׳קי ניתנת להסרה מלוח הבקרה, להנחיות נוספות: <a href="http://windows.microsoft.com/en-us/windows-8/uninstall-change-program">Windows 8</a>, <a href="http://windows.microsoft.com/en-us/windows/uninstall-change-program#uninstall-change-program=windows-7">Windows 7</a>, <a href="http://windows.microsoft.com/en-us/windows/uninstall-change-program#uninstall-change-program=windows-vista">Windows Vista</a>, or <a href="https://support.microsoft.com/en-us/kb/307895">Windows XP</a>.',
+		'If the standard method fails, please try to use the <a href="files/unchecky_cleaner.exe">Unchecky Cleaner Tool</a>, which is designed to uninstall corrupted Unchecky installations.':
+	'במידה וישנה בעיה, יש לנסות את <a href="files/unchecky_cleaner.exe">כלי הניקוי של אנצ׳קי</a>שמתוכנן להסרה של התקנות תקולות של אנצ׳קי.',
 	'I want to translate Unchecky.':
 		'אני רוצה לתרגם את אנצ׳קי.',
 	'The translation files of the Unchecky program and website can be found on the <a href="https://github.com/RaMMicHaeL/unchecky-translate">unchecky-translate</a> GitHub repository.':
