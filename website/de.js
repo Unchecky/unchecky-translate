@@ -24,14 +24,14 @@ jquery_lang_js.prototype.lang.de = {
 	// Footer
 	
 	'Copyright © 2015 Reason Company Software Inc.':
-		'Copyright © 2015 Reason Company Software Inc. Deutsche Übersetzung: <a href="mailto:lechuck@mailueberfall.de?Subject=Unchecky">LeChuck87</a>, Felix Kiunke.',
+		'Copyright © 2015 Reason Company Software Inc. Deutsche Übersetzung: <a href="mailto:lechuck@mailueberfall.de?Subject=Unchecky">LeChuck87</a>, Felix Kiunke, <a href="http://jentzen.org">T. Jentzen.</a>.',
 	
 	// Legal
 	
 	'End-User License Agreement':
-		'',
+		'Endbenutzer-Lizenzvereinbarung',
 	'Privacy Policy':
-		'',
+		'Datenschutz-Bestimmungen',
 	
 	// Home
 	
@@ -76,7 +76,7 @@ jquery_lang_js.prototype.lang.de = {
 	'on':
 		'auf',
 	'Awards':
-		'Preise:',
+		'Auszeichnungen:',
 	
 	'People are showing Unchecky in action':
 		'Unchecky in Aktion',
@@ -116,21 +116,21 @@ jquery_lang_js.prototype.lang.de = {
 		'Schreib uns dein Feedback auf der <a href="http://unchecky.userecho.com/">UserEcho-Seite</a>.',
 	
 	'How do I uninstall Unchecky?':
-		'',
+		'Wie kann ich Unchecky deinstallieren?',
 	'Unchecky can be uninstalled from the Windows Control Panel, like any other program. See instructions for <a href="http://windows.microsoft.com/en-us/windows-8/uninstall-change-program">Windows 8</a>, <a href="http://windows.microsoft.com/en-us/windows/uninstall-change-program#uninstall-change-program=windows-7">Windows 7</a>, <a href="http://windows.microsoft.com/en-us/windows/uninstall-change-program#uninstall-change-program=windows-vista">Windows Vista</a>, or <a href="https://support.microsoft.com/en-us/kb/307895">Windows XP</a>.':
-		'',
+		'Unchecky kann, ebenso wie andere Programme, in der Systemsteuerung deinstalliert werden. Siehe Anleitung für <a href="http://windows.microsoft.com/en-us/windows-8/uninstall-change-program">Windows 8</a>, <a href="http://windows.microsoft.com/en-us/windows/uninstall-change-program#uninstall-change-program=windows-7">Windows 7</a>, <a href="http://windows.microsoft.com/en-us/windows/uninstall-change-program#uninstall-change-program=windows-vista">Windows Vista</a>, or <a href="https://support.microsoft.com/en-us/kb/307895">Windows XP</a>.',
 	'If the standard method fails, please try to use the <a href="files/unchecky_cleaner.exe">Unchecky Cleaner Tool</a>, which is designed to uninstall corrupted Unchecky installations.':
-		'',
+		'Sollte die Standard-Methode nicht funktionieren, nutze das <a href="files/unchecky_cleaner.exe">Unchecky Reinigungs Tool</a>, dieses wurde entwickelt, um defekte Unchecky-Installationen zu entfernen.',
 	
 	'I want to translate Unchecky.':
-		'Ich will Unchecky übersetzen!',
+		'Ich möchte Unchecky übersetzen!',
 	'The translation files of the Unchecky program and website can be found on the <a href="https://github.com/RaMMicHaeL/unchecky-translate">unchecky-translate</a> GitHub repository.':
 		'Die Übersetzungsdateien des Programms sowie der Webseite können im <a href="https://github.com/RaMMicHaeL/unchecky-translate">unchecky-translate</a>-GitHub-Repository gefunden werden.',
 	
 	'Is it possible to install Unchecky silently?':
-		'',
+		'Ist es möglich, Unchecky per Silent-Install zu installieren?',
 	'Yes, run the installer with the <code>-install</code> command line switch. For a list of supported command line switches, run <code>unchecky_setup.exe -?</code>.':
-		'',
+		'Ja, starte den Installer mit <code>-install</code> Kommandozeile. Für eine komplette Liste aller Kommandozeilen-Optionen starte <code>unchecky_setup.exe -?</code>.',
 	
 	// Contact
 	
