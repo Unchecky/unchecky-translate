@@ -2,3 +2,4 @@ IDS_OFFER_REJECTED      "Een mogelijk ongewenst programma is geweigerd!"
 IDS_SOME_OFFERS_REJECTED 
                         "%d mogelijk ongewenste programma's zijn geweigerd!"
 IDS_OFFER_REJECTED_MORE "Klik hier voor meer informatie..."
+IDS_BROWSER_WARNING     "Warning from %s:\nBy accepting this, you may install a program you didn't intend"

@@ -5,5 +5,6 @@ IDS_CONFIRMATION_YES    "&Si (sconsigliato)"
 IDS_CONFIRMATION_NO     "&No"
 IDS_CONFIRMATION_OK     "OK (sconsigliato)"
 IDS_CONFIRMATION_CANCEL "Annulla"
-IDS_CONFIRMATION_MBOX_WARNING 
-                        "ATTENZIONE da Unchecky: Stai per installare un programma potenzialmente non voluto. Per favore leggi attentamente il testo!"
+IDS_CONFIRMATION_MBOX_WARNING "ATTENZIONE da %s: Stai per installare un programma potenzialmente non voluto. Per favore leggi attentamente il testo!"
+IDS_WARNING_TOOLTIP_TITLE "Warning from %s"
+IDS_WARNING_TOOLTIP_TEXT "By clicking this, you may install\na program you didn't intend"

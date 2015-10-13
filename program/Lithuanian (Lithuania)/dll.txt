@@ -1,10 +1,10 @@
 IDS_CONFIRMATION_TEXT   "Jūs ketinate įdiegti potentencialiai nepageidaujamą programą. Ar Jūs tikras, kad norite tęsti?"
 IDS_CONFIRMATION_PROCEED "&Tęsti"
-IDS_CONFIRMATION_DECLINE 
-                        "&Atmesti potenciliai nepageidaujamą pasiūlymą (rekomenduojama)"
+IDS_CONFIRMATION_DECLINE "&Atmesti potenciliai nepageidaujamą pasiūlymą (rekomenduojama)"
 IDS_CONFIRMATION_YES    "&Taip"
 IDS_CONFIRMATION_NO     "&Ne (rekomenduojama)"
 IDS_CONFIRMATION_OK     "OK"
 IDS_CONFIRMATION_CANCEL "Atšaukti (rekomenduojama)"
-IDS_CONFIRMATION_MBOX_WARNING 
-                        "ĮSPĖJIMAS iš Unchecky: Jūsų yra prašoma įdiegti potencialiai nepageidaujamą programą. Atidžiai perskaitykite tekstą žemiau."
+IDS_CONFIRMATION_MBOX_WARNING "ĮSPĖJIMAS iš %s: Jūsų yra prašoma įdiegti potencialiai nepageidaujamą programą. Atidžiai perskaitykite tekstą žemiau."
+IDS_WARNING_TOOLTIP_TITLE "Warning from %s"
+IDS_WARNING_TOOLTIP_TEXT "By clicking this, you may install\na program you didn't intend"

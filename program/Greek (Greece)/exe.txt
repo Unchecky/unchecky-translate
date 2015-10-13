@@ -2,3 +2,4 @@ IDS_OFFER_REJECTED      "Μια προσφορά πιθανώς ανεπιθύμ
 IDS_SOME_OFFERS_REJECTED 
                         "%d προσφορές πιθανώς ανεπιθύμητων προγραμμάτων, έχουν απορριφθεί!"
 IDS_OFFER_REJECTED_MORE "Κάντε κλικ εδώ για περισσότερες λεπτομέρειες..."
+IDS_BROWSER_WARNING     "Warning from %s:\nBy accepting this, you may install a program you didn't intend"

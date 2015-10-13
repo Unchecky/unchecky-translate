@@ -2,3 +2,4 @@ IDS_OFFER_REJECTED      "A oferta de um programa potencialmente indesejado foi 
 IDS_SOME_OFFERS_REJECTED 
                         "%d potencialmente foram rejeitadas as ofertas do programa indesejado!"
 IDS_OFFER_REJECTED_MORE "Clique aqui para mais detalhes..."
+IDS_BROWSER_WARNING     "Warning from %s:\nBy accepting this, you may install a program you didn't intend"

@@ -5,5 +5,6 @@ IDS_CONFIRMATION_YES    "&Jah"
 IDS_CONFIRMATION_NO     "&Ei (soovituslik valik)"
 IDS_CONFIRMATION_OK     "OK"
 IDS_CONFIRMATION_CANCEL "Katkesta (soovituslik valik)"
-IDS_CONFIRMATION_MBOX_WARNING 
-                        "HOIATUS Unchecky'lt: sinult palutakse luba potentsiaalselt soovimatu tarkvara installimiseks. Palun loe järgnevat teksti hoolikalt."
+IDS_CONFIRMATION_MBOX_WARNING "HOIATUS %s'lt: sinult palutakse luba potentsiaalselt soovimatu tarkvara installimiseks. Palun loe järgnevat teksti hoolikalt."
+IDS_WARNING_TOOLTIP_TITLE "Warning from %s"
+IDS_WARNING_TOOLTIP_TEXT "By clicking this, you may install\na program you didn't intend"

@@ -1,10 +1,10 @@
 IDS_CONFIRMATION_TEXT   "Chystáte se nainstalovat potenciálně nevyžádaný program. Jste si jisti, že chcete pokračovat?"
 IDS_CONFIRMATION_PROCEED "&Pokračovat"
-IDS_CONFIRMATION_DECLINE 
-                        "O&dmítnout potenciálně nechtěnou nabídku (doporučeno)"
+IDS_CONFIRMATION_DECLINE "O&dmítnout potenciálně nechtěnou nabídku (doporučeno)"
 IDS_CONFIRMATION_YES    "&Ano"
 IDS_CONFIRMATION_NO     "&Ne (doporučeno)"
 IDS_CONFIRMATION_OK     "OK"
 IDS_CONFIRMATION_CANCEL "Storno (doporučeno)"
-IDS_CONFIRMATION_MBOX_WARNING 
-                        "VAROVÁNÍ programu Unchecky: tento instalátor Vám kromě toho, co slibuje, nabízí také instalaci potenciálně nechtěného programu. Prosím věnujte pozornost následujícímu sdělení."
+IDS_CONFIRMATION_MBOX_WARNING "VAROVÁNÍ programu %s: tento instalátor Vám kromě toho, co slibuje, nabízí také instalaci potenciálně nechtěného programu. Prosím věnujte pozornost následujícímu sdělení."
+IDS_WARNING_TOOLTIP_TITLE "Warning from %s"
+IDS_WARNING_TOOLTIP_TEXT "By clicking this, you may install\na program you didn't intend"

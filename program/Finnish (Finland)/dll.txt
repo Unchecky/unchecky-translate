@@ -5,5 +5,6 @@ IDS_CONFIRMATION_YES    "&Kyllä"
 IDS_CONFIRMATION_NO     "&Ei (suositeltu)"
 IDS_CONFIRMATION_OK     "OK"
 IDS_CONFIRMATION_CANCEL "Peruuta (suositeltu)"
-IDS_CONFIRMATION_MBOX_WARNING 
-                        "VAROITUS Uncheckyltä: Sinua pyydetään asentamaan epätoivottu ohjelma.  Lue alla oleva teksti tarkasti."
+IDS_CONFIRMATION_MBOX_WARNING "VAROITUS %sltä: Sinua pyydetään asentamaan epätoivottu ohjelma.  Lue alla oleva teksti tarkasti."
+IDS_WARNING_TOOLTIP_TITLE "Warning from %s"
+IDS_WARNING_TOOLTIP_TEXT "By clicking this, you may install\na program you didn't intend"

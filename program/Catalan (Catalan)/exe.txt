@@ -2,3 +2,4 @@ IDS_OFFER_REJECTED      "S'ha blocat l'oferta d'una aplicació potencilament per
 IDS_SOME_OFFERS_REJECTED 
                         "S'han rebutjat %d ofertes d'una aplicació potencialment perillosa!"
 IDS_OFFER_REJECTED_MORE "Feu clic aquí per a més informació..."
+IDS_BROWSER_WARNING     "Warning from %s:\nBy accepting this, you may install a program you didn't intend"

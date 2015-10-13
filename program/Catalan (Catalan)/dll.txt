@@ -5,5 +5,6 @@ IDS_CONFIRMATION_YES    "&Sí"
 IDS_CONFIRMATION_NO     "&No (recomanat)"
 IDS_CONFIRMATION_OK     "D'acord"
 IDS_CONFIRMATION_CANCEL "Cancel·la (recomanat)"
-IDS_CONFIRMATION_MBOX_WARNING 
-                        "Missatge d'alerta de l'Unchecky: Si us està demanant instal·lar una aplicació potencialment perillosa. Llegiu atentament el text."
+IDS_CONFIRMATION_MBOX_WARNING "Missatge d'alerta de l'%s: Si us està demanant instal·lar una aplicació potencialment perillosa. Llegiu atentament el text."
+IDS_WARNING_TOOLTIP_TITLE "Warning from %s"
+IDS_WARNING_TOOLTIP_TEXT "By clicking this, you may install\na program you didn't intend"

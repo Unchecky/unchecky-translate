@@ -5,5 +5,6 @@ IDS_CONFIRMATION_YES    "&Evet (önerilmez)"
 IDS_CONFIRMATION_NO     "&Hayır"
 IDS_CONFIRMATION_OK     "Tamam (önerilmez)"
 IDS_CONFIRMATION_CANCEL "İptal"
-IDS_CONFIRMATION_MBOX_WARNING 
-                        "Unchecky'den UYARI: İstenmeyebilecek türden bir program yüklemeniz isteniyor. Aşağıdaki metni lütfen dikkatlice okuyun."
+IDS_CONFIRMATION_MBOX_WARNING "%s'den UYARI: İstenmeyebilecek türden bir program yüklemeniz isteniyor. Aşağıdaki metni lütfen dikkatlice okuyun."
+IDS_WARNING_TOOLTIP_TITLE "Warning from %s"
+IDS_WARNING_TOOLTIP_TEXT "By clicking this, you may install\na program you didn't intend"

@@ -11,8 +11,7 @@ IDS_MAINCTRL_TEXT       "Unchecky에 오신 것을 환영합니다.당신의 컴
 IDS_MAINCTRL_TEXT_SVC_RUNNING "Unchecky 서비스가 정상적으로 동작하고 있습니다."
 IDS_MAINCTRL_TEXT_SVC_STOPPED 
                         "Unchecky 서비스가 중지되었습니다. 컴퓨터가 재시작 한 다음 재개할 수 있습니다."
-IDS_MAINCTRL_TEXT_QUERYERROR 
-                        "Unchecky 서비스 상태를 수집하는 동안 오류가 발생하였습니다."
+IDS_MAINCTRL_TEXT_QUERYERROR "Unchecky 서비스 상태를 수집하는 동안 오류가 발생하였습니다."
 IDS_MAINCTRL_STATS_NONE_NEWGUY 
                         "Unchecky 가 최근 설치된 것으로 보입니다. 보여드릴 정보가 아직 없습니다."
 IDS_MAINCTRL_STATS_NONE "해제할 체크박스가 없습니다. 원치 않는 소프트웨어와 거리가 먼 프로그램을 설치한 것 처럼 보입니다. 잘하셨습니다!"
@@ -23,6 +22,7 @@ IDS_MAINCTRL_STOP       "서비스 중지(&S)"
 IDS_MAINCTRL_START      "서비스 재개(&R)"
 IDS_CONFIG_LANG         "언어(&L):"
 IDS_CONFIG_NO_TRAY_ICON "작업 표시줄 아이콘 표시하지 않기(&I)"
+IDS_CONFIG_NO_WARNING_TOOLTIPS "Don't display warning &tooltips"
 IDS_CONFIG_EMPTY_MESSAGE 
                         "설정 페이지가 좀 썰렁한 것 같습니다. 저도 압니다. 좀 더 많은 사용자 설정이 곧 계획됩니다."
 IDS_CONFIG_ADVANCED     "고급 설정(&V)"
@@ -56,6 +56,8 @@ IDS_SHARE_TWITTER_WARNED "저에게 %u 번 주의를 제공했습니다"
 IDS_LOG_EMAIL_GMAIL     "&Gmail"
 IDS_LOG_EMAIL_YAHOO     "&Yahoo"
 IDS_LOG_EMAIL_CLIENT    "이메일(&E)"
+IDS_LOG_CLEAR_TEXT      "&Clear activity log"
+IDS_LOG_CLEAR_WARNING   "Activity log will be cleared. Are you sure you want to proceed?"
 IDS_SHARE_EMAIL_SUBJECT "Unchecky 프로그램을 추천합니다!"
 IDS_SHARE_EMAIL_MAIN    "안녕하세요!\n\n제가 최근 설치한 이 프로그램을 추천하고자 합니다.\nUnchecky 라고 하는 프로그램인데, 이 프로그램은 설치하는 동안 원치 않는 프로그램의 설치를 막아주는 고마운 프로그램입니다.\n%1 다음 링크를 통해 받아보세요! \nhttp://unchecky.com/?ref=email\n\n감사합니다."
 IDS_SHARE_EMAIL_EXAMPLE "예를 들면, it %1 프로그램이 %2 프로그램을\n"

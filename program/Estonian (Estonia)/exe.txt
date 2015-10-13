@@ -2,3 +2,4 @@ IDS_OFFER_REJECTED      "Potentsiaalselt soovimatu tarkvara pakkumisest keeldut
 IDS_SOME_OFFERS_REJECTED 
                         "%d'st potentsiaalselt soovimatu programmi pakkumisest keelduti!"
 IDS_OFFER_REJECTED_MORE "Rohkema teave saamiseks kliki siia..."
+IDS_BROWSER_WARNING     "Warning from %s:\nBy accepting this, you may install a program you didn't intend"

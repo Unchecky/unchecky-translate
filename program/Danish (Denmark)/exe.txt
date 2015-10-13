@@ -1,3 +1,4 @@
 IDS_OFFER_REJECTED      "Et muligt uønsket program tilbud blev afvist!"
 IDS_SOME_OFFERS_REJECTED "%d muligt uønsket program tilbud blev afvist!"
 IDS_OFFER_REJECTED_MORE "Tryk her for mere information..."
+IDS_BROWSER_WARNING     "Warning from %s:\nBy accepting this, you may install a program you didn't intend"
