@@ -15,7 +15,7 @@ IDS_MAINCTRL_TEXT_QUERYERROR
                         "Ein Fehler ist bei der Statusabfrage des Unchecky-Dienstes aufgetreten."
 IDS_MAINCTRL_STATS_NONE_NEWGUY 
                         "Es sieht so aus, als ob Unchecky gerade erst installiert wurde. Momentan gibt es keine Daten, die angezeigt werden könnten."
-IDS_MAINCTRL_STATS_NONE "Es wurden bisher keine Häkchen entfernt. Anscheinend bleiben Sie von Programmen mit potenziell ungewollte Software fern, gute Arbeit!"
+IDS_MAINCTRL_STATS_NONE "Es wurden bisher keine Häkchen entfernt. Anscheinend bleiben Sie von Programmen mit potenziell ungewollter Software fern, gute Arbeit!"
 IDS_MAINCTRL_STATS      "Seit %s wurden %u Häkchen entfernt%s."
 IDS_MAINCTRL_STATS_WARNING " und %u Warnungen wurden angezeigt"
 IDS_MAINCTRL_LOG        "&Aktivitätsprotokoll"
