@@ -7,7 +7,7 @@ IDS_MAIN_WNDTITLE       "Unchecky"
 IDS_HEADER_MAIN         "&Home"
 IDS_HEADER_CONFIG       "Einstellungen"
 IDS_HEADER_ABOUT        "Über"
-IDS_MAINCTRL_TEXT       "Willkommen bei Unchecky, das Programm, welches potentiell unerwünschte Software von Ihrem Computer fernhält."
+IDS_MAINCTRL_TEXT       "Willkommen bei Unchecky, das Programm, welches potenziell unerwünschte Software von Ihrem Computer fernhält."
 IDS_MAINCTRL_TEXT_SVC_RUNNING "Der Unchecky-Dienst wird ausgeführt."
 IDS_MAINCTRL_TEXT_SVC_STOPPED 
                         "Der Unchecky-Dienst ist deaktiviert. Der Dienst wird nach dem nächsten Neustart des Computers fortgesetzt."
@@ -15,7 +15,7 @@ IDS_MAINCTRL_TEXT_QUERYERROR
                         "Ein Fehler ist bei der Statusabfrage des Unchecky-Dienstes aufgetreten."
 IDS_MAINCTRL_STATS_NONE_NEWGUY 
                         "Es sieht so aus, als ob Unchecky gerade erst installiert wurde. Momentan gibt es keine Daten, die angezeigt werden könnten."
-IDS_MAINCTRL_STATS_NONE "Es wurden bisher keine Häkchen entfernt. Anscheinend bleiben Sie von Programmen mit potentiell unerwünschte Software fern, gute Arbeit!"
+IDS_MAINCTRL_STATS_NONE "Es wurden bisher keine Häkchen entfernt. Anscheinend bleiben Sie von Programmen mit potenziell unerwünschte Software fern, gute Arbeit!"
 IDS_MAINCTRL_STATS      "Seit %s wurden %u Häkchen entfernt%s."
 IDS_MAINCTRL_STATS_WARNING " und %u Warnungen wurden angezeigt"
 IDS_MAINCTRL_LOG        "&Aktivitätsprotokoll"
