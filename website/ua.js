@@ -117,10 +117,8 @@ jquery_lang_js.prototype.lang.ua = {
 	
 	'How do I uninstall Unchecky?':
 		'Як видалити Unchecky?',
-
 	'Unchecky can be uninstalled from the Windows Control Panel, like any other program. See instructions for <a href="http://windows.microsoft.com/en-us/windows-8/uninstall-change-program">Windows 8</a>, <a href="http://windows.microsoft.com/en-us/windows/uninstall-change-program#uninstall-change-program=windows-7">Windows 7</a>, <a href="http://windows.microsoft.com/en-us/windows/uninstall-change-program#uninstall-change-program=windows-vista">Windows Vista</a>, or <a href="https://support.microsoft.com/en-us/kb/307895">Windows XP</a>.':
 		'Unchecky може бути видалений з Панелі керування Windows, як і будь-яка інша програма. Інструкції з видалення для <a href="http://windows.microsoft.com/en-us/windows-8/uninstall-change-program">Windows 8</a>, <a href="http://windows.microsoft.com/en-us/windows/uninstall-change-program#uninstall-change-program=windows-7">Windows 7</a>, <a href="http://windows.microsoft.com/en-us/windows/uninstall-change-program#uninstall-change-program=windows-vista">Windows Vista</a>, or <a href="https://support.microsoft.com/en-us/kb/307895">Windows XP</a>.',
-
 	'If the standard method fails, please try to use the <a href="files/unchecky_cleaner.exe">Unchecky Cleaner Tool</a>, which is designed to uninstall corrupted Unchecky installations.':
 		'Якщо стандартний спосіб не спрацьовує, спробуйте скористатися <a href="files/unchecky_cleaner.exe">Unchecky Cleaner Tool</a>, який був спеціально розроблений для видалення пошкоджених копій Unchecky.',
 	
