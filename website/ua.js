@@ -23,8 +23,8 @@ jquery_lang_js.prototype.lang.ua = {
 	
 	// Footer
 	
-	'Copyright © 2015 <a href="http://rammichael.com/">RaMMicHaeL</a>.':
-		'Copyright © 2015 <a href="http://rammichael.com/">RaMMicHaeL</a>. Переклад: Кравцов Олександр.',
+	'Copyright © 2015 Reason Company Software Inc.':
+		'Усі права застережено © 2015 Reason Company Software Inc. Переклад: Кравцов Олександр.',
 	
 	// Legal
 	
@@ -107,13 +107,22 @@ jquery_lang_js.prototype.lang.ua = {
 	
 	'My antivirus flags Unchecky as malicious.':
 		'Мій антивірус вважає Unchecky шкідливим.',
-	'It\'s a false positive. Please report about it to your antivirus company. Note that Unchecky was tested thoroughly by Softpedia and <a href="http://www.softpedia.com/get/System/OS-Enhancements/Unchecky.shtml#clean">was found 100% clean</a>.':
-		'Це хибна тривога. Будь ласка, сповістіть свою антивірусну компанію. Зверніть увагу, що Unchecky був ретельно перевірений компанією Softpedia і <a href="http://www.softpedia.com/get/System/OS-Enhancements/Unchecky.shtml#clean">визнаний на 100% чистим</a>.',
+	'It\'s a false positive. Please report about it to your antivirus company. Note that Unchecky was tested thoroughly by Softpedia and <a href="http://www.softpedia.com/get/System/OS-Enhancements/Unchecky.shtml">was found 100% clean</a>.':
+		'Це хибна тривога. Будь ласка, сповістіть свою антивірусну компанію. Зверніть увагу, що Unchecky був ретельно перевірений компанією Softpedia і <a href="http://www.softpedia.com/get/System/OS-Enhancements/Unchecky.shtml">визнаний на 100% чистим</a>.',
 	
 	'What is the best way to report a bug or suggest a feature?':
 		'Як найкраще сповістити про помилку або внести пропозицію з розвитку програми?',
 	'Post your feedback on the <a href="http://unchecky.userecho.com/">UserEcho page</a>.':
 		'Напишіть відгук на <a href="http://unchecky.userecho.com/">сторінці форуму UserEcho</a>.',
+	
+	'How do I uninstall Unchecky?':
+		'Як видалити Unchecky?',
+
+	'Unchecky can be uninstalled from the Windows Control Panel, like any other program. See instructions for <a href="http://windows.microsoft.com/en-us/windows-8/uninstall-change-program">Windows 8</a>, <a href="http://windows.microsoft.com/en-us/windows/uninstall-change-program#uninstall-change-program=windows-7">Windows 7</a>, <a href="http://windows.microsoft.com/en-us/windows/uninstall-change-program#uninstall-change-program=windows-vista">Windows Vista</a>, or <a href="https://support.microsoft.com/en-us/kb/307895">Windows XP</a>.':
+		'Unchecky може бути видалений з Панелі керування Windows, як і будь-яка інша програма. Інструкції з видалення для <a href="http://windows.microsoft.com/en-us/windows-8/uninstall-change-program">Windows 8</a>, <a href="http://windows.microsoft.com/en-us/windows/uninstall-change-program#uninstall-change-program=windows-7">Windows 7</a>, <a href="http://windows.microsoft.com/en-us/windows/uninstall-change-program#uninstall-change-program=windows-vista">Windows Vista</a>, or <a href="https://support.microsoft.com/en-us/kb/307895">Windows XP</a>.',
+
+	'If the standard method fails, please try to use the <a href="files/unchecky_cleaner.exe">Unchecky Cleaner Tool</a>, which is designed to uninstall corrupted Unchecky installations.':
+		'Якщо стандартний спосіб не спрацьовує, спробуйте скористатися <a href="files/unchecky_cleaner.exe">Unchecky Cleaner Tool</a>, який був спеціально розроблений для видалення пошкоджених копій Unchecky.',
 	
 	'I want to translate Unchecky.':
 		'Я хочу перекласти Unchecky.',
