@@ -2,4 +2,4 @@ IDS_OFFER_REJECTED      "Une offre de programme potentiellement indésirable a �
 IDS_SOME_OFFERS_REJECTED 
                         "%d programmes potentiellement indésirables ont été rejetés !"
 IDS_OFFER_REJECTED_MORE "Cliquez-ici pour plus de détails ..."
-IDS_BROWSER_WARNING     "Alerte de  %s:\nEn acceptant cela, vous autorisez l'installation d'un programme que vous ne vouliez pas."
+IDS_BROWSER_WARNING     "Alerte de %s:\nEn acceptant cela, vous autorisez l'installation d'un programme que vous ne vouliez pas."
