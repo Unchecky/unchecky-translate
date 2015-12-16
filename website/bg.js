@@ -29,9 +29,9 @@ jquery_lang_js.prototype.lang.bg = {
 	// Legal
 	
 	'End-User License Agreement':
-		'',
+		'Лицензно споразумение',
 	'Privacy Policy':
-		'',
+		'Декларация за поверителност',
 	
 	// Home
 	
@@ -116,11 +116,11 @@ jquery_lang_js.prototype.lang.bg = {
 		'Пишете ни на <a href="http://unchecky.userecho.com/">UserEch страницата</a>.',
 	
 	'How do I uninstall Unchecky?':
-		'',
+		'Как да деинсталирам Unchecky?',
 	'Unchecky can be uninstalled from the Windows Control Panel, like any other program. See instructions for <a href="http://windows.microsoft.com/en-us/windows-8/uninstall-change-program">Windows 8</a>, <a href="http://windows.microsoft.com/en-us/windows/uninstall-change-program#uninstall-change-program=windows-7">Windows 7</a>, <a href="http://windows.microsoft.com/en-us/windows/uninstall-change-program#uninstall-change-program=windows-vista">Windows Vista</a>, or <a href="https://support.microsoft.com/en-us/kb/307895">Windows XP</a>.':
-		'',
+		'Unchecky може да бъде деинсталирана от контролния панел на Windows както всяка друга програма. Вижте инструкции за <a href="http://windows.microsoft.com/en-us/windows-8/uninstall-change-program">Windows 8</a><a href="http://windows.microsoft.com/en-us/windows/uninstall-change-program#uninstall-change-program=windows-7">Windows 7</a>, <a href="http://windows.microsoft.com/en-us/windows/uninstall-change-program#uninstall-change-program=windows-vista">Windows Vista</a> или <a href="https://support.microsoft.com/en-us/kb/307895">Windows XP</a>.',
 	'If the standard method fails, please try to use the <a href="files/unchecky_cleaner.exe">Unchecky Cleaner Tool</a>, which is designed to uninstall corrupted Unchecky installations.':
-		'',
+		'Ако стандартният метод е неуспешен, моля опитайте да използвате <a href="files/unchecky_cleaner.exe">инструмента за почистване на Unchecky</a>, който е проектиран да премахва повредени инсталации на Unchecky.',
 	
 	'I want to translate Unchecky.':
 		'Искам да преведа Unchecky!',
