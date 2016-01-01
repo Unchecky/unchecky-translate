@@ -23,8 +23,8 @@ jquery_lang_js.prototype.lang.zh_cn = {
 	
 	// Footer
 	
-	'Copyright © 2015 Reason Company Software Inc.':
-		'版权所有 © 2015 Reason Company Software Inc。 由 <a href="mailto:jgzll@sina.com">Zhe Zhang翻译</a>。',
+	'Copyright © 2016 Reason Company Software Inc.':
+		'版权所有 © 2016 Reason Company Software Inc。 由 <a href="mailto:jgzll@sina.com">Zhe Zhang翻译</a>。',
 	
 	// Legal
 	

@@ -23,8 +23,8 @@ jquery_lang_js.prototype.lang.de = {
 	
 	// Footer
 	
-	'Copyright © 2015 Reason Company Software Inc.':
-		'Copyright © 2015 Reason Company Software Inc. Deutsche Übersetzung: <a href="mailto:lechuck@mailueberfall.de?Subject=Unchecky">LeChuck87</a>, Felix Kiunke, <a href="http://jentzen.org">T. Jentzen.</a>.',
+	'Copyright © 2016 Reason Company Software Inc.':
+		'Copyright © 2016 Reason Company Software Inc. Deutsche Übersetzung: <a href="mailto:lechuck@mailueberfall.de?Subject=Unchecky">LeChuck87</a>, Felix Kiunke, <a href="http://jentzen.org">T. Jentzen.</a>.',
 	
 	// Legal
 	

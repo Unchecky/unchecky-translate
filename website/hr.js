@@ -23,8 +23,8 @@ jquery_lang_js.prototype.lang.hr = {
 	
 	// Footer
 	
-	'Copyright © 2015 Reason Company Software Inc.':
-		'Copyright © 2015 Reason Company Software Inc. Prijevod: Marko',
+	'Copyright © 2016 Reason Company Software Inc.':
+		'Copyright © 2016 Reason Company Software Inc. Prijevod: Marko',
 	
 	// Legal
 	

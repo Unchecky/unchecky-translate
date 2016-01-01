@@ -23,8 +23,8 @@ jquery_lang_js.prototype.lang.it = {
 	
 	// Footer
 	
-	'Copyright © 2015 Reason Company Software Inc.':
-		'Copyright © 2015 Reason Company Software Inc. Traduzione italiana : <a href="mailto:gianni4592@gmail.com">Gianni Angelozzi</a>',
+	'Copyright © 2016 Reason Company Software Inc.':
+		'Copyright © 2016 Reason Company Software Inc. Traduzione italiana : <a href="mailto:gianni4592@gmail.com">Gianni Angelozzi</a>',
 	
 	// Legal
 	
