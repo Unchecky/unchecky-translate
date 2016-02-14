@@ -24,12 +24,12 @@ jquery_lang_js.prototype.lang.hr = {
 	// Footer
 	
 	'Copyright © 2016 Reason Company Software Inc.':
-		'Copyright © 2016 Reason Company Software Inc. Prijevod: Marko',
+		'Copyright © 2016 Reason Company Software Inc.',
 	
 	// Legal
 	
 	'End-User License Agreement':
-		'Korisnički ugovor',
+		'EULA',
 	'Privacy Policy':
 		'Politika privatnosti',
 	
@@ -113,7 +113,7 @@ jquery_lang_js.prototype.lang.hr = {
 	'What is the best way to report a bug or suggest a feature?':
 		'Koji je najbolji način za prijaviti pogrešku ili predložiti funkciju?',
 	'Post your feedback on the <a href="http://unchecky.userecho.com/">UserEcho page</a>.':
-		'Pošaljite svoj feedback na <a href="http://unchecky.userecho.com/">UserEcho stranicu</a>.',
+		'Pošaljite svoj feedback na <a href="http://unchecky.userecho.com/">UserEcho</a>.',
 	
 	'How do I uninstall Unchecky?':
 		'Kako mogu deinstalirati Unchecky?',
@@ -165,6 +165,6 @@ jquery_lang_js.prototype.lang.hr = {
 		'Nije pronađeno',
 	
 	'Sorry but the page you are looking for cannot be found.':
-		'Isprike ali stranica koju tražite nije pronađena.',
+		'Isprike, ali stranica koju tražite nije pronađena.',
 	
 }
