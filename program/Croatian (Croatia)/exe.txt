@@ -2,4 +2,4 @@ IDS_OFFER_REJECTED      "Ponuda za instalaciju potencijalno neželjenog programa
 IDS_SOME_OFFERS_REJECTED 
                         "%d potencijalno neželjenih programa je odbijeno!"
 IDS_OFFER_REJECTED_MORE "Kliknite ovdje za više informacija..."
-IDS_BROWSER_WARNING     "Warning from %s:\nBy accepting this, you may install a program you didn't intend"
+IDS_BROWSER_WARNING     "Upozorenje iz %s:\nKlikanjem na ovo vjerovatno ćete instalirati program koji niste namjeravali"
