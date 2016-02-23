@@ -29,7 +29,7 @@ IDS_CONFIG_EMPTY_MESSAGE
                         "Trang Thiết lập hiện giờ vẫn chưa có gì. Những tuỳ biến đã được lên kế hoạch trong tương lai."
 IDS_CONFIG_ADVANCED     "Thiết lập nâng ca&o"
 IDS_ABOUT_BETA          "beta"
-IDS_ABOUT_AUTHOR        "© 2015 Reason Company Software Inc. • Được dịch bởi <a href=""mailto:thanhtai2009@outlook.com"">thanhtai2009@tekcafe.vn</a>"
+IDS_ABOUT_AUTHOR        "© 2016 Reason Company Software Inc. • Được dịch bởi <a href=""mailto:thanhtai2009@outlook.com"">thanhtai2009@tekcafe.vn</a>"
 IDS_ABOUT_LINKS         "<a href=""http://unchecky.com/"">Website</a> • <a href=""http://unchecky.userecho.com/"">Theo dõi lỗi/tính năng</a>"
 IDS_ABOUT_LINKS_LEGAL   "<a href=""http://unchecky.com/eula"">Thoả thuận cấp phép với người dùng cuối</a> • <a href=""http://unchecky.com/privacy_policy"">Chính sách riêng tư</a>"
 IDS_ERROR_LINK          "Không thể mở liên kết.\n\nĐể sử dụng liên kết web, bạn cần có một trình duyệt web (ví dụ: Internet Explorer). Để sử dụng liên kết email, bạn cần một phần mềm quản lý email (ví dụ: Windows Live Mail hoặc Outlook)."

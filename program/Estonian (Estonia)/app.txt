@@ -28,7 +28,7 @@ IDS_CONFIG_EMPTY_MESSAGE
                         "Seadete leht tundub hetkel natuke tühi. Me teame seda. Rohkem valikuid on planeeritud tulevikuks."
 IDS_CONFIG_ADVANCED     "Tä&psemad seaded"
 IDS_ABOUT_BETA          "beta"
-IDS_ABOUT_AUTHOR        "© 2015 Reason Company Software Inc. • Tõlkis <a href=""mailto:lauri.sade@ekaitse.ee"">Lauri Säde</a>"
+IDS_ABOUT_AUTHOR        "© 2016 Reason Company Software Inc. • Tõlkis <a href=""mailto:lauri.sade@ekaitse.ee"">Lauri Säde</a>"
 IDS_ABOUT_LINKS         "<a href=""http://unchecky.com/"">Veebileht</a> • <a href=""http://unchecky.userecho.com/"">Vigade/soovituste leht</a>"
 IDS_ABOUT_LINKS_LEGAL   "<a href=""http://unchecky.com/eula"">Lõppkasutaja litsentsileping</a> • <a href=""http://unchecky.com/privacy_policy"">Privaatsuspoliitika</a>"
 IDS_ERROR_LINK          "Lingi avamine nurjus.\n\nLinkide avamiseks peab arvutisse olema paigaldatud brauser (nt Internet Explorer). E-kirja linkide kasutamiseks peab arvutisse olema paigaldatud e-posti klient( nt Windows Live Mail või Outlook)."

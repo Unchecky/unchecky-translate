@@ -27,7 +27,7 @@ IDS_CONFIG_EMPTY_MESSAGE
                         "설정 페이지가 좀 썰렁한 것 같습니다. 저도 압니다. 좀 더 많은 사용자 설정이 곧 계획됩니다."
 IDS_CONFIG_ADVANCED     "고급 설정(&V)"
 IDS_ABOUT_BETA          "베타"
-IDS_ABOUT_AUTHOR        "© 2015 Reason Company Software Inc. • 한국어 번역 <a href=""mailto:ukjinplant@msn.com"">컴포지트</a>"
+IDS_ABOUT_AUTHOR        "© 2016 Reason Company Software Inc. • 한국어 번역 <a href=""mailto:ukjinplant@msn.com"">컴포지트</a>"
 IDS_ABOUT_LINKS         "<a href=""http://unchecky.com/"">웹사이트</a> • <a href=""http://unchecky.userecho.com/"">버그/제안 보고</a>"
 IDS_ABOUT_LINKS_LEGAL   "<a href=""http://unchecky.com/eula"">최종 사용자 계약서</a> • <a href=""http://unchecky.com/privacy_policy"">개인정보보호정책</a>"
 IDS_ERROR_LINK          "링크를 열 수 없습니다.\n\n링크를 열기 위해서는 브라우저가 필요합니다 (예: Internet Explorer). 메일 링크를 열고자 한다면 메일 클라이언트 프로그램이 필요합니다 (예: Windows Live Mail 또는 Outlook)."

@@ -28,7 +28,7 @@ IDS_CONFIG_EMPTY_MESSAGE
                         "Kontrollpanelet føles litt tomt akkurat nå, jeg vet. Flere valgmuligheter kommer i fremtiden."
 IDS_CONFIG_ADVANCED     "Av&anserte instillinger"
 IDS_ABOUT_BETA          "beta"
-IDS_ABOUT_AUTHOR        "© 2015 Reason Company Software Inc. • Oversettelse av <a href=""mailto:alexander@feskenet.com"">Alexander Johansen</a>"
+IDS_ABOUT_AUTHOR        "© 2016 Reason Company Software Inc. • Oversettelse av <a href=""mailto:alexander@feskenet.com"">Alexander Johansen</a>"
 IDS_ABOUT_LINKS         "<a href=""http://unchecky.com/"">Nettside</a> • <a href=""http://unchecky.userecho.com/"">Bug/funksjons-sporer</a>"
 IDS_ABOUT_LINKS_LEGAL   "<a href=""http://unchecky.com/eula"">End-User License Agreement</a> • <a href=""http://unchecky.com/privacy_policy"">Privacy Policy</a>"
 IDS_ERROR_LINK          "Kunne ikke åpne hyperlenke.\n\nFor å bruke weblenker, må du ha en nettleser (eks. Internet Explorer). For å bruke mail-lenker: Må du ha en e-post klient (eks. Windows Live Mail eller Outlook)."
