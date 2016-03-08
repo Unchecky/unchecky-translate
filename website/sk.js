@@ -3,7 +3,7 @@ jquery_lang_js.prototype.lang.sk = {
 	// Header
 	
 	'Home':
-		Domov',
+		'Domov',
 	'Press':
 		'O programe',
 	'FAQ':
@@ -38,7 +38,7 @@ jquery_lang_js.prototype.lang.sk = {
 	'Tired of unchecking unrelated offers while installing software?':
 		'Si unavený z odklikávania nechcených ponúk počas inštalácie sofvéru?',
 	'Have you ever felt, while installing software, that the installer tries to push additional unwanted programs at all cost? Ever missed a checkbox, and spent hours afterwards removing adware? Ever opened your browser after an installation, only to find out that you have a new homepage, a new search engine, or even a new browser?<br>Unchecky aims to keep potentially unwanted programs out of your computer.':
-		'Mal si počas inštalácie programu niekedy pocit, že sa nás inštalačný program za každú cenu snaží donútiť inštalovať ďalšie programy? Neodklikol si checkbox a strávil si hodiny otravným odstraňovaním nezmyselných programov?' Otvoril si po inštalácii prehliadač a zistil si, že máš novú domovskú stránku, nový predvolený vyhľadávač, alebo dokonca nový prehliadač?<br>Unchecky ti pomôže udržať nechcené programy ďaleko od tvojho počítača.':
+		'Mal si počas inštalácie programu niekedy pocit, že sa nás inštalačný program za každú cenu snaží donútiť inštalovať ďalšie programy? Neodklikol si checkbox a strávil si hodiny otravným odstraňovaním nezmyselných programov? Otvoril si po inštalácii prehliadač a zistil si, že máš novú domovskú stránku, nový predvolený vyhľadávač, alebo dokonca nový prehliadač?<br>Unchecky ti pomôže udržať nechcené programy ďaleko od tvojho počítača.',
 	'Download':
 		'Stiahnuť',
 	
