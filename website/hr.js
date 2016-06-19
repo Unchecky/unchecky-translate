@@ -26,7 +26,7 @@ jquery_lang_js.prototype.lang.hr = {
 	// Footer
 
 	'Copyright © 2014 <a href="http://rammichael.com/">RaMMicHaeL</a>.':
-		'Copyright © 2014 <a href="http://rammichael.com/">RaMMicHaeL</a>. Prijevod: Marko',
+		'Copyright © 2014 <a href="http://rammichael.com/">RaMMicHaeL</a>.',
 
 	// Home
 
@@ -103,7 +103,7 @@ jquery_lang_js.prototype.lang.hr = {
 	'My antivirus flags Unchecky as malicious.':
 		'Moj antivirus je označio Unchecky kao virus.',
 	'It\'s a false positive. Please report about it to your antivirus company. Note that Unchecky was tested thoroughly by Softpedia and <a href="http://www.softpedia.com/progClean/Unchecky-Clean-244234.html">was found 100% clean</a>.':
-		'To je pogreška. Molimo Vas da obavijestite antivirusnu kompaniju. Imajte na umu da je Unchecky testiran od strane Softpedie i <a href="http://www.softpedia.com/progClean/Unchecky-Clean-244234.html">100% je siguran</a>.',
+		'To je pogreška. Molimo Vas da obavijestite antivirusnu kompaniju. Imajte na umu da je Unchecky testiran od strane Softpedije i <a href="http://www.softpedia.com/progClean/Unchecky-Clean-244234.html">100% je siguran</a>.',
 
 	'What is the best way to report a bug or suggest a feature?':
 		'Koji je najbolji način za prijaviti pogrešku ili predložiti funkciju?',
