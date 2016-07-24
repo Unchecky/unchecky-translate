@@ -50,8 +50,8 @@ IDS_LOG_SHARE_FACEBOOK  "Κοινοποίηση στο Facebook"
 IDS_LOG_SHARE_TWITTER   "Κοινοποίηση στο Twitter"
 IDS_LOG_SHARE_EMAIL     "Κοινοποίηση με Email"
 IDS_SHARE_TWITTER_GENERIC 
-                        "Το @unchecky_com βοηθάει στην αποφυγή εγκατάστασης πιθανώς ανεπιθύμητων προγραμμάτων στον υπολογιστή σας. Συνιστάται ιδιαίτερα! #anti_pup"
-IDS_SHARE_TWITTER_MAIN  "Κατά την εγκατάσταση του %1, @unchecky_com %2. Συνιστάται ιδιαίτερα! #anti_pup"
+                        "Το @uncheckyreason βοηθάει στην αποφυγή εγκατάστασης πιθανώς ανεπιθύμητων προγραμμάτων στον υπολογιστή σας. Συνιστάται ιδιαίτερα! #anti_pup"
+IDS_SHARE_TWITTER_MAIN  "Κατά την εγκατάσταση του %1, @uncheckyreason %2. Συνιστάται ιδιαίτερα! #anti_pup"
 IDS_SHARE_TWITTER_PREVENTED 
                         "εμποδίστηκαν %u πιθανώς ανεπιθύμητα προγράμματα"
 IDS_SHARE_TWITTER_AND   " και "

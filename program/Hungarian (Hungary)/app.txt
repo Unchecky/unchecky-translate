@@ -49,8 +49,8 @@ IDS_LOG_SHARE_FACEBOOK  "Megosztás a Facebookon"
 IDS_LOG_SHARE_TWITTER   "Megosztás a Twitteren"
 IDS_LOG_SHARE_EMAIL     "Megosztás Email-ben"
 IDS_SHARE_TWITTER_GENERIC 
-                        "@unchecky_com segíti a potenciálisan nemkívánatos programok számítógépére való településének blokkolásában. Feltétlen javasolt! #anti_pup"
-IDS_SHARE_TWITTER_MAIN  "Amikor telepíti a %1-t, @unchecky_com %2. Feltétlen javasolt! #anti_pup"
+                        "@uncheckyreason segíti a potenciálisan nemkívánatos programok számítógépére való településének blokkolásában. Feltétlen javasolt! #anti_pup"
+IDS_SHARE_TWITTER_MAIN  "Amikor telepíti a %1-t, @uncheckyreason %2. Feltétlen javasolt! #anti_pup"
 IDS_SHARE_TWITTER_PREVENTED 
                         "% u potenciálisan szükségtelen program telepítését akadályozta meg"
 IDS_SHARE_TWITTER_AND   " és "

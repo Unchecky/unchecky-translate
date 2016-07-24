@@ -48,8 +48,8 @@ IDS_LOG_SHARE_FACEBOOK  "Podijeli na Facebook"
 IDS_LOG_SHARE_TWITTER   "Podijeli na Twitter"
 IDS_LOG_SHARE_EMAIL     "Podijeli preko Email"
 IDS_SHARE_TWITTER_GENERIC 
-                        "@unchecky_com pomaže spriječiti instalaciju potencijalno neželjenih programa na vaše računalo. Preporuka! #anti_pup"
-IDS_SHARE_TWITTER_MAIN  "Prilikom instalacije %1, @unchecky_com %2. Preporuka! #anti_pup"
+                        "@uncheckyreason pomaže spriječiti instalaciju potencijalno neželjenih programa na vaše računalo. Preporuka! #anti_pup"
+IDS_SHARE_TWITTER_MAIN  "Prilikom instalacije %1, @uncheckyreason %2. Preporuka! #anti_pup"
 IDS_SHARE_TWITTER_PREVENTED 
                         "spriječio %u potencijalno neželjen(ih) program(a)"
 IDS_SHARE_TWITTER_AND   " i "

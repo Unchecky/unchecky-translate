@@ -50,8 +50,8 @@ IDS_LOG_SHARE_FACEBOOK  "Publica al Facebook"
 IDS_LOG_SHARE_TWITTER   "Publica al Twitter"
 IDS_LOG_SHARE_EMAIL     "Comparteix mitjançant el correu electrònic"
 IDS_SHARE_TWITTER_GENERIC 
-                        "@unchecky_com ha evitat la instal·lació d'aplicacions potencialment perilloses i altres elements al meu ordinador; 100% recomanat! #anti_pup"
-IDS_SHARE_TWITTER_MAIN  "En instal·lar %1, @unchecky_com %2. 100% recomanat! #anti_pup"
+                        "@uncheckyreason ha evitat la instal·lació d'aplicacions potencialment perilloses i altres elements al meu ordinador; 100% recomanat! #anti_pup"
+IDS_SHARE_TWITTER_MAIN  "En instal·lar %1, @uncheckyreason %2. 100% recomanat! #anti_pup"
 IDS_SHARE_TWITTER_PREVENTED 
                         "ha evitat %u aplicacions potencialment perilloses"
 IDS_SHARE_TWITTER_AND   " i "

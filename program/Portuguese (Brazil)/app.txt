@@ -50,8 +50,8 @@ IDS_LOG_SHARE_FACEBOOK  "Compartilhar no Facebook"
 IDS_LOG_SHARE_TWITTER   "Compartilhar no Twitter"
 IDS_LOG_SHARE_EMAIL     "Compartilhar por Email"
 IDS_SHARE_TWITTER_GENERIC 
-                        "@unchecky_com ajuda a impedir que programas potencialmente indesejados seja instalado no seu computador. Altamente recomendado! #anti_pup"
-IDS_SHARE_TWITTER_MAIN  "Ao instalar %1, @unchecky_com %2. Altamente recomendado! #anti_pup"
+                        "@uncheckyreason ajuda a impedir que programas potencialmente indesejados seja instalado no seu computador. Altamente recomendado! #anti_pup"
+IDS_SHARE_TWITTER_MAIN  "Ao instalar %1, @uncheckyreason %2. Altamente recomendado! #anti_pup"
 IDS_SHARE_TWITTER_PREVENTED 
                         "impediu %u programas potencialmente indesejados"
 IDS_SHARE_TWITTER_AND   " and "
