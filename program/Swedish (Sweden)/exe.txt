@@ -1,5 +1,5 @@
-IDS_OFFER_REJECTED      "A potentially unwanted program offer was rejected!"
+IDS_OFFER_REJECTED      "Ett potentiellt oönskat program-erbjudande nekades!"
 IDS_SOME_OFFERS_REJECTED 
-                        "%d potentially unwanted program offers were rejected!"
-IDS_OFFER_REJECTED_MORE "Click here for more details..."
-IDS_BROWSER_WARNING     "Warning from %s:\nBy accepting this, you may install a program you didn't intend"
+                        "%d potentiellt oönskade program-erbjudanden nekades!"
+IDS_OFFER_REJECTED_MORE "Klicka här för mer detaljer..."
+IDS_BROWSER_WARNING     "Varning från %s:\nGenom att acceptera detta, så kan du installera ett program du inte tänkt dig"
