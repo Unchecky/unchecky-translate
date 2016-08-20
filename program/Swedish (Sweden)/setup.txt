@@ -14,7 +14,7 @@ IDS_EXTRACTRL_TEXT      "Unchecky installeras i följande mapp. För att install
 IDS_EXTRACTRL_FOLDER_GROUP "&Installationsmapp"
 IDS_EXTRACTRL_FOLDER_BROWSE "&Bläddra..."
 IDS_EXTRACTRL_BROWSE_TEXT "Välj den mapp där Unchecky ska installeras:"
-IDS_FINISHCTRL_TITLE    "Tjänsten är igång"
+IDS_FINISHCTRL_TITLE    "Gratulerar! Unchecky har installerats på din dator.\n\nUnckecky-tjänsten kommer kontinuerligt köras i bakgrunden, och bevaka dina installationer. Du kan starta Unchecky när som helst från skrivbordsgenvägen för att se hur många kryssrutor som urkryssats."
 IDS_FINISHCTRL_TEXT     "Unchecky har installerats på din dator.\n\nKlicka på Slutför för att slutföra installationen."
 IDS_MAIN_ERROR_UNCHECKY_RUNNING 
                         "Stäng alla öppna instanser av Unchecky innan du fortsätter"
