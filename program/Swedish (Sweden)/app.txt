@@ -10,7 +10,7 @@ IDS_HEADER_ABOUT        "&Om"
 IDS_MAINCTRL_TEXT       "Välkommen till Unchecky, programmet som försöker hålla din dator fri från oönskade program."
 IDS_MAINCTRL_TEXT_SVC_RUNNING "Unckecky-tjänsten körs."
 IDS_MAINCTRL_TEXT_SVC_STOPPED 
-                        "Unckecky-tjänsten är stoppad. Tjänsten kommer återupptas vid omstart av datorn."
+                        "Unchecky-tjänsten är stoppad. Tjänsten kommer återupptas vid omstart av datorn."
 IDS_MAINCTRL_TEXT_QUERYERROR 
                         "Ett fel uppstod när Unchecky-tjänstens status kontrollerades."
 IDS_MAINCTRL_STATS_NONE_NEWGUY 
