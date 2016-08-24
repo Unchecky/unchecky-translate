@@ -29,9 +29,9 @@ jquery_lang_js.prototype.lang.se = {
 	// Legal
 	
 	'End-User License Agreement':
-		'',
+		'Licensavtal för slutanvändare',
 	'Privacy Policy':
-		'',
+		'Sekretesspolicy',
 	
 	// Home
 	
@@ -108,7 +108,7 @@ jquery_lang_js.prototype.lang.se = {
 	'My antivirus flags Unchecky as malicious.':
 		'Mitt antivirusprogram flaggar Unchecky som skadligt',
 	'It\'s a false positive. Please report about it to your antivirus company. Note that Unchecky was tested thoroughly by Softpedia and <a href="http://www.softpedia.com/get/System/OS-Enhancements/Unchecky.shtml">was found 100% clean</a>.':
-		'Det är en falsk positiv. Var vänlig rapportera om det till ditt antivirusföretag. Notera att Unchekcy genomgående testats av Softpedia och <a href="http://www.softpedia.com/get/System/OS-Enhancements/Unchecky.shtml">konstaterades vara 100% rent</a>',
+		'Det är en falsk positiv. Var vänlig rapportera om det till ditt antivirusföretag. Notera att Unchecky genomgående testats av Softpedia och <a href="http://www.softpedia.com/get/System/OS-Enhancements/Unchecky.shtml">konstaterades vara 100% rent</a>',
 	
 	'What is the best way to report a bug or suggest a feature?':
 		'Hur rapporterar jag enklast buggar och föreslår funktioner?',
@@ -116,11 +116,11 @@ jquery_lang_js.prototype.lang.se = {
 		'Skicka in din feedback genom vår sida på <a href="http://unchecky.userecho.com/">UserEcho</a>',
 	
 	'How do I uninstall Unchecky?':
-		'',
+		'Hur avinstallerar jag Unchecky?',
 	'Unchecky can be uninstalled from the Windows Control Panel, like any other program. See instructions for <a href="http://windows.microsoft.com/en-us/windows-8/uninstall-change-program">Windows 8</a>, <a href="http://windows.microsoft.com/en-us/windows/uninstall-change-program#uninstall-change-program=windows-7">Windows 7</a>, <a href="http://windows.microsoft.com/en-us/windows/uninstall-change-program#uninstall-change-program=windows-vista">Windows Vista</a>, or <a href="https://support.microsoft.com/en-us/kb/307895">Windows XP</a>.':
-		'',
+		'Unchecky kan avinstalleras från Windows Kontrollpanel, som vilket annat program som helst. Här finns instruktioner för <a href="http://windows.microsoft.com/en-us/windows-8/uninstall-change-program">Windows 8</a>, <a href="http://windows.microsoft.com/en-us/windows/uninstall-change-program#uninstall-change-program=windows-7">Windows 7</a>, <a href="http://windows.microsoft.com/en-us/windows/uninstall-change-program#uninstall-change-program=windows-vista">Windows Vista</a>, eller <a href="https://support.microsoft.com/en-us/kb/307895">Windows XP</a>.',
 	'If the standard method fails, please try to use the <a href="files/unchecky_cleaner.exe">Unchecky Cleaner Tool</a>, which is designed to uninstall corrupted Unchecky installations.':
-		'',
+		'Om standardmetoden inte fungerar, försök att använda <a href="files/unchecky_cleaner.exe">Unchecky Cleaner Tool</a>, som är designat för att avinstallera korrupta Unchecky-installationer.',
 	
 	'I want to translate Unchecky.':
 		'Jag vill översätta Unchecky.',
@@ -128,9 +128,9 @@ jquery_lang_js.prototype.lang.se = {
 		'Översättningsfilerna för Uncheckys mjukvara och webbsida kan hittas på Github: <a href="https://github.com/RaMMicHaeL/unchecky-translate">unchecky-translate</a>',
 	
 	'Is it possible to install Unchecky silently?':
-		'',
+		'Är det möjlight att tyst installera Unchecky?',
 	'Yes, run the installer with the <code>-install</code> command line switch. For a list of supported command line switches, run <code>unchecky_setup.exe -?</code>.':
-		'',
+		'Ja, kör installern med parametern <code>-install</code>. För en lista av tillgängliga parametrar, kör <code>unchecky_setup.exe -?</code>.',
 	
 	// Contact
 	
