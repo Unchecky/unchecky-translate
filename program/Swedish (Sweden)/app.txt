@@ -62,6 +62,6 @@ IDS_LOG_CLEAR_WARNING   "Aktivitetsloggen kommer rensas. Är du säker på att d
 IDS_SHARE_EMAIL_SUBJECT "Programrekommendation: Unchecky"
 IDS_SHARE_EMAIL_MAIN    "Hej!\n\nJag vill rekommendera ett program jag precis hittat.\nDet heter Unchecky och hjälper dig att hindra potentiellt oönskade program från att installeras på din dator.\n%1Du kan få tag på det här:\nhttp://unchecky.com/?ref=email\n\nTa hand om dig!."
 IDS_SHARE_EMAIL_EXAMPLE "Till exempel, det %1 medans jag installerade: %2.\n"
-IDS_SHARE_EMAIL_PREVENTED "hindrade %u potentiellt önskade program"
+IDS_SHARE_EMAIL_PREVENTED "hindrade %u potentiellt oönskade program"
 IDS_SHARE_EMAIL_AND     " och "
 IDS_SHARE_EMAIL_WARNED  "varnade mig om %u erbjudanden"
