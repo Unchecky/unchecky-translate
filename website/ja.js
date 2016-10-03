@@ -11,7 +11,7 @@
 	'Changelog':
 		'更新履歴',
 	'Contact':
-		'お問い合わせ',
+		'お問合せ',
 	'Links':
 		'リンク',
 	'Bug/feature tracker':
@@ -24,21 +24,21 @@
 	// Footer
 	
 	'Copyright © 2016 Reason Company Software Inc.':
-		'Copyright © 2016 Reason Company Software Inc. 日本語訳： <a href="mailto:milksizegene@japan-secure.com">milksizegene</a>',
+		'Copyright © 2016 Reason Company Software Inc. 日本語訳： <a href="http://www.japan-secure.com/">milksizegene</a>',
 	
 	// Legal
 	
 	'End-User License Agreement':
-		'エンドユーザー向け使用許諾契約',
+		'エンドユーザーライセンス契約',
 	'Privacy Policy':
 		'プライバシーポリシー',
 	
 	// Home
 	
 	'Tired of unchecking unrelated offers while installing software?':
-		'ソフトのインストール中、無関係なチェックを外すのにうんざりしませんか？',
+		'ソフトウェアをインストールする際に無関係なオファーのチェックボックスのチェックを外すことにうんざりしませんか？',
 	'Have you ever felt, while installing software, that the installer tries to push additional unwanted programs at all cost? Ever missed a checkbox, and spent hours afterwards removing adware? Ever opened your browser after an installation, only to find out that you have a new homepage, a new search engine, or even a new browser?<br>Unchecky aims to keep potentially unwanted programs out of your computer.':
-		'ソフトウェアのインストール中、付いてくる不要なソフトのチェックを外してインストールするのを煩わしく感じたことはありませんか？ チェックを外し忘れ、あとからアドウェアの削除に時間はかかりませんでしたか？ソフトウェアのインストール後、ブラウザを開いたらホームページ等が変えられていたことはありませんか？<br>Uncheckyはお使いのコンピューターに、不要なソフトウェアを導入させないことを目指しています。',
+		'ソフトウェアをインストールする際に不要なプログラムのチェックボックスのチェックを外しつつインストールすることを煩わしく感じませんか？またチェックボックスのチェックを外し忘れたために、その後にアドウェアを削除する時間を費やしたことはないですか？さらにソフトウェアをインストールしてから、お使いのブラウザ実行する際に、ブラウザ設定が勝手に変更されたということはありませんか？<br>Uncheckyはお使いのコンピューターに、不要なプログラムを導入させないことを目指しています。',
 	'Download':
 		'ダウンロード',
 	
@@ -157,7 +157,7 @@
 	'Could not complete your request.':
 		'リクエストを完了できませんでした。',
 	'The message has been sent successfully.':
-		'メッセージは正常に送信されました。',
+		'メッセージを正常に送信しました。',
 	
 	// 404
 	
