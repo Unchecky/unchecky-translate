@@ -10,6 +10,6 @@ IDS_MAIN_ERROR_UNCHECKY_RUNNING "続行する前にUncheckyのすべてのイン
 IDS_MAINCTRL_TEXT       "Uncheckyは次のフォルダからアンインストールされます。[アンインストール]をクリックするとアンインストール作業を開始します。"
 IDS_MAINCTRL_PATHTEXT   "アンインストール中："
 IDS_MAINCTRL_REMOVE_SETTINGS "保存された設定を削除する(&S)"
-IDS_FINISHCTRL_TEXT1    "Uncheckyがコンピューターから削除されました。"
+IDS_FINISHCTRL_TEXT1    "Uncheckyをお使いのコンピューターから削除しました。"
 IDS_FINISHCTRL_ERROR_NOTE "いくつかの要素を削除することができませんでした。これらは手動で削除することができます。"
 IDS_FINISHCTRL_TEXT2    "[終了]をクリックするとセットアップ画面を閉じます。"
