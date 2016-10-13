@@ -83,42 +83,20 @@ jquery_lang_js.prototype.lang.ca = {
 	'Demonstrating Unchecky':
 		'L\'Unchecky en acció',
 	
-	'German':
-		'Alemany',
-	'English':
-		'Anglès',
-	'Bulgarian':
-		'Búlgar',
-	'Catalan':
-		'Català',
-	'Danish':
-		'Danès',
-	'Slovenian':
-		'Eslovè',
-	'Spanish':
-		'Espanyol',
-	'French':
-		'Francès',
-	'Italian':
-		'Italià',
-	'Japanese':
-		'Japonès',
-	'Dutch':
-		'Neerlandès',
-	'Norwegian':
-		'Noruec',
-	'Polish':
-		'Polonès',
 	'Portuguese':
 		'Portuguès',
+	'Polish':
+		'Polonès',
 	'Russian':
 		'Rus',
-	'Swedish':
-		'Suec',
-	'Turkish':
-		'Turc',
-	'Chinese':
-		'Xinès',
+	'Spanish':
+		'Espanyol',
+	'Italian':
+		'Italià',
+	'French':
+		'Francès',
+	'German':
+		'Alemany',
 	
 	// FAQ
 	
