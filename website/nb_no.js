@@ -23,7 +23,7 @@ jquery_lang_js.prototype.lang.nb_no = {
 	
 	// Footer
 	
-	'Copyright © 2015 <a href="http://rammichael.com/">RaMMicHaeL</a>.':
+	'Copyright © 2016 Reason Company Software Inc.':
 		'Copyright © 2016 Reason Company Software Inc. Norsk oversettelse: <a href="mailto:alexander@feskenet.com?Subject=Unchecky">Alexander Johansen</a> og <a href="mailto:imreeil42@gmail.com?Subject=Unchecky">Imre Kristoffer Eilertsen</a>',
 	
 	// Legal
@@ -115,12 +115,12 @@ jquery_lang_js.prototype.lang.nb_no = {
 	'Post your feedback on the <a href="http://unchecky.userecho.com/">UserEcho page</a>.':
 		'Send dine tilbakemeldinger på <a href="http://unchecky.userecho.com/">UserEcho</a>-sidene.',
 	
-	 'How do I uninstall Unchecky?':
+	'How do I uninstall Unchecky?':
 		'Hvordan avinstallerer jeg Unchecky?',
 	'Unchecky can be uninstalled from the Windows Control Panel, like any other program. See instructions for <a href="http://windows.microsoft.com/en-us/windows-8/uninstall-change-program">Windows 8</a>, <a href="http://windows.microsoft.com/en-us/windows/uninstall-change-program#uninstall-change-program=windows-7">Windows 7</a>, <a href="http://windows.microsoft.com/en-us/windows/uninstall-change-program#uninstall-change-program=windows-vista">Windows Vista</a>, or <a href="https://support.microsoft.com/en-us/kb/307895">Windows XP</a>.':
-	        'Unchecky kan bli avinstallert gjennom Windows Kontrollpanel, som et ethvert annet program. Se instruksene for å gjøre dette under for <a href="https://support.microsoft.com/nb-no/help/12425/windows-10-free-up-drive-space">Windows 10</a> ("Avinstallere apper du ikke bruker lenger"), <a href="https://support.microsoft.com/nb-no/help/17421/windows-free-up-drive-space">Windows 8, Windows 7</a> ("Avinstallere skrivebordsapper du ikke trenger lenger"), <a href="http://windows.microsoft.com/nb-no/windows/uninstall-change-program#uninstall-change-program=windows-vista">Windows Vista</a>, eller <a href="https://support.microsoft.com/nb-no/kb/307895">Windows XP</a>.',
-        'If the standard method fails, please try to use the <a href="files/unchecky_cleaner.exe">Unchecky Cleaner Tool</a>, which is designed to uninstall corrupted Unchecky installations.':,
-	        'Hvis den vanlige metoden mislykkes, bør du da prøve <a href="files/unchecky_cleaner.exe">Unchecky Cleaner Tool</a>, som er skreddersydd for å avinstallere korrumperte Unchecky-installasjoner.',
+		'Unchecky kan bli avinstallert gjennom Windows Kontrollpanel, som et ethvert annet program. Se instruksene for å gjøre dette under for <a href="https://support.microsoft.com/nb-no/help/12425/windows-10-free-up-drive-space">Windows 10</a> ("Avinstallere apper du ikke bruker lenger"), <a href="https://support.microsoft.com/nb-no/help/17421/windows-free-up-drive-space">Windows 8, Windows 7</a> ("Avinstallere skrivebordsapper du ikke trenger lenger"), <a href="http://windows.microsoft.com/nb-no/windows/uninstall-change-program#uninstall-change-program=windows-vista">Windows Vista</a>, eller <a href="https://support.microsoft.com/nb-no/kb/307895">Windows XP</a>.',
+	'If the standard method fails, please try to use the <a href="files/unchecky_cleaner.exe">Unchecky Cleaner Tool</a>, which is designed to uninstall corrupted Unchecky installations.':
+		'Hvis den vanlige metoden mislykkes, bør du da prøve <a href="files/unchecky_cleaner.exe">Unchecky Cleaner Tool</a>, som er skreddersydd for å avinstallere korrumperte Unchecky-installasjoner.',
 	
 	'I want to translate Unchecky.':
 		'Jeg ønsker å oversette Unchecky.',
@@ -130,7 +130,7 @@ jquery_lang_js.prototype.lang.nb_no = {
 	'Is it possible to install Unchecky silently?':
 		'Er det mulig å installere Unchecky på et usynlig vis?',
 	'Yes, run the installer with the <code>-install</code> command line switch. For a list of supported command line switches, run <code>unchecky_setup.exe -?</code>.':
-	        'Ja, du kan kjøre veiviseren gjennom <code>-install</code>-tjenesten i kommandolinjen. For en liste over støttede kommandolinjetjenester, kjør <code>unchecky_setup.exe -?</code>.',
+		'Ja, du kan kjøre veiviseren gjennom <code>-install</code>-tjenesten i kommandolinjen. For en liste over støttede kommandolinjetjenester, kjør <code>unchecky_setup.exe -?</code>.',
 	
 	// Contact
 	
