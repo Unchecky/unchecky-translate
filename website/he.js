@@ -149,7 +149,7 @@ jquery_lang_js.prototype.lang.he = {
 		'תוכן ההודעה',
 	'Send':
 		'שליחה',
-		
+	
 	'Please fill in all fields.':
 		'יש למלא את כל השדות',
 	'Please enter a valid email address.':

@@ -149,7 +149,7 @@ jquery_lang_js.prototype.lang.sk = {
 		'Správa',
 	'Send':
 		'Pošli',
-		
+	
 	'Please fill in all fields.':
 		'Prosím, vypíšte všetky riadky formulára.',
 	'Please enter a valid email address.':

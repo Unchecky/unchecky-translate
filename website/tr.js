@@ -149,7 +149,7 @@ jquery_lang_js.prototype.lang.tr = {
 		'Mesaj',
 	'Send':
 		'Gönder',
-		
+	
 	'Please fill in all fields.':
 		'Lütfen tüm alanları doldurun.',
 	'Please enter a valid email address.':

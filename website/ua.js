@@ -149,7 +149,7 @@ jquery_lang_js.prototype.lang.ua = {
 		'Повідомлення',
 	'Send':
 		'Надіслати',
-		
+	
 	'Please fill in all fields.':
 		'Будь ласка, заповніть всі поля.',
 	'Please enter a valid email address.':

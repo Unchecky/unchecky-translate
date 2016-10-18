@@ -149,7 +149,7 @@ jquery_lang_js.prototype.lang.cs = {
 		'Vzkaz',
 	'Send':
 		'Odeslat',
-		
+	
 	'Please fill in all fields.':
 		'Vyplňte prosím všechna pole!',
 	'Please enter a valid email address.':

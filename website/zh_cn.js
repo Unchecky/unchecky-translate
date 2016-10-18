@@ -149,7 +149,7 @@ jquery_lang_js.prototype.lang.zh_cn = {
 		'消息',
 	'Send':
 		'发送',
-		
+	
 	'Please fill in all fields.':
 		'请填写所有字段。',
 	'Please enter a valid email address.':

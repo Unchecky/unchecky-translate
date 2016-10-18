@@ -149,7 +149,7 @@ jquery_lang_js.prototype.lang.lt = {
 		'Žinutė',
 	'Send':
 		'Siųsti',
-		
+	
 	'Please fill in all fields.':
 		'Visi laukai turi būti užpildyti!',
 	'Please enter a valid email address.':

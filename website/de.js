@@ -149,7 +149,7 @@ jquery_lang_js.prototype.lang.de = {
 		'Nachricht',
 	'Send':
 		'Senden',
-		
+	
 	'Please fill in all fields.':
 		'Bitte fülle alle Felder aus!',
 	'Please enter a valid email address.':

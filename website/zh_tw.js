@@ -149,7 +149,7 @@ jquery_lang_js.prototype.lang.zh_tw = {
 		'訊息',
 	'Send':
 		'傳送',
-		
+	
 	'Please fill in all fields.':
 		'請填寫所有的項目。',
 	'Please enter a valid email address.':

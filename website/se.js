@@ -149,7 +149,7 @@ jquery_lang_js.prototype.lang.se = {
 		'Meddelande',
 	'Send':
 		'Skicka',
-		
+	
 	'Please fill in all fields.':
 		'Fyll i samtliga fält.',
 	'Please enter a valid email address.':

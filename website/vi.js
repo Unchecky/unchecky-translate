@@ -149,7 +149,7 @@ jquery_lang_js.prototype.lang.vi = {
 		'Nội dung',
 	'Send':
 		'Gửi',
-		
+	
 	'Please fill in all fields.':
 		'Hãy điền tất cả các trường!',
 	'Please enter a valid email address.':

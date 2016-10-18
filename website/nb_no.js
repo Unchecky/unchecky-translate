@@ -149,7 +149,7 @@ jquery_lang_js.prototype.lang.nb_no = {
 		'Melding',
 	'Send':
 		'Send',
-		
+	
 	'Please fill in all fields.':
 		'Vennligst fyll ut alle feltene.',
 	'Please enter a valid email address.':

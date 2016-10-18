@@ -97,7 +97,7 @@ jquery_lang_js.prototype.lang.bg = {
 		'френски',
 	'German':
 		'немски',
-		
+	
 	// FAQ
 	
 	'What are the system requirements for Unchecky?':
@@ -149,7 +149,7 @@ jquery_lang_js.prototype.lang.bg = {
 		'Съобщение',
 	'Send':
 		'Изпрати',
-		
+	
 	'Please fill in all fields.':
 		'Моля, попълнете всички полета!',
 	'Please enter a valid email address.':

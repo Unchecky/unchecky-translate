@@ -149,7 +149,7 @@ jquery_lang_js.prototype.lang.nl = {
 		'Bericht',
 	'Send':
 		'Verzenden',
-		
+	
 	'Please fill in all fields.':
 		'Vul alle velden in',
 	'Please enter a valid email address.':
