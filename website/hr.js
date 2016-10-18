@@ -107,8 +107,8 @@ jquery_lang_js.prototype.lang.hr = {
 	
 	'My antivirus flags Unchecky as malicious.':
 		'Moj antivirus je označio Unchecky kao virus.',
-	'It\'s a false positive. Please report about it to your antivirus company. Note that Unchecky was tested thoroughly by Softpedia and <a href="http://www.softpedia.com/get/System/OS-Enhancements/Unchecky.shtml">was found 100% clean</a>.':
-		'To je pogreška. Molimo Vas da obavijestite antivirusnu kompaniju. Imajte na umu da je Unchecky testiran od strane Softpedije i <a href="http://www.softpedia.com/get/System/OS-Enhancements/Unchecky.shtml">100% je siguran</a>.',
+	'It\'s a false positive. Please report about it to your antivirus company. Note that Unchecky was tested thoroughly by Softpedia and <a href="http://www.softpedia.com/get/System/OS-Enhancements/Unchecky.shtml#status">was found 100% clean</a>.':
+		'To je pogreška. Molimo Vas da obavijestite antivirusnu kompaniju. Imajte na umu da je Unchecky testiran od strane Softpedije i <a href="http://www.softpedia.com/get/System/OS-Enhancements/Unchecky.shtml#status">100% je siguran</a>.',
 	
 	'What is the best way to report a bug or suggest a feature?':
 		'Koji je najbolji način za prijaviti pogrešku ili predložiti funkciju?',
@@ -124,8 +124,8 @@ jquery_lang_js.prototype.lang.hr = {
 	
 	'I want to translate Unchecky.':
 		'Želim prevesti Unchecky na svoj jezik.',
-	'The translation files of the Unchecky program and website can be found on the <a href="https://github.com/RaMMicHaeL/unchecky-translate">unchecky-translate</a> GitHub repository.':
-		'Datoteke za prevođenje nalaze se na GitHub-u <a href="https://github.com/RaMMicHaeL/unchecky-translate">unchecky-translate</a>.',
+	'The translation files of the Unchecky program and website can be found on the <a href="https://github.com/unchecky/unchecky-translate">unchecky-translate</a> GitHub repository.':
+		'Datoteke za prevođenje nalaze se na GitHub-u <a href="https://github.com/unchecky/unchecky-translate">unchecky-translate</a>.',
 	
 	'Is it possible to install Unchecky silently?':
 		'Je li moguće potiho instalirati Unchecky?',

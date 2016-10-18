@@ -107,8 +107,8 @@ jquery_lang_js.prototype.lang.bg = {
 	
 	'My antivirus flags Unchecky as malicious.':
 		'Моята антивирусна засича Unchecky като заплаха.',
-	'It\'s a false positive. Please report about it to your antivirus company. Note that Unchecky was tested thoroughly by Softpedia and <a href="http://www.softpedia.com/get/System/OS-Enhancements/Unchecky.shtml">was found 100% clean</a>.':
-		'Това е фалшива тревога. Моля, докладвайте това на компанията автор на Вашата антивирусна програма. Unchecky е тествана обстойно от Softpedia и <a href="http://www.softpedia.com/get/System/OS-Enhancements/Unchecky.shtml">е 100% чиста</a>.',
+	'It\'s a false positive. Please report about it to your antivirus company. Note that Unchecky was tested thoroughly by Softpedia and <a href="http://www.softpedia.com/get/System/OS-Enhancements/Unchecky.shtml#status">was found 100% clean</a>.':
+		'Това е фалшива тревога. Моля, докладвайте това на компанията автор на Вашата антивирусна програма. Unchecky е тествана обстойно от Softpedia и <a href="http://www.softpedia.com/get/System/OS-Enhancements/Unchecky.shtml#status">е 100% чиста</a>.',
 	
 	'What is the best way to report a bug or suggest a feature?':
 		'Какъв е най-добрият начин за докладване на проблем или за изискване на нова функция?',
@@ -124,8 +124,8 @@ jquery_lang_js.prototype.lang.bg = {
 	
 	'I want to translate Unchecky.':
 		'Искам да преведа Unchecky!',
-	'The translation files of the Unchecky program and website can be found on the <a href="https://github.com/RaMMicHaeL/unchecky-translate">unchecky-translate</a> GitHub repository.':
-		'Файловете за превод на самата програма и сайта на Unchecky могат да бъдат открити в <a href="https://github.com/RaMMicHaeL/unchecky-translate">unchecky-translate</a> GitHub хранилището.',
+	'The translation files of the Unchecky program and website can be found on the <a href="https://github.com/unchecky/unchecky-translate">unchecky-translate</a> GitHub repository.':
+		'Файловете за превод на самата програма и сайта на Unchecky могат да бъдат открити в <a href="https://github.com/unchecky/unchecky-translate">unchecky-translate</a> GitHub хранилището.',
 	
 	'Is it possible to install Unchecky silently?':
 		'Възможно ли е да инсталирам Unchecky в тих режим?',

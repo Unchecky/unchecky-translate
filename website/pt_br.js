@@ -107,8 +107,8 @@ jquery_lang_js.prototype.lang.pt_br = {
 	
 	'My antivirus flags Unchecky as malicious.':
 		'Meu antivírus está acusando o Unchecky.',
-	'It\'s a false positive. Please report about it to your antivirus company. Note that Unchecky was tested thoroughly by Softpedia and <a href="http://www.softpedia.com/get/System/OS-Enhancements/Unchecky.shtml">was found 100% clean</a>.':
-		'É um falso-positivo. Por favor avise a empresa do antivírus. Note que o Unchecky foi firmemnte testado pela Softpedia e <a href="http://www.softpedia.com/get/System/OS-Enhancements/Unchecky.shtml">estava 100% limpo</a>.',
+	'It\'s a false positive. Please report about it to your antivirus company. Note that Unchecky was tested thoroughly by Softpedia and <a href="http://www.softpedia.com/get/System/OS-Enhancements/Unchecky.shtml#status">was found 100% clean</a>.':
+		'É um falso-positivo. Por favor avise a empresa do antivírus. Note que o Unchecky foi firmemnte testado pela Softpedia e <a href="http://www.softpedia.com/get/System/OS-Enhancements/Unchecky.shtml#status">estava 100% limpo</a>.',
 	
 	'What is the best way to report a bug or suggest a feature?':
 		'Qual é o melhor jeito para avisar de um erro ou sugerir alguma funcionalidade?',
@@ -124,8 +124,8 @@ jquery_lang_js.prototype.lang.pt_br = {
 	
 	'I want to translate Unchecky.':
 		'Quero traduzir o Unchecky.',
-	'The translation files of the Unchecky program and website can be found on the <a href="https://github.com/RaMMicHaeL/unchecky-translate">unchecky-translate</a> GitHub repository.':
-		'Os aquivos de tradução do Unchecky podem ser encontrados no repositório GitHub: <a href="https://github.com/RaMMicHaeL/unchecky-translate">unchecky-translate</a>',
+	'The translation files of the Unchecky program and website can be found on the <a href="https://github.com/unchecky/unchecky-translate">unchecky-translate</a> GitHub repository.':
+		'Os aquivos de tradução do Unchecky podem ser encontrados no repositório GitHub: <a href="https://github.com/unchecky/unchecky-translate">unchecky-translate</a>',
 	
 	'Is it possible to install Unchecky silently?':
 		'É possível instalar silenciosamente Unchecky?',

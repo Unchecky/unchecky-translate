@@ -107,8 +107,8 @@ jquery_lang_js.prototype.lang.de = {
 	
 	'My antivirus flags Unchecky as malicious.':
 		'Mein Virenschutz meldet Unchecky als gefährlich.',
-	'It\'s a false positive. Please report about it to your antivirus company. Note that Unchecky was tested thoroughly by Softpedia and <a href="http://www.softpedia.com/get/System/OS-Enhancements/Unchecky.shtml">was found 100% clean</a>.':
-		'Manche Virenscanner erkennen Unchecky zu Unrecht als Virus. Bitte melde diesen Fehler dem Hersteller deines Antivirenprogramms. Unchecky wurde umfangreich von Softpedia getestet und <a href="http://www.softpedia.com/get/System/OS-Enhancements/Unchecky.shtml">ist absolut virenfrei</a>.',
+	'It\'s a false positive. Please report about it to your antivirus company. Note that Unchecky was tested thoroughly by Softpedia and <a href="http://www.softpedia.com/get/System/OS-Enhancements/Unchecky.shtml#status">was found 100% clean</a>.':
+		'Manche Virenscanner erkennen Unchecky zu Unrecht als Virus. Bitte melde diesen Fehler dem Hersteller deines Antivirenprogramms. Unchecky wurde umfangreich von Softpedia getestet und <a href="http://www.softpedia.com/get/System/OS-Enhancements/Unchecky.shtml#status">ist absolut virenfrei</a>.',
 	
 	'What is the best way to report a bug or suggest a feature?':
 		'Wie kann ich am besten einen Fehler melden oder Verbesserungen vorschlagen?',
@@ -124,8 +124,8 @@ jquery_lang_js.prototype.lang.de = {
 	
 	'I want to translate Unchecky.':
 		'Ich möchte Unchecky übersetzen!',
-	'The translation files of the Unchecky program and website can be found on the <a href="https://github.com/RaMMicHaeL/unchecky-translate">unchecky-translate</a> GitHub repository.':
-		'Die Übersetzungsdateien des Programms sowie der Webseite können im <a href="https://github.com/RaMMicHaeL/unchecky-translate">unchecky-translate</a>-GitHub-Repository gefunden werden.',
+	'The translation files of the Unchecky program and website can be found on the <a href="https://github.com/unchecky/unchecky-translate">unchecky-translate</a> GitHub repository.':
+		'Die Übersetzungsdateien des Programms sowie der Webseite können im <a href="https://github.com/unchecky/unchecky-translate">unchecky-translate</a>-GitHub-Repository gefunden werden.',
 	
 	'Is it possible to install Unchecky silently?':
 		'Ist es möglich, Unchecky per Silent-Install zu installieren?',

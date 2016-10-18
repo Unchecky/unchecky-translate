@@ -107,8 +107,8 @@ jquery_lang_js.prototype.lang.lt = {
 	
 	'My antivirus flags Unchecky as malicious.':
 		'Mano Antivirusinė programa praneša, kad Unchecky žalingas.',
-	'It\'s a false positive. Please report about it to your antivirus company. Note that Unchecky was tested thoroughly by Softpedia and <a href="http://www.softpedia.com/get/System/OS-Enhancements/Unchecky.shtml">was found 100% clean</a>.':
-		'Tai klaidingai teigiamas (false positive) pranešimas. Prašome apie šią klaidą pranešti savo Antivirusinės kompanijos kompanijai. Unchecky kruopščiai patikrino Softpedia ir <a href="http://www.softpedia.com/get/System/OS-Enhancements/Unchecky.shtml">pripažino 100% saugia</a>.',
+	'It\'s a false positive. Please report about it to your antivirus company. Note that Unchecky was tested thoroughly by Softpedia and <a href="http://www.softpedia.com/get/System/OS-Enhancements/Unchecky.shtml#status">was found 100% clean</a>.':
+		'Tai klaidingai teigiamas (false positive) pranešimas. Prašome apie šią klaidą pranešti savo Antivirusinės kompanijos kompanijai. Unchecky kruopščiai patikrino Softpedia ir <a href="http://www.softpedia.com/get/System/OS-Enhancements/Unchecky.shtml#status">pripažino 100% saugia</a>.',
 	
 	'What is the best way to report a bug or suggest a feature?':
 		'Koks geriausias būdas pranešti apie klaidą arba pasiūlyti funkciją?',
@@ -124,8 +124,8 @@ jquery_lang_js.prototype.lang.lt = {
 	
 	'I want to translate Unchecky.':
 		'Noriu išversti Unchecky.',
-	'The translation files of the Unchecky program and website can be found on the <a href="https://github.com/RaMMicHaeL/unchecky-translate">unchecky-translate</a> GitHub repository.':
-		'Unchecky vertimo failai gali būti rasti <a href="https://github.com/RaMMicHaeL/unchecky-translate">unchecky-translate</a> GitHub saugykloje.',
+	'The translation files of the Unchecky program and website can be found on the <a href="https://github.com/unchecky/unchecky-translate">unchecky-translate</a> GitHub repository.':
+		'Unchecky vertimo failai gali būti rasti <a href="https://github.com/unchecky/unchecky-translate">unchecky-translate</a> GitHub saugykloje.',
 	
 	'Is it possible to install Unchecky silently?':
 		'Ar yra galimybė įdiegti Unchecky "tyliajame" režime?',

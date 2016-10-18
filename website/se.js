@@ -107,8 +107,8 @@ jquery_lang_js.prototype.lang.se = {
 	
 	'My antivirus flags Unchecky as malicious.':
 		'Mitt antivirusprogram flaggar Unchecky som skadligt',
-	'It\'s a false positive. Please report about it to your antivirus company. Note that Unchecky was tested thoroughly by Softpedia and <a href="http://www.softpedia.com/get/System/OS-Enhancements/Unchecky.shtml">was found 100% clean</a>.':
-		'Det är en falsk positiv. Var vänlig rapportera om det till ditt antivirusföretag. Notera att Unchecky genomgående testats av Softpedia och <a href="http://www.softpedia.com/get/System/OS-Enhancements/Unchecky.shtml">konstaterades vara 100% rent</a>',
+	'It\'s a false positive. Please report about it to your antivirus company. Note that Unchecky was tested thoroughly by Softpedia and <a href="http://www.softpedia.com/get/System/OS-Enhancements/Unchecky.shtml#status">was found 100% clean</a>.':
+		'Det är en falsk positiv. Var vänlig rapportera om det till ditt antivirusföretag. Notera att Unchecky genomgående testats av Softpedia och <a href="http://www.softpedia.com/get/System/OS-Enhancements/Unchecky.shtml#status">konstaterades vara 100% rent</a>',
 	
 	'What is the best way to report a bug or suggest a feature?':
 		'Hur rapporterar jag enklast buggar och föreslår funktioner?',
@@ -124,8 +124,8 @@ jquery_lang_js.prototype.lang.se = {
 	
 	'I want to translate Unchecky.':
 		'Jag vill översätta Unchecky.',
-	'The translation files of the Unchecky program and website can be found on the <a href="https://github.com/RaMMicHaeL/unchecky-translate">unchecky-translate</a> GitHub repository.':
-		'Översättningsfilerna för Uncheckys mjukvara och webbsida kan hittas på Github: <a href="https://github.com/RaMMicHaeL/unchecky-translate">unchecky-translate</a>',
+	'The translation files of the Unchecky program and website can be found on the <a href="https://github.com/unchecky/unchecky-translate">unchecky-translate</a> GitHub repository.':
+		'Översättningsfilerna för Uncheckys mjukvara och webbsida kan hittas på Github: <a href="https://github.com/unchecky/unchecky-translate">unchecky-translate</a>',
 	
 	'Is it possible to install Unchecky silently?':
 		'Är det möjlight att tyst installera Unchecky?',

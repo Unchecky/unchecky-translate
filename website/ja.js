@@ -107,8 +107,8 @@
 	
 	'My antivirus flags Unchecky as malicious.':
 		'セキュリティソフトにより、Uncheckyが危険と検出されます。',
-	'It\'s a false positive. Please report about it to your antivirus company. Note that Unchecky was tested thoroughly by Softpedia and <a href="http://www.softpedia.com/get/System/OS-Enhancements/Unchecky.shtml">was found 100% clean</a>.':
-		'それは誤検出です。セキュリティソフトの開発元に誤検出を報告してください。UncheckyはSoftpediaにより徹底的にテストされ、その結果が<a href="http://www.softpedia.com/get/System/OS-Enhancements/Unchecky.shtml">100% 安全</a>であると示されています。',
+	'It\'s a false positive. Please report about it to your antivirus company. Note that Unchecky was tested thoroughly by Softpedia and <a href="http://www.softpedia.com/get/System/OS-Enhancements/Unchecky.shtml#status">was found 100% clean</a>.':
+		'それは誤検出です。セキュリティソフトの開発元に誤検出を報告してください。UncheckyはSoftpediaにより徹底的にテストされ、その結果が<a href="http://www.softpedia.com/get/System/OS-Enhancements/Unchecky.shtml#status">100% 安全</a>であると示されています。',
 	
 	'What is the best way to report a bug or suggest a feature?':
 		'バグの報告や機能を提案するための最良の方法は何ですか？',
@@ -124,8 +124,8 @@
 	
 	'I want to translate Unchecky.':
 		'Uncheckyを翻訳したい。',
-	'The translation files of the Unchecky program and website can be found on the <a href="https://github.com/RaMMicHaeL/unchecky-translate">unchecky-translate</a> GitHub repository.':
-		'Uncheckyのプログラムとウェブサイトの翻訳ファイルはGitHubのリポジトリ<a href="https://github.com/RaMMicHaeL/unchecky-translate">unchecky-translate</a>に掲載されています。',
+	'The translation files of the Unchecky program and website can be found on the <a href="https://github.com/unchecky/unchecky-translate">unchecky-translate</a> GitHub repository.':
+		'Uncheckyのプログラムとウェブサイトの翻訳ファイルはGitHubのリポジトリ<a href="https://github.com/unchecky/unchecky-translate">unchecky-translate</a>に掲載されています。',
 	
 	'Is it possible to install Unchecky silently?':
 		'Uncheckyをサイレントインストールすることは可能ですか？',

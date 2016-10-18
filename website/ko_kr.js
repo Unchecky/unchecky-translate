@@ -107,8 +107,8 @@ jquery_lang_js.prototype.lang.ko_kr = {
 	
 	'My antivirus flags Unchecky as malicious.':
 		'내 백신 프로그램이 Unchecky를 악성코드로 취급합니다.',
-	'It\'s a false positive. Please report about it to your antivirus company. Note that Unchecky was tested thoroughly by Softpedia and <a href="http://www.softpedia.com/get/System/OS-Enhancements/Unchecky.shtml">was found 100% clean</a>.':
-		'백신의 오진입니다. 백신 업체에 문의해 주십시오. Unchecky는 Softpedia 에서 <a href="http://www.softpedia.com/get/System/OS-Enhancements/Unchecky.shtml">100% 깨끗함을 입증하였습니다</a>.',
+	'It\'s a false positive. Please report about it to your antivirus company. Note that Unchecky was tested thoroughly by Softpedia and <a href="http://www.softpedia.com/get/System/OS-Enhancements/Unchecky.shtml#status">was found 100% clean</a>.':
+		'백신의 오진입니다. 백신 업체에 문의해 주십시오. Unchecky는 Softpedia 에서 <a href="http://www.softpedia.com/get/System/OS-Enhancements/Unchecky.shtml#status">100% 깨끗함을 입증하였습니다</a>.',
 	
 	'What is the best way to report a bug or suggest a feature?':
 		'버그를 보고하거나 새로운 기능을 제안하고 싶다면?',
@@ -124,8 +124,8 @@ jquery_lang_js.prototype.lang.ko_kr = {
 	
 	'I want to translate Unchecky.':
 		'Unchecky를 번역하고 싶습니다.',
-	'The translation files of the Unchecky program and website can be found on the <a href="https://github.com/RaMMicHaeL/unchecky-translate">unchecky-translate</a> GitHub repository.':
-		'Unchecky 프로그램과 웹 사이를 번역할 수 있는 텍스트 파일을 <a href="https://github.com/RaMMicHaeL/unchecky-translate">unchecky-translate</a> 에서 제공합니다.',
+	'The translation files of the Unchecky program and website can be found on the <a href="https://github.com/unchecky/unchecky-translate">unchecky-translate</a> GitHub repository.':
+		'Unchecky 프로그램과 웹 사이를 번역할 수 있는 텍스트 파일을 <a href="https://github.com/unchecky/unchecky-translate">unchecky-translate</a> 에서 제공합니다.',
 	
 	'Is it possible to install Unchecky silently?':
 		'Unchecky를 조용하게 바로 설치 가능한가요?',

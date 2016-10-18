@@ -107,8 +107,8 @@ jquery_lang_js.prototype.lang.zh_tw = {
 	
 	'My antivirus flags Unchecky as malicious.':
 		'我的防毒軟體認定 Unchecky 為惡意軟體。',
-	'It\'s a false positive. Please report about it to your antivirus company. Note that Unchecky was tested thoroughly by Softpedia and <a href="http://www.softpedia.com/get/System/OS-Enhancements/Unchecky.shtml">was found 100% clean</a>.':
-		'其為誤報。 請向您的防毒軟體公司回報。 請您注意，Unchecky 已由 <a href="http://www.softpedia.com/get/System/OS-Enhancements/Unchecky.shtml">Softpedia</a> 檢測完成，是 100% 安全的。',
+	'It\'s a false positive. Please report about it to your antivirus company. Note that Unchecky was tested thoroughly by Softpedia and <a href="http://www.softpedia.com/get/System/OS-Enhancements/Unchecky.shtml#status">was found 100% clean</a>.':
+		'其為誤報。 請向您的防毒軟體公司回報。 請您注意，Unchecky 已由 <a href="http://www.softpedia.com/get/System/OS-Enhancements/Unchecky.shtml#status">Softpedia</a> 檢測完成，是 100% 安全的。',
 	
 	'What is the best way to report a bug or suggest a feature?':
 		'回報錯誤或提出功能建議的最好的方法是什麼？',
@@ -124,8 +124,8 @@ jquery_lang_js.prototype.lang.zh_tw = {
 	
 	'I want to translate Unchecky.':
 		'我想要翻譯 Unchecky。',
-	'The translation files of the Unchecky program and website can be found on the <a href="https://github.com/RaMMicHaeL/unchecky-translate">unchecky-translate</a> GitHub repository.':
-		'Unchecky 程式和網站的翻譯檔案可於 GitHub 資料庫中的 <a href="https://github.com/RaMMicHaeL/unchecky-translate">unchecky-translate</a> 找到。',
+	'The translation files of the Unchecky program and website can be found on the <a href="https://github.com/unchecky/unchecky-translate">unchecky-translate</a> GitHub repository.':
+		'Unchecky 程式和網站的翻譯檔案可於 GitHub 資料庫中的 <a href="https://github.com/unchecky/unchecky-translate">unchecky-translate</a> 找到。',
 	
 	'Is it possible to install Unchecky silently?':
 		'是否可能以背景安裝 Unchecky?',

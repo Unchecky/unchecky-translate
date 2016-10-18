@@ -107,8 +107,8 @@ jquery_lang_js.prototype.lang.es = {
 	
 	'My antivirus flags Unchecky as malicious.':
 		'Mi antivirus detecta Unchecky como aplicación potencialmente peligrosa.',
-	'It\'s a false positive. Please report about it to your antivirus company. Note that Unchecky was tested thoroughly by Softpedia and <a href="http://www.softpedia.com/get/System/OS-Enhancements/Unchecky.shtml">was found 100% clean</a>.':
-		'Es un falso positivo. Informáis a la empresa de vuestro antivirus de este comportamiento. Unchecky está certificado por Softpedia como <a href="http://www.softpedia.com/get/System/OS-Enhancements/Unchecky.shtml">aplicación 100% segura</a>.',
+	'It\'s a false positive. Please report about it to your antivirus company. Note that Unchecky was tested thoroughly by Softpedia and <a href="http://www.softpedia.com/get/System/OS-Enhancements/Unchecky.shtml#status">was found 100% clean</a>.':
+		'Es un falso positivo. Informáis a la empresa de vuestro antivirus de este comportamiento. Unchecky está certificado por Softpedia como <a href="http://www.softpedia.com/get/System/OS-Enhancements/Unchecky.shtml#status">aplicación 100% segura</a>.',
 	
 	'What is the best way to report a bug or suggest a feature?':
 		'¿Cuál es la mejor manera de avisar de un error o hacer una sugerencia?',
@@ -124,8 +124,8 @@ jquery_lang_js.prototype.lang.es = {
 	
 	'I want to translate Unchecky.':
 		'Me gustaría traducir Unchecky',
-	'The translation files of the Unchecky program and website can be found on the <a href="https://github.com/RaMMicHaeL/unchecky-translate">unchecky-translate</a> GitHub repository.':
-		'Los ficheros de traducción los encontraréis en nuestro <a href="https://github.com/RaMMicHaeL/unchecky-translate">repositorio de GitHub</a>',
+	'The translation files of the Unchecky program and website can be found on the <a href="https://github.com/unchecky/unchecky-translate">unchecky-translate</a> GitHub repository.':
+		'Los ficheros de traducción los encontraréis en nuestro <a href="https://github.com/unchecky/unchecky-translate">repositorio de GitHub</a>',
 	
 	'Is it possible to install Unchecky silently?':
 		'¿Se puede instalar Unchecky de forma silenciosa?',

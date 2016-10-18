@@ -107,8 +107,8 @@ jquery_lang_js.prototype.lang.sk = {
 	
 	'My antivirus flags Unchecky as malicious.':
 		'Môj antivírus označuje Unchecky ako škodlivý.',
-	'It\'s a false positive. Please report about it to your antivirus company. Note that Unchecky was tested thoroughly by Softpedia and <a href="http://www.softpedia.com/get/System/OS-Enhancements/Unchecky.shtml">was found 100% clean</a>.':
-		'Je to falošné varovanie. Prosím, nahláste tento problém vašej antivírusovej firme. Program Unchecky bol testovaný za pomoci portálu Softpedia <a href="http://www.softpedia.com/get/System/OS-Enhancements/Unchecky.shtml">a bol  100% bez vírusov</a>',
+	'It\'s a false positive. Please report about it to your antivirus company. Note that Unchecky was tested thoroughly by Softpedia and <a href="http://www.softpedia.com/get/System/OS-Enhancements/Unchecky.shtml#status">was found 100% clean</a>.':
+		'Je to falošné varovanie. Prosím, nahláste tento problém vašej antivírusovej firme. Program Unchecky bol testovaný za pomoci portálu Softpedia <a href="http://www.softpedia.com/get/System/OS-Enhancements/Unchecky.shtml#status">a bol  100% bez vírusov</a>',
 	
 	'What is the best way to report a bug or suggest a feature?':
 		'Aká je najlepšia cesta na hlásenie chýb a požiadaviek nových možností??',
@@ -124,8 +124,8 @@ jquery_lang_js.prototype.lang.sk = {
 	
 	'I want to translate Unchecky.':
 		'Chcem preložiť Unchecky!',
-	'The translation files of the Unchecky program and website can be found on the <a href="https://github.com/RaMMicHaeL/unchecky-translate">unchecky-translate</a> GitHub repository.':
-		'Dokumenty na preloženie programu Unchecky nájdete na GitHub: <a href="https://github.com/RaMMicHaeL/unchecky-translate">unchecky-translate</a>',
+	'The translation files of the Unchecky program and website can be found on the <a href="https://github.com/unchecky/unchecky-translate">unchecky-translate</a> GitHub repository.':
+		'Dokumenty na preloženie programu Unchecky nájdete na GitHub: <a href="https://github.com/unchecky/unchecky-translate">unchecky-translate</a>',
 	
 	'Is it possible to install Unchecky silently?':
 		'Je možné nainštalovať Unchecky anonymne?',

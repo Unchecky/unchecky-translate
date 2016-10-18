@@ -107,8 +107,8 @@ jquery_lang_js.prototype.lang.vi = {
 	
 	'My antivirus flags Unchecky as malicious.':
 		'Trình chống virus cho Unchecky là nguy hiểm.',
-	'It\'s a false positive. Please report about it to your antivirus company. Note that Unchecky was tested thoroughly by Softpedia and <a href="http://www.softpedia.com/get/System/OS-Enhancements/Unchecky.shtml">was found 100% clean</a>.':
-		'Đó là phát hiện nhầm. Vui lòng báo cáo về nó đến công ty phần mềm chống virus bạn đang dùng. Hãy nhớ rằng Unchecky đã được kiểm định kỹ lưỡng bởi Softpedia và <a href="http://www.softpedia.com/get/System/OS-Enhancements/Unchecky.shtml">an toàn 100%</a>.',
+	'It\'s a false positive. Please report about it to your antivirus company. Note that Unchecky was tested thoroughly by Softpedia and <a href="http://www.softpedia.com/get/System/OS-Enhancements/Unchecky.shtml#status">was found 100% clean</a>.':
+		'Đó là phát hiện nhầm. Vui lòng báo cáo về nó đến công ty phần mềm chống virus bạn đang dùng. Hãy nhớ rằng Unchecky đã được kiểm định kỹ lưỡng bởi Softpedia và <a href="http://www.softpedia.com/get/System/OS-Enhancements/Unchecky.shtml#status">an toàn 100%</a>.',
 	
 	'What is the best way to report a bug or suggest a feature?':
 		'Đâu là cách báo cáo lỗi hoặc đề nghị tính năng tốt nhất?',
@@ -124,8 +124,8 @@ jquery_lang_js.prototype.lang.vi = {
 	
 	'I want to translate Unchecky.':
 		'Tôi muốn dịch Unchecky!',
-	'The translation files of the Unchecky program and website can be found on the <a href="https://github.com/RaMMicHaeL/unchecky-translate">unchecky-translate</a> GitHub repository.':
-		'Những tập tin dịch thuật của chương trình và website Unchecky có thể tìm thấy tại <a href="https://github.com/RaMMicHaeL/unchecky-translate">unchecky-translate</a>- kho lưu trữ GitHub.',
+	'The translation files of the Unchecky program and website can be found on the <a href="https://github.com/unchecky/unchecky-translate">unchecky-translate</a> GitHub repository.':
+		'Những tập tin dịch thuật của chương trình và website Unchecky có thể tìm thấy tại <a href="https://github.com/unchecky/unchecky-translate">unchecky-translate</a>- kho lưu trữ GitHub.',
 	
 	'Is it possible to install Unchecky silently?':
 		'Có thể cài đặt Unchecky trong thầm lặng chứ?',

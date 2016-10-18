@@ -107,8 +107,8 @@ jquery_lang_js.prototype.lang.tr = {
 	
 	'My antivirus flags Unchecky as malicious.':
 		'Antivirüs programım Uncheck\'yi kötü niyetli yazılım olarak algılıyor.',
-	'It\'s a false positive. Please report about it to your antivirus company. Note that Unchecky was tested thoroughly by Softpedia and <a href="http://www.softpedia.com/get/System/OS-Enhancements/Unchecky.shtml">was found 100% clean</a>.':
-		'Bu yanlış bir algılamadır. Antivirüs firmanıza lütfen rapor edin. Unchecky Softpedia tarafından iyice test edildi ve <a href="http://www.softpedia.com/get/System/OS-Enhancements/Unchecky.shtml">100% temiz bulundu</a>.',
+	'It\'s a false positive. Please report about it to your antivirus company. Note that Unchecky was tested thoroughly by Softpedia and <a href="http://www.softpedia.com/get/System/OS-Enhancements/Unchecky.shtml#status">was found 100% clean</a>.':
+		'Bu yanlış bir algılamadır. Antivirüs firmanıza lütfen rapor edin. Unchecky Softpedia tarafından iyice test edildi ve <a href="http://www.softpedia.com/get/System/OS-Enhancements/Unchecky.shtml#status">100% temiz bulundu</a>.',
 	
 	'What is the best way to report a bug or suggest a feature?':
 		'Bir hatayı bildirmek veya bir özellik önermek için en iyi yol nedir?',
@@ -124,8 +124,8 @@ jquery_lang_js.prototype.lang.tr = {
 	
 	'I want to translate Unchecky.':
 		'Unchecky\'yi çevirmek istiyorum',
-	'The translation files of the Unchecky program and website can be found on the <a href="https://github.com/RaMMicHaeL/unchecky-translate">unchecky-translate</a> GitHub repository.':
-		'Unchecky programının ve web sitesinin çeviri dosyaları <a href="https://github.com/RaMMicHaeL/unchecky-translate">unchecky-translate</a> GitHub repository üzerinde bulunabilir.',
+	'The translation files of the Unchecky program and website can be found on the <a href="https://github.com/unchecky/unchecky-translate">unchecky-translate</a> GitHub repository.':
+		'Unchecky programının ve web sitesinin çeviri dosyaları <a href="https://github.com/unchecky/unchecky-translate">unchecky-translate</a> GitHub repository üzerinde bulunabilir.',
 	
 	'Is it possible to install Unchecky silently?':
 		'Unchecky\'yi sessizce yüklemek mümkün müdür?',
