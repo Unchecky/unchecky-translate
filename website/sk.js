@@ -142,7 +142,7 @@ jquery_lang_js.prototype.lang.sk = {
 	'Last Name':
 		'Priezvisko',
 	'Email Address':
-	'	 E-mail',
+		'E-mail',
 	'Subject':
 		'Téma',
 	'Message':
