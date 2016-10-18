@@ -1,4 +1,4 @@
-IDS_OFFER_REJECTED      "Ett potentiellt oönskat program-erbjudande nekades!"
+IDS_OFFER_REJECTED      "Ett potentiellt oönskat program-erbjudande nekades!"
 IDS_SOME_OFFERS_REJECTED 
                         "%d potentiellt oönskade program-erbjudanden nekades!"
 IDS_OFFER_REJECTED_MORE "Klicka här för mer detaljer..."
