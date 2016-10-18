@@ -1,0 +1,96 @@
+----------------------------------APP-----------------------------------------------------------------
+IDS_LANGUAGE "Bahasa Indonesia"
+IDS_OK "Setuju"
+IDS_CANCEL "Kembali"
+IDS_APPLY "Terapkan"
+IDS_MAIN_WNDTITLE "Unchecky"
+IDS_HEADER_MAIN "Mulai"
+IDS_HEADER_CONFIG "Pengaturan"
+IDS_HEADER_ABOUT "Tentang"
+IDS_MAINCTRL_TEXT "Selamat Datang di Unchecky, Aplikasi ini untuk mencegah Aplikasi yang tidak ingin Anda Pasang Pada Komputer Anda."
+IDS_MAINCTRL_TEXT_SVC_RUNNING
+"Layanan Unchecky dan berjalan."
+IDS_MAINCTRL_TEXT_SVC_STOPPED
+"Layanan Unchecky ditangguhkan dan akan dilanjutkan setelah restart komputer."
+IDS_MAINCTRL_TEXT_QUERYERROR
+"Terjadi galat saat memeriksa status layanan Unchecky."
+IDS_MAINCTRL_STATS_NONE_NEWGUY
+"Tampaknya bahwa Unchecky hanya diinstal. Masih tidak ada data untuk ditampilkan."
+IDS_MAINCTRL_STATS_NONE "Tidak ada kotak centang yang dicentang sampai sekarang. Tampaknya Anda menjauhkan diri dari program yang tidak diinginkan, pekerjaan yang baik!"
+IDS_MAINCTRL_STATS "Kotak yang dicentang."
+IDS_MAINCTRL_STATS_WARNING "Telah Dicentang"
+IDS_MAINCTRL_STOP "Suspend & layanan"
+IDS_MAINCTRL_START "Resume & Layanan"
+IDS_CONFIG_LANG "Bahasa Indonesia:"
+IDS_CONFIG_EMPTY_MESSAGE
+"Halaman pengaturan terlihat agak kosong sekarang, Saya tahu. Perubahan lebih direncanakan di masa depan."
+IDS_CONFIG_ADVANCED "Pengaturan Lanjutan"
+IDS_ABOUT_BETA "beta"
+IDS_ABOUT_AUTHOR "Oleh <a href=""http://rammichael.com/"">RaMMicHaeL</a> • Diterjemah Oleh <a href=""mailto:syahfry@ymail.com"">Syahfry</a>"
+IDS_ABOUT_LINKS "<a href=""http://unchecky.com/"">Website</a> • <a href=""http://unchecky.userecho.com/"">Bugs / Fitur baru</a> • <a href=""http://rammichael.com/donate"">Donasi</a>"
+IDS_ERROR_LINK "Tidak dapat membuka link. \ N \ Untuk menggunakan link Internet Anda perlu web browser (misalnya. Internet Explorer). Untuk menggunakan link email Anda memerlukan klien email (misalnya. Windows Live Mail, Outlook)."
+IDS_ADVOPT_TITLE "Pengaturan Lanjutan"
+IDS_ADVOPT_NO_UPDATES "Nonaktifkan update otomatis"
+IDS_ADVOPT_NO_HOSTS "Jangan gunakan aturan Host file"
+IDS_ADVOPT_WARNING_TEXT "Jangan mengacaukan pengaturan jika Anda tidak tahu apa yang Anda lakukan! Perubahan ini akan membuat Unchecky tidak efektif. Hanya mengubah pengaturan ini jika Anda benar-benar membutuhkan dan Anda tahu apa artinya."
+IDS_ADVOPT_RESTART_TEXT "Layanan Unchecky harus dihidupkan ulang agar perubahan diterapkan."
+----------------------------------APP-----------------------------------------------------------------
+
+
+----------------------------------DLL-----------------------------------------------------------------
+IDS_CONFIRMATION_TEXT  "Anda akan menginstal sebuah program yang mungkin tidak diinginkan. Apakah Anda yakin ingin melanjutkan?"
+IDS_CONFIRMATION_PROCEED "&Lanjutkan"
+IDS_CONFIRMATION_DECLINE
+"&Menolak tawaran yang mungkin tidak diinginkan (disarankan)"
+IDS_CONFIRMATION_YES "&Ya"
+IDS_CONFIRMATION_NO "&Tidak (disarankan)"
+IDS_CONFIRMATION_OK "Setuju"
+IDS_CONFIRMATION_CANCEL "Kembali (disarankan)"
+IDS_CONFIRMATION_MBOX_WARNING
+"PERINGATAN dari Unchecky: Anda diminta untuk menginstal sebuah program yang mungkin tidak diinginkan. Silakan baca teks di bawah dengan hati-hati."
+----------------------------------DLL-----------------------------------------------------------------
+
+
+----------------------------------SETUP-----------------------------------------------------------------
+IDS_LANGUAGE  "Indonesia"
+IDS_MAIN_WNDTITLE "Unchecky v%s Setup"
+IDS_MAIN_TITLE "Unchecky"
+IDS_MAIN_SUBTITLE "Keeps your checkboxes clear"
+IDS_MAIN_MORE_OPTIONS "More &options"
+IDS_MAIN_LESS_OPTIONS "Fewer &options"
+IDS_MAIN_INSTALL "&Install"
+IDS_MAIN_INSTALLING "&Installing..."
+IDS_MAIN_FINISH "&Finish"
+IDS_MAINCTRL_TEXT "Welcome to the Unchecky Setup.\n\nUnchecky is a program that aims to keep potentially unwanted programs out of your computer.\n\nClick Install to start the installation."
+IDS_MAINCTRL_LANG "&Language:"
+IDS_EXTRACTRL_TEXT "Unchecky will be installed in the following folder. To install in a different folder, click Browse and select another folder. Click Install to start the installation."
+IDS_EXTRACTRL_FOLDER_GROUP "Destination &Folder"
+IDS_EXTRACTRL_FOLDER_BROWSE "B&rowse..."
+IDS_EXTRACTRL_BROWSE_TEXT "Select the folder to install Unchecky in:"
+IDS_FINISHCTRL_TITLE "The Unchecky service is up and running!"
+IDS_FINISHCTRL_TEXT "Congratulations! Unchecky has been successfully installed on your computer.\n\nThe Unchecky service will continuously run in the background, monitoring your installers. You can launch Unchecky at any time from the desktop icon to see how many checkboxes were unchecked."
+IDS_MAIN_ERROR_UNCHECKY_RUNNING
+"Please close all instances of Unchecky before proceeding"
+IDS_MAIN_UPDATE "&Update"
+IDS_MAIN_UPDATING "&Updating..."
+----------------------------------SETUP-----------------------------------------------------------------
+
+
+----------------------------------UNINSTAL-----------------------------------------------------------------
+IDS_LANGUAGE  "Indonesia"
+IDS_MAIN_WNDTITLE "Unchecky v%s Hapus"
+IDS_MAIN_TITLE "Unchecky"
+IDS_MAIN_SUBTITLE "Keeps your checkboxes clear"
+IDS_MAIN_INSTALL "&Hapus"
+IDS_MAIN_INSTALLING "&Menanggalkan"
+IDS_MAIN_FINISH "&Selesai"
+IDS_MAIN_ERROR_UNCHECKY_RUNNING
+"Tutup semua contoh Unchecky sebelum melanjutkan"
+IDS_MAINCTRL_TEXT "Unchecky akan dihapus dari folder berikut. Klik Uninstall untuk memulai penghapusan instalasi."
+IDS_MAINCTRL_PATHTEXT "Menghapus dari:"
+IDS_MAINCTRL_REMOVE_SETTINGS "Menghapus pengaturan tersimpan"
+IDS_FINISHCTRL_TEXT1 "Unchecky telah dihapus dari komputer Anda."
+IDS_FINISHCTRL_ERROR_NOTE
+"Beberapa file yang tidak bisa dihapus. Ini dapat dihapus secara manual."
+IDS_FINISHCTRL_TEXT2 "Klik Finish untuk menutup."
+----------------------------------UNINSTAL-----------------------------------------------------------------
