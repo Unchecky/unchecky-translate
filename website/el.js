@@ -109,8 +109,8 @@ jquery_lang_js.prototype.lang.el = {
 	
 	'My antivirus flags Unchecky as malicious.':
 		'Το πρόγραμμά μου για προστασία από ιούς επισημαίνει το Unchecky ως κακόβουλο.',
-	'It\'s a false positive. Please report about it to your antivirus company. Note that Unchecky was tested thoroughly by Softpedia and <a href="http://www.softpedia.com/get/System/OS-Enhancements/Unchecky.shtml">was found 100% clean</a>.':
-		'Είναι μια ψευδής αναφορά. Παρακαλούμε να το αναφέρετε αυτό στην εταιρεία του προγράμματος προστασίας σας από ιούς. Σημειώστε ότι το Unchecky εξετάστηκε διεξοδικά από το Softpedia και <a href="http://www.softpedia.com/get/System/OS-Enhancements/Unchecky.shtml">βρέθηκε 100% καθαρό</a>.',
+	'It\'s a false positive. Please report about it to your antivirus company. Note that Unchecky was tested thoroughly by Softpedia and <a href="http://www.softpedia.com/get/System/OS-Enhancements/Unchecky.shtml#status">was found 100% clean</a>.':
+		'Είναι μια ψευδής αναφορά. Παρακαλούμε να το αναφέρετε αυτό στην εταιρεία του προγράμματος προστασίας σας από ιούς. Σημειώστε ότι το Unchecky εξετάστηκε διεξοδικά από το Softpedia και <a href="http://www.softpedia.com/get/System/OS-Enhancements/Unchecky.shtml#status">βρέθηκε 100% καθαρό</a>.',
 	
 	'What is the best way to report a bug or suggest a feature?':
 		'Ποιος είναι ο καλύτερος τρόπος για αναφορά σφάλματος ή πρότασης χαρακτηριστικού;',
@@ -126,8 +126,8 @@ jquery_lang_js.prototype.lang.el = {
 	
 	'I want to translate Unchecky.':
 		'Θέλω να μεταφράσω το Unchecky.',
-	'The translation files of the Unchecky program and website can be found on the <a href="https://github.com/RaMMicHaeL/unchecky-translate">unchecky-translate</a> GitHub repository.':
-		'Τα αρχεία μετάφρασης του προγράμματος Unchecky και του ιστότοπου, μπορούν να βρεθούν στο αποθετήριο του GitHub : <a href="https://github.com/RaMMicHaeL/unchecky-translate">unchecky-translate</a>.',
+	'The translation files of the Unchecky program and website can be found on the <a href="https://github.com/unchecky/unchecky-translate">unchecky-translate</a> GitHub repository.':
+		'Τα αρχεία μετάφρασης του προγράμματος Unchecky και του ιστότοπου, μπορούν να βρεθούν στο αποθετήριο του GitHub : <a href="https://github.com/unchecky/unchecky-translate">unchecky-translate</a>.',
 	
 	'Is it possible to install Unchecky silently?':
 		'Είναι δυνατή η εγκατάσταση του Unchecky σιωπηρά;',
