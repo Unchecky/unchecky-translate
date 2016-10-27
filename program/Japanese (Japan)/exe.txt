@@ -1,4 +1,4 @@
 IDS_OFFER_REJECTED      "不審なプログラムのオファーを拒否しました！"
 IDS_SOME_OFFERS_REJECTED "%d 不審なプログラムの拒否しました！"
 IDS_OFFER_REJECTED_MORE "詳細はこちらをクリックしてください..."
-IDS_BROWSER_WARNING     " %s からの警告:\nこの項目をクリックすると、不要なプログラムをインストールす可能性があります。"
+IDS_BROWSER_WARNING     "%s からの警告:\nこの項目をクリックすると、不要なプログラムをインストールす可能性があります。"
