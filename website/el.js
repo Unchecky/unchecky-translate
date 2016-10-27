@@ -97,15 +97,13 @@ jquery_lang_js.prototype.lang.el = {
 		'Γαλλικά',
 	'German':
 		'Allemand',
-	'Greek':
-		'Ελληνικά',
 	
 	// FAQ
 	
 	'What are the system requirements for Unchecky?':
 		'Ποιες είναι οι απαιτήσεις συστήματος για το Unchecky;',
 	'Unchecky supports Windows XP and above.':
-		'Το Unchecky υποστηρίζει Windows XP και νεότερα..',
+		'Το Unchecky υποστηρίζει Windows XP και νεότερα.',
 	
 	'My antivirus flags Unchecky as malicious.':
 		'Το πρόγραμμά μου για προστασία από ιούς επισημαίνει το Unchecky ως κακόβουλο.',
@@ -151,7 +149,7 @@ jquery_lang_js.prototype.lang.el = {
 		'Μήνυμα',
 	'Send':
 		'Αποστολή',
-		
+	
 	'Please fill in all fields.':
 		'Παρακαλούμε συμπληρώστε όλα τα πεδία.',
 	'Please enter a valid email address.':
