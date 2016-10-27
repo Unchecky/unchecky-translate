@@ -24,7 +24,7 @@ jquery_lang_js.prototype.lang.ja = {
 	// Footer
 	
 	'Copyright © 2016 Reason Company Software Inc.':
-		'Copyright © 2016 Reason Company Software Inc. 日本語訳： <a href="http://www.japan-secure.com/">milksizegene</a>',
+		'Copyright © 2016 Reason Company Software Inc. 日本語訳： <a href="mailto:contact@japan-secure.com">milksizegene</a>',
 	
 	// Legal
 	
