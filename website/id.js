@@ -103,7 +103,7 @@ jquery_lang_js.prototype.lang.id = {
 	'What are the system requirements for Unchecky?':
 		'Apa kebutuhan sistem yang diperlukan Unchecky?',
 	'Unchecky supports Windows XP and above.':
-		'Unchecky mendukung Windos XP dan versi di atasnya.',
+		'Unchecky mendukung Windows XP dan versi di atasnya.',
 	
 	'My antivirus flags Unchecky as malicious.':
 		'Antivirus saya mendeteksi Unchecky sebagai program jahat.',
