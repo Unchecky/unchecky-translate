@@ -117,8 +117,8 @@ jquery_lang_js.prototype.lang.ja = {
 	
 	'How do I uninstall Unchecky?':
 		'Uncheckyはどのようにアンインストールしますか？',
-	'Unchecky can be uninstalled from the Windows Control Panel, like any other program. See instructions for <a href="http://windows.microsoft.com/en-us/windows-8/uninstall-change-program">Windows 8</a>, <a href="http://windows.microsoft.com/en-us/windows/uninstall-change-program#uninstall-change-program=windows-7">Windows 7</a>, <a href="http://windows.microsoft.com/en-us/windows/uninstall-change-program#uninstall-change-program=windows-vista">Windows Vista</a>, or <a href="https://support.microsoft.com/en-us/kb/307895">Windows XP</a>.':
-		'一般的なプログラムと同様に、コントロールパネルからアンインストールできます。各Windowsにおける操作手順は以下をご覧ください：<a href="http://windows.microsoft.com/en-us/windows-8/uninstall-change-program">Windows 8</a>、<a href="http://windows.microsoft.com/en-us/windows/uninstall-change-program#uninstall-change-program=windows-7">Windows 7</a>、<a href="http://windows.microsoft.com/en-us/windows/uninstall-change-program#uninstall-change-program=windows-vista">Windows Vista</a>、あるいは<a href="https://support.microsoft.com/en-us/kb/307895">Windows XP</a>.',
+	'Unchecky can be uninstalled from the Windows Control Panel, like any other program. See instructions for <a href="https://support.microsoft.com/en-us/instantanswers/ce7ba88b-4e95-4354-b807-35732db36c4d/repair-or-remove-programs">Windows 10</a> or <a href="https://support.microsoft.com/en-us/kb/2601726">Windows 7</a>.':
+		'一般的なプログラムと同様に、コントロールパネルからアンインストールできます。各Windowsにおける操作手順は以下をご覧ください：<a href="https://support.microsoft.com/en-us/instantanswers/ce7ba88b-4e95-4354-b807-35732db36c4d/repair-or-remove-programs">Windows 10</a>あるいは<a href="https://support.microsoft.com/en-us/kb/2601726">Windows 7</a>.',
 	'If the standard method fails, please try to use the <a href="files/unchecky_cleaner.exe">Unchecky Cleaner Tool</a>, which is designed to uninstall corrupted Unchecky installations.':
 		'万一、上記のアンインストール方法で削除が出来ない場合、 <a href="files/unchecky_cleaner.exe">Unchecky Cleaner Tool</a> を使用して下さい。',
 	

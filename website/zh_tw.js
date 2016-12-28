@@ -117,8 +117,8 @@ jquery_lang_js.prototype.lang.zh_tw = {
 	
 	'How do I uninstall Unchecky?':
 		'我應如何解除安裝 Unchecky?',
-	'Unchecky can be uninstalled from the Windows Control Panel, like any other program. See instructions for <a href="http://windows.microsoft.com/en-us/windows-8/uninstall-change-program">Windows 8</a>, <a href="http://windows.microsoft.com/en-us/windows/uninstall-change-program#uninstall-change-program=windows-7">Windows 7</a>, <a href="http://windows.microsoft.com/en-us/windows/uninstall-change-program#uninstall-change-program=windows-vista">Windows Vista</a>, or <a href="https://support.microsoft.com/en-us/kb/307895">Windows XP</a>.':
-		'Unchecky 可以像其他程式一樣由 Windows 控制台中解除安裝。 請參閱 <a href="http://windows.microsoft.com/en-us/windows-8/uninstall-change-program">Windows 8</a>、<a href="http://windows.microsoft.com/en-us/windows/uninstall-change-program#uninstall-change-program=windows-7">Windows 7</a>、<a href="http://windows.microsoft.com/en-us/windows/uninstall-change-program#uninstall-change-program=windows-vista">Windows Vista</a> 或 <a href="https://support.microsoft.com/en-us/kb/307895">Windows XP</a> 的說明。',
+	'Unchecky can be uninstalled from the Windows Control Panel, like any other program. See instructions for <a href="https://support.microsoft.com/en-us/instantanswers/ce7ba88b-4e95-4354-b807-35732db36c4d/repair-or-remove-programs">Windows 10</a> or <a href="https://support.microsoft.com/en-us/kb/2601726">Windows 7</a>.':
+		'Unchecky 可以像其他程式一樣由 Windows 控制台中解除安裝。 請參閱 <a href="https://support.microsoft.com/en-us/instantanswers/ce7ba88b-4e95-4354-b807-35732db36c4d/repair-or-remove-programs">Windows 10</a> 或 <a href="https://support.microsoft.com/en-us/kb/2601726">Windows 7</a> 的說明。',
 	'If the standard method fails, please try to use the <a href="files/unchecky_cleaner.exe">Unchecky Cleaner Tool</a>, which is designed to uninstall corrupted Unchecky installations.':
 		'如果正常的移除方法失敗，請嘗試使用 <a href="files/unchecky_cleaner.exe">Unchecky Cleaner Tool</a>，其用於解除安裝 Unchecky。',
 	

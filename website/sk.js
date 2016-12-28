@@ -117,7 +117,7 @@ jquery_lang_js.prototype.lang.sk = {
 	
 	'How do I uninstall Unchecky?':
 		'Ako odinštalovať Unchecky?',
-	'Unchecky can be uninstalled from the Windows Control Panel, like any other program. See instructions for <a href="http://windows.microsoft.com/en-us/windows-8/uninstall-change-program">Windows 8</a>, <a href="http://windows.microsoft.com/en-us/windows/uninstall-change-program#uninstall-change-program=windows-7">Windows 7</a>, <a href="http://windows.microsoft.com/en-us/windows/uninstall-change-program#uninstall-change-program=windows-vista">Windows Vista</a>, or <a href="https://support.microsoft.com/en-us/kb/307895">Windows XP</a>.':
+	'Unchecky can be uninstalled from the Windows Control Panel, like any other program. See instructions for <a href="https://support.microsoft.com/en-us/instantanswers/ce7ba88b-4e95-4354-b807-35732db36c4d/repair-or-remove-programs">Windows 10</a> or <a href="https://support.microsoft.com/en-us/kb/2601726">Windows 7</a>.':
 		'Unchecky sa dá odinštalovať z Windows Ovládacieho Panela, ako iné programy.',
 	'If the standard method fails, please try to use the <a href="files/unchecky_cleaner.exe">Unchecky Cleaner Tool</a>, which is designed to uninstall corrupted Unchecky installations.':
 		'Ak zlyhá táto metóda, prosím skúste použiť <a href="files/unchecky_cleaner.exe">Unchecky Cleaner Tool</a>, ktorý je vytvorený na odinštaláciu nedokončenej Unchecky odinštalácie.',

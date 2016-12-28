@@ -117,8 +117,8 @@ jquery_lang_js.prototype.lang.ko_kr = {
 	
 	'How do I uninstall Unchecky?':
 		'Unchecky를 제거하는 방법은?',
-	'Unchecky can be uninstalled from the Windows Control Panel, like any other program. See instructions for <a href="http://windows.microsoft.com/en-us/windows-8/uninstall-change-program">Windows 8</a>, <a href="http://windows.microsoft.com/en-us/windows/uninstall-change-program#uninstall-change-program=windows-7">Windows 7</a>, <a href="http://windows.microsoft.com/en-us/windows/uninstall-change-program#uninstall-change-program=windows-vista">Windows Vista</a>, or <a href="https://support.microsoft.com/en-us/kb/307895">Windows XP</a>.':
-		'Unchecky는 제어판의 프로그램 추가/삭제 또는 프로그램 제거 에서 제거 가능합니다. 각 운영체제별 프로그램 제거하는 방법은 <a href="http://windows.microsoft.com/en-us/windows-8/uninstall-change-program">Windows 8</a>、<a href="http://windows.microsoft.com/en-us/windows/uninstall-change-program#uninstall-change-program=windows-7">Windows 7</a>、<a href="http://windows.microsoft.com/en-us/windows/uninstall-change-program#uninstall-change-program=windows-vista">Windows Vista</a>, 또는 <a href="https://support.microsoft.com/en-us/kb/307895">Windows XP</a> 를 참조하십시오.',
+	'Unchecky can be uninstalled from the Windows Control Panel, like any other program. See instructions for <a href="https://support.microsoft.com/en-us/instantanswers/ce7ba88b-4e95-4354-b807-35732db36c4d/repair-or-remove-programs">Windows 10</a> or <a href="https://support.microsoft.com/en-us/kb/2601726">Windows 7</a>.':
+		'Unchecky는 제어판의 프로그램 추가/삭제 또는 프로그램 제거 에서 제거 가능합니다. 각 운영체제별 프로그램 제거하는 방법은 <a href="https://support.microsoft.com/en-us/instantanswers/ce7ba88b-4e95-4354-b807-35732db36c4d/repair-or-remove-programs">Windows 10</a> 또는 <a href="https://support.microsoft.com/en-us/kb/2601726">Windows 7</a> 를 참조하십시오.',
 	'If the standard method fails, please try to use the <a href="files/unchecky_cleaner.exe">Unchecky Cleaner Tool</a>, which is designed to uninstall corrupted Unchecky installations.':
 		'만약 정상적인 제거가 실패했을 경우、 <a href="files/unchecky_cleaner.exe">Unchecky Cleaner Tool</a> 을 사용해 주십시오.',
 	

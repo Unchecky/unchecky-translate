@@ -117,8 +117,8 @@ jquery_lang_js.prototype.lang.zh_cn = {
 	
 	'How do I uninstall Unchecky?':
 		'我如何安装Unchecky？',
-	'Unchecky can be uninstalled from the Windows Control Panel, like any other program. See instructions for <a href="http://windows.microsoft.com/en-us/windows-8/uninstall-change-program">Windows 8</a>, <a href="http://windows.microsoft.com/en-us/windows/uninstall-change-program#uninstall-change-program=windows-7">Windows 7</a>, <a href="http://windows.microsoft.com/en-us/windows/uninstall-change-program#uninstall-change-program=windows-vista">Windows Vista</a>, or <a href="https://support.microsoft.com/en-us/kb/307895">Windows XP</a>.':
-		'像其他程序一样，Unchecky可以从Windows控制面板卸载。查看<a href="http://windows.microsoft.com/en-us/windows-8/uninstall-change-program">Windows 8</a>，<a href="http://windows.microsoft.com/en-us/windows/uninstall-change-program#uninstall-change-program=windows-7">Windows 7</a>，<a href="http://windows.microsoft.com/en-us/windows/uninstall-change-program#uninstall-change-program=windows-vista">Windows Vista</a>，或<a href="https://support.microsoft.com/en-us/kb/307895">Windows XP</a>的方法。',
+	'Unchecky can be uninstalled from the Windows Control Panel, like any other program. See instructions for <a href="https://support.microsoft.com/en-us/instantanswers/ce7ba88b-4e95-4354-b807-35732db36c4d/repair-or-remove-programs">Windows 10</a> or <a href="https://support.microsoft.com/en-us/kb/2601726">Windows 7</a>.':
+		'像其他程序一样，Unchecky可以从Windows控制面板卸载。查看<a href="https://support.microsoft.com/en-us/instantanswers/ce7ba88b-4e95-4354-b807-35732db36c4d/repair-or-remove-programs">Windows 10</a>或<a href="https://support.microsoft.com/en-us/kb/2601726">Windows 7</a>的方法。',
 	'If the standard method fails, please try to use the <a href="files/unchecky_cleaner.exe">Unchecky Cleaner Tool</a>, which is designed to uninstall corrupted Unchecky installations.':
 		'如果正常方式失败，请尝试使用<a href="files/unchecky_cleaner.exe">Unchecky清理工具</a>，它可卸载损坏的Unckecky安装。',
 	
