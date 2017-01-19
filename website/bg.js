@@ -23,8 +23,8 @@ jquery_lang_js.prototype.lang.bg = {
 	
 	// Footer
 	
-	'Copyright © 2016 Reason Company Software Inc.':
-		'Всички права запазени © 2016 Reason Company Software Inc. Български превод: Night_Raven.',
+	'Copyright © 2017 Reason Company Software Inc.':
+		'Всички права запазени © 2017 Reason Company Software Inc. Български превод: Night_Raven.',
 	
 	// Legal
 	

@@ -23,8 +23,8 @@ jquery_lang_js.prototype.lang.pl = {
 	
 	// Footer
 	
-	'Copyright © 2016 Reason Company Software Inc.':
-		'Copyright © 2016 Reason Company Software Inc. Polskie tłumaczenie: <a href="mailto:pkolasa@outlook.com?Subject=Tłumaczenie Unchecky">Piotr Kolasa</a>',
+	'Copyright © 2017 Reason Company Software Inc.':
+		'Copyright © 2017 Reason Company Software Inc. Polskie tłumaczenie: <a href="mailto:pkolasa@outlook.com?Subject=Tłumaczenie Unchecky">Piotr Kolasa</a>',
 	
 	// Legal
 	

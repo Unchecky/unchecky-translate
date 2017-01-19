@@ -23,8 +23,8 @@ jquery_lang_js.prototype.lang.ko_kr = {
 	
 	// Footer
 	
-	'Copyright © 2016 Reason Company Software Inc.':
-		'Copyright © 2016 Reason Company Software Inc. 한국어： <a href="mailto:ukjinplant@msn.com">컴포지트</a>',
+	'Copyright © 2017 Reason Company Software Inc.':
+		'Copyright © 2017 Reason Company Software Inc. 한국어： <a href="mailto:ukjinplant@msn.com">컴포지트</a>',
 	
 	// Legal
 	
