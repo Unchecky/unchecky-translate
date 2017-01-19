@@ -29,7 +29,7 @@ IDS_CONFIG_EMPTY_MESSAGE
                         "Страницата с настройките е някак бедна, знам. Планирани са още опции занапред."
 IDS_CONFIG_ADVANCED     "&Разширени настройки"
 IDS_ABOUT_BETA          "бета"
-IDS_ABOUT_AUTHOR        "© 2016 Reason Company Software Inc. • Преведена от Night_Raven"
+IDS_ABOUT_AUTHOR        "© 2017 Reason Company Software Inc. • Преведена от Night_Raven"
 IDS_ABOUT_LINKS         "<a href=""http://unchecky.com/"">Официална страница</a> • <a href=""http://unchecky.userecho.com/"">Тракер на бъгове/функции</a>"
 IDS_ABOUT_LINKS_LEGAL   "<a href=""http://unchecky.com/eula"">Лицензионно споразумение</a> • <a href=""http://unchecky.com/privacy_policy"">Декларация за поверителност</a>"
 IDS_ERROR_LINK          "Връзката не може да бъде отворена.\n\nЗа да използвате уеб връзки, трябва да имате уеб браузър (например Internet Explorer). За да използвате пощенски връзки, трябва да имате пощенски клиент (например Windows Live Mail или Outlook)."

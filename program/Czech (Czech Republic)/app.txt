@@ -29,7 +29,7 @@ IDS_CONFIG_EMPTY_MESSAGE
                         "Já vím, stránka s nastavením se zdá poněkud prázdná. V budoucnu se plánuje více možností nastavení."
 IDS_CONFIG_ADVANCED     "Pokročilá nasta&vení"
 IDS_ABOUT_BETA          "beta"
-IDS_ABOUT_AUTHOR        "© 2016 Reason Company Software Inc. • Autor překladu: <a href=""mailto:lubomir.salek@gmail.com"">Lubomír 'slampisko' Šálek</a>"
+IDS_ABOUT_AUTHOR        "© 2017 Reason Company Software Inc. • Autor překladu: <a href=""mailto:lubomir.salek@gmail.com"">Lubomír 'slampisko' Šálek</a>"
 IDS_ABOUT_LINKS         "<a href=""http://unchecky.com/"">Webová stránka projektu</a> • <a href=""http://unchecky.userecho.com/"">Sledování bugů a nových vlastností</a>"
 IDS_ABOUT_LINKS_LEGAL   "<a href=""http://unchecky.com/eula"">Licenční smlouva koncového uživatele (EULA)</a> • <a href=""http://unchecky.com/privacy_policy"">Zásady ochrany osobních údajů</a>"
 IDS_ERROR_LINK          "Odkaz nemohl být otevřen.\n\nAbyste mohli používat odkazy, musíte mít webový prohlížeč (např. Internet Explorer). Abyste mohli používat mailové odkazy, potřebujete e-mailového klienta (např. Windows Live Mail nebo Outlook)."

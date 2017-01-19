@@ -28,7 +28,7 @@ IDS_CONFIG_EMPTY_MESSAGE
                         "La pagina delle impostazioni è ancora vuota, lo so. Più personalizzazione è prevista in futuro."
 IDS_CONFIG_ADVANCED     "Impostazioni a&vanzate"
 IDS_ABOUT_BETA          "beta"
-IDS_ABOUT_AUTHOR        "© 2016 Reason Company Software Inc. • Tradotto da <a href=""mailto:gianni4592@gmail.com"">Gianni Angelozzi</a>"
+IDS_ABOUT_AUTHOR        "© 2017 Reason Company Software Inc. • Tradotto da <a href=""mailto:gianni4592@gmail.com"">Gianni Angelozzi</a>"
 IDS_ABOUT_LINKS         "<a href=""http://unchecky.com/"">Sito web</a> • <a href=""http://unchecky.userecho.com/"">Segnalazione errori</a>"
 IDS_ABOUT_LINKS_LEGAL   "<a href=""http://unchecky.com/eula"">End-User License Agreement</a> • <a href=""http://unchecky.com/privacy_policy"">Privacy Policy</a>"
 IDS_ERROR_LINK          "Impossibile aprire il collegamento.\n\nPer poter aprire un indirizzo web, è necessario disporre di un browser web (es. Internet Explorer). Per aprire un indirizzo email, è necessario un client di posta elettronica (es. Windows Live Mail o Outlook)."

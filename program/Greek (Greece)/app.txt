@@ -29,7 +29,7 @@ IDS_CONFIG_EMPTY_MESSAGE
                         "Η σελίδα ρυθμίσεων δείχνει λίγο άδεια τώρα. Το ξέρω. Οι περισσότερες δυνατότητες προσαρμογής είναι προγραμματισμένες για το μέλλον."
 IDS_CONFIG_ADVANCED     "Π&ροηγμένες ρυθμίσεις"
 IDS_ABOUT_BETA          "δοκιμαστική"
-IDS_ABOUT_AUTHOR        "© 2016 Reason Company Software Inc. • Μεταφράστηκε από <a href=""http://www.geogeo.gr/"">geogeo.gr</a>"
+IDS_ABOUT_AUTHOR        "© 2017 Reason Company Software Inc. • Μεταφράστηκε από <a href=""http://www.geogeo.gr/"">geogeo.gr</a>"
 IDS_ABOUT_LINKS         "<a href=""http://unchecky.com/"">Ιστοσελίδα</a> • <a href=""http://unchecky.userecho.com/"">Ανιχνευτής σφαλμάτων/χαρακτηριστικών</a>"
 IDS_ABOUT_LINKS_LEGAL   "<a href=""http://unchecky.com/eula"">Άδεια χρήσης τελικού χρήστη</a> • <a href=""http://unchecky.com/privacy_policy"">Πολιτική προστασίας προσωπικών δεδομένων</a>"
 IDS_ERROR_LINK          "Δεν ήταν δυνατό το άνοιγμα της σύνδεσης.\n\nΠροκειμένου να χρησιμοποιήσετε συνδέσεις διαδικτύου, θα πρέπει να έχετε ένα πρόγραμμα περιήγησης ιστού (π.χ. Internet Explorer). Προκειμένου να χρησιμοποιήσετε δεσμούς e-mail, θα πρέπει να έχετε ένα πρόγραμμα email (π.χ. Windows Live Mail ή Outlook)."

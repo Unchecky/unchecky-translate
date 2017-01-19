@@ -28,7 +28,7 @@ IDS_CONFIG_EMPTY_MESSAGE
                         "Halaman pengaturan terasa kosong saat ini. Kustomisasi lebih lanjut sedang direncanakan untuk di masa yang akan datang."
 IDS_CONFIG_ADVANCED     "Pengaturan lanjutan"
 IDS_ABOUT_BETA          "beta"
-IDS_ABOUT_AUTHOR        "© 2016 Reason Company Software Inc. • Translated by <a href=""mailto:haydar_ai@yahoo.com"">Haydar Ali Ismail</a>"
+IDS_ABOUT_AUTHOR        "© 2017 Reason Company Software Inc. • Translated by <a href=""mailto:haydar_ai@yahoo.com"">Haydar Ali Ismail</a>"
 IDS_ABOUT_LINKS         "<a href=""http://unchecky.com/"">Situs web</a> • <a href=""http://unchecky.userecho.com/"">Bug/pelacak fitur</a>"
 IDS_ABOUT_LINKS_LEGAL   "<a href=""http://unchecky.com/eula"">Perjanjian lisensi</a> • <a href=""http://unchecky.com/privacy_policy"">Kebijakan privasi</a>"
 IDS_ERROR_LINK          "Tidak bisa membuka tautan.\n\nUntuk menggunakan tautan, anda harus mempunyai sebuah web browser (misal Internet Explorer). Untuk menggunakan tautan email, anda harus mempunyai klien email (misal Windows Live Mail atau Outlook)."
