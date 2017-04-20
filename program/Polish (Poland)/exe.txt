@@ -2,4 +2,4 @@ IDS_OFFER_REJECTED      "Odrzucono ofertę instalacji potencjalnie niechcianego 
 IDS_SOME_OFFERS_REJECTED 
                         "Odrzucono następującą ilość potencjalnie niechcianych ofert: %d!"
 IDS_OFFER_REJECTED_MORE "Kliknij tutaj, aby uzyskać więcej szczegółów..."
-IDS_BROWSER_WARNING     "Warning from %s:\nBy accepting this, you may install a program you didn't intend"
+IDS_BROWSER_WARNING     "Ostrzeżenie z %s:\nAkceptując tę opcję, możesz zainstalować niechciaby program"
