@@ -24,7 +24,7 @@ IDS_MAINCTRL_STOP       "&Zatrzymaj usługę"
 IDS_MAINCTRL_START      "&Wznów usługę"
 IDS_CONFIG_LANG         "&Język:"
 IDS_CONFIG_NO_TRAY_ICON "Nie wyświetlaj &ikony w pasku powiadomień"
-IDS_CONFIG_NO_WARNING_TOOLTIPS "Don't display warning &tooltips"
+IDS_CONFIG_NO_WARNING_TOOLTIPS "Nie wyświetlaj &powiadomień"
 IDS_CONFIG_EMPTY_MESSAGE 
                         "Ta strona póki co jest pusta, ale intensywnie pracujemy nad wzbogaceniem jej o nowe możliwości dostosowania Unchecky do Twoich życzeń."
 IDS_CONFIG_ADVANCED     "Zaa&wansowane ustawienia"
