@@ -15,6 +15,7 @@ IDS_EXTRACTRL_FOLDER_GROUP "Cílový &Adresář"
 IDS_EXTRACTRL_FOLDER_BROWSE "P&rocházet..."
 IDS_EXTRACTRL_BROWSE_TEXT 
                         "Vyberte složku, do které se má Unchecky nainstalovat:"
+IDS_EXTRACTRL_DESKTOP_SHORTCUT "Create a &desktop shortcut"
 IDS_FINISHCTRL_TITLE    "Služba programu Unchecky byla úspěšně spuštěna!"
 IDS_FINISHCTRL_TEXT     "Gratulujeme! Program Unchecky byl úspěšně nainstalován na Váš počítač.\n\nSlužba programu Unchecky bude běžet v pozadí a monitorovat Vaše instalátory. Program Unchecky můžete kdykoliv spustit s použitím ikony na ploše a zkontrolovat, kolik zatržítek bylo odškrtnuto."
 IDS_MAIN_ERROR_UNCHECKY_RUNNING 

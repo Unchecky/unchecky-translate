@@ -14,6 +14,7 @@ IDS_EXTRACTRL_TEXT      "Uncheckyは次のフォルダにインストールさ�
 IDS_EXTRACTRL_FOLDER_GROUP "移動先フォルダ(&F)"
 IDS_EXTRACTRL_FOLDER_BROWSE "参照(&R)..."
 IDS_EXTRACTRL_BROWSE_TEXT "Uncheckyをインストールするフォルダを選択します："
+IDS_EXTRACTRL_DESKTOP_SHORTCUT "Create a &desktop shortcut"
 IDS_FINISHCTRL_TITLE    "Unchecky サービスは実行中です"
 IDS_FINISHCTRL_TEXT     "Uncheckyがコンピュータにインストールされました。\n\n[終了]をクリックするとセットアップ画面を閉じます。"
 IDS_MAIN_ERROR_UNCHECKY_RUNNING "続行する前にUncheckyのすべてのインスタンスを閉じてください"

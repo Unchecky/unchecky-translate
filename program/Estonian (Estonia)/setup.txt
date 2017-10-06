@@ -14,6 +14,7 @@ IDS_EXTRACTRL_TEXT      "Unchecky paigaldatakse järgnevasse kausta. Mõne muu k
 IDS_EXTRACTRL_FOLDER_GROUP "Paigaldamise &asukoht"
 IDS_EXTRACTRL_FOLDER_BROWSE "S&irvi..."
 IDS_EXTRACTRL_BROWSE_TEXT "Vali kaust, kuhu soovid Unchecky paigaldada:"
+IDS_EXTRACTRL_DESKTOP_SHORTCUT "Create a &desktop shortcut"
 IDS_FINISHCTRL_TITLE    "Unchecky teenus on sees ja töötab"
 IDS_FINISHCTRL_TEXT     "Õnnitleme! Unchecky on edukalt arvutisse paigaldatud.\n\nUnchecky teenus töötab reaalajas, jälgides arvutis käivitatavaid paigaldusfaile. Unchecky saab avada läbi töölaua või Start menüü ikooni, et näha statistikat eemaldatud märkekastide kohta või muuta seadeid."
 IDS_MAIN_ERROR_UNCHECKY_RUNNING "Palun sulge Unchecky enne jätkamist"

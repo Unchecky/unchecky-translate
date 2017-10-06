@@ -15,6 +15,7 @@ IDS_EXTRACTRL_FOLDER_GROUP "Zielordner"
 IDS_EXTRACTRL_FOLDER_BROWSE "Du&rchsuchen..."
 IDS_EXTRACTRL_BROWSE_TEXT 
                         "Wähle den Ordner aus wo Unchecky installiert werden soll:"
+IDS_EXTRACTRL_DESKTOP_SHORTCUT "Create a &desktop shortcut"
 IDS_FINISHCTRL_TITLE    "Der Unchecky Dienst ist gestartet"
 IDS_FINISHCTRL_TEXT     "Unchecky wurde auf deinem Computer installiert.\n\nKlicke Fertigstellen um das Setup zu beenden."
 IDS_MAIN_ERROR_UNCHECKY_RUNNING 

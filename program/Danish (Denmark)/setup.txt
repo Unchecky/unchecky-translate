@@ -15,6 +15,7 @@ IDS_EXTRACTRL_FOLDER_GROUP "&Installationsmappe"
 IDS_EXTRACTRL_FOLDER_BROWSE "&Browse..."
 IDS_EXTRACTRL_BROWSE_TEXT 
                         "Vælg den mappe, hvor Unchecky skal installeres:"
+IDS_EXTRACTRL_DESKTOP_SHORTCUT "Create a &desktop shortcut"
 IDS_FINISHCTRL_TITLE    "Unchecky kører"
 IDS_FINISHCTRL_TEXT     "Unchecky er installeret på din computer.\n\nKlik på Slut for at afslutte installationen."
 IDS_MAIN_ERROR_UNCHECKY_RUNNING 

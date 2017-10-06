@@ -14,6 +14,7 @@ IDS_EXTRACTRL_TEXT      "Unchecky will be installed in the following folder. To 
 IDS_EXTRACTRL_FOLDER_GROUP "Destination &Folder"
 IDS_EXTRACTRL_FOLDER_BROWSE "B&rowse..."
 IDS_EXTRACTRL_BROWSE_TEXT "Select the folder to install Unchecky in:"
+IDS_EXTRACTRL_DESKTOP_SHORTCUT "Create a &desktop shortcut"
 IDS_FINISHCTRL_TITLE    "The Unchecky service is up and running!"
 IDS_FINISHCTRL_TEXT     "Congratulations! Unchecky has been successfully installed on your computer.\n\nThe Unchecky service will continuously run in the background, monitoring your installers. You can launch Unchecky at any time from the desktop icon to see how many checkboxes were unchecked."
 IDS_MAIN_ERROR_UNCHECKY_RUNNING 

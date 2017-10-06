@@ -14,6 +14,7 @@ IDS_EXTRACTRL_TEXT      "Unchecky a következő mappába települ. Ha más helyr
 IDS_EXTRACTRL_FOLDER_GROUP "Rendeltetési &mappa"
 IDS_EXTRACTRL_FOLDER_BROWSE "T&allózás"
 IDS_EXTRACTRL_BROWSE_TEXT "Adja meg az Unchecky telepítési mappáját:"
+IDS_EXTRACTRL_DESKTOP_SHORTCUT "Create a &desktop shortcut"
 IDS_FINISHCTRL_TITLE    "A Unchecky szolgáltatás bejelölve és aktíválva!"
 IDS_FINISHCTRL_TEXT     "Gratulálunk! Unchecky sikeresen telepítve lett a számítógépre.\n\nAz Unchecky szolgáltatás folyamatosan fog futni a háttérben és ellenőrzi a telepítők műveleteit. Az Unchecky bármikor futtatható az asztali ikonról, hogy meggyőződhessen mennyi jelölőnégyzetből lett eltávolítva a pipa."
 IDS_MAIN_ERROR_UNCHECKY_RUNNING 

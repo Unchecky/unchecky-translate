@@ -14,6 +14,7 @@ IDS_EXTRACTRL_TEXT      "Unchecky将安装在以下文件夹。要安装在不�
 IDS_EXTRACTRL_FOLDER_GROUP "目标&文件夹"
 IDS_EXTRACTRL_FOLDER_BROWSE "&浏览..."
 IDS_EXTRACTRL_BROWSE_TEXT "选择安装Unchecky的文件夹："
+IDS_EXTRACTRL_DESKTOP_SHORTCUT "Create a &desktop shortcut"
 IDS_FINISHCTRL_TITLE    "Unchecky服务正在运行"
 IDS_FINISHCTRL_TEXT     "Unchecky已在你的电脑上安装。\n\n点击“完成”关闭安装。"
 IDS_MAIN_ERROR_UNCHECKY_RUNNING "请在继续前关闭所有Unchecky实例"

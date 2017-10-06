@@ -15,6 +15,7 @@ IDS_EXTRACTRL_FOLDER_GROUP "Целева папка"
 IDS_EXTRACTRL_FOLDER_BROWSE "Посочване..."
 IDS_EXTRACTRL_BROWSE_TEXT 
                         "Изберете папката, в която да се инсталира Unchecky:"
+IDS_EXTRACTRL_DESKTOP_SHORTCUT "Create a &desktop shortcut"
 IDS_FINISHCTRL_TITLE    "Услугата на Unchecky е стартирана и работи!"
 IDS_FINISHCTRL_TEXT     "Поздравления! Unchecky беше успешно инсталирана на Вашия компютър.\n\nУслугата на Unchecky ще работи постоянно на заден план, следейки Вашите инсталации. Можете да стартирате Unchecky по всяко време от иконата на работния плот, за да видите колко квадратчета са били размаркирани."
 IDS_MAIN_ERROR_UNCHECKY_RUNNING 

@@ -14,6 +14,7 @@ IDS_EXTRACTRL_TEXT      "Unchecky wordt in deze map geïnstalleerd. Klik op Zoek
 IDS_EXTRACTRL_FOLDER_GROUP "Bestemmingsmap"
 IDS_EXTRACTRL_FOLDER_BROWSE "Zoeken..."
 IDS_EXTRACTRL_BROWSE_TEXT "Kies een map om Unchecky te installeren:"
+IDS_EXTRACTRL_DESKTOP_SHORTCUT "Create a &desktop shortcut"
 IDS_FINISHCTRL_TITLE    "De Unchecky-service is actief"
 IDS_FINISHCTRL_TEXT     "Gefeliciteerd! Unchecky is geïnstalleerd op uw computer.\n\nDe Unchecky-service draait in de achtergrond en waakt over uw installatieprogramma's. U kunt Unchecky op elk moment starten om te zien hoeveel programma-installaties zijn afgewezen."
 IDS_MAIN_ERROR_UNCHECKY_RUNNING 
