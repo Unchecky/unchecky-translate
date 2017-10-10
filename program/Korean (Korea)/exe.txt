@@ -1,4 +1,4 @@
-IDS_OFFER_REJECTED      "잠재적 원치 않는 프로그램을 거부하였습니다!"
-IDS_SOME_OFFERS_REJECTED "%d 개의 잠재적 원치 않는 프로그램을 거부하였습니다!"
-IDS_OFFER_REJECTED_MORE "클릭하여 자세한 사항 확인..."
-IDS_BROWSER_WARNING     "Warning from %s:\nBy accepting this, you may install a program you didn't intend"
+IDS_OFFER_REJECTED      "잠재적으로 불필요한 프로그램 제공을 거부했습니다!"
+IDS_SOME_OFFERS_REJECTED "%d 개의 잠재적으로 불필요한 프로그램을 거부했습니다!"
+IDS_OFFER_REJECTED_MORE "자세한 정보는 여기를 누르십시오..."
+IDS_BROWSER_WARNING     "%s 경고:\n이 것을 누르면, 의도하지 않은 프로그램을 설치하게 됩니다."
