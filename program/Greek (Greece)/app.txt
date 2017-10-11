@@ -11,7 +11,7 @@ IDS_MAINCTRL_TEXT       "Καλώς ήλθατε στο Unchecky. Το πρόγ�
 IDS_MAINCTRL_TEXT_SVC_RUNNING 
                         "Η υπηρεσία Unchecky είναι έτοιμη και λειτουργεί."
 IDS_MAINCTRL_TEXT_SVC_STOPPED 
-                        "Η υπηρεσία Unchecky έχει ανασταλεί. Η υπηρεσία θα συνεχιστεί κατά την επανεκκίνηση του υπολογιστή."
+                        "Η υπηρεσία Unchecky έχει ανασταλεί. Η υπηρεσία θα συνεχιστεί μετά την επανεκκίνηση του υπολογιστή."
 IDS_MAINCTRL_TEXT_QUERYERROR 
                         "Παρουσιάστηκε σφάλμα κατά τον έλεγχο κατάστασης της υπηρεσίας Unchecky."
 IDS_MAINCTRL_STATS_NONE_NEWGUY 
@@ -26,12 +26,12 @@ IDS_CONFIG_LANG         "&Γλώσσα:"
 IDS_CONFIG_NO_TRAY_ICON "Να μην εμφανίζεται &εικονίδιο στην περιοχή ειδοποιήσεων"
 IDS_CONFIG_NO_WARNING_TOOLTIPS 
                         "Να μην εμφανίζονται &μηνύματα προειδοποίησης"
-IDS_CONFIG_EXCLUDED     "E&xcluded programs:"
-IDS_CONFIG_EXCLUDED_ADD "A&dd..."
-IDS_CONFIG_EXCLUDED_REMOVE "&Remove"
+IDS_CONFIG_EXCLUDED     "Ε&ξαιρούμενα προγράμματα:"
+IDS_CONFIG_EXCLUDED_ADD "&Προσθήκη..."
+IDS_CONFIG_EXCLUDED_REMOVE "&Αφαίρεση"
 IDS_CONFIG_ADVANCED     "Π&ροηγμένες ρυθμίσεις"
 IDS_ABOUT_BETA          "δοκιμαστική"
-IDS_ABOUT_AUTHOR        "© 2017 Reason Company Software Inc. • Μεταφράστηκε από <a href=""http://www.geogeo.gr/"">geogeo.gr</a>"
+IDS_ABOUT_AUTHOR        "© 2017 Reason Company Software Inc. • Μεταφράστηκε από <a href=""https://www.geogeo.gr/"">geogeo.gr</a>"
 IDS_ABOUT_LINKS         "<a href=""http://unchecky.com/"">Ιστοσελίδα</a> • <a href=""http://unchecky.userecho.com/"">Ανιχνευτής σφαλμάτων/χαρακτηριστικών</a>"
 IDS_ABOUT_LINKS_LEGAL   "<a href=""http://unchecky.com/eula"">Άδεια χρήσης τελικού χρήστη</a> • <a href=""http://unchecky.com/privacy_policy"">Πολιτική προστασίας προσωπικών δεδομένων</a>"
 IDS_ERROR_LINK          "Δεν ήταν δυνατό το άνοιγμα της σύνδεσης.\n\nΠροκειμένου να χρησιμοποιήσετε συνδέσεις διαδικτύου, θα πρέπει να έχετε ένα πρόγραμμα περιήγησης ιστού (π.χ. Internet Explorer). Προκειμένου να χρησιμοποιήσετε δεσμούς e-mail, θα πρέπει να έχετε ένα πρόγραμμα email (π.χ. Windows Live Mail ή Outlook)."
@@ -43,7 +43,7 @@ IDS_ADVOPT_RESTART_TEXT "Πρέπει να γίνει επανεκκίνηση �
 IDS_LOG_TITLE           "Μητρώο δραστηριότητας"
 IDS_LOG_HANDLED_TEXT    "Συγχαρητήρια. Το Unchecky μόλις εμπόδισε την εγκατάσταση ενός πιθανώς ανεπιθύμητου προγράμματος στον υπολογιστή σας!"
 IDS_LOG_MAINTEXT        "Παρακάτω είναι η καταγραφή της δραστηριότητας του Unchecky. Μπορείτε να δείτε τι εγκαταστάτες αντιμετώπισε, πόσες προσφορές απορρίφθηκαν και πόσες ήταν οι προειδοποιήσεις που εμφανίστηκαν."
-IDS_LOG_TABLE_DATE      "Ημερομηνία && Ώρα"
+IDS_LOG_TABLE_DATE      "Ημερομηνία & Ώρα"
 IDS_LOG_TABLE_INSTALLER "Όνομα εγκαταστάτη"
 IDS_LOG_TABLE_DECLINED  "Απορριφθείσες προσφορές"
 IDS_LOG_TABLE_WARNED    "Εμφανίσεις προειδοποιήσεων"
