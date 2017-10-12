@@ -7,7 +7,7 @@ IDS_MAIN_INSTALL        "Deinstallieren"
 IDS_MAIN_INSTALLING     "Deinstalliere..."
 IDS_MAIN_FINISH         "&Fertigstellen"
 IDS_MAIN_ERROR_UNCHECKY_RUNNING 
-                        "Bitte schließen alle Instanzen von Unchecky bevor du fortfährst."
+                        "Bitte schließe alle Instanzen von Unchecky bevor du fortfährst."
 IDS_MAINCTRL_TEXT       "Unchecky wird aus dem folgenden Ordner deinstalliert. Klicke Deinstallieren um die Deinstallation zu starten."
 IDS_MAINCTRL_PATHTEXT   "Deinstallieren von:"
 IDS_MAINCTRL_REMOVE_SETTINGS "Gespeicherte Ein&stellungen entfernen"
