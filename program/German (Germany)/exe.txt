@@ -2,4 +2,4 @@ IDS_OFFER_REJECTED      "Ein Angebot für potenziell ungewollte Software wurde a
 IDS_SOME_OFFERS_REJECTED 
                         "%d Angebote für potenziell ungewollte Software wurden abgelehnt!"
 IDS_OFFER_REJECTED_MORE "Klicke hier für mehr Details..."
-IDS_BROWSER_WARNING     "Warning from %s:\nBy accepting this, you may install a program you didn't intend"
+IDS_BROWSER_WARNING     "Warnung von %s:\nWenn du dies akzeptierst, dann wird möglicherweise ein Programm installiert welches du nicht wolltest"
