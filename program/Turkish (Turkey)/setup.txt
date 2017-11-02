@@ -15,7 +15,7 @@ IDS_EXTRACTRL_FOLDER_GROUP "Hedef &Klasör"
 IDS_EXTRACTRL_FOLDER_BROWSE "G&özat..."
 IDS_EXTRACTRL_BROWSE_TEXT 
                         "Unchecky uygulamasının kurulacağı dizini seçin:"
-IDS_EXTRACTRL_DESKTOP_SHORTCUT "Create a &desktop shortcut"
+IDS_EXTRACTRL_DESKTOP_SHORTCUT "Masaüstü kısayolu oluştur"
 IDS_FINISHCTRL_TITLE    "Unchecky hizmeti çalışır durumda"
 IDS_FINISHCTRL_TEXT     "Unchecky bilgisayarınıza yüklendi.\n\nKurulumu kapatmak için Bitir düğmesine tıklayın."
 IDS_MAIN_ERROR_UNCHECKY_RUNNING 
