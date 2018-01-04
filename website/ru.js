@@ -23,8 +23,8 @@ jquery_lang_js.prototype.lang.ru = {
 	
 	// Footer
 	
-	'Copyright © 2017 Reason Company Software Inc.':
-		'Copyright © 2017 Reason Company Software Inc. Перевод: Усманов Алешер.',
+	'Copyright © 2018 Reason Company Software Inc.':
+		'Copyright © 2018 Reason Company Software Inc. Перевод: Усманов Алешер.',
 	
 	// Legal
 	

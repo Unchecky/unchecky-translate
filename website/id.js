@@ -23,8 +23,8 @@ jquery_lang_js.prototype.lang.id = {
 	
 	// Footer
 	
-	'Copyright © 2017 Reason Company Software Inc.':
-		'Hak Cipta © 2017 Reason Company Software Inc.',
+	'Copyright © 2018 Reason Company Software Inc.':
+		'Hak Cipta © 2018 Reason Company Software Inc.',
 	
 	// Legal
 	

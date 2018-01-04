@@ -23,8 +23,8 @@ jquery_lang_js.prototype.lang.tr = {
 	
 	// Footer
 	
-	'Copyright © 2017 Reason Company Software Inc.':
-		'Telif hakkı © 2017 Reason Company Software Inc. Türkçe çeviri : <a href="mailto:fatihfirinci@gmail.com">Fatih Fırıncı</a>.',
+	'Copyright © 2018 Reason Company Software Inc.':
+		'Telif hakkı © 2018 Reason Company Software Inc. Türkçe çeviri : <a href="mailto:fatihfirinci@gmail.com">Fatih Fırıncı</a>.',
 	
 	// Legal
 	

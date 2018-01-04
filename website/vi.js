@@ -23,8 +23,8 @@ jquery_lang_js.prototype.lang.vi = {
 	
 	// Footer
 	
-	'Copyright © 2017 Reason Company Software Inc.':
-		'Bản quyền © 2017 Reason Company Software Inc. Bản dịch tiếng Việt: <a href="mailto:thanhtai2009@outlook.com?Subject=Unchecky">thanhtai2009@tekcafe.vn</a>.',
+	'Copyright © 2018 Reason Company Software Inc.':
+		'Bản quyền © 2018 Reason Company Software Inc. Bản dịch tiếng Việt: <a href="mailto:thanhtai2009@outlook.com?Subject=Unchecky">thanhtai2009@tekcafe.vn</a>.',
 	
 	// Legal
 	

@@ -23,8 +23,8 @@ jquery_lang_js.prototype.lang.nl = {
 	
 	// Footer
 	
-	'Copyright © 2017 Reason Company Software Inc.':
-		'Copyright © 2017 Reason Company Software Inc. Nederlandse vertaling: <a href="mailto:contact@studio384.be">Studio 384</a>, S. Paternotte.',
+	'Copyright © 2018 Reason Company Software Inc.':
+		'Copyright © 2018 Reason Company Software Inc. Nederlandse vertaling: <a href="mailto:contact@studio384.be">Studio 384</a>, S. Paternotte.',
 	
 	// Legal
 	

@@ -23,8 +23,8 @@ jquery_lang_js.prototype.lang.he = {
 	
 	// Footer
 	
-	'Copyright © 2017 Reason Company Software Inc.':
-		'Copyright © 2017 Reason Company Software Inc.',
+	'Copyright © 2018 Reason Company Software Inc.':
+		'Copyright © 2018 Reason Company Software Inc.',
 	
 	// Legal
 	

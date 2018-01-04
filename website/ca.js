@@ -23,8 +23,8 @@ jquery_lang_js.prototype.lang.ca = {
 	
 	// Footer
 	
-	'Copyright © 2017 Reason Company Software Inc.':
-		'© 2017 Reason Company Software Inc. Traducció a càrrec de: <a href="mailto:bennybeat+unchecky@gmail.com">BennyBeat [CATegoria]</a>',
+	'Copyright © 2018 Reason Company Software Inc.':
+		'© 2018 Reason Company Software Inc. Traducció a càrrec de: <a href="mailto:bennybeat+unchecky@gmail.com">BennyBeat [CATegoria]</a>',
 	
 	// Legal
 	
