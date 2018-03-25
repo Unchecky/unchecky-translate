@@ -8,14 +8,10 @@ IDS_HEADER_MAIN         "&Início"
 IDS_HEADER_CONFIG       "Configurações"
 IDS_HEADER_ABOUT        "Sobre"
 IDS_MAINCTRL_TEXT       "Bem vindo ao Unchecky, o programa que procura manter programas potencialmente indesejados fora do seu computador."
-IDS_MAINCTRL_TEXT_SVC_RUNNING 
-                        "O serviço Unchecky está pronto e funcionando."
-IDS_MAINCTRL_TEXT_SVC_STOPPED 
-                        "O serviço Unchecky está suspenso e será retomado após a reinicialização do computador."
-IDS_MAINCTRL_TEXT_QUERYERROR 
-                        "Um erro ocorreu ao verificar o status do serviço Unchecky."
-IDS_MAINCTRL_STATS_NONE_NEWGUY 
-                        "Parece que o Unchecky acabou de ser instalado. Ainda não há dados para exibir."
+IDS_MAINCTRL_TEXT_SVC_RUNNING "O serviço Unchecky está pronto e funcionando."
+IDS_MAINCTRL_TEXT_SVC_STOPPED "O serviço Unchecky está suspenso e será retomado após a reinicialização do computador."
+IDS_MAINCTRL_TEXT_QUERYERROR "Um erro ocorreu ao verificar o status do serviço Unchecky."
+IDS_MAINCTRL_STATS_NONE_NEWGUY "Parece que o Unchecky acabou de ser instalado. Ainda não há dados para exibir."
 IDS_MAINCTRL_STATS_NONE "Nenhuma caixa de seleção foi desmarcada até agora. Parece que você mantém distância de programas potencialmente indesejados, bom trabalho!"
 IDS_MAINCTRL_STATS      "Desde %s, %u caixas de seleção foram desmarcadas%s."
 IDS_MAINCTRL_STATS_WARNING " e %u alertas foram mostrados"
@@ -50,11 +46,9 @@ IDS_LOG_BALLOON_TOOLTIP "Deseja ajudar o Unchecky a evitar programas potencialme
 IDS_LOG_SHARE_FACEBOOK  "Compartilhar no Facebook"
 IDS_LOG_SHARE_TWITTER   "Compartilhar no Twitter"
 IDS_LOG_SHARE_EMAIL     "Compartilhar por Email"
-IDS_SHARE_TWITTER_GENERIC 
-                        "@uncheckyreason ajuda a impedir que programas potencialmente indesejados seja instalado no seu computador. Altamente recomendado! #anti_pup"
+IDS_SHARE_TWITTER_GENERIC "@uncheckyreason ajuda a impedir que programas potencialmente indesejados seja instalado no seu computador. Altamente recomendado! #anti_pup"
 IDS_SHARE_TWITTER_MAIN  "Ao instalar %1, @uncheckyreason %2. Altamente recomendado! #anti_pup"
-IDS_SHARE_TWITTER_PREVENTED 
-                        "impediu %u programas potencialmente indesejados"
+IDS_SHARE_TWITTER_PREVENTED "impediu %u programas potencialmente indesejados"
 IDS_SHARE_TWITTER_AND   " and "
 IDS_SHARE_TWITTER_WARNED "me alertou sobre %u oferece"
 IDS_LOG_EMAIL_GMAIL     "&Gmail"
@@ -65,7 +59,6 @@ IDS_LOG_CLEAR_WARNING   "Registro de atividades serão apagados. Você tem certe
 IDS_SHARE_EMAIL_SUBJECT "A Recomendação do Programa: Unchecky"
 IDS_SHARE_EMAIL_MAIN    "Olá!\n\nI quero recomendar-lhe um grande programa que eu encontrei recentemente.\nChamado Unchecky e ajuda a impedir que programas potencialmente indesejados que está sendo instalado no seu computado.\n%1Você pode obtê-lo aqui:\nhttp://unchecky.com/?ref=email\n\nObrigado."
 IDS_SHARE_EMAIL_EXAMPLE "Por exemplo, ao %1 instalar o seguinte programa: %2.\n"
-IDS_SHARE_EMAIL_PREVENTED 
-                        "impediu %u programas potencialmente indesejados"
+IDS_SHARE_EMAIL_PREVENTED "impediu %u programas potencialmente indesejados"
 IDS_SHARE_EMAIL_AND     " e "
 IDS_SHARE_EMAIL_WARNED  "me alertou sobre %u oferece"

@@ -17,7 +17,6 @@ IDS_EXTRACTRL_BROWSE_TEXT "בחר את התיקייה בה ברצונך ש-Unche
 IDS_EXTRACTRL_DESKTOP_SHORTCUT "צור &קיצור דרך על שולחן העבודה"
 IDS_FINISHCTRL_TITLE    "שירות Unchecky פועל."
 IDS_FINISHCTRL_TEXT     "מזל טוב! Unchecky הותקן בהצלחה על גבי מחשבך.\n\nשירות Unchecky ירוץ ברקע וינטר התקנות תוכנות בכל עת. אתה יכול להפעיל את Unchecky משולחן העבודה שלך בכל עת, על מנת לראות כמה תיבות סימון הוצלו באמצעות התוכנה."
-IDS_MAIN_ERROR_UNCHECKY_RUNNING 
-                        "אנא סגור את כל החלוניות של Unchecky לפני שאתה ממשיך"
+IDS_MAIN_ERROR_UNCHECKY_RUNNING "אנא סגור את כל החלוניות של Unchecky לפני שאתה ממשיך"
 IDS_MAIN_UPDATE         "&עדכון"
 IDS_MAIN_UPDATING       "&מעדכן..."

@@ -9,12 +9,9 @@ IDS_HEADER_CONFIG       "Pengaturan"
 IDS_HEADER_ABOUT        "Tentang"
 IDS_MAINCTRL_TEXT       "Selamat Datang di Unchecky, Aplikasi ini untuk mencegah Aplikasi yang tidak ingin Anda Pasang Pada Komputer Anda."
 IDS_MAINCTRL_TEXT_SVC_RUNNING "Layanan Unchecky menyala dan berjalan."
-IDS_MAINCTRL_TEXT_SVC_STOPPED 
-                        "Layanan Unchecky berhenti. Layanan akan dilanjutkan setelah restart komputer."
-IDS_MAINCTRL_TEXT_QUERYERROR 
-                        "Kesalah terjadi ketika memerika status layanan Unchecky."
-IDS_MAINCTRL_STATS_NONE_NEWGUY 
-                        "Tampaknya Unchecky baru saja terinstall. Belum ada data yang bisa ditampilkan."
+IDS_MAINCTRL_TEXT_SVC_STOPPED "Layanan Unchecky berhenti. Layanan akan dilanjutkan setelah restart komputer."
+IDS_MAINCTRL_TEXT_QUERYERROR "Kesalah terjadi ketika memerika status layanan Unchecky."
+IDS_MAINCTRL_STATS_NONE_NEWGUY "Tampaknya Unchecky baru saja terinstall. Belum ada data yang bisa ditampilkan."
 IDS_MAINCTRL_STATS_NONE "Sejauh ini tidak ada kotak centang yang dihilangkan centangnya. Tampaknya anda menjauhkan diri dari perangkat lunak yang dikemas dengan perangkat lunak yang tidak diinginkan, kerja bagus!"
 IDS_MAINCTRL_STATS      "Sejak %s, %u kotak centang dihilangkan centangnya%s."
 IDS_MAINCTRL_STATS_WARNING " dan %u peringatan ditampilkan"
@@ -49,11 +46,9 @@ IDS_LOG_BALLOON_TOOLTIP "Apakah Unchecky membantu anda dalam mencegah perangkat 
 IDS_LOG_SHARE_FACEBOOK  "Bagikan pada Facebook"
 IDS_LOG_SHARE_TWITTER   "Bagikan pada Twitter"
 IDS_LOG_SHARE_EMAIL     "Bagikan melalui Email"
-IDS_SHARE_TWITTER_GENERIC 
-                        "@uncheckyreason membantu dalam mencegah pemasangan perangkat lunak yang tidak diinginkan untuk dipasang di komputer anda. Sangat direkomendasikan! #anti_pup"
+IDS_SHARE_TWITTER_GENERIC "@uncheckyreason membantu dalam mencegah pemasangan perangkat lunak yang tidak diinginkan untuk dipasang di komputer anda. Sangat direkomendasikan! #anti_pup"
 IDS_SHARE_TWITTER_MAIN  "Saat memasang %1, @uncheckyreason %2. Sangat direkomendasikan! #anti_pup"
-IDS_SHARE_TWITTER_PREVENTED 
-                        "mencegah perangkat lunak %u yang tidak diinginkan"
+IDS_SHARE_TWITTER_PREVENTED "mencegah perangkat lunak %u yang tidak diinginkan"
 IDS_SHARE_TWITTER_AND   " dan "
 IDS_SHARE_TWITTER_WARNED "memperingatkanku tentang tawaran %u"
 IDS_LOG_EMAIL_GMAIL     "&Gmail"
@@ -64,7 +59,6 @@ IDS_LOG_CLEAR_WARNING   "Catatan aktivitas akan dibersihkan. Apakah anda yakin?"
 IDS_SHARE_EMAIL_SUBJECT "Rekomendasi perangkat lunak: Unchecky"
 IDS_SHARE_EMAIL_MAIN    "Halo!\n\nSaya ingin merekomendasikan program hebat yang aku temui baru-baru ini.\nNamanya Unchecky dan itu membantu dalam mencegah pemasangan perangkat lunak yang diinginkan untuk dipasang di komputer anda.\n%1Anda bisa mendapatkannya di sini:\nhttp://unchecky.com/?ref=email\n\nTake care."
 IDS_SHARE_EMAIL_EXAMPLE "Sebagai contoh, hal tersebut melakukan %1 saat memasang perangkat lunak: %2.\n"
-IDS_SHARE_EMAIL_PREVENTED 
-                        "mencegah %u perangkat lunak yang tidak diinginkan"
+IDS_SHARE_EMAIL_PREVENTED "mencegah %u perangkat lunak yang tidak diinginkan"
 IDS_SHARE_EMAIL_AND     " dan "
 IDS_SHARE_EMAIL_WARNED  "memperingatkanku tentang tawaran %u"

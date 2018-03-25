@@ -9,11 +9,9 @@ IDS_HEADER_CONFIG       "設定(&T)"
 IDS_HEADER_ABOUT        "製品情報(&A)"
 IDS_MAINCTRL_TEXT       "お使いのコンピューターに不要なプログラムの導入を未然に防ぐことを目的としたプログラム、Uncheckyへようこそ。"
 IDS_MAINCTRL_TEXT_SVC_RUNNING "Unchecky サービスは実行中です。"
-IDS_MAINCTRL_TEXT_SVC_STOPPED 
-                        "Unchecky サービスは停止しています。 サービスを再開するにはコンピューターを再起動してください。"
+IDS_MAINCTRL_TEXT_SVC_STOPPED "Unchecky サービスは停止しています。 サービスを再開するにはコンピューターを再起動してください。"
 IDS_MAINCTRL_TEXT_QUERYERROR "Unchecky サービスの状態を照会中にエラーが発生しました。"
-IDS_MAINCTRL_STATS_NONE_NEWGUY 
-                        "Uncheckyはインストールされたばかりのようです。まだ表示するデータがありません。"
+IDS_MAINCTRL_STATS_NONE_NEWGUY "Uncheckyはインストールされたばかりのようです。まだ表示するデータがありません。"
 IDS_MAINCTRL_STATS_NONE "これまでのところ未チェックのチェックボックスはありません。不審なプログラムにバンドルされたソフトウェアを拒否しています!"
 IDS_MAINCTRL_STATS      "%s 以来、%u のチェックボックスはチェックを外されました。%s"
 IDS_MAINCTRL_STATS_WARNING "また %u 警告が表示されました。"
@@ -48,8 +46,7 @@ IDS_LOG_BALLOON_TOOLTIP "Uncheckyは不審なプログラムを防止するた�
 IDS_LOG_SHARE_FACEBOOK  "Facebookでシェアする"
 IDS_LOG_SHARE_TWITTER   "Twitterでシェアする"
 IDS_LOG_SHARE_EMAIL     "Eメールでシェアする"
-IDS_SHARE_TWITTER_GENERIC 
-                        "@uncheckyreasonはお使いのコンピュータに不審なプログラムがインストールされることを未然に防ぐことができます。強くお勧めします！#anti_pup"
+IDS_SHARE_TWITTER_GENERIC "@uncheckyreasonはお使いのコンピュータに不審なプログラムがインストールされることを未然に防ぐことができます。強くお勧めします！#anti_pup"
 IDS_SHARE_TWITTER_MAIN  "インストールの間 %1, @uncheckyreason %2.強くお勧めします！#anti_pup"
 IDS_SHARE_TWITTER_PREVENTED "防止済み %u 不審なプログラム"
 IDS_SHARE_TWITTER_AND   " 及び "

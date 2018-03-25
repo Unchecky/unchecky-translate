@@ -8,14 +8,10 @@ IDS_HEADER_MAIN         "&Accueil"
 IDS_HEADER_CONFIG       "&Paramètres"
 IDS_HEADER_ABOUT        "&À propos"
 IDS_MAINCTRL_TEXT       "Bienvenue dans Unchecky, le programme qui vous aide à éviter les programmes potentiellement indésirables de votre ordinateur."
-IDS_MAINCTRL_TEXT_SVC_RUNNING 
-                        "Le service Unchecky est en cours d'exécution."
-IDS_MAINCTRL_TEXT_SVC_STOPPED 
-                        "Le service Unchecky est suspendu. Le service reprendra dès que l'ordinateur redémarrera."
-IDS_MAINCTRL_TEXT_QUERYERROR 
-                        "Une erreur est survenue lors de la vérification du service Unchecky."
-IDS_MAINCTRL_STATS_NONE_NEWGUY 
-                        "Apparemment, Unchecky vient d'être installé. Aucune information n'est disponible pour le moment."
+IDS_MAINCTRL_TEXT_SVC_RUNNING "Le service Unchecky est en cours d'exécution."
+IDS_MAINCTRL_TEXT_SVC_STOPPED "Le service Unchecky est suspendu. Le service reprendra dès que l'ordinateur redémarrera."
+IDS_MAINCTRL_TEXT_QUERYERROR "Une erreur est survenue lors de la vérification du service Unchecky."
+IDS_MAINCTRL_STATS_NONE_NEWGUY "Apparemment, Unchecky vient d'être installé. Aucune information n'est disponible pour le moment."
 IDS_MAINCTRL_STATS_NONE "Aucune case n'a été décochée pour l'instant. Apparemment, vous évitez les logiciels fourni avec des programmes potentiellement indésirables, bon travail !"
 IDS_MAINCTRL_STATS      "Depuis %s, %u cases ont été décochées%s."
 IDS_MAINCTRL_STATS_WARNING " et %u avertissements ont été déclenchés"
@@ -24,8 +20,7 @@ IDS_MAINCTRL_STOP       "&Suspendre le service"
 IDS_MAINCTRL_START      "&Reprendre le service"
 IDS_CONFIG_LANG         "&Langue:"
 IDS_CONFIG_NO_TRAY_ICON "Ne pas afficher l'&icône dans la zone de notification."
-IDS_CONFIG_NO_WARNING_TOOLTIPS 
-                        "Ne pas afficher les infobulles d'aler&tes."
+IDS_CONFIG_NO_WARNING_TOOLTIPS "Ne pas afficher les infobulles d'aler&tes."
 IDS_CONFIG_EXCLUDED     "E&xcluded programs:"
 IDS_CONFIG_EXCLUDED_ADD "A&dd..."
 IDS_CONFIG_EXCLUDED_REMOVE "&Remove"
@@ -51,11 +46,9 @@ IDS_LOG_BALLOON_TOOLTIP "Unchecky vous a-t-il évité des programmes potentielle
 IDS_LOG_SHARE_FACEBOOK  "Partager sur Facebook"
 IDS_LOG_SHARE_TWITTER   "Partager sur Twitter"
 IDS_LOG_SHARE_EMAIL     "Partager par Mail"
-IDS_SHARE_TWITTER_GENERIC 
-                        "@uncheckyreason vous évite l'installation de programmes potentiellement indésirables sur votre ordinateur. Fortement recommandé ! #anti_pup"
+IDS_SHARE_TWITTER_GENERIC "@uncheckyreason vous évite l'installation de programmes potentiellement indésirables sur votre ordinateur. Fortement recommandé ! #anti_pup"
 IDS_SHARE_TWITTER_MAIN  "Lors de l'installation de %1, @uncheckyreason %2. Fortement recommandé ! #anti_pup"
-IDS_SHARE_TWITTER_PREVENTED 
-                        "empêché %u programme(s) potentiellement indésirable(s)"
+IDS_SHARE_TWITTER_PREVENTED "empêché %u programme(s) potentiellement indésirable(s)"
 IDS_SHARE_TWITTER_AND   " et "
 IDS_SHARE_TWITTER_WARNED "m'a prévenu concernant %u offres"
 IDS_LOG_EMAIL_GMAIL     "&Gmail"
@@ -66,7 +59,6 @@ IDS_LOG_CLEAR_WARNING   "Le log d'activités sera vidé. Êtes-vous certain de v
 IDS_SHARE_EMAIL_SUBJECT "Recommandation d'un programme: Unchecky"
 IDS_SHARE_EMAIL_MAIN    "Salut !\n\nJe veux te recommander un excellent programme sur lequel je suis tombé récemment.\nIl s'appelle Unchecky et il me permet d'éviter l'installation de programmes potentiellement indésirables sur mon ordinateur.\n%1Tu peux l'avoir ici:\nhttp://unchecky.com/?ref=email\n\nPrends soin de toi."
 IDS_SHARE_EMAIL_EXAMPLE "Par exemple, il %1 durant l'installation du programme suivant : %2.\n"
-IDS_SHARE_EMAIL_PREVENTED 
-                        "empêcha %u programme(s) potentiellement indésirable(s)"
+IDS_SHARE_EMAIL_PREVENTED "empêcha %u programme(s) potentiellement indésirable(s)"
 IDS_SHARE_EMAIL_AND     " et "
 IDS_SHARE_EMAIL_WARNED  "m'a prévenu concernant %u offres"

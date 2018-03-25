@@ -1,4 +1,4 @@
-﻿IDS_CONFIRMATION_TEXT   "잠재적으로 불필요한 프로그램을 설치하려고 합니다. 정말로 계속하시겠습니까?"
+IDS_CONFIRMATION_TEXT   "잠재적으로 불필요한 프로그램을 설치하려고 합니다. 정말로 계속하시겠습니까?"
 IDS_CONFIRMATION_PROCEED "계속(&P)"
 IDS_CONFIRMATION_DECLINE "잠재적으로 불필요한 프로그램 거부(&D) (권장)"
 IDS_CONFIRMATION_YES    "예(&Y)"

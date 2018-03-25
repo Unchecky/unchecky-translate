@@ -9,12 +9,9 @@ IDS_HEADER_CONFIG       "Se&aded"
 IDS_HEADER_ABOUT        "&Teave"
 IDS_MAINCTRL_TEXT       "Tervitus! Unchecky on programm, mis üritab potentsiaalselt soovimatut tarkvara arvutist eemal hoida."
 IDS_MAINCTRL_TEXT_SVC_RUNNING "Unchecky teenus on sees ja töötab."
-IDS_MAINCTRL_TEXT_SVC_STOPPED 
-                        "Unchecky teenus on peatatud. Teenus käivitatakse pärast süsteemi taaskäivitamist."
-IDS_MAINCTRL_TEXT_QUERYERROR 
-                        "Unchecky teenuse staatuse päringul ilmnes viga."
-IDS_MAINCTRL_STATS_NONE_NEWGUY 
-                        "Paistab, et Unchecky on arvutisse hiljuti paigaldatud. Seepärast puudub statistika, mida kuvada."
+IDS_MAINCTRL_TEXT_SVC_STOPPED "Unchecky teenus on peatatud. Teenus käivitatakse pärast süsteemi taaskäivitamist."
+IDS_MAINCTRL_TEXT_QUERYERROR "Unchecky teenuse staatuse päringul ilmnes viga."
+IDS_MAINCTRL_STATS_NONE_NEWGUY "Paistab, et Unchecky on arvutisse hiljuti paigaldatud. Seepärast puudub statistika, mida kuvada."
 IDS_MAINCTRL_STATS_NONE "Märkekaste pole veel puhastatud. Tundub, et sa hoidud tarkvarast, mis omakorda sisaldab potentsiaalselt soovimatut tarkvara. Tubli töö!"
 IDS_MAINCTRL_STATS      "Alates %s on puhastatud %u märkekasti%s."
 IDS_MAINCTRL_STATS_WARNING " ja kuvatud %u hoiatust"
@@ -49,11 +46,9 @@ IDS_LOG_BALLOON_TOOLTIP "Kas Unchecky aitas sul hoiduda potentsiaalselt soovimat
 IDS_LOG_SHARE_FACEBOOK  "Jaga Facebookis"
 IDS_LOG_SHARE_TWITTER   "Jaga Twitteris"
 IDS_LOG_SHARE_EMAIL     "Jaga e-postiga"
-IDS_SHARE_TWITTER_GENERIC 
-                        "@uncheckyreason aitab ära hoida potentsiaalselt soovimatute programmide sattumise sinu arvutisse. Soovitan julgelt! #anti_pup"
+IDS_SHARE_TWITTER_GENERIC "@uncheckyreason aitab ära hoida potentsiaalselt soovimatute programmide sattumise sinu arvutisse. Soovitan julgelt! #anti_pup"
 IDS_SHARE_TWITTER_MAIN  "Kui olin paigaldamas %1, siis @uncheckyreason %2. Soovitan julgelt! #anti_pup"
-IDS_SHARE_TWITTER_PREVENTED 
-                        "hoidis ära %u potentsiaalse programmi paigalduse"
+IDS_SHARE_TWITTER_PREVENTED "hoidis ära %u potentsiaalse programmi paigalduse"
 IDS_SHARE_TWITTER_AND   " ja "
 IDS_SHARE_TWITTER_WARNED "hoiatas mind %u pakkumise eest"
 IDS_LOG_EMAIL_GMAIL     "&Gmail"
@@ -64,7 +59,6 @@ IDS_LOG_CLEAR_WARNING   "Tegevuste logi kustutatakse. Oled kindel, et soovid jä
 IDS_SHARE_EMAIL_SUBJECT "Programmisoovitus: Unchecky"
 IDS_SHARE_EMAIL_MAIN    "Hey!\n\nMa soovitan sulle head programmi, mille otsa hiljuti sattusin.\nSelle nimi on Unchecky ja see aitab ära hoida potentsiaalselt soovimatute programmide sattumise sinu arvutisse.\n%1Saad selle arvutisse laadida siit:\nhttp://unchecky.com/?ref=email\n\nOle mõnus."
 IDS_SHARE_EMAIL_EXAMPLE "Näiteks %1, kui olin paigaldamas programmi: %2.\n"
-IDS_SHARE_EMAIL_PREVENTED 
-                        "hoidis see ära %u potentsiaalselt soovimatu programmi paigalduse"
+IDS_SHARE_EMAIL_PREVENTED "hoidis see ära %u potentsiaalselt soovimatu programmi paigalduse"
 IDS_SHARE_EMAIL_AND     " ja "
 IDS_SHARE_EMAIL_WARNED  "hoiatas mind %u pakkumise eest"

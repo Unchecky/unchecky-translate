@@ -9,12 +9,9 @@ IDS_HEADER_CONFIG       "&Innstillinger"
 IDS_HEADER_ABOUT        "&Om"
 IDS_MAINCTRL_TEXT       "Velkommen til Unchecky, programmet som hjelper deg å holde potensielt uønskede programmer bort fra datamaskinen din."
 IDS_MAINCTRL_TEXT_SVC_RUNNING "Unchecky-tjenesten kjører."
-IDS_MAINCTRL_TEXT_SVC_STOPPED 
-                        "Unchecky-tjenesten er midlertidig stoppet. Tjenesten fortsetter etter en omstart av datamaskinen."
-IDS_MAINCTRL_TEXT_QUERYERROR 
-                        "En feil oppstod under etterspørringen etter Uncheckys statustjeneste."
-IDS_MAINCTRL_STATS_NONE_NEWGUY 
-                        "Det ser ut til at Unchecky nettopp er blitt installert. Det er ingen resultater å vise ennå."
+IDS_MAINCTRL_TEXT_SVC_STOPPED "Unchecky-tjenesten er midlertidig stoppet. Tjenesten fortsetter etter en omstart av datamaskinen."
+IDS_MAINCTRL_TEXT_QUERYERROR "En feil oppstod under etterspørringen etter Uncheckys statustjeneste."
+IDS_MAINCTRL_STATS_NONE_NEWGUY "Det ser ut til at Unchecky nettopp er blitt installert. Det er ingen resultater å vise ennå."
 IDS_MAINCTRL_STATS_NONE "Ingen sjekkbokser har blitt utkrysset ennå. Ser ut til at du holder deg bort fra medfølgende installasjoner med potensielt uønskede programmer, bra jobbet!"
 IDS_MAINCTRL_STATS      "Siden %s, har %u sjekkbokser blitt utkrysset%s."
 IDS_MAINCTRL_STATS_WARNING " og %u advarsler ble vist"
@@ -49,8 +46,7 @@ IDS_LOG_BALLOON_TOOLTIP "Hjalp Unchecky deg med å unngå potensielt uønskede p
 IDS_LOG_SHARE_FACEBOOK  "Del på Facebook"
 IDS_LOG_SHARE_TWITTER   "Del på Twitter"
 IDS_LOG_SHARE_EMAIL     "Del på Email"
-IDS_SHARE_TWITTER_GENERIC 
-                        "@uncheckyreason hjelper deg med å hindre potensielt uønskede programmer fra å bli installert på din maskin. #anti_pup"
+IDS_SHARE_TWITTER_GENERIC "@uncheckyreason hjelper deg med å hindre potensielt uønskede programmer fra å bli installert på din maskin. #anti_pup"
 IDS_SHARE_TWITTER_MAIN  "Mens jeg installerte %1, gjorde @uncheckyreason %2. Anbefales! #anti_pup"
 IDS_SHARE_TWITTER_PREVENTED "avverget %u potensielt uønskede programmer"
 IDS_SHARE_TWITTER_AND   " and "

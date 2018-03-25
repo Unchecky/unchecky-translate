@@ -9,11 +9,9 @@ IDS_HEADER_CONFIG       "&הגדרות"
 IDS_HEADER_ABOUT        "&אודות"
 IDS_MAINCTRL_TEXT       "ברוך הבא ל-Unchecky, התוכנה ששמה לה למטרה להרחיק תוכנות לא רצויות ממחשבך."
 IDS_MAINCTRL_TEXT_SVC_RUNNING "שירות Unchecky פעיל כעת."
-IDS_MAINCTRL_TEXT_SVC_STOPPED 
-                        "שירות Unchecky מושהה כעת, השירות יחל לעבוד לאחר אתחול המערכת הבא."
+IDS_MAINCTRL_TEXT_SVC_STOPPED "שירות Unchecky מושהה כעת, השירות יחל לעבוד לאחר אתחול המערכת הבא."
 IDS_MAINCTRL_TEXT_QUERYERROR "חלה שגיאה בעת הפניה לשירות Unchecky."
-IDS_MAINCTRL_STATS_NONE_NEWGUY 
-                        "נראה ש-Unchecky רק הותקן כעת, אין פרטים להצגה."
+IDS_MAINCTRL_STATS_NONE_NEWGUY "נראה ש-Unchecky רק הותקן כעת, אין פרטים להצגה."
 IDS_MAINCTRL_STATS_NONE "אין תיבות סימון שנמנעו מסימון, נראה שאתה מתרחק מתוכנות לא רצויות, כל הכבוד!"
 IDS_MAINCTRL_STATS      "מאז %s, %u תיבות סימון הוסרו מסימון%s."
 IDS_MAINCTRL_STATS_WARNING " ו- %u אזהרות הוצגו"
@@ -48,8 +46,7 @@ IDS_LOG_BALLOON_TOOLTIP "האם Unchecky הצליח לחסום תוכנות לא
 IDS_LOG_SHARE_FACEBOOK  "שתף בפייסבוק"
 IDS_LOG_SHARE_TWITTER   "שתף בטוויטר"
 IDS_LOG_SHARE_EMAIL     "שתף באימייל"
-IDS_SHARE_TWITTER_GENERIC 
-                        "@uncheckyreason עוזרת לחסום תוכנות לא רצויות מלהיות מותקנות על גבי מחשבך. מומלץ ביותר! #anti_pup"
+IDS_SHARE_TWITTER_GENERIC "@uncheckyreason עוזרת לחסום תוכנות לא רצויות מלהיות מותקנות על גבי מחשבך. מומלץ ביותר! #anti_pup"
 IDS_SHARE_TWITTER_MAIN  "בזמן ההתקנה של %1, @uncheckyreason %2. מומלץ ביותר! #anti_pup"
 IDS_SHARE_TWITTER_PREVENTED "מנעה %u תוכנות לא רצויות"
 IDS_SHARE_TWITTER_AND   " ו"

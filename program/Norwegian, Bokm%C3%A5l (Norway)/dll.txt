@@ -5,7 +5,6 @@ IDS_CONFIRMATION_YES    "&Ja"
 IDS_CONFIRMATION_NO     "&Nei (anbefalt)"
 IDS_CONFIRMATION_OK     "OK"
 IDS_CONFIRMATION_CANCEL "Avbryt (anbefalt)"
-IDS_CONFIRMATION_MBOX_WARNING 
-                        "ADVARSEL fra %s: Du har blitt bedt om å installere et potensielt uønsket program. Vennligst les teksten nedenfor veldig nøye."
+IDS_CONFIRMATION_MBOX_WARNING "ADVARSEL fra %s: Du har blitt bedt om å installere et potensielt uønsket program. Vennligst les teksten nedenfor veldig nøye."
 IDS_WARNING_TOOLTIP_TITLE "Advarsel fra %s"
 IDS_WARNING_TOOLTIP_TEXT "Ved å klikke på dette, kan du få installert\net program du ikke ville ha"

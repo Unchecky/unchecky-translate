@@ -1,5 +1,4 @@
 IDS_OFFER_REJECTED      "Một đề nghị cài đặt chương trình không mong muốn đã được từ chối!"
-IDS_SOME_OFFERS_REJECTED 
-                        "%d đề nghị cài đặt chương trình không mong muốn đã được từ chối!"
+IDS_SOME_OFFERS_REJECTED "%d đề nghị cài đặt chương trình không mong muốn đã được từ chối!"
 IDS_OFFER_REJECTED_MORE "Nhấp vào đây để có thêm chi tiết..."
 IDS_BROWSER_WARNING     "Warning from %s:\nBy accepting this, you may install a program you didn't intend"

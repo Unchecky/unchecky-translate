@@ -8,14 +8,10 @@ IDS_HEADER_MAIN         "&Chính"
 IDS_HEADER_CONFIG       "&Thiết lập"
 IDS_HEADER_ABOUT        "Thông t&in"
 IDS_MAINCTRL_TEXT       "Chào mừng bạn đến với Unchecky, ứng dụng giúp giữ những chương trình không mong muốn bên ngoài máy tính của bạn."
-IDS_MAINCTRL_TEXT_SVC_RUNNING 
-                        "Dịch vụ của Unchecky đã được cài đặt và đang hoạt động."
-IDS_MAINCTRL_TEXT_SVC_STOPPED 
-                        "Dịch vụ của Unchecky đã bị dừng. Dịch vụ sẽ được tiếp tục khi máy tính khởi động lại."
-IDS_MAINCTRL_TEXT_QUERYERROR 
-                        "Đã xảy ra lỗi trong khi truy vấn trạng thái dịch vụ của Unchecky."
-IDS_MAINCTRL_STATS_NONE_NEWGUY 
-                        "Có vẻ như bạn vừa cài đặt Unchecky xong, vẫn chưa có dữ liệu để hiển thị."
+IDS_MAINCTRL_TEXT_SVC_RUNNING "Dịch vụ của Unchecky đã được cài đặt và đang hoạt động."
+IDS_MAINCTRL_TEXT_SVC_STOPPED "Dịch vụ của Unchecky đã bị dừng. Dịch vụ sẽ được tiếp tục khi máy tính khởi động lại."
+IDS_MAINCTRL_TEXT_QUERYERROR "Đã xảy ra lỗi trong khi truy vấn trạng thái dịch vụ của Unchecky."
+IDS_MAINCTRL_STATS_NONE_NEWGUY "Có vẻ như bạn vừa cài đặt Unchecky xong, vẫn chưa có dữ liệu để hiển thị."
 IDS_MAINCTRL_STATS_NONE "Không có hộp chọn nào bị bỏ chọn. Có vẻ như bạn đã tránh được những phần mềm đi kèm theo, tốt lắm!"
 IDS_MAINCTRL_STATS      "Kể từ %s, %u hộp chọn đã được bỏ chọn%s."
 IDS_MAINCTRL_STATS_WARNING " và %u cảnh báo đã được hiển thị"
@@ -50,8 +46,7 @@ IDS_LOG_BALLOON_TOOLTIP "Unchecky đã giúp bạn tránh khỏi những chươn
 IDS_LOG_SHARE_FACEBOOK  "Chia sẻ trên Facebook"
 IDS_LOG_SHARE_TWITTER   "Chia sẻ trên Twitter"
 IDS_LOG_SHARE_EMAIL     "Chia sẻ qua Email"
-IDS_SHARE_TWITTER_GENERIC 
-                        "@uncheckyreason đã giúp tôi chặn nhiều chương trình không mong muốn cài đặt vào máy tính. Bạn hãy thử xem sao! #anti_pup"
+IDS_SHARE_TWITTER_GENERIC "@uncheckyreason đã giúp tôi chặn nhiều chương trình không mong muốn cài đặt vào máy tính. Bạn hãy thử xem sao! #anti_pup"
 IDS_SHARE_TWITTER_MAIN  "Trong khi cài đặt %1, @uncheckyreason %2. Bạn hãy thử xem sao! #anti_pup"
 IDS_SHARE_TWITTER_PREVENTED "đã chặn %u chương trình không mong muốn"
 IDS_SHARE_TWITTER_AND   " và "

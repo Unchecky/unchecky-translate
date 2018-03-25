@@ -17,7 +17,6 @@ IDS_EXTRACTRL_BROWSE_TEXT "Chọn thư mục cài đặt Unchecky vào:"
 IDS_EXTRACTRL_DESKTOP_SHORTCUT "Create a &desktop shortcut"
 IDS_FINISHCTRL_TITLE    "Dịch vụ Unchecky đã được cài đặt và đang chạy!"
 IDS_FINISHCTRL_TEXT     "Chúc mừng! Unchecky đã được cài đặt thành công vào máy tính của bạn.\n\nDịch vụ của Unchecky sẽ tiếp tục chạy dưới nền, giám sát các trình cài đặt. Bạn có thể khởi động Unchecky mọi lúc từ biểu tượng desktop để xem bao nhiêu mục đã được bỏ chọn."
-IDS_MAIN_ERROR_UNCHECKY_RUNNING 
-                        "Vui lòng đóng tất cả tiến trình của Unchecky trước khi tiến hành"
+IDS_MAIN_ERROR_UNCHECKY_RUNNING "Vui lòng đóng tất cả tiến trình của Unchecky trước khi tiến hành"
 IDS_MAIN_UPDATE         "Cập n&hật"
 IDS_MAIN_UPDATING       "Đang cập nhật..."

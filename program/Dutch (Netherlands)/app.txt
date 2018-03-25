@@ -9,12 +9,9 @@ IDS_HEADER_CONFIG       "Instellingen"
 IDS_HEADER_ABOUT        "&Over"
 IDS_MAINCTRL_TEXT       "Welkom bij Unchecky, het programma met het doel u te beschermen tegen mogelijk ongewenste software op uw computer."
 IDS_MAINCTRL_TEXT_SVC_RUNNING "De Unchecky-service is actief."
-IDS_MAINCTRL_TEXT_SVC_STOPPED 
-                        "De Unchecky-service is gestopt. De service zal hervatten nadat de computer is herstart."
-IDS_MAINCTRL_TEXT_QUERYERROR 
-                        "Er is een fout opgetreden bij het controleren van de Unchecky-servicestatus."
-IDS_MAINCTRL_STATS_NONE_NEWGUY 
-                        "Het lijkt erop dat Unchecky recentelijk is geïnstalleerd. Er zijn nog geen gegevens."
+IDS_MAINCTRL_TEXT_SVC_STOPPED "De Unchecky-service is gestopt. De service zal hervatten nadat de computer is herstart."
+IDS_MAINCTRL_TEXT_QUERYERROR "Er is een fout opgetreden bij het controleren van de Unchecky-servicestatus."
+IDS_MAINCTRL_STATS_NONE_NEWGUY "Het lijkt erop dat Unchecky recentelijk is geïnstalleerd. Er zijn nog geen gegevens."
 IDS_MAINCTRL_STATS_NONE "Nog geen selectievakjes gedeselecteerd. Blijkbaar blijft u goed uit de buurt van software met ongewenste programma's!"
 IDS_MAINCTRL_STATS      "Sinds %s zijn er %u selectievakjes gedeselecteerd%s."
 IDS_MAINCTRL_STATS_WARNING " en %u waarschuwingen getoond"
@@ -49,8 +46,7 @@ IDS_LOG_BALLOON_TOOLTIP "Heeft Unchecky u geholpen mogelijk ongewenste programma
 IDS_LOG_SHARE_FACEBOOK  "Delen op Facebook"
 IDS_LOG_SHARE_TWITTER   "Delen op Twitter"
 IDS_LOG_SHARE_EMAIL     "Delen via E-mail"
-IDS_SHARE_TWITTER_GENERIC 
-                        "@uncheckyreason voorkomt dat mogelijk ongewenste programma's op je computer worden geïnstalleerd. Aanrader! #anti_pup"
+IDS_SHARE_TWITTER_GENERIC "@uncheckyreason voorkomt dat mogelijk ongewenste programma's op je computer worden geïnstalleerd. Aanrader! #anti_pup"
 IDS_SHARE_TWITTER_MAIN  "Bij installatie %1, @uncheckyreason %2. Aanrader! #anti_pup"
 IDS_SHARE_TWITTER_PREVENTED "voorkwam %u mogelijk ongewenste programma's"
 IDS_SHARE_TWITTER_AND   " en "

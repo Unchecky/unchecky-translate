@@ -9,12 +9,9 @@ IDS_HEADER_CONFIG       "Se&ttings"
 IDS_HEADER_ABOUT        "&About"
 IDS_MAINCTRL_TEXT       "Welcome to Unchecky, the program that aims to keep potentially unwanted programs out of your computer."
 IDS_MAINCTRL_TEXT_SVC_RUNNING "The Unchecky service is up and running."
-IDS_MAINCTRL_TEXT_SVC_STOPPED 
-                        "The Unchecky service is suspended. The service will be resumed upon computer restart."
-IDS_MAINCTRL_TEXT_QUERYERROR 
-                        "Error occurred while querying the Unchecky service status."
-IDS_MAINCTRL_STATS_NONE_NEWGUY 
-                        "Looks like Unchecky was just recently installed. There's no data to show yet."
+IDS_MAINCTRL_TEXT_SVC_STOPPED "The Unchecky service is suspended. The service will be resumed upon computer restart."
+IDS_MAINCTRL_TEXT_QUERYERROR "Error occurred while querying the Unchecky service status."
+IDS_MAINCTRL_STATS_NONE_NEWGUY "Looks like Unchecky was just recently installed. There's no data to show yet."
 IDS_MAINCTRL_STATS_NONE "No checkboxes were unchecked so far. Looks like you keep away from software bundled with potentially unwanted programs, good job!"
 IDS_MAINCTRL_STATS      "Since %s, %u checkboxes were unchecked%s."
 IDS_MAINCTRL_STATS_WARNING " and %u warnings were shown"
@@ -49,8 +46,7 @@ IDS_LOG_BALLOON_TOOLTIP "Did Unchecky help you to avoid potentially unwanted pro
 IDS_LOG_SHARE_FACEBOOK  "Share on Facebook"
 IDS_LOG_SHARE_TWITTER   "Share on Twitter"
 IDS_LOG_SHARE_EMAIL     "Share by Email"
-IDS_SHARE_TWITTER_GENERIC 
-                        "@uncheckyreason helps to prevent potentially unwanted programs from being installed on your computer. Highly recommended! #anti_pup"
+IDS_SHARE_TWITTER_GENERIC "@uncheckyreason helps to prevent potentially unwanted programs from being installed on your computer. Highly recommended! #anti_pup"
 IDS_SHARE_TWITTER_MAIN  "While installing %1, @uncheckyreason %2. Highly recommended! #anti_pup"
 IDS_SHARE_TWITTER_PREVENTED "prevented %u potentially unwanted programs"
 IDS_SHARE_TWITTER_AND   " and "

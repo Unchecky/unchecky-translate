@@ -11,6 +11,5 @@ IDS_MAINCTRL_TEXT       "Unchecky eemaldatakse järgmisest kaustast. Eemaldamise
 IDS_MAINCTRL_PATHTEXT   "Eemaldan kaustast:"
 IDS_MAINCTRL_REMOVE_SETTINGS "Eemalda salvestatud &seaded"
 IDS_FINISHCTRL_TEXT1    "Unchecky on sinu arvutist eemaldatud."
-IDS_FINISHCTRL_ERROR_NOTE 
-                        "Mõnda faili ei saa eemaldada. Neid on võimalik käsitsi eemaldada."
+IDS_FINISHCTRL_ERROR_NOTE "Mõnda faili ei saa eemaldada. Neid on võimalik käsitsi eemaldada."
 IDS_FINISHCTRL_TEXT2    "Kliki Valmis, et see aken sulgeda."

@@ -17,7 +17,6 @@ IDS_EXTRACTRL_BROWSE_TEXT "Select the folder to install Unchecky in:"
 IDS_EXTRACTRL_DESKTOP_SHORTCUT "Create a &desktop shortcut"
 IDS_FINISHCTRL_TITLE    "The Unchecky service is up and running!"
 IDS_FINISHCTRL_TEXT     "Congratulations! Unchecky has been successfully installed on your computer.\n\nThe Unchecky service will continuously run in the background, monitoring your installers. You can launch Unchecky at any time from the desktop icon to see how many checkboxes were unchecked."
-IDS_MAIN_ERROR_UNCHECKY_RUNNING 
-                        "Please close all instances of Unchecky before proceeding"
+IDS_MAIN_ERROR_UNCHECKY_RUNNING "Please close all instances of Unchecky before proceeding"
 IDS_MAIN_UPDATE         "&Update"
 IDS_MAIN_UPDATING       "&Updating..."

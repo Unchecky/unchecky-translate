@@ -9,12 +9,9 @@ IDS_HEADER_CONFIG       "Se&ttings"
 IDS_HEADER_ABOUT        "&Om"
 IDS_MAINCTRL_TEXT       "Velkommen til Unchecky, programmet som forsøger at holde din computer fri for uønskede programmer."
 IDS_MAINCTRL_TEXT_SVC_RUNNING "Tjensten kører."
-IDS_MAINCTRL_TEXT_SVC_STOPPED 
-                        "Tjenesten er afbrudt. Tjenesten genoptages efter genstart af computeren."
-IDS_MAINCTRL_TEXT_QUERYERROR 
-                        "Der opstod en fejl da tjenesten blev kontrolleret."
-IDS_MAINCTRL_STATS_NONE_NEWGUY 
-                        "Det ser ud til, at Unchecky blev installeret for nylig. Der er ingen data at vise endnu."
+IDS_MAINCTRL_TEXT_SVC_STOPPED "Tjenesten er afbrudt. Tjenesten genoptages efter genstart af computeren."
+IDS_MAINCTRL_TEXT_QUERYERROR "Der opstod en fejl da tjenesten blev kontrolleret."
+IDS_MAINCTRL_STATS_NONE_NEWGUY "Det ser ud til, at Unchecky blev installeret for nylig. Der er ingen data at vise endnu."
 IDS_MAINCTRL_STATS_NONE "Ingen checkbokse er blevet ryddet endnu. Det ser ud til, at du holder dig fra software, der indeholder potentielt uønskede programmer - godt gået!"
 IDS_MAINCTRL_STATS      "Siden %s, er %u checkbokse blevet ryddet%s."
 IDS_MAINCTRL_STATS_WARNING " og %u advarsler er blevet vist"
@@ -49,8 +46,7 @@ IDS_LOG_BALLOON_TOOLTIP "Er du glad for Unchecky og hjalp det med at undgå uøn
 IDS_LOG_SHARE_FACEBOOK  "Del på Facebook"
 IDS_LOG_SHARE_TWITTER   "Del på Twitter"
 IDS_LOG_SHARE_EMAIL     "Del via Email"
-IDS_SHARE_TWITTER_GENERIC 
-                        "@uncheckyreason helps to prevent potentially unwanted programs from being installed on your computer. Highly recommended! #anti_pup"
+IDS_SHARE_TWITTER_GENERIC "@uncheckyreason helps to prevent potentially unwanted programs from being installed on your computer. Highly recommended! #anti_pup"
 IDS_SHARE_TWITTER_MAIN  "While installing %1, @uncheckyreason %2. Highly recommended! #anti_pup"
 IDS_SHARE_TWITTER_PREVENTED "prevented %u potentially unwanted programs"
 IDS_SHARE_TWITTER_AND   " and "

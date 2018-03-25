@@ -17,7 +17,6 @@ IDS_EXTRACTRL_BROWSE_TEXT "Pilih folder untuk menginstall Unchecky pada:"
 IDS_EXTRACTRL_DESKTOP_SHORTCUT "Create a &desktop shortcut"
 IDS_FINISHCTRL_TITLE    "Layanan Unchecky menyala dan berjalan!"
 IDS_FINISHCTRL_TEXT     "Selamat! Unchecky sudah berhasil dipasang pada komputer anda.\n\nLayanan Unchecky akan terus berjalan di belakang layar, memonitor pemasang-pemasang perangkat lunak. Anda bisa membuka Unchecky kapan saja dari ikon Desktop untuk melihat berapa banyak kotak centang yang dihilangkan centangnya."
-IDS_MAIN_ERROR_UNCHECKY_RUNNING 
-                        "Mohon tutup semua proses maupun halaman Unchecky sebelum melanjutkan"
+IDS_MAIN_ERROR_UNCHECKY_RUNNING "Mohon tutup semua proses maupun halaman Unchecky sebelum melanjutkan"
 IDS_MAIN_UPDATE         "Perbarui"
 IDS_MAIN_UPDATING       "Memperbarui..."

@@ -8,14 +8,10 @@ IDS_HEADER_MAIN         "&Αρχική"
 IDS_HEADER_CONFIG       "&Ρυθμίσεις"
 IDS_HEADER_ABOUT        "&Περί"
 IDS_MAINCTRL_TEXT       "Καλώς ήλθατε στο Unchecky. Το πρόγραμμα αυτό αποσκοπεί στο να διατηρήσει δυνητικά ανεπιθύμητα προγράμματα έξω από τον υπολογιστή σας."
-IDS_MAINCTRL_TEXT_SVC_RUNNING 
-                        "Η υπηρεσία Unchecky είναι έτοιμη και λειτουργεί."
-IDS_MAINCTRL_TEXT_SVC_STOPPED 
-                        "Η υπηρεσία Unchecky έχει ανασταλεί. Η υπηρεσία θα συνεχιστεί μετά την επανεκκίνηση του υπολογιστή."
-IDS_MAINCTRL_TEXT_QUERYERROR 
-                        "Παρουσιάστηκε σφάλμα κατά τον έλεγχο κατάστασης της υπηρεσίας Unchecky."
-IDS_MAINCTRL_STATS_NONE_NEWGUY 
-                        "Προφανώς το Unchecky εγκαταστάθηκε πρόσφατα. Δεν υπάρχει κανένα στοιχείο για εμφάνιση ακόμα."
+IDS_MAINCTRL_TEXT_SVC_RUNNING "Η υπηρεσία Unchecky είναι έτοιμη και λειτουργεί."
+IDS_MAINCTRL_TEXT_SVC_STOPPED "Η υπηρεσία Unchecky έχει ανασταλεί. Η υπηρεσία θα συνεχιστεί μετά την επανεκκίνηση του υπολογιστή."
+IDS_MAINCTRL_TEXT_QUERYERROR "Παρουσιάστηκε σφάλμα κατά τον έλεγχο κατάστασης της υπηρεσίας Unchecky."
+IDS_MAINCTRL_STATS_NONE_NEWGUY "Προφανώς το Unchecky εγκαταστάθηκε πρόσφατα. Δεν υπάρχει κανένα στοιχείο για εμφάνιση ακόμα."
 IDS_MAINCTRL_STATS_NONE "Δεν υπάρχουν μέχρι στιγμής αμαρκάριστα πλαίσια επιλογής. Προφανώς, αποφύγατε πακέτα λογισμικού με δυνητικά ανεπιθύμητα προγράμματα. Έγινε καλή δουλειά!"
 IDS_MAINCTRL_STATS      "Από τις %s, έχουν αποεπιλεγεί %u πλαίσια ελέγχου%s."
 IDS_MAINCTRL_STATS_WARNING " και έχουν εμφανιστεί %u προειδοποιήσεις"
@@ -24,8 +20,7 @@ IDS_MAINCTRL_STOP       "&Αναστολή υπηρεσίας"
 IDS_MAINCTRL_START      "&Συνέχιση υπηρεσίας"
 IDS_CONFIG_LANG         "&Γλώσσα:"
 IDS_CONFIG_NO_TRAY_ICON "Να μην εμφανίζεται &εικονίδιο στην περιοχή ειδοποιήσεων"
-IDS_CONFIG_NO_WARNING_TOOLTIPS 
-                        "Να μην εμφανίζονται &μηνύματα προειδοποίησης"
+IDS_CONFIG_NO_WARNING_TOOLTIPS "Να μην εμφανίζονται &μηνύματα προειδοποίησης"
 IDS_CONFIG_EXCLUDED     "Ε&ξαιρούμενα προγράμματα:"
 IDS_CONFIG_EXCLUDED_ADD "&Προσθήκη..."
 IDS_CONFIG_EXCLUDED_REMOVE "&Αφαίρεση"
@@ -51,11 +46,9 @@ IDS_LOG_BALLOON_TOOLTIP "Σας βοήθησε το Unchecky να αποφύγε
 IDS_LOG_SHARE_FACEBOOK  "Κοινοποίηση στο Facebook"
 IDS_LOG_SHARE_TWITTER   "Κοινοποίηση στο Twitter"
 IDS_LOG_SHARE_EMAIL     "Κοινοποίηση με Email"
-IDS_SHARE_TWITTER_GENERIC 
-                        "Το @uncheckyreason βοηθάει στην αποφυγή εγκατάστασης πιθανώς ανεπιθύμητων προγραμμάτων στον υπολογιστή σας. Συνιστάται ιδιαίτερα! #anti_pup"
+IDS_SHARE_TWITTER_GENERIC "Το @uncheckyreason βοηθάει στην αποφυγή εγκατάστασης πιθανώς ανεπιθύμητων προγραμμάτων στον υπολογιστή σας. Συνιστάται ιδιαίτερα! #anti_pup"
 IDS_SHARE_TWITTER_MAIN  "Κατά την εγκατάσταση του %1, @uncheckyreason %2. Συνιστάται ιδιαίτερα! #anti_pup"
-IDS_SHARE_TWITTER_PREVENTED 
-                        "εμποδίστηκαν %u πιθανώς ανεπιθύμητα προγράμματα"
+IDS_SHARE_TWITTER_PREVENTED "εμποδίστηκαν %u πιθανώς ανεπιθύμητα προγράμματα"
 IDS_SHARE_TWITTER_AND   " και "
 IDS_SHARE_TWITTER_WARNED "με προειδοποίησε σχετικά με %u προσφορές"
 IDS_LOG_EMAIL_GMAIL     "&Gmail"
@@ -66,7 +59,6 @@ IDS_LOG_CLEAR_WARNING   "Το μητρώο δραστηριότητας θα δ�
 IDS_SHARE_EMAIL_SUBJECT "Πρόταση προγράμματος: Unchecky"
 IDS_SHARE_EMAIL_MAIN    "Γειά σας!\n\nΘα ήθελα να σας συστήσω ένα σπουδαίο πρόγραμμα που έμαθα πρόσφατα.\nΛέγεται Unchecky και βοηθάει στην αποφυγή εγκατάστασης πιθανώς ανεπιθύμητων προγραμμάτων στον υπολογιστή σας.\n%1Μπορείτε να το βρείτε εδώ:\nhttp://unchecky.com/?ref=email\n\nΦροντίστε το."
 IDS_SHARE_EMAIL_EXAMPLE "Για παράδειγμα, το %1 κατά την εγκατάσταση του ακόλουθου προγράμματος: %2.\n"
-IDS_SHARE_EMAIL_PREVENTED 
-                        "εμποδίστηκαν %u πιθανώς ανεπιθύμητα προγράμματα"
+IDS_SHARE_EMAIL_PREVENTED "εμποδίστηκαν %u πιθανώς ανεπιθύμητα προγράμματα"
 IDS_SHARE_EMAIL_AND     " και "
 IDS_SHARE_EMAIL_WARNED  "με προειδοποίησε σχετικά με %u προσφορές"

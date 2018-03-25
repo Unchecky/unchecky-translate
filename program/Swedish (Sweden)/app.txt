@@ -9,12 +9,9 @@ IDS_HEADER_CONFIG       "&Inställningar"
 IDS_HEADER_ABOUT        "&Om"
 IDS_MAINCTRL_TEXT       "Välkommen till Unchecky, programmet som försöker hålla din dator fri från oönskade program."
 IDS_MAINCTRL_TEXT_SVC_RUNNING "Unchecky-tjänsten körs."
-IDS_MAINCTRL_TEXT_SVC_STOPPED 
-                        "Unchecky-tjänsten är stoppad. Tjänsten kommer återupptas vid omstart av datorn."
-IDS_MAINCTRL_TEXT_QUERYERROR 
-                        "Ett fel uppstod när Unchecky-tjänstens status kontrollerades."
-IDS_MAINCTRL_STATS_NONE_NEWGUY 
-                        "Det verkar som att du precis installerat Unchecky. Det finns ingen information att visa ännu."
+IDS_MAINCTRL_TEXT_SVC_STOPPED "Unchecky-tjänsten är stoppad. Tjänsten kommer återupptas vid omstart av datorn."
+IDS_MAINCTRL_TEXT_QUERYERROR "Ett fel uppstod när Unchecky-tjänstens status kontrollerades."
+IDS_MAINCTRL_STATS_NONE_NEWGUY "Det verkar som att du precis installerat Unchecky. Det finns ingen information att visa ännu."
 IDS_MAINCTRL_STATS_NONE "Inga kryssrutor urkryssade hittills. Det verkar som att du håller dig undan från mjukvara som installerar potentiellt oönskade program, bra jobbat!"
 IDS_MAINCTRL_STATS      "Sedan %s, har %u kryssrutor kryssats ur%s."
 IDS_MAINCTRL_STATS_WARNING " och %u varningar visats"
@@ -49,8 +46,7 @@ IDS_LOG_BALLOON_TOOLTIP "Har Unchecky hjälpt dig undvika potentiellt oönskade 
 IDS_LOG_SHARE_FACEBOOK  "Dela på Facebook"
 IDS_LOG_SHARE_TWITTER   "Dela på Twitter"
 IDS_LOG_SHARE_EMAIL     "Dela via Email"
-IDS_SHARE_TWITTER_GENERIC 
-                        "@uncheckyreason hjälper till att motverka installationer av potentiellt oönskade program på din dator. Rekommenderas varmt! #anti_pup"
+IDS_SHARE_TWITTER_GENERIC "@uncheckyreason hjälper till att motverka installationer av potentiellt oönskade program på din dator. Rekommenderas varmt! #anti_pup"
 IDS_SHARE_TWITTER_MAIN  "Under installationen av %1, %2 av @uncheckyreason. Rekommenderas varmt! #anti_pup"
 IDS_SHARE_TWITTER_PREVENTED "hindrades %u potentiellt oönskade program"
 IDS_SHARE_TWITTER_AND   " och "

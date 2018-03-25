@@ -8,14 +8,10 @@ IDS_HEADER_MAIN         "&Domů"
 IDS_HEADER_CONFIG       "Nas&tavení"
 IDS_HEADER_ABOUT        "&O Unchecky"
 IDS_MAINCTRL_TEXT       "Vítejte v programu Unchecky, jehož cílem je udržet potenciálně nechtěné programy mimo Váš počítač."
-IDS_MAINCTRL_TEXT_SVC_RUNNING 
-                        "Služba programu Unchecky byla úspěšně spuštěna."
-IDS_MAINCTRL_TEXT_SVC_STOPPED 
-                        "Služba programu Unchecky je pozastavena. Bude obnovena po restartu počítače."
-IDS_MAINCTRL_TEXT_QUERYERROR 
-                        "Stala se chyba při zjišťování stavu služby programu Unchecky."
-IDS_MAINCTRL_STATS_NONE_NEWGUY 
-                        "Zdá se, že Unchecky byl teprve nedávno nainstalován. Zatím nemáme žádná data."
+IDS_MAINCTRL_TEXT_SVC_RUNNING "Služba programu Unchecky byla úspěšně spuštěna."
+IDS_MAINCTRL_TEXT_SVC_STOPPED "Služba programu Unchecky je pozastavena. Bude obnovena po restartu počítače."
+IDS_MAINCTRL_TEXT_QUERYERROR "Stala se chyba při zjišťování stavu služby programu Unchecky."
+IDS_MAINCTRL_STATS_NONE_NEWGUY "Zdá se, že Unchecky byl teprve nedávno nainstalován. Zatím nemáme žádná data."
 IDS_MAINCTRL_STATS_NONE "Zatím jsme neodškrtli žádná zatržítka. Vypadá to, že se držíte zpět od softwaru s přibalenými nechtěnými programy, dobrá práce!"
 IDS_MAINCTRL_STATS      "Od %s bylo odškrtnuto %u zatržítek%s."
 IDS_MAINCTRL_STATS_WARNING " a zobrazeno %u varování"
@@ -50,8 +46,7 @@ IDS_LOG_BALLOON_TOOLTIP "Pomohl Vám Unchecky vyhnout se potenciálně nechtěn�
 IDS_LOG_SHARE_FACEBOOK  "Sdílet na Facebooku"
 IDS_LOG_SHARE_TWITTER   "Sdílet na Twitteru"
 IDS_LOG_SHARE_EMAIL     "Sdílet přes E-mail"
-IDS_SHARE_TWITTER_GENERIC 
-                        "@uncheckyreason pomáhá vyhnout se instalaci potenciálně nechtěných programů. Mohu doporučit! #anti_pup"
+IDS_SHARE_TWITTER_GENERIC "@uncheckyreason pomáhá vyhnout se instalaci potenciálně nechtěných programů. Mohu doporučit! #anti_pup"
 IDS_SHARE_TWITTER_MAIN  "Při instalaci %1, @uncheckyreason %2. Mohu doporučit! #anti_pup"
 IDS_SHARE_TWITTER_PREVENTED "zakázal %u nevyžádaných programů"
 IDS_SHARE_TWITTER_AND   " a "

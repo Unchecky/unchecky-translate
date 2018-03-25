@@ -17,7 +17,6 @@ IDS_EXTRACTRL_BROWSE_TEXT "Unchecky sera installé dans le dossier :"
 IDS_EXTRACTRL_DESKTOP_SHORTCUT "Create a &desktop shortcut"
 IDS_FINISHCTRL_TITLE    "Le service Unchecky est en cours d'exécution"
 IDS_FINISHCTRL_TEXT     "Unchecky a été installé avec succès.\n\nCliquez sur ""Fin"" afin de fermer l'assistant d'installation."
-IDS_MAIN_ERROR_UNCHECKY_RUNNING 
-                        "Veuillez fermer Unchecky avant de continuer."
+IDS_MAIN_ERROR_UNCHECKY_RUNNING "Veuillez fermer Unchecky avant de continuer."
 IDS_MAIN_UPDATE         "&Mettre à jour"
 IDS_MAIN_UPDATING       "&Mise à jour..."

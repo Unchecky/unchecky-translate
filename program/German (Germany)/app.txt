@@ -9,12 +9,9 @@ IDS_HEADER_CONFIG       "Einstellungen"
 IDS_HEADER_ABOUT        "Über"
 IDS_MAINCTRL_TEXT       "Willkommen bei Unchecky, das Programm, welches potenziell unerwünschte Software von Ihrem Computer fernhält."
 IDS_MAINCTRL_TEXT_SVC_RUNNING "Der Unchecky-Dienst wird ausgeführt."
-IDS_MAINCTRL_TEXT_SVC_STOPPED 
-                        "Der Unchecky-Dienst ist deaktiviert. Der Dienst wird nach dem nächsten Neustart des Computers fortgesetzt."
-IDS_MAINCTRL_TEXT_QUERYERROR 
-                        "Ein Fehler ist bei der Statusabfrage des Unchecky-Dienstes aufgetreten."
-IDS_MAINCTRL_STATS_NONE_NEWGUY 
-                        "Es sieht so aus, als ob Unchecky gerade erst installiert wurde. Momentan gibt es keine Daten, die angezeigt werden könnten."
+IDS_MAINCTRL_TEXT_SVC_STOPPED "Der Unchecky-Dienst ist deaktiviert. Der Dienst wird nach dem nächsten Neustart des Computers fortgesetzt."
+IDS_MAINCTRL_TEXT_QUERYERROR "Ein Fehler ist bei der Statusabfrage des Unchecky-Dienstes aufgetreten."
+IDS_MAINCTRL_STATS_NONE_NEWGUY "Es sieht so aus, als ob Unchecky gerade erst installiert wurde. Momentan gibt es keine Daten, die angezeigt werden könnten."
 IDS_MAINCTRL_STATS_NONE "Es wurden bisher keine Häkchen entfernt. Anscheinend bleiben Sie von Programmen mit potenziell unerwünschte Software fern, gute Arbeit!"
 IDS_MAINCTRL_STATS      "Seit %s wurden %u Häkchen entfernt%s."
 IDS_MAINCTRL_STATS_WARNING " und %u Warnungen wurden angezeigt"
@@ -49,11 +46,9 @@ IDS_LOG_BALLOON_TOOLTIP "Hat Ihnen Unchecky dabei geholfen, potenziell unerwüns
 IDS_LOG_SHARE_FACEBOOK  "Auf Facebook teilen"
 IDS_LOG_SHARE_TWITTER   "Auf Twitter teilen"
 IDS_LOG_SHARE_EMAIL     "Über E-Mail teilen"
-IDS_SHARE_TWITTER_GENERIC 
-                        "@uncheckyreason hilft und verhindert, das potenziell unerwünschte Programme auf Ihrem Computer installiert werden. Sehr zu empfehlen! #anti_pup"
+IDS_SHARE_TWITTER_GENERIC "@uncheckyreason hilft und verhindert, das potenziell unerwünschte Programme auf Ihrem Computer installiert werden. Sehr zu empfehlen! #anti_pup"
 IDS_SHARE_TWITTER_MAIN  "Während der Installation von %1, @uncheckyreason %2. Sehr zu empfehlen! #anti_pup"
-IDS_SHARE_TWITTER_PREVENTED 
-                        "verhinderte %u potenziell unerwünschte Programme"
+IDS_SHARE_TWITTER_PREVENTED "verhinderte %u potenziell unerwünschte Programme"
 IDS_SHARE_TWITTER_AND   " und "
 IDS_SHARE_TWITTER_WARNED "warnte mich vor %u Angeboten."
 IDS_LOG_EMAIL_GMAIL     "&Gmail"

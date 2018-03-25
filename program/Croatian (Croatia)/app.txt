@@ -9,11 +9,9 @@ IDS_HEADER_CONFIG       "Postavke"
 IDS_HEADER_ABOUT        "O programu"
 IDS_MAINCTRL_TEXT       "Dobro došli u Unchecky, program koji štiti vaše računalo od potencijalno neželjenih programa"
 IDS_MAINCTRL_TEXT_SVC_RUNNING "Unchecky servis je pokrenut i radi."
-IDS_MAINCTRL_TEXT_SVC_STOPPED 
-                        "Unchecky servis je ugašen. Servis će se pokrenuti nakon slijedećeg ponovnog pokretanja sustava."
+IDS_MAINCTRL_TEXT_SVC_STOPPED "Unchecky servis je ugašen. Servis će se pokrenuti nakon slijedećeg ponovnog pokretanja sustava."
 IDS_MAINCTRL_TEXT_QUERYERROR "Pogreška pri provjeri Unchecky servisa."
-IDS_MAINCTRL_STATS_NONE_NEWGUY 
-                        "Čini se da je Unchecky tek instaliran. Trenutno nema nikakvih podataka za pokazati."
+IDS_MAINCTRL_STATS_NONE_NEWGUY "Čini se da je Unchecky tek instaliran. Trenutno nema nikakvih podataka za pokazati."
 IDS_MAINCTRL_STATS_NONE "Ništa do sada nije označeno pri instalaciji programa. Čini se da se držite dalje od programa sa potencijalno neželjenim programima. Dobar posao!"
 IDS_MAINCTRL_STATS      "Od %s, %u stavki je odznačeno%s."
 IDS_MAINCTRL_STATS_WARNING " i %u upozorenja prikazano"
@@ -48,11 +46,9 @@ IDS_LOG_BALLOON_TOOLTIP "Je li vam Unchecky pomogao zaštiti vaše računalo od 
 IDS_LOG_SHARE_FACEBOOK  "Podijeli na Facebook"
 IDS_LOG_SHARE_TWITTER   "Podijeli na Twitter"
 IDS_LOG_SHARE_EMAIL     "Podijeli preko Email"
-IDS_SHARE_TWITTER_GENERIC 
-                        "@uncheckyreason pomaže spriječiti instalaciju potencijalno neželjenih programa na vaše računalo. Preporuka! #anti_pup"
+IDS_SHARE_TWITTER_GENERIC "@uncheckyreason pomaže spriječiti instalaciju potencijalno neželjenih programa na vaše računalo. Preporuka! #anti_pup"
 IDS_SHARE_TWITTER_MAIN  "Prilikom instalacije %1, @uncheckyreason %2. Preporuka! #anti_pup"
-IDS_SHARE_TWITTER_PREVENTED 
-                        "spriječio %u potencijalno neželjen(ih) program(a)"
+IDS_SHARE_TWITTER_PREVENTED "spriječio %u potencijalno neželjen(ih) program(a)"
 IDS_SHARE_TWITTER_AND   " i "
 IDS_SHARE_TWITTER_WARNED "upozorio me o %u ponudi(e)"
 IDS_LOG_EMAIL_GMAIL     "&Gmail"
@@ -63,7 +59,6 @@ IDS_LOG_CLEAR_WARNING   "Dnevnik aktivnosti će biti obrisan. Jeste li sigurni d
 IDS_SHARE_EMAIL_SUBJECT "Preporuka programa: Unchecky"
 IDS_SHARE_EMAIL_MAIN    "Pozdrav\n\nŽelim Vam preporučiti jedan jako dobar program.\nZove se Unchecky i pomaže spriječiti potencijalno neželjene programe da se instaliraju na vaše računalo.\n%1Možete ga preuzeti ovdje:\nhttp://unchecky.com/?ref=email"
 IDS_SHARE_EMAIL_EXAMPLE "Na primjer, on %1 prilikom instalacije programa: %2.\n"
-IDS_SHARE_EMAIL_PREVENTED 
-                        "je spriječio %u potencijalno neželjenog(ih) program(a)."
+IDS_SHARE_EMAIL_PREVENTED "je spriječio %u potencijalno neželjenog(ih) program(a)."
 IDS_SHARE_EMAIL_AND     " i "
 IDS_SHARE_EMAIL_WARNED  "upozorio me o %u ponudi(ama)."

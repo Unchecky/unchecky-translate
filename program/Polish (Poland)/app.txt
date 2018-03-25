@@ -8,14 +8,10 @@ IDS_HEADER_MAIN         "&Strona główna"
 IDS_HEADER_CONFIG       "&Ustawienia"
 IDS_HEADER_ABOUT        "O progr&amie"
 IDS_MAINCTRL_TEXT       "Witaj w programie Unchecky, jedynym obrońcy przed potencjalnie niechcianymi programami (PUP), takimi jak paski narzędziowe, które instalują się razem z innymi programami."
-IDS_MAINCTRL_TEXT_SVC_RUNNING 
-                        "Usługa programu Unchecky działa i zapewnia ochronę."
-IDS_MAINCTRL_TEXT_SVC_STOPPED 
-                        "Usługa programu Unchecky jest zatrzymana. Jej działanie zostanie wznowione po ponownym uruchomieniu komputera."
-IDS_MAINCTRL_TEXT_QUERYERROR 
-                        "Wystąpił błąd podczas sprawdzania statusu usługi programu Unchecky."
-IDS_MAINCTRL_STATS_NONE_NEWGUY 
-                        "Wygląda na to, że dopiero od niedawna używasz Unchecky. Na razie więc nie ma danych do pokazania."
+IDS_MAINCTRL_TEXT_SVC_RUNNING "Usługa programu Unchecky działa i zapewnia ochronę."
+IDS_MAINCTRL_TEXT_SVC_STOPPED "Usługa programu Unchecky jest zatrzymana. Jej działanie zostanie wznowione po ponownym uruchomieniu komputera."
+IDS_MAINCTRL_TEXT_QUERYERROR "Wystąpił błąd podczas sprawdzania statusu usługi programu Unchecky."
+IDS_MAINCTRL_STATS_NONE_NEWGUY "Wygląda na to, że dopiero od niedawna używasz Unchecky. Na razie więc nie ma danych do pokazania."
 IDS_MAINCTRL_STATS_NONE "Jak dotąd, nie odznaczono żadnych ofert. Gratulujemy! Wygląda na to, że unikasz oprogramowania zawierającego niechciane oferty."
 IDS_MAINCTRL_STATS      "Od dnia %s, odznaczono %u ofert%s."
 IDS_MAINCTRL_STATS_WARNING " oraz wyświetlono %u ostrzeżeń"
@@ -50,11 +46,9 @@ IDS_LOG_BALLOON_TOOLTIP "Unchecky pomógł Ci ochronić komputer przed niechcian
 IDS_LOG_SHARE_FACEBOOK  "Wyślij do usługi Facebook"
 IDS_LOG_SHARE_TWITTER   "Wyślij do usługi Twitter"
 IDS_LOG_SHARE_EMAIL     "Wyślij poprzez e-mail"
-IDS_SHARE_TWITTER_GENERIC 
-                        "@uncheckyreason pomaga chronić komputer przed instalacją potencjalnie niechcianych programów. Warto! #anti_pup"
+IDS_SHARE_TWITTER_GENERIC "@uncheckyreason pomaga chronić komputer przed instalacją potencjalnie niechcianych programów. Warto! #anti_pup"
 IDS_SHARE_TWITTER_MAIN  "Gdy instalowałem %1, @uncheckyreason %2. Sprawdź go! #anti_pup"
-IDS_SHARE_TWITTER_PREVENTED 
-                        "uchronił mnie przed %u potencjalnie niechcianymi programami"
+IDS_SHARE_TWITTER_PREVENTED "uchronił mnie przed %u potencjalnie niechcianymi programami"
 IDS_SHARE_TWITTER_AND   " oraz "
 IDS_SHARE_TWITTER_WARNED "ostrzegł mnie przed zaakceptowaniem %u ofert"
 IDS_LOG_EMAIL_GMAIL     "&Gmail"
@@ -65,7 +59,6 @@ IDS_LOG_CLEAR_WARNING   "Dziennik aktywności zostanie wyczyszczony. Na pewno ch
 IDS_SHARE_EMAIL_SUBJECT "Polecam Ci program: Unchecky"
 IDS_SHARE_EMAIL_MAIN    "Witaj!\n\nChciałbym polecić Ci świetny program, na który trafiłem niedawno.\nNazywa się Unchecky i pomaga chronić komputer przed potajemną instalacją programów, których nie chcesz (tzw. PUP).\n%1Możesz pobrać go na stronie:\nhttp://unchecky.com/?ref=email\n\nPozdrowienia!"
 IDS_SHARE_EMAIL_EXAMPLE "Na przykład, gdy instalowałem %1, Unchecky %2.\n"
-IDS_SHARE_EMAIL_PREVENTED 
-                        "automatycznie zablokował %u oferty niechcianych programów"
+IDS_SHARE_EMAIL_PREVENTED "automatycznie zablokował %u oferty niechcianych programów"
 IDS_SHARE_EMAIL_AND     " oraz "
 IDS_SHARE_EMAIL_WARNED  "ostrzegł mnie przed zaakceptowaniem %u niechcianych ofert"

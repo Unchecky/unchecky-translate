@@ -17,7 +17,6 @@ IDS_EXTRACTRL_BROWSE_TEXT "Вкажіть папку для встановлен
 IDS_EXTRACTRL_DESKTOP_SHORTCUT "Create a &desktop shortcut"
 IDS_FINISHCTRL_TITLE    "Службу Unchecky запущено"
 IDS_FINISHCTRL_TEXT     "Установку Unchecky виконано.\n\nНатисніть «Виконано» для виходу з програми встановлення."
-IDS_MAIN_ERROR_UNCHECKY_RUNNING 
-                        "Будь ласка, закрийте всі додатки Unchecky перш ніж приступити"
+IDS_MAIN_ERROR_UNCHECKY_RUNNING "Будь ласка, закрийте всі додатки Unchecky перш ніж приступити"
 IDS_MAIN_UPDATE         "&Оновити"
 IDS_MAIN_UPDATING       "&Оновлюю..."

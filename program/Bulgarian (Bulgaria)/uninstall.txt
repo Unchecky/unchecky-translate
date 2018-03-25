@@ -6,12 +6,10 @@ IDS_MAIN_SUBTITLE       "Поддържа квадратчетата за отм
 IDS_MAIN_INSTALL        "&Деинсталирай"
 IDS_MAIN_INSTALLING     "&Деинсталиране..."
 IDS_MAIN_FINISH         "&Край"
-IDS_MAIN_ERROR_UNCHECKY_RUNNING 
-                        "Моля, затворете всички копия на Unchecky, преди да продължите"
+IDS_MAIN_ERROR_UNCHECKY_RUNNING "Моля, затворете всички копия на Unchecky, преди да продължите"
 IDS_MAINCTRL_TEXT       "Unchecky ще бъде деинсталирана от следната папка. Кликнете Деинсталиране, за да започне деинсталацията."
 IDS_MAINCTRL_PATHTEXT   "Деинсталиране от:"
 IDS_MAINCTRL_REMOVE_SETTINGS "Премахни съхранените настройки"
 IDS_FINISHCTRL_TEXT1    "Unchecky беше деинсталирана от Вашия компютър."
-IDS_FINISHCTRL_ERROR_NOTE 
-                        "Някои елементи не бяха премахнати. Те могат да бъдат изтрити ръчно."
+IDS_FINISHCTRL_ERROR_NOTE "Някои елементи не бяха премахнати. Те могат да бъдат изтрити ръчно."
 IDS_FINISHCTRL_TEXT2    "Кликнете Край, за да затворите съветника."

@@ -9,12 +9,9 @@ IDS_HEADER_CONFIG       "Con&figuracion"
 IDS_HEADER_ABOUT        "&Acerca de"
 IDS_MAINCTRL_TEXT       "Bienvenido a Unchecky, un programa que tiene como objetivo mantener los programas potencialmente no deseados fuera de su equipo."
 IDS_MAINCTRL_TEXT_SVC_RUNNING "El servicio Unchecky se esta ejecutando."
-IDS_MAINCTRL_TEXT_SVC_STOPPED 
-                        "El servicio Unchecky esta suspendido. El servicio se reanudara al reiniciar el equipo."
-IDS_MAINCTRL_TEXT_QUERYERROR 
-                        "Se produjo un error al consultar el estado del servicio de Unchecky."
-IDS_MAINCTRL_STATS_NONE_NEWGUY 
-                        "Parece que Unchecky se instalo recientemente, aun no hay datos que mostrar."
+IDS_MAINCTRL_TEXT_SVC_STOPPED "El servicio Unchecky esta suspendido. El servicio se reanudara al reiniciar el equipo."
+IDS_MAINCTRL_TEXT_QUERYERROR "Se produjo un error al consultar el estado del servicio de Unchecky."
+IDS_MAINCTRL_STATS_NONE_NEWGUY "Parece que Unchecky se instalo recientemente, aun no hay datos que mostrar."
 IDS_MAINCTRL_STATS_NONE "No hay casillas sin control. Parece que los programas no deseados se han mantenido alejados, ¡buen trabajo!"
 IDS_MAINCTRL_STATS      "Desde %s, %u casillas han sido desactivada%s."
 IDS_MAINCTRL_STATS_WARNING " y %u advertencias han sido mostradas"
@@ -49,11 +46,9 @@ IDS_LOG_BALLOON_TOOLTIP "Le fue Uncheky de ayuda para evitar programas pontencia
 IDS_LOG_SHARE_FACEBOOK  "Compartir en Facebook"
 IDS_LOG_SHARE_TWITTER   "Compartir en Twitter"
 IDS_LOG_SHARE_EMAIL     "Compartir por Email"
-IDS_SHARE_TWITTER_GENERIC 
-                        "@uncheckyreason ayuda a prevenir programas pontencialmente no deseados de ser instalados en su computadora. Muy recomendado! #anti_pup"
+IDS_SHARE_TWITTER_GENERIC "@uncheckyreason ayuda a prevenir programas pontencialmente no deseados de ser instalados en su computadora. Muy recomendado! #anti_pup"
 IDS_SHARE_TWITTER_MAIN  "Mientras se instala %1, @uncheckyreason %2. Muy recomendado! #anti_pup"
-IDS_SHARE_TWITTER_PREVENTED 
-                        "programas %u potencialmente no deseados prevenidos"
+IDS_SHARE_TWITTER_PREVENTED "programas %u potencialmente no deseados prevenidos"
 IDS_SHARE_TWITTER_AND   " y "
 IDS_SHARE_TWITTER_WARNED "avisarme sobre %u ofertas"
 IDS_LOG_EMAIL_GMAIL     "&Gmail"
@@ -64,7 +59,6 @@ IDS_LOG_CLEAR_WARNING   "Activity log will be cleared. Are you sure you want to 
 IDS_SHARE_EMAIL_SUBJECT "Un programa recomendado: Unchecky"
 IDS_SHARE_EMAIL_MAIN    "Hola!\n\nQuiero recomendarte un excelente programa que he descubierto hace poco.\nSe llama Unchecky y ayuda a prevenir programas pontencialmente no deseados de ser instalados en tu computadora.\n%1Lo puedes obtener aqui:\nhttp://unchecky.com/?ref=email\n\nSaludos!."
 IDS_SHARE_EMAIL_EXAMPLE "Por ejemplo, aqui %1 mientras se instala el siguiente programa: %2.\n"
-IDS_SHARE_EMAIL_PREVENTED 
-                        "programas %u potencialmente no deseados prevenidos"
+IDS_SHARE_EMAIL_PREVENTED "programas %u potencialmente no deseados prevenidos"
 IDS_SHARE_EMAIL_AND     " y "
 IDS_SHARE_EMAIL_WARNED  "avisarme de %u ofertas"

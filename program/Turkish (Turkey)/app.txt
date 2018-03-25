@@ -9,12 +9,9 @@ IDS_HEADER_CONFIG       "Ay&arlar"
 IDS_HEADER_ABOUT        "&Hakkında"
 IDS_MAINCTRL_TEXT       "Unchecky'ye hoş geldiniz, bu program istenmeyen programları bilgisayarınızdan uzak tutmayı amaçlamaktadır."
 IDS_MAINCTRL_TEXT_SVC_RUNNING "Unchecky hizmeti çalışır durumda."
-IDS_MAINCTRL_TEXT_SVC_STOPPED 
-                        "Unchecky hizmeti durduruldu. Hizmet bilgisayar yeniden başlatıldığında sürdürülecektir."
-IDS_MAINCTRL_TEXT_QUERYERROR 
-                        "Unchecky hizmet durumu sorgulanırken hata oluştu."
-IDS_MAINCTRL_STATS_NONE_NEWGUY 
-                        "Unchecky yeni kurulmuşa benziyor. Henüz gösterilecek bir veri yok."
+IDS_MAINCTRL_TEXT_SVC_STOPPED "Unchecky hizmeti durduruldu. Hizmet bilgisayar yeniden başlatıldığında sürdürülecektir."
+IDS_MAINCTRL_TEXT_QUERYERROR "Unchecky hizmet durumu sorgulanırken hata oluştu."
+IDS_MAINCTRL_STATS_NONE_NEWGUY "Unchecky yeni kurulmuşa benziyor. Henüz gösterilecek bir veri yok."
 IDS_MAINCTRL_STATS_NONE "Şimdiye kadar hiçbir onay kutusunun işareti kaldırılmadı. İstenmeyebilecek türden programlarla gelen yazılımlardan uzak duruyorsunuz, tebrikler!"
 IDS_MAINCTRL_STATS      "%s tarihinden beri, %u onay kutusunun işareti kaldırıldı%s."
 IDS_MAINCTRL_STATS_WARNING " ve %u uyarı gösterildi"
@@ -49,8 +46,7 @@ IDS_LOG_BALLOON_TOOLTIP "Unchecky, istenmeyen programlardan kaçınmanıza yard�
 IDS_LOG_SHARE_FACEBOOK  "Facebook'ta Paylaş"
 IDS_LOG_SHARE_TWITTER   "Twitter'da paylaş"
 IDS_LOG_SHARE_EMAIL     "E-posta ile paylaş"
-IDS_SHARE_TWITTER_GENERIC 
-                        "@uncheckyreason, istenmeyen programların bilgisayarınıza yüklenmesini önlemeye yardımcı oluyor. Şiddetle tavsiye ediyorum! #anti_pup"
+IDS_SHARE_TWITTER_GENERIC "@uncheckyreason, istenmeyen programların bilgisayarınıza yüklenmesini önlemeye yardımcı oluyor. Şiddetle tavsiye ediyorum! #anti_pup"
 IDS_SHARE_TWITTER_MAIN  "%1 yüklerken, @uncheckyreason %2. Şiddetle tavsiye edilir! #anti_pup"
 IDS_SHARE_TWITTER_PREVENTED "%u potansiyel olarak istenmeyen programları engelledi"
 IDS_SHARE_TWITTER_AND   " ve "

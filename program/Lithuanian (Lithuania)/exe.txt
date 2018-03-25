@@ -1,5 +1,4 @@
 IDS_OFFER_REJECTED      "Potencialiai nepageidaujamos programos pasiūlymas buvo atmestas!"
-IDS_SOME_OFFERS_REJECTED 
-                        "%d potencialiai nepageidaujamų programų pasiūlymai buvo atmesti!"
+IDS_SOME_OFFERS_REJECTED "%d potencialiai nepageidaujamų programų pasiūlymai buvo atmesti!"
 IDS_OFFER_REJECTED_MORE "Norėdami gauti daugiau informacijos, spauskite čia..."
 IDS_BROWSER_WARNING     "Įspėjimas nuo %s:\nSutikdami, Jūs galite įdiegti programą, kurios neketinote"

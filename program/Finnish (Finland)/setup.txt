@@ -17,7 +17,6 @@ IDS_EXTRACTRL_BROWSE_TEXT "Valitse kansio, johon Unchecky asennetaan:"
 IDS_EXTRACTRL_DESKTOP_SHORTCUT "Create a &desktop shortcut"
 IDS_FINISHCTRL_TITLE    "Unchecky-palvelu on nyt päällä ja toiminnassa!"
 IDS_FINISHCTRL_TEXT     "Onneksi olkoon! Unchecky on nyt asennettu. \n\nUncheky-palvelu on koko ajan toiminnassa taustalla, katsomassa asennuksiasi. Voit aina käynnistää Uncheckyn työpöydältäsi ja katsoa kuinka monta laatikkoa tyhjennettiin."
-IDS_MAIN_ERROR_UNCHECKY_RUNNING 
-                        "Sulje kaikki Uncheckyn prosessit jatkaaksesi."
+IDS_MAIN_ERROR_UNCHECKY_RUNNING "Sulje kaikki Uncheckyn prosessit jatkaaksesi."
 IDS_MAIN_UPDATE         "&Päivitys"
 IDS_MAIN_UPDATING       "&Päivitetään..."

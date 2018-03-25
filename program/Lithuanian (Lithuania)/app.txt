@@ -9,11 +9,9 @@ IDS_HEADER_CONFIG       "Nu&statymai"
 IDS_HEADER_ABOUT        "&Apie"
 IDS_MAINCTRL_TEXT       "Sveiki atvykę į Unchecky programą, kuri padeda išvengti potencialiai nepageidaujamų programų Jūsų kompiuteryje."
 IDS_MAINCTRL_TEXT_SVC_RUNNING "Unchecky paslauga veikia."
-IDS_MAINCTRL_TEXT_SVC_STOPPED 
-                        "Unchecky paslauga sustabdyta. Paslauga bus atnaujinta paleidus kompiuterį iš naujo."
+IDS_MAINCTRL_TEXT_SVC_STOPPED "Unchecky paslauga sustabdyta. Paslauga bus atnaujinta paleidus kompiuterį iš naujo."
 IDS_MAINCTRL_TEXT_QUERYERROR "Unchecky paslaugos būsenos klaida."
-IDS_MAINCTRL_STATS_NONE_NEWGUY 
-                        "Panašu, kad Unchecky buvo neseniai įdiegta. Dar nėra jokių duomenų parodyti."
+IDS_MAINCTRL_STATS_NONE_NEWGUY "Panašu, kad Unchecky buvo neseniai įdiegta. Dar nėra jokių duomenų parodyti."
 IDS_MAINCTRL_STATS_NONE "Kol kas jokių langelių nebuvo atžymėta. Panašu, kad Jūs vengiate programinės įrangos, susietos su potencialiai nepageidaujamomis programomis, šaunuolis!"
 IDS_MAINCTRL_STATS      "Nuo %s, %u langeliai buvo atžymėti%s."
 IDS_MAINCTRL_STATS_WARNING " ir %u įspėjimų buvo parodyta"
@@ -48,11 +46,9 @@ IDS_LOG_BALLOON_TOOLTIP "Ar Unchecky padėjo Jums išvengti potencialiai nepagei
 IDS_LOG_SHARE_FACEBOOK  "Dalintis Facebook"
 IDS_LOG_SHARE_TWITTER   "Dalintis Twitter"
 IDS_LOG_SHARE_EMAIL     "Dalintis el. paštu"
-IDS_SHARE_TWITTER_GENERIC 
-                        "@uncheckyreason padeda išvengti potencialiai nepageidaujamų programų įdiegimo Tavo kompiuteryje. Rekomenduoju! #anti_pup"
+IDS_SHARE_TWITTER_GENERIC "@uncheckyreason padeda išvengti potencialiai nepageidaujamų programų įdiegimo Tavo kompiuteryje. Rekomenduoju! #anti_pup"
 IDS_SHARE_TWITTER_MAIN  "Diegiant %1, @uncheckyreason %2. Rekomenduoju! #anti_pup"
-IDS_SHARE_TWITTER_PREVENTED 
-                        "užkirto kelią %u potentcialiai nepageidaujamoms programoms"
+IDS_SHARE_TWITTER_PREVENTED "užkirto kelią %u potentcialiai nepageidaujamoms programoms"
 IDS_SHARE_TWITTER_AND   " ir "
 IDS_SHARE_TWITTER_WARNED "įspėjo mane apie %u pasiūlymus"
 IDS_LOG_EMAIL_GMAIL     "&Gmail"
@@ -63,7 +59,6 @@ IDS_LOG_CLEAR_WARNING   "Aktyvumo žurnalas bus išvalytas. Ar tikrai norite tę
 IDS_SHARE_EMAIL_SUBJECT "Programos recomendacija: Unchecky"
 IDS_SHARE_EMAIL_MAIN    "Labas!\n\nAš noriu rekomenduoti Tau puikią programą, kurią neseniai atradau.\nJi vadinasi Unchecky, ir padeda išvengti potencialiai nepageidaujamų programų įdiegimo į Tavo kompiuterį.\n%1Ją gali gauti čia:\nhttp://unchecky.com/?ref=email\n\nPasisaugok."
 IDS_SHARE_EMAIL_EXAMPLE "Pavyzdžiui, ji %1 diegiant programą: %2.\n"
-IDS_SHARE_EMAIL_PREVENTED 
-                        "padėjo išvengti %u potentencialiai nepageidaujamų programų"
+IDS_SHARE_EMAIL_PREVENTED "padėjo išvengti %u potentencialiai nepageidaujamų programų"
 IDS_SHARE_EMAIL_AND     " ir "
 IDS_SHARE_EMAIL_WARNED  "įspėjo mane apie %u pasiūlymus"

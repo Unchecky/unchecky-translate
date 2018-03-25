@@ -8,14 +8,10 @@ IDS_HEADER_MAIN         "&Начало"
 IDS_HEADER_CONFIG       "&Настройки"
 IDS_HEADER_ABOUT        "&Относно"
 IDS_MAINCTRL_TEXT       "Добре дошли в Unchecky — програмата, която има за цел да държи потенциално нежелани програми вън от Вашия компютър."
-IDS_MAINCTRL_TEXT_SVC_RUNNING 
-                        "Услугата на Unchecky е стартирана и работи."
-IDS_MAINCTRL_TEXT_SVC_STOPPED 
-                        "Услугата на Unchecky е спряна. Тя ще бъде възобновена при рестартиране на компютъра."
-IDS_MAINCTRL_TEXT_QUERYERROR 
-                        "Unchecky се натъкна на грешка при проверяване на състоянието на услугата си."
-IDS_MAINCTRL_STATS_NONE_NEWGUY 
-                        "Изглежда, че Unchecky е инсталирана наскоро. Няма статистики за показване."
+IDS_MAINCTRL_TEXT_SVC_RUNNING "Услугата на Unchecky е стартирана и работи."
+IDS_MAINCTRL_TEXT_SVC_STOPPED "Услугата на Unchecky е спряна. Тя ще бъде възобновена при рестартиране на компютъра."
+IDS_MAINCTRL_TEXT_QUERYERROR "Unchecky се натъкна на грешка при проверяване на състоянието на услугата си."
+IDS_MAINCTRL_STATS_NONE_NEWGUY "Изглежда, че Unchecky е инсталирана наскоро. Няма статистики за показване."
 IDS_MAINCTRL_STATS_NONE "Не са размаркирани квадратчета досега. Изглежда, че стоите настрана от софтуер, който съдържа потенциално нежелани програми. Браво!"
 IDS_MAINCTRL_STATS      "От %s, са размаркирани %u квадратчета%s."
 IDS_MAINCTRL_STATS_WARNING " и са покaзани %u предупреждения"
@@ -50,8 +46,7 @@ IDS_LOG_BALLOON_TOOLTIP "Помогна ли Ви Unchecky да избегнет
 IDS_LOG_SHARE_FACEBOOK  "Сподели в Facebook"
 IDS_LOG_SHARE_TWITTER   "Сподели в Twitter"
 IDS_LOG_SHARE_EMAIL     "Сподели по електронна поща"
-IDS_SHARE_TWITTER_GENERIC 
-                        "@uncheckyreason помага в предотвратяването на потенциално нежелани програми да се инсталират на твоя компютър. Горещо се препоръчва! #anti_pup"
+IDS_SHARE_TWITTER_GENERIC "@uncheckyreason помага в предотвратяването на потенциално нежелани програми да се инсталират на твоя компютър. Горещо се препоръчва! #anti_pup"
 IDS_SHARE_TWITTER_MAIN  "По време на инсталацията на %1, @uncheckyreason %2. Горещо се препоръчва! #anti_pup"
 IDS_SHARE_TWITTER_PREVENTED "предотврати %u потенциално нежелани програми"
 IDS_SHARE_TWITTER_AND   " и "

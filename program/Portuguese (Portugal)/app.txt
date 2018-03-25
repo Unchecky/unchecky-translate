@@ -8,14 +8,10 @@ IDS_HEADER_MAIN         "&Home"
 IDS_HEADER_CONFIG       "&Definições"
 IDS_HEADER_ABOUT        "&Acerca de"
 IDS_MAINCTRL_TEXT       "Bem-vindo ao Unchecky, o programa que tem como objectivo manter programas potencialmente indesejados do seu computador."
-IDS_MAINCTRL_TEXT_SVC_RUNNING 
-                        "O serviço Unchecky está pronto e a funcionar."
-IDS_MAINCTRL_TEXT_SVC_STOPPED 
-                        "O serviço Unchecky foi suspenso. O serviço será recomeçado após reiniciar o seu computador."
-IDS_MAINCTRL_TEXT_QUERYERROR 
-                        "Ocorreu um erro ao verificar o estado de serviço do Unchecky."
-IDS_MAINCTRL_STATS_NONE_NEWGUY 
-                        "Parece que Unchecky foi recentemente instalado. Não existe nenhuns dados para mostrar ainda."
+IDS_MAINCTRL_TEXT_SVC_RUNNING "O serviço Unchecky está pronto e a funcionar."
+IDS_MAINCTRL_TEXT_SVC_STOPPED "O serviço Unchecky foi suspenso. O serviço será recomeçado após reiniciar o seu computador."
+IDS_MAINCTRL_TEXT_QUERYERROR "Ocorreu um erro ao verificar o estado de serviço do Unchecky."
+IDS_MAINCTRL_STATS_NONE_NEWGUY "Parece que Unchecky foi recentemente instalado. Não existe nenhuns dados para mostrar ainda."
 IDS_MAINCTRL_STATS_NONE "Não há caixas que não foram verificadas até agora. Parece que você se afasta dos programas com programas potencionalmente não desejados, boa!"
 IDS_MAINCTRL_STATS      "Desde %s, %u caixinhas foram desmarcadas%s."
 IDS_MAINCTRL_STATS_WARNING " e %u avisos foram mostrados"
@@ -50,8 +46,7 @@ IDS_LOG_BALLOON_TOOLTIP "Did Unchecky help you to avoid potentially unwanted pro
 IDS_LOG_SHARE_FACEBOOK  "Share on Facebook"
 IDS_LOG_SHARE_TWITTER   "Share on Twitter"
 IDS_LOG_SHARE_EMAIL     "Share by Email"
-IDS_SHARE_TWITTER_GENERIC 
-                        "@uncheckyreason helps to prevent potentially unwanted programs from being installed on your computer. Highly recommended! #anti_pup"
+IDS_SHARE_TWITTER_GENERIC "@uncheckyreason helps to prevent potentially unwanted programs from being installed on your computer. Highly recommended! #anti_pup"
 IDS_SHARE_TWITTER_MAIN  "While installing %1, @uncheckyreason %2. Highly recommended! #anti_pup"
 IDS_SHARE_TWITTER_PREVENTED "prevented %u potentially unwanted programs"
 IDS_SHARE_TWITTER_AND   " and "

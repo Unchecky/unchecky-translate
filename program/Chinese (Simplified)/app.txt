@@ -46,8 +46,7 @@ IDS_LOG_BALLOON_TOOLTIP "Unchecky帮助你避免了潜在的不需要的软件�
 IDS_LOG_SHARE_FACEBOOK  "在Facebook分享"
 IDS_LOG_SHARE_TWITTER   "在Twitter分享"
 IDS_LOG_SHARE_EMAIL     "通过电子邮件分享"
-IDS_SHARE_TWITTER_GENERIC 
-                        "@uncheckyreason帮助阻止潜在的不需要程序安装在你的电脑上。高度推荐！#anti_pup"
+IDS_SHARE_TWITTER_GENERIC "@uncheckyreason帮助阻止潜在的不需要程序安装在你的电脑上。高度推荐！#anti_pup"
 IDS_SHARE_TWITTER_MAIN  "当安装%1时， @uncheckyreason %2。高度推荐！#anti_pup"
 IDS_SHARE_TWITTER_PREVENTED "阻止了%u潜在的不需要的软件"
 IDS_SHARE_TWITTER_AND   "和"

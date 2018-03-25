@@ -8,14 +8,10 @@ IDS_HEADER_MAIN         "&Koti"
 IDS_HEADER_CONFIG       "As&etukset"
 IDS_HEADER_ABOUT        "&Tietoja"
 IDS_MAINCTRL_TEXT       "Tervetuloa Uncheckyyn, ohjelmaan joka pitää ei-halutut ohjelmat poissa tietokoneeltasi."
-IDS_MAINCTRL_TEXT_SVC_RUNNING 
-                        "Unchecky-palvelu on nyt päällä ja toiminnassa."
-IDS_MAINCTRL_TEXT_SVC_STOPPED 
-                        "Unchecky-palvelu on nyt pois päältä. Unchecky-palvelu käynnistetään uudelleen tietokoneen käynnistyksen yhteydessä."
-IDS_MAINCTRL_TEXT_QUERYERROR 
-                        "Virhe tapahtui haetessa Unchecky-palvelun tilaa."
-IDS_MAINCTRL_STATS_NONE_NEWGUY 
-                        "Näyttää siltä että Unchecky on vasta asennettu, tilastoja ei ole saatavilla."
+IDS_MAINCTRL_TEXT_SVC_RUNNING "Unchecky-palvelu on nyt päällä ja toiminnassa."
+IDS_MAINCTRL_TEXT_SVC_STOPPED "Unchecky-palvelu on nyt pois päältä. Unchecky-palvelu käynnistetään uudelleen tietokoneen käynnistyksen yhteydessä."
+IDS_MAINCTRL_TEXT_QUERYERROR "Virhe tapahtui haetessa Unchecky-palvelun tilaa."
+IDS_MAINCTRL_STATS_NONE_NEWGUY "Näyttää siltä että Unchecky on vasta asennettu, tilastoja ei ole saatavilla."
 IDS_MAINCTRL_STATS_NONE "Unchecky ei ole joutunut tekemään mitään ei-haluttujen ohjelmien eteen. Näyttää siltä, että tiedät mitä teet!"
 IDS_MAINCTRL_STATS      "Päivästä %s lähtien, %u laatikkoa tyhjennettiin%s."
 IDS_MAINCTRL_STATS_WARNING " ja %u varoitusta näytettiin"
@@ -50,11 +46,9 @@ IDS_LOG_BALLOON_TOOLTIP "Auttoiko Unchecky sinua välttämään mahdollisesti ep
 IDS_LOG_SHARE_FACEBOOK  "Jaa Naamakirjassa"
 IDS_LOG_SHARE_TWITTER   "Jaa Twitterissä"
 IDS_LOG_SHARE_EMAIL     "Jaa sähköpostissa"
-IDS_SHARE_TWITTER_GENERIC 
-                        "@uncheckyreason auttaa estämään mahdollisesti epätoivottujen ohjelmien asentumista tietokoneellesi.  Erittäin suositeltava! #anti_pup"
+IDS_SHARE_TWITTER_GENERIC "@uncheckyreason auttaa estämään mahdollisesti epätoivottujen ohjelmien asentumista tietokoneellesi.  Erittäin suositeltava! #anti_pup"
 IDS_SHARE_TWITTER_MAIN  "Asennettaessa %1, @uncheckyreason %2. Erittäin suositeltava! #anti_pup"
-IDS_SHARE_TWITTER_PREVENTED 
-                        "estetty %u mahdollisesti epätoivottuja ohjelmia"
+IDS_SHARE_TWITTER_PREVENTED "estetty %u mahdollisesti epätoivottuja ohjelmia"
 IDS_SHARE_TWITTER_AND   " ja "
 IDS_SHARE_TWITTER_WARNED "varoitti minua %u tarjouksista"
 IDS_LOG_EMAIL_GMAIL     "&Gmail"
