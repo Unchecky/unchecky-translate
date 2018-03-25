@@ -36,9 +36,9 @@ jquery_lang_js.prototype.lang.nl = {
 	// Home
 	
 	'Tired of unchecking unrelated offers while installing software?':
-		'Word je er ook zo moe van om ongewenste software uit te vinken tijdens installaties?',
+		'Word je er ook zo moe van om  tijdens installaties ongewenste software uit te vinken?',
 	'Have you ever felt, while installing software, that the installer tries to push additional unwanted programs at all cost? Ever missed a checkbox, and spent hours afterwards removing adware? Ever opened your browser after an installation, only to find out that you have a new homepage, a new search engine, or even a new browser?<br>Unchecky aims to keep potentially unwanted programs out of your computer.':
-		'Heb je tijdens het installeren van software ook wel eens gemerkt dat het installatieprogramma je, koste-wat-kost, ongewenste programma\'s in de maag wil splitsen? Heb je wel eens een selectievak gemist, en daarna uren besteed aan het verwijderen van adware? Heb je wel eens je browser gestart na een installatie en ontdenkt dat je een nieuwe homepage hebt, een nieuwe zoekmachine of zelfs een andere browser?<br>Unchecky zorgt er voor dat mogelijk ongewenste programma\'s van je computer geweerd worden.',
+		'Heb je tijdens het installeren van software ook wel eens gemerkt dat het installatieprogramma je, koste-wat-kost, ongewenste programma\'s in de maag wil splitsen? Heb je wel eens een selectievak gemist en daarna uren besteed aan het verwijderen van adware? Heb je wel eens je browser gestart na een installatie en ontdekt dat je een nieuwe homepage hebt, een nieuwe zoekmachine of zelfs een andere browser?<br>Unchecky zorgt er voor dat mogelijk ongewenste programma\'s van je computer worden geweerd.',
 	'Download':
 		'Download',
 	
@@ -50,12 +50,12 @@ jquery_lang_js.prototype.lang.nl = {
 	'Unchecks':
 		'Uitvinken',
 	'Unchecky automatically unchecks unrelated offers, both saving you mouse clicks and making it less likely to miss a checkbox of an unwanted offer.':
-		'Unchecky schakelt de selectievakjes van ongerelateerde software automatisch uit, en bespaart zo muiskliks en voorkomt dat je er een mist.',
+		'Unchecky schakelt de selectievakjes van ongerelateerde software automatisch uit en bespaart zo muiskliks en voorkomt dat je er een mist.',
 	
 	'Warns':
 		'Waarschuwingen',
 	'Installers often try to sneak additional programs as a natural part of the installation. Unchecky warns you when you try to accept a potentially unwanted offer, which makes it less likely to be accepted accidentally.':
-		'Sommige installatieprogramma\'s proberen extra software te installeren. Unchecky waarschuwt je als je zo\'n aanbieding van ongewenste software aanvaardt.',
+		'Sommige installatieprogramma\'s proberen extra software te installeren. Unchecky waarschuwt je als je zo\'n aanbieding van ongewenste software dreigt te aanvaarden.',
 	
 	'Updates automatically':
 		'Automatische updates',
@@ -63,7 +63,7 @@ jquery_lang_js.prototype.lang.nl = {
 		'Installeren en vergeten. Unchecky houdt zichzelf up-to-date, je hoeft je dus geen zorgen te maken over de laatste versie.',
 	
 	'Watch Unchecky in action':
-		'Bekijk Unchecky in actie',
+		'Unchecky in actie',
 	'<a href="press#quotes">See what people are saying about Unchecky</a> or <a href="press#videos">watch more videos</a>.':
 		'<a href="press#quotes">Ontdek wat mensen zeggen over Unchecky</a> of <a href="press#videos">bekijk meer video\'s</a>.',
 	
@@ -88,7 +88,7 @@ jquery_lang_js.prototype.lang.nl = {
 	'Polish':
 		'Pools',
 	'Russian':
-		'Rusisch',
+		'Russisch',
 	'Spanish':
 		'Spaans',
 	'Italian':
@@ -103,7 +103,7 @@ jquery_lang_js.prototype.lang.nl = {
 	'What are the system requirements for Unchecky?':
 		'Wat zijn de systeemvereisten voor Unchecky?',
 	'Unchecky supports Windows XP and above.':
-		'Unchecky werkt met Windows XP en hoger.',
+		'Unchecky werkt met Windows XP of nieuwer.',
 	
 	'My antivirus flags Unchecky as malicious.':
 		'Mijn anti-virus meldt dat Unchecky onbetrouwbaar is.',
@@ -116,11 +116,11 @@ jquery_lang_js.prototype.lang.nl = {
 		'Plaats je reactie op de <a href="http://unchecky.userecho.com/">UserEcho pagina</a>.',
 	
 	'How do I uninstall Unchecky?':
-		'',
+		'Hoe verwijder ik Unchecky?',
 	'Unchecky can be uninstalled from the Windows Control Panel, like any other program. See instructions for <a href="https://support.microsoft.com/en-us/instantanswers/ce7ba88b-4e95-4354-b807-35732db36c4d/repair-or-remove-programs">Windows 10</a> or <a href="https://support.microsoft.com/en-us/kb/2601726">Windows 7</a>.':
-		'',
+		'Unchecky kan, net als ieder ander programma, worden verwijderd via het Windows Configuratiescherm. Lees de instructies voor <a href="https://support.microsoft.com/nl-nl/help/4028054/windows-repair-or-remove-programs-in-windows-10">Windows 10</a> of <a href="https://support.microsoft.com/nl-nl/help/2601726">Windows 7</a>.',
 	'If the standard method fails, please try to use the <a href="files/unchecky_cleaner.exe">Unchecky Cleaner Tool</a>, which is designed to uninstall corrupted Unchecky installations.':
-		'',
+		'Als de standaardmethode mislukt, gebruik dan de <a href="files/unchecky_cleaner.exe">Unchecky Cleaner Tool</a>, die gemaakt is om defecte installaties van Unchecky te verwijderen.',
 	
 	'I want to translate Unchecky.':
 		'Ik wil Unchecky vertalen.',
@@ -128,7 +128,7 @@ jquery_lang_js.prototype.lang.nl = {
 		'De vertalingen van Unchecky en de website kan je vinden in de  <a href="https://github.com/unchecky/unchecky-translate">unchecky-translate</a> GitHub repository',
 	
 	'Is it possible to install Unchecky silently?':
-		'Is het mogelijk Unchecky op stille wijze te installeren?',
+		'Is het mogelijk Unchecky volautomatisch te installeren?',
 	'Yes, run the installer with the <code>-install</code> command line switch. For a list of supported command line switches, run <code>unchecky_setup.exe -?</code>.':
 		'Ja, start het installatieprogramma met de optie <code>-install</code>. Start <code>unchecky_setup.exe -?</code> voor de volledige lijst van opstartopties.',
 	
