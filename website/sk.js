@@ -108,7 +108,7 @@ jquery_lang_js.prototype.lang.sk = {
 	'My antivirus flags Unchecky as malicious.':
 		'Môj antivírus označuje Unchecky ako škodlivý.',
 	'It\'s a false positive. Please report about it to your antivirus company. Note that Unchecky was tested thoroughly by Softpedia and <a href="http://www.softpedia.com/get/System/OS-Enhancements/Unchecky.shtml#status">was found 100% clean</a>.':
-		'Je to falošné varovanie. Prosím, nahláste tento problém vašej antivírusovej firme. Program Unchecky bol testovaný za pomoci portálu Softpedia <a href="http://www.softpedia.com/get/System/OS-Enhancements/Unchecky.shtml#status">a bol  100% bez vírusov</a>',
+		'Je to falošné varovanie. Prosím, nahláste tento problém vašej antivírusovej firme. Program Unchecky bol testovaný za pomoci portálu Softpedia <a href="http://www.softpedia.com/get/System/OS-Enhancements/Unchecky.shtml#status">a bol 100% bez vírusov</a>',
 	
 	'What is the best way to report a bug or suggest a feature?':
 		'Aká je najlepšia cesta na hlásenie chýb a požiadaviek nových možností??',
@@ -130,12 +130,12 @@ jquery_lang_js.prototype.lang.sk = {
 	'Is it possible to install Unchecky silently?':
 		'Je možné nainštalovať Unchecky anonymne?',
 	'Yes, run the installer with the <code>-install</code> command line switch. For a list of supported command line switches, run <code>unchecky_setup.exe -?</code>.':
-		'Áno, spusti inštalátor s <code>-install</code>. Pre zoznam podporovaných príkazov spusti  <code>-?</code>, np. <code>unchecky_setup.exe -?</code>.',
+		'Áno, spusti inštalátor s <code>-install</code>. Pre zoznam podporovaných príkazov spusti <code>-?</code>, np. <code>unchecky_setup.exe -?</code>.',
 	
 	// Contact
 	
 	'Please don\'t use this contact form to report bugs or suggest features. Post your feedback on the <a href="http://unchecky.userecho.com/">UserEcho page</a> instead.':
-		'Prosím, nepoužívajte tento kontakt na hlásenie chýb alebo požiadaviek na zlepšenie. Ohodnoť na  <a href="http://unchecky.userecho.com/">UserEcho</a>.',
+		'Prosím, nepoužívajte tento kontakt na hlásenie chýb alebo požiadaviek na zlepšenie. Ohodnoť na <a href="http://unchecky.userecho.com/">UserEcho</a>.',
 	
 	'First Name':
 		'Meno',

@@ -101,7 +101,7 @@ jquery_lang_js.prototype.lang.es = {
 	// FAQ
 	
 	'What are the system requirements for Unchecky?':
-		'¿Cúales  son los requisitos para utilizar Unchecky?',
+		'¿Cúales son los requisitos para utilizar Unchecky?',
 	'Unchecky supports Windows XP and above.':
 		'Podéis instalar Unchecky en Windows XP o versiones más recientes.',
 	
