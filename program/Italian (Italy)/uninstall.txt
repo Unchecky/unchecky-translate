@@ -11,5 +11,5 @@ IDS_MAINCTRL_TEXT       "Unchecky verrà disinstallato dalla cartella seguente. 
 IDS_MAINCTRL_PATHTEXT   "Cartella del programma:"
 IDS_MAINCTRL_REMOVE_SETTINGS "Elimina le &impostazioni salvate"
 IDS_FINISHCTRL_TEXT1    "Unchecky è stato disinstallato con successo dal computer."
-IDS_FINISHCTRL_ERROR_NOTE "Some elements could not be removed. These can be removed manually."
+IDS_FINISHCTRL_ERROR_NOTE "Non è stato possibile cancellare alcuni elementi. Andranno rimossi manualmente."
 IDS_FINISHCTRL_TEXT2    "Clicca su Fine per uscire."

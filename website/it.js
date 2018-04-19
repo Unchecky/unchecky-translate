@@ -24,14 +24,14 @@ jquery_lang_js.prototype.lang.it = {
 	// Footer
 	
 	'Copyright © 2018 Reason Company Software Inc.':
-		'Copyright © 2018 Reason Company Software Inc. Traduzione italiana : <a href="mailto:gianni4592@gmail.com">Gianni Angelozzi</a>',
+		'Copyright © 2018 Reason Company Software Inc. Traduzione italiana a cura di Gianni Angelozzi',
 	
 	// Legal
 	
 	'End-User License Agreement':
-		'',
+		'End-User License Agreement',
 	'Privacy Policy':
-		'',
+		'Privacy Policy',
 	
 	// Home
 	
@@ -53,7 +53,7 @@ jquery_lang_js.prototype.lang.it = {
 		'Unchecky disattiva in modo automatico tutte le offerte di programmi estranei, così da risparmiare click del mouse e facendo si che sia più difficile dimenticarsi qualche checkbox.',
 	
 	'Warns':
-		'Avverte',
+		'Avvisa',
 	'Installers often try to sneak additional programs as a natural part of the installation. Unchecky warns you when you try to accept a potentially unwanted offer, which makes it less likely to be accepted accidentally.':
 		'Alcune installazioni cercano di installare programmi aggiuntivi durante il normale processo di installazione. Unchecky ti avverte quando provi ad accettare una di queste offerte, così che sia più difficile cliccarci accidentalmente.',
 	
@@ -116,11 +116,11 @@ jquery_lang_js.prototype.lang.it = {
 		'Scrivi i tuoi commenti sulla <a href="http://unchecky.userecho.com/">pagina UserEcho</a>',
 	
 	'How do I uninstall Unchecky?':
-		'',
+		'Come faccio a disinstallare Unchecky?:',
 	'Unchecky can be uninstalled from the Windows Control Panel, like any other program. See instructions for <a href="https://support.microsoft.com/en-us/instantanswers/ce7ba88b-4e95-4354-b807-35732db36c4d/repair-or-remove-programs">Windows 10</a> or <a href="https://support.microsoft.com/en-us/kb/2601726">Windows 7</a>.':
-		'',
+		'Unchecky può essere disinstallato dal Pannello di Controllo di Windows, come qualsiasi altro programma. Puoi trovare istruazioni per <a href="https://support.microsoft.com/en-us/instantanswers/ce7ba88b-4e95-4354-b807-35732db36c4d/repair-or-remove-programs">Windows 10</a> oppure per <a href="https://support.microsoft.com/en-us/kb/2601726">Windows 7</a>.',
 	'If the standard method fails, please try to use the <a href="files/unchecky_cleaner.exe">Unchecky Cleaner Tool</a>, which is designed to uninstall corrupted Unchecky installations.':
-		'',
+		'Se la procedura normale dovesse fallire, prova ad usare <a href="files/unchecky_cleaner.exe">Unchecky Cleaner Tool</a>, che è stato studiato per eliminare installazioni corrotte di Unchecky.',
 	
 	'I want to translate Unchecky.':
 		'Vorrei tradurre Unchecky nella mia lingua.',
@@ -128,9 +128,9 @@ jquery_lang_js.prototype.lang.it = {
 		'Le traduzioni del programma e del sito web di Unchecky sono disponibili su GitHub nella repo <a href="https://github.com/unchecky/unchecky-translate">unchecky-translate</a>',
 	
 	'Is it possible to install Unchecky silently?':
-		'',
+		'È possible installare Unchecky in modalità non interattiva?',
 	'Yes, run the installer with the <code>-install</code> command line switch. For a list of supported command line switches, run <code>unchecky_setup.exe -?</code>.':
-		'',
+		'Certo, avvia il setup con il parametro <code>-install</code> da riga di comando. Per un elenco di comandi supportati, avvia <code>unchecky_setup.exe -?</code>.',
 	
 	// Contact
 	
