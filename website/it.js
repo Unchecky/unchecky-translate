@@ -116,7 +116,7 @@ jquery_lang_js.prototype.lang.it = {
 		'Scrivi i tuoi commenti sulla <a href="http://unchecky.userecho.com/">pagina UserEcho</a>',
 	
 	'How do I uninstall Unchecky?':
-		'Come faccio a disinstallare Unchecky?:',
+		'Come faccio a disinstallare Unchecky?',
 	'Unchecky can be uninstalled from the Windows Control Panel, like any other program. See instructions for <a href="https://support.microsoft.com/en-us/instantanswers/ce7ba88b-4e95-4354-b807-35732db36c4d/repair-or-remove-programs">Windows 10</a> or <a href="https://support.microsoft.com/en-us/kb/2601726">Windows 7</a>.':
 		'Unchecky può essere disinstallato dal Pannello di Controllo di Windows, come qualsiasi altro programma. Puoi trovare istruazioni per <a href="https://support.microsoft.com/en-us/instantanswers/ce7ba88b-4e95-4354-b807-35732db36c4d/repair-or-remove-programs">Windows 10</a> oppure per <a href="https://support.microsoft.com/en-us/kb/2601726">Windows 7</a>.',
 	'If the standard method fails, please try to use the <a href="files/unchecky_cleaner.exe">Unchecky Cleaner Tool</a>, which is designed to uninstall corrupted Unchecky installations.':
