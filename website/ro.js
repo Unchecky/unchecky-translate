@@ -15,7 +15,7 @@ jquery_lang_js.prototype.lang.ro = {
 	'Links':
 		'Legături externe',
 	'Bug/feature tracker':
-		'Defecțiuni/caracteristici',
+		'Defecțiuni/Îmbunătățiri',
 	'Blog':
 		'Blog',
 	'Language':
@@ -50,7 +50,7 @@ jquery_lang_js.prototype.lang.ro = {
 	'Unchecks':
 		'Debifează',
 	'Unchecky automatically unchecks unrelated offers, both saving you mouse clicks and making it less likely to miss a checkbox of an unwanted offer.':
-		'Unchecky debifează automat ofertele colaterale, economisind clicuri și evitând instalarea neintenționată a programelor nedorite.',
+		'Unchecky debifează automat ofertele colaterale, economisind clicuri și evitând instalarea neintenționată a programelor potențial nedorite.',
 	
 	'Warns':
 		'Avertisemente',
@@ -60,17 +60,17 @@ jquery_lang_js.prototype.lang.ro = {
 	'Updates automatically':
 		'Actualizare automată',
 	'Install and forget. Unchecky automatically updates whenever a new version is available, so you don\'t have to worry about running the latest version.':
-		'Instalează și uită. Unchecky se va actualiza automat atunci când o nouă versiune devine disponibiliă, deci nu trebuie să vă faceți griji că nu ve-ți rula cea mai recentă versiune.',
+		'Instalează-l și uită. Unchecky se va actualiza automat atunci când o nouă versiune devine disponibilă, deci nu trebuie să vă faceți griji că nu veți rula cea mai recentă versiune.',
 	
 	'Watch Unchecky in action':
 		'Urmăriți Unchecky în acțiune',
 	'<a href="press#quotes">See what people are saying about Unchecky</a> or <a href="press#videos">watch more videos</a>.':
-		'<a href="press#quotes">Ce zic cei ce folosesc Unchecky</a> sau <a href="press#videos">Urmariți mai multe secvențe video</a>.',
+		'<a href="press#quotes">Ce zic cei ce folosesc Unchecky</a> sau <a href="press#videos">Urmăriți mai multe secvențe video</a>.',
 	
 	// Press
 	
 	'People are talking about Unchecky':
-		'Oamenii vorbesc despre Unchecky',
+		'Ce spun oamenii despre Unchecky',
 	'Unchecky was also featured on the following international websites:':
 		'Unchecky este de asemenea evidențiat pe site-urile Internaționale pe Internet :',
 	'on':
@@ -79,7 +79,7 @@ jquery_lang_js.prototype.lang.ro = {
 		'Récunoașteri',
 	
 	'People are showing Unchecky in action':
-		'Oamenii arată Unchecky în acțiune',
+		'Urmărește Unchecky în acțiune',
 	'Demonstrating Unchecky':
 		'Demonstrație Unchecky',
 	
@@ -103,24 +103,24 @@ jquery_lang_js.prototype.lang.ro = {
 	'What are the system requirements for Unchecky?':
 		'Care sunt cerințele de sistem pentru Unchecky ?',
 	'Unchecky supports Windows XP and above.':
-		'Unchecky suportă Windows XP sau variante superioare.',
+		'Unchecky suportă Windows XP sau versiuni superioare.',
 	
 	'My antivirus flags Unchecky as malicious.':
 		'Antivirusul meu detectează Unchecky ca fiind rău intenționat.',
 	'It\'s a false positive. Please report about it to your antivirus company. Note that Unchecky was tested thoroughly by Softpedia and <a href="http://www.softpedia.com/get/System/OS-Enhancements/Unchecky.shtml#status">was found 100% clean</a>.':
-		'Este fals pozitiv. Vă rugăm notificați furnizorul dvs. de antivirus. Luați în considerare că Unchecky a fost testat de Softpedia și a fost declarat <a href="http://www.softpedia.com/get/System/OS-Enhancements/Unchecky.shtml#status">100% fără riscuri</a>',
+		'Este fals pozitiv. Vă rugăm notificați furnizorul dvs. de antivirus. Luați în considerare că Unchecky a fost testat de Softpedia și a fost declarat <a href="http://www.softpedia.com/get/System/OS-Enhancements/Unchecky.shtml#status">100% fără riscuri.</a>',
 	
 	'What is the best way to report a bug or suggest a feature?':
 		'Care este cea mai bună metodă de a semnala o defecțiune sau o îmbunătățire ?',
 	'Post your feedback on the <a href="http://unchecky.userecho.com/">UserEcho page</a>.':
-		'Postați sugestia dumneavoastră la <a href="http://unchecky.userecho.com/">pagina UserEcho</a>',
+		'Postați sugestia dumneavoastră la <a href="http://unchecky.userecho.com/">pagina UserEcho</a>.',
 	
 	'How do I uninstall Unchecky?':
-		'Cum să dezinstalez Unchecky ',
+		'Cum să dezinstalez Unchecky? ',
 	'Unchecky can be uninstalled from the Windows Control Panel, like any other program. See instructions for <a href="https://support.microsoft.com/en-us/instantanswers/ce7ba88b-4e95-4354-b807-35732db36c4d/repair-or-remove-programs">Windows 10</a> or <a href="https://support.microsoft.com/en-us/kb/2601726">Windows 7</a>.':
-		'Unchecky poate fi dezinstalat din Panoul de Control Windows, ca oricare alt prograsm. Pentru mai multe detalii, apăsați <a href="https://support.microsoft.com/fr-fr/instantanswers/ce7ba88b-4e95-4354-b807-35732db36c4d/repair-or-remove-programs">pentru Windows 10</a> sau <a href="https://support.microsoft.com/fr-fr/kb/2601726">pentru Windows 7</a>.',
+		'Unchecky poate fi dezinstalat din Panoul de Control Windows, ca oricare alt program. Pentru mai multe detalii, apăsați <a href="https://support.microsoft.com/fr-fr/instantanswers/ce7ba88b-4e95-4354-b807-35732db36c4d/repair-or-remove-programs">pentru Windows 10</a> sau <a href="https://support.microsoft.com/fr-fr/kb/2601726">pentru Windows 7</a>.',
 	'If the standard method fails, please try to use the <a href="files/unchecky_cleaner.exe">Unchecky Cleaner Tool</a>, which is designed to uninstall corrupted Unchecky installations.':
-		'Dacă metoda standard eșuează, puteți utiliza <a href="files/unchecky_cleaner.exe">Unchecky Cleaner Tool</a> care vă permite să dezinstalați programul Unchecky defectat',
+		'Dacă metoda standard eșuează, puteți utiliza <a href="files/unchecky_cleaner.exe">Unchecky Cleaner Tool</a> care vă permite să dezinstalați programul Unchecky defect.',
 	
 	'I want to translate Unchecky.':
 		'Vreau să traduc Unchecky :',
@@ -135,7 +135,7 @@ jquery_lang_js.prototype.lang.ro = {
 	// Contact
 	
 	'Please don\'t use this contact form to report bugs or suggest features. Post your feedback on the <a href="http://unchecky.userecho.com/">UserEcho page</a> instead.':
-		'Vă rugăm nu utilizați formularul de contact pentru a semnala defecțiuni sau propuneri de funcții noi. Publicați sugestiile dvs. la <a href="http://unchecky.userecho.com/">pagina UserEcho</a>.',
+		'Vă rugăm nu utilizați formularul de contact pentru a semnala defecțiuni sau propuneri de funcții noi. Publicați sugestiile dvs. la <a href="http://unchecky.userecho.com/">pagina UserEcho</a>. Mulțumim!',
 	
 	'First Name':
 		'Prenume',
