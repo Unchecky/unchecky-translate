@@ -1,0 +1,4 @@
+IDS_OFFER_REJECTED      "O ofertă de potențial program nedorit (PUP) a fost respinsă!"
+IDS_SOME_OFFERS_REJECTED "%d oferte de potențial program nedorit (PUP) au fost respinse!"
+IDS_OFFER_REJECTED_MORE "Apăsați aici pentru mai multe detalii..."
+IDS_BROWSER_WARNING     "Avertizare de la %s:\nDacă acceptați, se va instala un program ce nu v-a fost în intenție să-l instalați"
