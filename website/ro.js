@@ -24,7 +24,7 @@ jquery_lang_js.prototype.lang.ro = {
 	// Footer
 	
 	'Copyright © 2018 Reason Company Software Inc.':
-		'Copyright © 2018 Reason Company Software Inc. Traducere română : <a href="mailto:pro.internet.transilvania@gmail.com">Eugen</a>',
+		'Copyright © 2018 Reason Company Software Inc. Traducere română : <a href="mailto:pro.internet.transilvania@gmail.com">Eugen Antal</a>',
 	
 	// Legal
 	
