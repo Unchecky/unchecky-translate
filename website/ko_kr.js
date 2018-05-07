@@ -132,6 +132,11 @@ jquery_lang_js.prototype.lang.ko_kr = {
 	'Yes, run the installer with the <code>-install</code> command line switch. For a list of supported command line switches, run <code>unchecky_setup.exe -?</code>.':
 		'예, <code>-install</code> 커맨드 라인 스위치로 설치기를 실행합니다. 지원하는 커맨드 라인 스위치의 목록은 <code>unchecky_setup.exe -?</code>를 실행합니다.',
 	
+	'Is there an MSI installer? I\'d like to install Unchecky remotely using Group Policy.':
+		'',
+	'There is an experimental MSI installer, it can be downloaded <a href="files/other/unchecky_setup.msi">here</a>. Please note that the installer wasn\'t thoroughly tested, so use it with caution.':
+		'',
+	
 	// Contact
 	
 	'Please don\'t use this contact form to report bugs or suggest features. Post your feedback on the <a href="http://unchecky.userecho.com/">UserEcho page</a> instead.':

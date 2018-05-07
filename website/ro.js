@@ -132,6 +132,11 @@ jquery_lang_js.prototype.lang.ro = {
 	'Yes, run the installer with the <code>-install</code> command line switch. For a list of supported command line switches, run <code>unchecky_setup.exe -?</code>.':
 		'Da, rulați programul de instalare cu argumentul <code>-install</code>. Pentru lista completă de argumente disponibile, lansați <code>unchecky_setup.exe -?</code>.',
 	
+	'Is there an MSI installer? I\'d like to install Unchecky remotely using Group Policy.':
+		'Există un kit de instalare MSI? Vreau să instalez Unchecky de la distanță folosind Politica de Grup.',
+	'There is an experimental MSI installer, it can be downloaded <a href="files/other/unchecky_setup.msi">here</a>. Please note that the installer wasn\'t thoroughly tested, so use it with caution.':
+		'Există un kit de instalare MSI, care poate fi descărcat de <a href="files/other/unchecky_setup.msi">aici</a>. Vă rog rețineți că acest kit de instalare nu a fost testat complet, de aceea folosiți-l cu precauție.',
+	
 	// Contact
 	
 	'Please don\'t use this contact form to report bugs or suggest features. Post your feedback on the <a href="http://unchecky.userecho.com/">UserEcho page</a> instead.':
