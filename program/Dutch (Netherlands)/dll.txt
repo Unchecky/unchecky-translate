@@ -1,4 +1,4 @@
-IDS_CONFIRMATION_TEXT   "U gaat een mogelijk ongewenst programma installeren. Bent u zeker dat u wilt doorgaan?"
+IDS_CONFIRMATION_TEXT   "U staat op het punt om een mogelijk ongewenst programma te installeren. Wilt doorgaan?"
 IDS_CONFIRMATION_PROCEED "&Ja"
 IDS_CONFIRMATION_DECLINE "&Nee (Aanbevolen)"
 IDS_CONFIRMATION_YES    "&Ja"
