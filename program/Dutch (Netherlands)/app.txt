@@ -13,7 +13,7 @@ IDS_MAINCTRL_TEXT_SVC_STOPPED "De Unchecky-service is gestopt. De service zal he
 IDS_MAINCTRL_TEXT_QUERYERROR "Er is een fout opgetreden bij het controleren van de Unchecky-servicestatus."
 IDS_MAINCTRL_STATS_NONE_NEWGUY "Het lijkt erop dat Unchecky onlangs is geïnstalleerd. Er zijn nog geen gegevens."
 IDS_MAINCTRL_STATS_NONE "Nog geen selectievakjes gedeselecteerd. Blijkbaar blijft u goed uit de buurt van software met ongewenste programma's!"
-IDS_MAINCTRL_STATS      "Sinds %s zijn er %u selectievakjes gedeselecteerd."
+IDS_MAINCTRL_STATS      "Sinds %s zijn er %u selectievakjes gedeselecteerd%s."
 IDS_MAINCTRL_STATS_WARNING " en %u waarschuwingen getoond"
 IDS_MAINCTRL_LOG        "Activiteiten-&log"
 IDS_MAINCTRL_STOP       "Service &Stoppen"
