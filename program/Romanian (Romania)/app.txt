@@ -37,7 +37,7 @@ IDS_ADVOPT_WARNING_TEXT "Nu vă atingeți de setările de mai sus dacă nu înț
 IDS_ADVOPT_RESTART_TEXT "Serviciuk Unchecky trebuie repornit pentru ca setările să aibă efect."
 IDS_LOG_TITLE           "Log Activitate"
 IDS_LOG_HANDLED_TEXT    "Felicitări, Unchecky tocmai a prevenit instalarea unui potențial program nedorit (PUP) pe computerul dumneavoastră!"
-IDS_LOG_MAINTEXT        "Mai jos este lista activității Unchecky. Puteți vedea ce aplicații a monitorizat, câte oferte a declinat șicâte avertizări au fost afișate."
+IDS_LOG_MAINTEXT        "Mai jos este lista activității Unchecky. Puteți vedea ce aplicații a monitorizat, câte oferte a declinat și câte avertizări au fost afișate."
 IDS_LOG_TABLE_DATE      "Data și ora"
 IDS_LOG_TABLE_INSTALLER "Numele Aplicației"
 IDS_LOG_TABLE_DECLINED  "Oferte Declinate"

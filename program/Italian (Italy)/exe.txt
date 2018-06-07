@@ -1,4 +1,4 @@
-IDS_OFFER_REJECTED      "Un'offerta potenzialmente non voluta è stata rifiutata!"
+IDS_OFFER_REJECTED      "Un'offerta potenzialmente non voluta è stata rifiutata!"
 IDS_SOME_OFFERS_REJECTED "%d offerte potenzialmente non volute sono state rifiutate!"
 IDS_OFFER_REJECTED_MORE "Clicca qui per maggiori dettagli..."
 IDS_BROWSER_WARNING     "Attenzione da %s:\nSe accetti, installerai un programma potenzialmente non voluto."
