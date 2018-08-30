@@ -133,9 +133,9 @@ jquery_lang_js.prototype.lang.ru = {
 		'Да, запустите установку со следующим параметром командной строки: <code>-install</code>. Для полного списка параметров командной строки, запустите <code>unchecky_setup.exe -?</code>.',
 	
 	'Is there an MSI installer? I\'d like to install Unchecky remotely using Group Policy.':
-		'Есть ли здесь MSI установщик? Мне бы хотелось установить Uncheky удаленно, используя Групповую Политику',
+		'Существует ли MSI установщик? Мне бы хотелось установить Unchecky удаленно, используя Групповую Политику (Group Policy).',
 	'There is an experimental MSI installer, it can be downloaded <a href="files/other/unchecky_setup.msi">here</a>. Please note that the installer wasn\'t thoroughly tested, so use it with caution.':
-		'Вы можете скачать эксперементальную версию MSI установщика <a href="files/other/unchecky_setup.msi">здесь</a>. Имейте ввиду, что установщик не был протестирован, поэтому используйте его на свой страх и риск',
+		'Вы можете скачать экспериментальную версию MSI установщика <a href="files/other/unchecky_setup.msi">здесь</a>. Имейте в виду, что установщик не был тщательно протестирован, поэтому используйте его на свой страх и риск.',
 	
 	// Contact
 	
