@@ -133,9 +133,9 @@ jquery_lang_js.prototype.lang.hr = {
 		'Da, pokrenite instaler sa <code>-install</code> komandom. Za cijelu listu podržanih komandi, pokrenite <code>unchecky_setup.exe -?</code>.',
 	
 	'Is there an MSI installer? I\'d like to install Unchecky remotely using Group Policy.':
-		'',
+		'Postoji li MSI instaler? Htio bih instalirati Unchecky udaljeno korištenjem grupnih pravila (Group Policy).',
 	'There is an experimental MSI installer, it can be downloaded <a href="files/other/unchecky_setup.msi">here</a>. Please note that the installer wasn\'t thoroughly tested, so use it with caution.':
-		'',
+		'Postoji ekperimentalni MSI instaler, možete ga preuzeti <a href="files/other/unchecky_setup.msi">ovdje</a>. Molimo imajte na umu da instaler nije kompletno testiran, pa ga koristite s oprezom.',
 	
 	// Contact
 	
