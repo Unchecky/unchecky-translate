@@ -14,7 +14,7 @@ IDS_EXTRACTRL_TEXT      "Unchecky će biti instaliran u slijedeću mapu. Da ga i
 IDS_EXTRACTRL_FOLDER_GROUP "Lokacija mape"
 IDS_EXTRACTRL_FOLDER_BROWSE "Pregled..."
 IDS_EXTRACTRL_BROWSE_TEXT "Odaberite mapu u koju ćete instalirati Unchecky:"
-IDS_EXTRACTRL_DESKTOP_SHORTCUT "Create a &desktop shortcut"
+IDS_EXTRACTRL_DESKTOP_SHORTCUT "Napravite ikonu na radnoj površini"
 IDS_FINISHCTRL_TITLE    "Unchecky servis je pokrenut i radi!"
 IDS_FINISHCTRL_TEXT     "Čestitamo! Unchecky je uspješno instaliran na Vaše računalo.\n\nUnchecky servis će i dalje raditi u pozadini, nadgledati vaše instalacijske pakete. Unchecky možete uvijek pokrenuti sa ikone na radnoj površini da vidite koliko je ponuda odbijeno."
 IDS_MAIN_ERROR_UNCHECKY_RUNNING "Molimo zatvorite sve Unchecky otvorene prozore za nastavak"
