@@ -1,4 +1,4 @@
 IDS_OFFER_REJECTED      "Sebuah tawaran perangkat lunak yang kemungkinan tidak anda inginkan ditolak!"
 IDS_SOME_OFFERS_REJECTED "Tawaran perangkat lunak yang kemungkinan tidak anda inginkan dari %d ditolak!"
-IDS_OFFER_REJECTED_MORE "Pencet disini untuk detail..."
+IDS_OFFER_REJECTED_MORE "Klik di sini untuk detail..."
 IDS_BROWSER_WARNING     "Peringatan dari %s:\nDengan menyetujui ini, anda berkemungkinan memasang perangkat lunak yang tidak anda inginkan"
