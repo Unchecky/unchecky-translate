@@ -133,9 +133,9 @@ jquery_lang_js.prototype.lang.id = {
 		'Ya, jalankan perangkat lunak pemasang (<i>installer</i>) dengan parameter <code>install</code> pada <i>command line</i>. Untuk mengetaui daftar lengkap parameter untuk <i>command line</i> jalankan <code>unchecky_setup.exe -?</code>.',
 	
 	'Is there an MSI installer? I\'d like to install Unchecky remotely using Group Policy.':
-		'',
+		'Apakah ada pemasang MSI (Microsoft Installer)? Saya setuju untuk memasang Unchecky secara jarak jauh menggunakan <i>Group Policy</i>.',
 	'There is an experimental MSI installer, it can be downloaded <a href="files/other/unchecky_setup.msi">here</a>. Please note that the installer wasn\'t thoroughly tested, so use it with caution.':
-		'',
+		'Ada sebuah pemasang MSI yang bersifat percobaan yang dapat diunduh <a href="files/other/unchecky_setup.msi">di sini</a>. Harap catat bahwa pemasang tersebut belum diuji secara menyeluruh, gunakanlah secara hati-hati.',
 	
 	// Contact
 	
