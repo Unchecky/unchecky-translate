@@ -133,9 +133,9 @@ jquery_lang_js.prototype.lang.pl = {
 		'Tak, wystarczy uruchomić instalator z parametrem <code>-install</code>. Pełną listę wspieranych przełączników uzyskasz uruchamiając instalator Unchecky z parametrem <code>-?</code>, np. <code>unchecky_setup.exe -?</code>.',
 	
 	'Is there an MSI installer? I\'d like to install Unchecky remotely using Group Policy.':
-		'',
+		'Czy istnieje Instalator Windows (MSI)? Chciałbym zainstalować Unchecky zdalnie za pomocą Zasad Grupy (Group Policy).',
 	'There is an experimental MSI installer, it can be downloaded <a href="files/other/unchecky_setup.msi">here</a>. Please note that the installer wasn\'t thoroughly tested, so use it with caution.':
-		'',
+		'Tak, istnieje eksperymentalny Instalator Windows (MSI), można go pobrać <a href="files/other/unchecky_setup.msi">tutaj</a>. Należy pamiętać, że instalator nie został gruntownie przetestowany, więc używaj go z rozwagą.',
 	
 	// Contact
 	
