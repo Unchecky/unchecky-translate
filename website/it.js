@@ -23,8 +23,8 @@ jquery_lang_js.prototype.lang.it = {
 	
 	// Footer
 	
-	'Copyright © 2018 Reason Company Software Inc.':
-		'Copyright © 2018 Reason Company Software Inc. Traduzione italiana a cura di Gianni Angelozzi',
+	'Copyright © 2019 Reason Company Software Inc.':
+		'Copyright © 2019 Reason Company Software Inc. Traduzione italiana a cura di Gianni Angelozzi',
 	
 	// Legal
 	

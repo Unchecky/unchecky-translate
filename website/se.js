@@ -23,8 +23,8 @@ jquery_lang_js.prototype.lang.se = {
 	
 	// Footer
 	
-	'Copyright © 2018 Reason Company Software Inc.':
-		'Copyright © 2018 Reason Company Software Inc. Svensk översättning: <a href="mailto:t.dotar@gmail.com?Subject=Unchecky">Torsten Augustsson</a>',
+	'Copyright © 2019 Reason Company Software Inc.':
+		'Copyright © 2019 Reason Company Software Inc. Svensk översättning: <a href="mailto:t.dotar@gmail.com?Subject=Unchecky">Torsten Augustsson</a>',
 	
 	// Legal
 	

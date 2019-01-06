@@ -23,8 +23,8 @@ jquery_lang_js.prototype.lang.ua = {
 	
 	// Footer
 	
-	'Copyright © 2018 Reason Company Software Inc.':
-		'Усі права застережено © 2018 Reason Company Software Inc. Переклад: Кравцов Олександр.',
+	'Copyright © 2019 Reason Company Software Inc.':
+		'Усі права застережено © 2019 Reason Company Software Inc. Переклад: Кравцов Олександр.',
 	
 	// Legal
 	

@@ -23,8 +23,8 @@ jquery_lang_js.prototype.lang.lt = {
 	
 	// Footer
 	
-	'Copyright © 2018 Reason Company Software Inc.':
-		'Copyright © 2018 Reason Company Software Inc. Vertimas: Tomas Rolleris.',
+	'Copyright © 2019 Reason Company Software Inc.':
+		'Copyright © 2019 Reason Company Software Inc. Vertimas: Tomas Rolleris.',
 	
 	// Legal
 	

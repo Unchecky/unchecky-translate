@@ -23,8 +23,8 @@ jquery_lang_js.prototype.lang.el = {
 	
 	// Footer
 	
-	'Copyright © 2018 Reason Company Software Inc.':
-		'Copyright © 2018 Reason Company Software Inc. Ελληνική μετάφραση : <a href="mailto:admin@geogeo.gr">geogeo.gr</a>',
+	'Copyright © 2019 Reason Company Software Inc.':
+		'Copyright © 2019 Reason Company Software Inc. Ελληνική μετάφραση : <a href="mailto:admin@geogeo.gr">geogeo.gr</a>',
 	
 	// Legal
 	

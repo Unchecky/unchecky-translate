@@ -23,8 +23,8 @@ jquery_lang_js.prototype.lang.sk = {
 	
 	// Footer
 	
-	'Copyright © 2018 Reason Company Software Inc.':
-		'Copyright © 2018 Reason Company Software Inc. Slovenský preklad: <a href="mailto:pkolasa@outlook.com?Subject=preklad Unchecky">Piotr Kolasa</a>',
+	'Copyright © 2019 Reason Company Software Inc.':
+		'Copyright © 2019 Reason Company Software Inc. Slovenský preklad: <a href="mailto:pkolasa@outlook.com?Subject=preklad Unchecky">Piotr Kolasa</a>',
 	
 	// Legal
 	

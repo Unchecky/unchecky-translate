@@ -23,8 +23,8 @@ jquery_lang_js.prototype.lang.es = {
 	
 	// Footer
 	
-	'Copyright © 2018 Reason Company Software Inc.':
-		'© 2018 Reason Company Software Inc. Traducción a cargo de: <a href="mailto:adruk.i@gmail.com">adruki</a>',
+	'Copyright © 2019 Reason Company Software Inc.':
+		'© 2019 Reason Company Software Inc. Traducción a cargo de: <a href="mailto:adruk.i@gmail.com">adruki</a>',
 	
 	// Legal
 	

@@ -23,8 +23,8 @@ jquery_lang_js.prototype.lang.nb_no = {
 	
 	// Footer
 	
-	'Copyright © 2018 Reason Company Software Inc.':
-		'Copyright © 2018 Reason Company Software Inc. Norsk oversettelse: <a href="mailto:alexander@feskenet.com?Subject=Unchecky">Alexander Johansen</a> og <a href="mailto:imreeil42@gmail.com?Subject=Unchecky">Imre Kristoffer Eilertsen</a>',
+	'Copyright © 2019 Reason Company Software Inc.':
+		'Copyright © 2019 Reason Company Software Inc. Norsk oversettelse: <a href="mailto:alexander@feskenet.com?Subject=Unchecky">Alexander Johansen</a> og <a href="mailto:imreeil42@gmail.com?Subject=Unchecky">Imre Kristoffer Eilertsen</a>',
 	
 	// Legal
 	
