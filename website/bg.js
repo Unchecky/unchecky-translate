@@ -11,7 +11,7 @@ jquery_lang_js.prototype.lang.bg = {
 	'Changelog':
 		'Промени',
 	'Contact':
-		'Контакт',
+		'Контакти',
 	'Links':
 		'Връзки',
 	'Bug/feature tracker':
@@ -133,9 +133,9 @@ jquery_lang_js.prototype.lang.bg = {
 		'Да, стартирайте инсталатора с параметър <code>-install</code> от командната лента. За пълен списък с поддържани параметри, стартирайте <code>unchecky_setup.exe -?</code>.',
 	
 	'Is there an MSI installer? I\'d like to install Unchecky remotely using Group Policy.':
-		'',
+		'Има ли MSI инсталация? Бих желал да инсталирам Unchecky изпилзвайки групова полица (Group Policy).',
 	'There is an experimental MSI installer, it can be downloaded <a href="files/other/unchecky_setup.msi">here</a>. Please note that the installer wasn\'t thoroughly tested, so use it with caution.':
-		'',
+		'Има експериментален MSI инсталатор, който може да бъде изтеглен от <a href="files/other/unchecky_setup.msi">тук</a>. Имайте предвид, че този инсталатор не е тестван напълно, така че го използвайте внимателно.',
 	
 	// Contact
 	
