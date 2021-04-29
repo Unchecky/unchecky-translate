@@ -1,0 +1,4 @@
+IDS_OFFER_REJECTED      "Ponuda o potencijalno neželjenom programu je odbijena!"
+IDS_SOME_OFFERS_REJECTED "%d ponuda za potencijalne neželjene programe je odbijeno!"
+IDS_OFFER_REJECTED_MORE "Kliknite ovde za više detalja..."
+IDS_BROWSER_WARNING     "Upozorenje od %s:\nAko ovo prihvatite, možda ćete instalirati program koji niste tražili"
